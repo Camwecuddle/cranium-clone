@@ -9,13 +9,13 @@
       "cards": [
         {
           "hint": "App on everyone's phone",
-          "puzzle": "_ I _ T _ K",
+          "puzzle": "_ I _ _ O _",
           "answer": "TIKTOK",
           "difficulty": "easy"
         },
         {
           "hint": "Blockbuster movie",
-          "puzzle": "_ A _ B _ E",
+          "puzzle": "_ A _ _ I _",
           "answer": "BARBIE",
           "difficulty": "easy"
         },
@@ -27,31 +27,31 @@
         },
         {
           "hint": "Streaming show",
-          "puzzle": "_ T _ A _ G _ R   _ H _ N _ S",
+          "puzzle": "_ T _ _ N _ E _   _ H _ _ G _",
           "answer": "STRANGER THINGS",
           "difficulty": "easy"
         },
         {
           "hint": "Slang for acting like the star of your own life",
-          "puzzle": "_ A _ N   _ H _ R _ C _ E _",
+          "puzzle": "_ _ I _   _ H _ _ A _ _ E _",
           "answer": "MAIN CHARACTER",
           "difficulty": "easy"
         },
         {
           "hint": "Two words that took over the world",
-          "puzzle": "_ R _ I _ _ C _ A _   _ N _ E _ _ I _ E _ C _",
+          "puzzle": "_ R _ I _ _ C _ A _   _ N _ _ L _ _ G _ _ C _",
           "answer": "ARTIFICIAL INTELLIGENCE",
           "difficulty": "easy"
         },
         {
           "hint": "Musician with a whisper voice",
-          "puzzle": "_ I _ L _ E   _ I _ I _ H",
+          "puzzle": "_ I _ _ I _   _ I _ _ S _",
           "answer": "BILLIE EILISH",
           "difficulty": "easy"
         },
         {
           "hint": "Doing your job and nothing more",
-          "puzzle": "_ U _ E _   _ U _ T _ I _ G",
+          "puzzle": "_ U _ E _   _ U _ _ T _ N _",
           "answer": "QUIET QUITTING",
           "difficulty": "easy"
         },
@@ -63,31 +63,31 @@
         },
         {
           "hint": "Food trend",
-          "puzzle": "_ M _ S _   _ U _ G _ R",
+          "puzzle": "_ M _ S _   _ U _ _ E _",
           "answer": "SMASH BURGER",
           "difficulty": "easy"
         },
         {
           "hint": "What you do at 2am with bad news",
-          "puzzle": "_ O _ M _ C _ O _ L _ N _",
+          "puzzle": "_ O _ M _ _ R _ _ L _ N _",
           "answer": "DOOMSCROLLING",
           "difficulty": "easy"
         },
         {
           "hint": "Yearly music stat dump",
-          "puzzle": "_ P _ T _ F _   _ R _ P _ E _",
+          "puzzle": "_ P _ _ _ F _   _ R _ _ _ E _",
           "answer": "SPOTIFY WRAPPED",
           "difficulty": "easy"
         },
         {
           "hint": "TV show set in a chaotic kitchen",
-          "puzzle": "_ H _   _ E _ R",
+          "puzzle": "_ H _   _ _ A _",
           "answer": "THE BEAR",
           "difficulty": "easy"
         },
         {
           "hint": "Famous parents, same career",
-          "puzzle": "_ E _ O   _ A _ Y",
+          "puzzle": "_ _ P _   _ _ B _",
           "answer": "NEPO BABY",
           "difficulty": "easy"
         },
@@ -99,7 +99,7 @@
         },
         {
           "hint": "How half of us do our jobs now",
-          "puzzle": "_ O _ K   _ R _ M   _ O _ E",
+          "puzzle": "_ _ R _   _ _ O _   _ _ M _",
           "answer": "WORK FROM HOME",
           "difficulty": "easy"
         },
@@ -111,91 +111,91 @@
         },
         {
           "hint": "Best Picture winner about a laundromat",
-          "puzzle": "_ V _ R _ _ H _ N _   _ V _ R _ _ H _ R _   _ L _   A T   _ N _ E",
+          "puzzle": "_ V _ R _ _ H _ N _   _ V _ R _ _ H _ R _   _ L _   A T   _ _ C _",
           "answer": "EVERYTHING EVERYWHERE ALL AT ONCE",
           "difficulty": "easy"
         },
         {
           "hint": "Your second job",
-          "puzzle": "_ I _ E   _ U _ T _ E",
+          "puzzle": "_ _ D _   _ U _ _ L _",
           "answer": "SIDE HUSTLE",
           "difficulty": "easy"
         },
         {
           "hint": "App that pings you once a day",
-          "puzzle": "_ E _ E _ L",
+          "puzzle": "_ E _ _ A _",
           "answer": "BEREAL",
           "difficulty": "easy"
         },
         {
           "hint": "Korean survival series",
-          "puzzle": "_ Q _ I _   _ A _ E",
+          "puzzle": "_ Q _ I _   _ _ M _",
           "answer": "SQUID GAME",
           "difficulty": "easy"
         },
         {
           "hint": "Making someone doubt their own memory",
-          "puzzle": "_ A _ L _ G _ T _ N _",
+          "puzzle": "_ A _ _ I _ H _ _ N _",
           "answer": "GASLIGHTING",
           "difficulty": "easy"
         },
         {
           "hint": "Cluttering up city sidewalks",
-          "puzzle": "_ L _ C _ R _ C   _ C _ O _ E _",
+          "puzzle": "_ L _ _ T _ I _   _ C _ _ _ E _",
           "answer": "ELECTRIC SCOOTER",
           "difficulty": "easy"
         },
         {
           "hint": "What every streaming series needs",
-          "puzzle": "_ L _ T   _ W _ S _",
+          "puzzle": "_ _ O _   _ W _ S _",
           "answer": "PLOT TWIST",
           "difficulty": "easy"
         },
         {
           "hint": "Pop star who sings about coffee",
-          "puzzle": "_ A _ R _ N _   _ A _ P _ N _ E _",
+          "puzzle": "_ A _ _ _ N _   _ A _ _ E _ _ E _",
           "answer": "SABRINA CARPENTER",
           "difficulty": "easy"
         },
         {
           "hint": "The thing feeding you videos",
-          "puzzle": "_ H _   _ L _ O _ I _ H _",
+          "puzzle": "_ H _   _ L _ _ R _ _ H _",
           "answer": "THE ALGORITHM",
           "difficulty": "easy"
         },
         {
           "hint": "Weight-loss drug in every headline",
-          "puzzle": "_ Z _ M _ I _",
+          "puzzle": "_ Z _ _ _ I _",
           "answer": "OZEMPIC",
           "difficulty": "easy"
         },
         {
           "hint": "Anime-styled hit movie about a demon",
-          "puzzle": "_ E _ O _   _ L _ Y _ R",
+          "puzzle": "_ E _ O _   _ L _ _ E _",
           "answer": "DEMON SLAYER",
           "difficulty": "easy"
         },
         {
           "hint": "Grocery run without a cashier",
-          "puzzle": "_ E _ F   _ H _ C _ O _ T",
+          "puzzle": "_ _ L _   _ H _ _ K _ U _",
           "answer": "SELF CHECKOUT",
           "difficulty": "easy"
         },
         {
           "hint": "Where the group chat lives",
-          "puzzle": "_ I _ C _ R _",
+          "puzzle": "_ I _ _ _ R _",
           "answer": "DISCORD",
           "difficulty": "easy"
         },
         {
           "hint": "Streaming drama about a media dynasty",
-          "puzzle": "_ U _ _ _ S _ _ O _",
+          "puzzle": "_ _ C _ _ _ _ I _ _",
           "answer": "SUCCESSION",
           "difficulty": "medium"
         },
         {
           "hint": "When a platform slowly gets worse",
-          "puzzle": "_ N _ _ I _ _ _ F _ _ A _ _ O _",
+          "puzzle": "_ _ S _ _ _ T _ _ _ C _ _ _ O _",
           "answer": "ENSHITTIFICATION",
           "difficulty": "medium"
         },
@@ -213,25 +213,25 @@
         },
         {
           "hint": "What a central bank does to fight inflation",
-          "puzzle": "_ A _ S _   _ A _ E _",
+          "puzzle": "_ _ I _ _   _ _ T _ _",
           "answer": "RAISE RATES",
           "difficulty": "medium"
         },
         {
           "hint": "The kind of AI that makes new text and images",
-          "puzzle": "_ E _ _ _ A _ _ V _   A I",
+          "puzzle": "_ _ N _ _ _ _ I _ _   A I",
           "answer": "GENERATIVE AI",
           "difficulty": "medium"
         },
         {
           "hint": "The chip company at the center of the AI boom",
-          "puzzle": "_ V _ _ I _",
+          "puzzle": "_ _ _ D _ _",
           "answer": "NVIDIA",
           "difficulty": "medium"
         },
         {
           "hint": "Buying things to feel better",
-          "puzzle": "_ E _ _ I _   _ H _ _ _ P _",
+          "puzzle": "_ _ _ A _ _   _ H _ _ _ P _",
           "answer": "RETAIL THERAPY",
           "difficulty": "medium"
         },
@@ -243,19 +243,19 @@
         },
         {
           "hint": "The ledger technology under crypto",
-          "puzzle": "_ L _ _ _ C _ _ I _",
+          "puzzle": "_ _ O _ _ _ _ A _ _",
           "answer": "BLOCKCHAIN",
           "difficulty": "medium"
         },
         {
           "hint": "What people called GameStop and AMC in 2021",
-          "puzzle": "_ _ M _   _ T _ _ K _",
+          "puzzle": "_ _ M _   _ _ _ C _ _",
           "answer": "MEME STOCKS",
           "difficulty": "medium"
         },
         {
           "hint": "Netflix series about a chess prodigy",
-          "puzzle": "_ H _   _ U _ _ N _   _ A _ _ I _",
+          "puzzle": "_ H _   _ _ _ E _ _   _ _ _ B _ _",
           "answer": "THE QUEENS GAMBIT",
           "difficulty": "medium"
         },
@@ -267,43 +267,43 @@
         },
         {
           "hint": "The gene-editing tool",
-          "puzzle": "_ R _ _ P _",
+          "puzzle": "_ _ _ S _ _",
           "answer": "CRISPR",
           "difficulty": "medium"
         },
         {
           "hint": "2024 remake of a series about a Japanese lord",
-          "puzzle": "_ H _ _ U _",
+          "puzzle": "_ _ _ G _ _",
           "answer": "SHOGUN",
           "difficulty": "medium"
         },
         {
           "hint": "Where your crypto lives",
-          "puzzle": "_ I _ _ _ A _   _ A _ _ E _",
+          "puzzle": "_ I _ _ _ A _   _ _ _ L _ _",
           "answer": "DIGITAL WALLET",
           "difficulty": "medium"
         },
         {
           "hint": "Rapper behind 'Mr. Morale & the Big Steppers'",
-          "puzzle": "_ E _ _ R _ C _   _ A _ A _",
+          "puzzle": "_ _ N _ _ _ C _   _ _ M _ _",
           "answer": "KENDRICK LAMAR",
           "difficulty": "medium"
         },
         {
           "hint": "Why your ride costs triple in the rain",
-          "puzzle": "_ U _ G _   _ R _ _ _ N _",
+          "puzzle": "_ _ R _ _   _ R _ _ _ N _",
           "answer": "SURGE PRICING",
           "difficulty": "medium"
         },
         {
           "hint": "The documentary genre that took over streaming",
-          "puzzle": "_ _ U _   _ R _ M _",
+          "puzzle": "_ _ U _   _ _ I _ _",
           "answer": "TRUE CRIME",
           "difficulty": "medium"
         },
         {
           "hint": "What a company does when it first sells shares",
-          "puzzle": "_ N _ _ _ A _   _ U _ _ I _   _ F _ _ R _ N _",
+          "puzzle": "_ N _ _ _ A _   _ _ _ L _ _   _ _ F _ _ _ N _",
           "answer": "INITIAL PUBLIC OFFERING",
           "difficulty": "medium"
         },
@@ -439,38 +439,13 @@
           "difficulty": "easy"
         },
         {
-          "word": "INFLUENCER",
-          "backwards": "R-E-C-N-E-U-L-F-N-I",
-          "difficulty": "easy"
-        },
-        {
-          "word": "STREAMING",
-          "backwards": "G-N-I-M-A-E-R-T-S",
+          "word": "STREAMER",
+          "backwards": "R-E-M-A-E-R-T-S",
           "difficulty": "easy"
         },
         {
           "word": "HASHTAG",
           "backwards": "G-A-T-H-S-A-H",
-          "difficulty": "easy"
-        },
-        {
-          "word": "EMOJI",
-          "backwards": "I-J-O-M-E",
-          "difficulty": "easy"
-        },
-        {
-          "word": "WORDLE",
-          "backwards": "E-L-D-R-O-W",
-          "difficulty": "easy"
-        },
-        {
-          "word": "SELFIE",
-          "backwards": "E-I-F-L-E-S",
-          "difficulty": "easy"
-        },
-        {
-          "word": "ALGORITHM",
-          "backwards": "M-H-T-I-R-O-G-L-A",
           "difficulty": "easy"
         },
         {
@@ -484,53 +459,8 @@
           "difficulty": "easy"
         },
         {
-          "word": "FOLLOWERS",
-          "backwards": "S-R-E-W-O-L-L-O-F",
-          "difficulty": "easy"
-        },
-        {
-          "word": "SUBSCRIBE",
-          "backwards": "E-B-I-R-C-S-B-U-S",
-          "difficulty": "easy"
-        },
-        {
           "word": "PLAYLIST",
           "backwards": "T-S-I-L-Y-A-L-P",
-          "difficulty": "easy"
-        },
-        {
-          "word": "AIRPODS",
-          "backwards": "S-D-O-P-R-I-A",
-          "difficulty": "easy"
-        },
-        {
-          "word": "CRYPTO",
-          "backwards": "O-T-P-Y-R-C",
-          "difficulty": "easy"
-        },
-        {
-          "word": "VLOGGER",
-          "backwards": "R-E-G-G-O-L-V",
-          "difficulty": "easy"
-        },
-        {
-          "word": "SPOILER",
-          "backwards": "R-E-L-I-O-P-S",
-          "difficulty": "easy"
-        },
-        {
-          "word": "BINGE",
-          "backwards": "E-G-N-I-B",
-          "difficulty": "easy"
-        },
-        {
-          "word": "FILTER",
-          "backwards": "R-E-T-L-I-F",
-          "difficulty": "easy"
-        },
-        {
-          "word": "UPLOAD",
-          "backwards": "D-A-O-L-P-U",
           "difficulty": "easy"
         },
         {
@@ -539,18 +469,23 @@
           "difficulty": "easy"
         },
         {
-          "word": "AVATAR",
-          "backwards": "R-A-T-A-V-A",
+          "word": "SPOILER",
+          "backwards": "R-E-L-I-O-P-S",
           "difficulty": "easy"
         },
         {
-          "word": "RIZZ",
-          "backwards": "Z-Z-I-R",
+          "word": "FOLLOWER",
+          "backwards": "R-E-W-O-L-L-O-F",
           "difficulty": "easy"
         },
         {
-          "word": "PIXELATED",
-          "backwards": "D-E-T-A-L-E-X-I-P",
+          "word": "SUBSCRIBE",
+          "backwards": "E-B-I-R-C-S-B-U-S",
+          "difficulty": "easy"
+        },
+        {
+          "word": "ALGORITHM",
+          "backwards": "M-H-T-I-R-O-G-L-A",
           "difficulty": "easy"
         },
         {
@@ -564,8 +499,8 @@
           "difficulty": "easy"
         },
         {
-          "word": "GLITCH",
-          "backwards": "H-C-T-I-L-G",
+          "word": "AIRDROP",
+          "backwards": "P-O-R-D-R-I-A",
           "difficulty": "easy"
         },
         {
@@ -574,43 +509,83 @@
           "difficulty": "easy"
         },
         {
-          "word": "AIRDROP",
-          "backwards": "P-O-R-D-R-I-A",
+          "word": "INFLUENCE",
+          "backwards": "E-C-N-E-U-L-F-N-I",
           "difficulty": "easy"
         },
         {
-          "word": "MULTIVERSE",
-          "backwards": "E-S-R-E-V-I-T-L-U-M",
+          "word": "DOWNLOAD",
+          "backwards": "D-A-O-L-N-W-O-D",
+          "difficulty": "easy"
+        },
+        {
+          "word": "STREAMING",
+          "backwards": "G-N-I-M-A-E-R-T-S",
+          "difficulty": "easy"
+        },
+        {
+          "word": "WIRELESS",
+          "backwards": "S-S-E-L-E-R-I-W",
+          "difficulty": "easy"
+        },
+        {
+          "word": "PASSWORD",
+          "backwards": "D-R-O-W-S-S-A-P",
+          "difficulty": "easy"
+        },
+        {
+          "word": "KEYBOARD",
+          "backwards": "D-R-A-O-B-Y-E-K",
+          "difficulty": "easy"
+        },
+        {
+          "word": "SOFTWARE",
+          "backwards": "E-R-A-W-T-F-O-S",
+          "difficulty": "easy"
+        },
+        {
+          "word": "HARDWARE",
+          "backwards": "E-R-A-W-D-R-A-H",
+          "difficulty": "easy"
+        },
+        {
+          "word": "WEARABLE",
+          "backwards": "E-L-B-A-R-A-E-W",
+          "difficulty": "easy"
+        },
+        {
+          "word": "DASHBOARD",
+          "backwards": "D-R-A-O-B-H-S-A-D",
+          "difficulty": "easy"
+        },
+        {
+          "word": "FIREWALL",
+          "backwards": "L-L-A-W-E-R-I-F",
+          "difficulty": "easy"
+        },
+        {
+          "word": "CHECKOUT",
+          "backwards": "T-U-O-K-C-E-H-C",
+          "difficulty": "easy"
+        },
+        {
+          "word": "ANALYTICS",
+          "backwards": "S-C-I-T-Y-L-A-N-A",
+          "difficulty": "easy"
+        },
+        {
+          "word": "WORKFLOW",
+          "backwards": "W-O-L-F-K-R-O-W",
           "difficulty": "easy"
         },
         {
           "word": "MONETIZE",
           "backwards": "E-Z-I-T-E-N-O-M",
-          "difficulty": "medium"
+          "difficulty": "easy"
         },
         {
-          "word": "DASHBOARD",
-          "backwards": "D-R-A-O-B-H-S-A-D",
-          "difficulty": "medium"
-        },
-        {
-          "word": "WEARABLE",
-          "backwards": "E-L-B-A-R-A-E-W",
-          "difficulty": "medium"
-        },
-        {
-          "word": "PODCASTER",
-          "backwards": "R-E-T-S-A-C-D-O-P",
-          "difficulty": "medium"
-        },
-        {
-          "word": "STREAMERS",
-          "backwards": "S-R-E-M-A-E-R-T-S",
-          "difficulty": "medium"
-        },
-        {
-          "word": "ENCRYPTED",
-          "backwards": "D-E-T-P-Y-R-C-N-E",
+          "word": "INFLUENCER",
+          "backwards": "R-E-C-N-E-U-L-F-N-I",
           "difficulty": "medium"
         },
         {
@@ -619,48 +594,8 @@
           "difficulty": "medium"
         },
         {
-          "word": "WORKFLOWS",
-          "backwards": "S-W-O-L-F-K-R-O-W",
-          "difficulty": "medium"
-        },
-        {
-          "word": "INFLATION",
-          "backwards": "N-O-I-T-A-L-F-N-I",
-          "difficulty": "medium"
-        },
-        {
-          "word": "RECESSION",
-          "backwards": "N-O-I-S-S-E-C-E-R",
-          "difficulty": "medium"
-        },
-        {
-          "word": "SIMULATION",
-          "backwards": "N-O-I-T-A-L-U-M-I-S",
-          "difficulty": "medium"
-        },
-        {
-          "word": "BIOMETRIC",
-          "backwards": "C-I-R-T-E-M-O-I-B",
-          "difficulty": "medium"
-        },
-        {
-          "word": "CHECKOUT",
-          "backwards": "T-U-O-K-C-E-H-C",
-          "difficulty": "medium"
-        },
-        {
-          "word": "ANALYTICS",
-          "backwards": "S-C-I-T-Y-L-A-N-A",
-          "difficulty": "medium"
-        },
-        {
-          "word": "FIREWALL",
-          "backwards": "L-L-A-W-E-R-I-F",
-          "difficulty": "medium"
-        },
-        {
-          "word": "DOWNLOADS",
-          "backwards": "S-D-A-O-L-N-W-O-D",
+          "word": "NEWSLETTER",
+          "backwards": "R-E-T-T-E-L-S-W-E-N",
           "difficulty": "medium"
         },
         {
@@ -669,18 +604,83 @@
           "difficulty": "medium"
         },
         {
-          "word": "RIDESHARE",
-          "backwards": "E-R-A-H-S-E-D-I-R",
-          "difficulty": "medium"
-        },
-        {
-          "word": "NEWSLETTER",
-          "backwards": "R-E-T-T-E-L-S-W-E-N",
+          "word": "SIMULATION",
+          "backwards": "N-O-I-T-A-L-U-M-I-S",
           "difficulty": "medium"
         },
         {
           "word": "SUBSCRIBER",
           "backwards": "R-E-B-I-R-C-S-B-U-S",
+          "difficulty": "medium"
+        },
+        {
+          "word": "SMARTPHONE",
+          "backwards": "E-N-O-H-P-T-R-A-M-S",
+          "difficulty": "medium"
+        },
+        {
+          "word": "TOUCHSCREEN",
+          "backwards": "N-E-E-R-C-S-H-C-U-O-T",
+          "difficulty": "medium"
+        },
+        {
+          "word": "MICROPHONE",
+          "backwards": "E-N-O-H-P-O-R-C-I-M",
+          "difficulty": "medium"
+        },
+        {
+          "word": "ENGAGEMENT",
+          "backwards": "T-N-E-M-E-G-A-G-N-E",
+          "difficulty": "medium"
+        },
+        {
+          "word": "MONETIZING",
+          "backwards": "G-N-I-Z-I-T-E-N-O-M",
+          "difficulty": "medium"
+        },
+        {
+          "word": "CROWDSOURCE",
+          "backwards": "E-C-R-U-O-S-D-W-O-R-C",
+          "difficulty": "medium"
+        },
+        {
+          "word": "BLOCKCHAIN",
+          "backwards": "N-I-A-H-C-K-C-O-L-B",
+          "difficulty": "medium"
+        },
+        {
+          "word": "RIDESHARING",
+          "backwards": "G-N-I-R-A-H-S-E-D-I-R",
+          "difficulty": "medium"
+        },
+        {
+          "word": "STREAMLINED",
+          "backwards": "D-E-N-I-L-M-A-E-R-T-S",
+          "difficulty": "medium"
+        },
+        {
+          "word": "UNFOLLOWING",
+          "backwards": "G-N-I-W-O-L-L-O-F-N-U",
+          "difficulty": "medium"
+        },
+        {
+          "word": "PIXELATION",
+          "backwards": "N-O-I-T-A-L-E-X-I-P",
+          "difficulty": "medium"
+        },
+        {
+          "word": "AUTOCORRECT",
+          "backwards": "T-C-E-R-R-O-C-O-T-U-A",
+          "difficulty": "medium"
+        },
+        {
+          "word": "SCREENSHOTS",
+          "backwards": "S-T-O-H-S-N-E-E-R-C-S",
+          "difficulty": "medium"
+        },
+        {
+          "word": "ENCRYPTION",
+          "backwards": "N-O-I-T-P-Y-R-C-N-E",
           "difficulty": "medium"
         },
         {
@@ -790,501 +790,501 @@
       "howto": "Read the word and all three definitions out loud. Your team picks the right one.",
       "cards": [
         {
-          "word": "RIZZ",
+          "word": "BRIGADING",
           "options": [
-            "A charred crust on grilled meat",
-            "Charm or skill at flirting",
-            "A glitch that freezes a video game"
-          ],
-          "answer": 1,
-          "difficulty": "easy"
-        },
-        {
-          "word": "DELULU",
-          "options": [
-            "Delusional, usually in an upbeat way",
-            "A slowed-down remix of a lullaby",
-            "A very small ukulele"
+            "A coordinated pile-on against one person online",
+            "A fire safety drill",
+            "Signing up for military service"
           ],
           "answer": 0,
           "difficulty": "easy"
         },
         {
-          "word": "SITUATIONSHIP",
+          "word": "FINSTA",
           "options": [
-            "An open-plan office layout",
-            "A romantic thing nobody will define",
-            "A group project with no leader"
+            "A first-time investor",
+            "A private second account kept for close friends",
+            "A fake product listing"
           ],
           "answer": 1,
           "difficulty": "easy"
         },
         {
-          "word": "ENSHITTIFICATION",
+          "word": "SLOP",
           "options": [
-            "Industrial composting",
-            "A grungy photo filter",
-            "The slow decline of an online platform"
+            "A spilled-drink emoji",
+            "A rough first draft",
+            "Low-effort AI-generated content flooding a platform"
           ],
           "answer": 2,
           "difficulty": "easy"
         },
         {
-          "word": "CHEUGY",
+          "word": "SUBTWEET",
           "options": [
-            "Out of date or trying too hard",
-            "Expensive but worth it",
-            "Pleasantly chewy"
+            "A post about someone without ever naming them",
+            "A reply hidden beneath another",
+            "A post scheduled to go out later"
           ],
           "answer": 0,
           "difficulty": "easy"
         },
         {
-          "word": "BUSSIN'",
+          "word": "LURKER",
           "options": [
-            "Commuting by public transit",
-            "Really, really good — usually food",
-            "Breaking under pressure"
+            "A process running in the background",
+            "Someone who reads everything and never posts",
+            "An automated spam account"
           ],
           "answer": 1,
           "difficulty": "easy"
         },
         {
-          "word": "NPC",
+          "word": "UNICORN",
           "options": [
-            "A nonprofit corporation",
-            "Someone going through life on autopilot",
-            "A phone charging standard"
-          ],
-          "answer": 1,
-          "difficulty": "easy"
-        },
-        {
-          "word": "GATEKEEPING",
-          "options": [
-            "Airport security screening",
-            "Hoarding information so others can't join in",
-            "Closing out a bar tab"
-          ],
-          "answer": 1,
-          "difficulty": "easy"
-        },
-        {
-          "word": "SKIBIDI",
-          "options": [
-            "A nonsense word from a viral video series",
-            "A Japanese noodle dish",
-            "A folding electric scooter"
-          ],
-          "answer": 0,
-          "difficulty": "easy"
-        },
-        {
-          "word": "QUIET QUITTING",
-          "options": [
-            "Resigning by email over a weekend",
-            "Doing your job description and nothing extra",
-            "Muting yourself on a conference call"
-          ],
-          "answer": 1,
-          "difficulty": "easy"
-        },
-        {
-          "word": "NEPO BABY",
-          "options": [
-            "A brand-new employee",
-            "The child of famous parents in the same industry",
-            "An influencer under the age of two"
-          ],
-          "answer": 1,
-          "difficulty": "easy"
-        },
-        {
-          "word": "GLOW-UP",
-          "options": [
-            "A dramatic improvement in looks or style",
-            "A sunrise photo trend",
-            "Neon stage lighting"
-          ],
-          "answer": 0,
-          "difficulty": "easy"
-        },
-        {
-          "word": "RATIO'D",
-          "options": [
-            "When a reply gets more likes than the original post",
-            "Split evenly between two people",
-            "Compressed to a smaller file size"
-          ],
-          "answer": 0,
-          "difficulty": "easy"
-        },
-        {
-          "word": "RAGE BAIT",
-          "options": [
-            "A lure used in deep-sea fishing",
-            "Content designed to make you angry enough to engage",
-            "A horror game jump scare"
-          ],
-          "answer": 1,
-          "difficulty": "easy"
-        },
-        {
-          "word": "MID",
-          "options": [
-            "Middle-aged",
-            "Right around midnight",
-            "Thoroughly mediocre"
+            "A bug nobody can reproduce",
+            "A one-off marketing stunt",
+            "A startup valued at over a billion dollars"
           ],
           "answer": 2,
           "difficulty": "easy"
         },
         {
-          "word": "THE ICK",
+          "word": "BOOTSTRAPPED",
           "options": [
-            "A sudden, total turn-off toward someone you liked",
-            "A stain that won't come out",
-            "A 24-hour stomach bug"
+            "Funded out of its own revenue instead of investors",
+            "Built from a failed company's leftovers",
+            "Assembled out of borrowed code"
           ],
           "answer": 0,
           "difficulty": "easy"
         },
         {
-          "word": "GIRL DINNER",
+          "word": "VAPORWARE",
           "options": [
-            "A plate of random snacks eaten as a meal",
-            "A formal dinner party with a seating chart",
-            "A cooking competition show"
-          ],
-          "answer": 0,
-          "difficulty": "easy"
-        },
-        {
-          "word": "SIMP",
-          "options": [
-            "A one-pot recipe",
-            "Someone way too devoted to a crush",
-            "A computer simulation"
+            "Free software paid for by ads",
+            "A product announced with fanfare that never ships",
+            "Software that runs entirely in the cloud"
           ],
           "answer": 1,
           "difficulty": "easy"
         },
         {
-          "word": "PROMPT ENGINEERING",
+          "word": "SNEAKERNET",
           "options": [
-            "Writing instructions that get good answers out of an AI",
-            "Fixing a jammed printer",
-            "Cueing actors from offstage"
-          ],
-          "answer": 0,
-          "difficulty": "easy"
-        },
-        {
-          "word": "GHOSTING",
-          "options": [
-            "Cutting off all contact with zero explanation",
-            "Overdoing Halloween decorations",
-            "Removing someone from a photo"
-          ],
-          "answer": 0,
-          "difficulty": "easy"
-        },
-        {
-          "word": "VIBE CHECK",
-          "options": [
-            "A soundcheck before a concert",
-            "A quick read on the mood of a room",
-            "A polygraph test"
-          ],
-          "answer": 1,
-          "difficulty": "easy"
-        },
-        {
-          "word": "HALLUCINATION (AI)",
-          "options": [
-            "A screen flickering on an old monitor",
-            "Motion sickness from a VR headset",
-            "An AI stating something false with total confidence"
+            "A ring of counterfeit sellers",
+            "A tool for browsing anonymously",
+            "Moving data by physically carrying drives around"
           ],
           "answer": 2,
           "difficulty": "easy"
         },
         {
-          "word": "BEIGE FLAG",
+          "word": "YAK SHAVING",
           "options": [
-            "A harmless, weirdly specific quirk in a partner",
-            "A serious warning sign to leave",
-            "A signal of surrender"
+            "The chain of side tasks you hit before the real one",
+            "Trimming a bloated budget",
+            "Deleting unused code"
           ],
           "answer": 0,
           "difficulty": "easy"
         },
         {
-          "word": "DOOMSCROLLING",
+          "word": "RUBBER DUCKING",
           "options": [
-            "Fast-forwarding through a boring show",
-            "Endlessly scrolling through bad news",
-            "Deleting apps in a panic"
+            "Testing a product on yourself first",
+            "Explaining a problem out loud until you spot the answer",
+            "Dodging a difficult conversation"
           ],
           "answer": 1,
           "difficulty": "easy"
         },
         {
-          "word": "SHRINKFLATION",
+          "word": "SCOPE CREEP",
           "options": [
-            "A smaller product for the same price",
-            "Deflation in a small economy",
-            "Clothes that shrink in the dryer"
+            "A camera slowly zooming in",
+            "A deadline moving earlier",
+            "A project quietly growing past what was agreed"
+          ],
+          "answer": 2,
+          "difficulty": "easy"
+        },
+        {
+          "word": "TECHNICAL DEBT",
+          "options": [
+            "Shortcuts taken now that cost you more later",
+            "Money owed to a software vendor",
+            "The cost of replacing old hardware"
           ],
           "answer": 0,
           "difficulty": "easy"
         },
         {
-          "word": "TOUCH GRASS",
+          "word": "DEAD INTERNET THEORY",
           "options": [
-            "Go outside and log off",
-            "Start a lawn care routine",
-            "Take up golf"
+            "The idea that old sites never truly vanish",
+            "The claim that most online activity is now bots",
+            "A prediction that we'll run out of addresses"
+          ],
+          "answer": 1,
+          "difficulty": "easy"
+        },
+        {
+          "word": "DOXXING",
+          "options": [
+            "Locking a document against edits",
+            "Forging a certificate",
+            "Publishing someone's private information without consent"
+          ],
+          "answer": 2,
+          "difficulty": "easy"
+        },
+        {
+          "word": "SWATTING",
+          "options": [
+            "A fake emergency call that sends armed police to a home",
+            "Beating back a wave of spam",
+            "Squashing a software bug"
           ],
           "answer": 0,
           "difficulty": "easy"
         },
         {
-          "word": "LORE",
+          "word": "CRYPTO WINTER",
           "options": [
-            "The backstory behind a person, meme, or franchise",
-            "A legal loophole",
-            "A low-resolution image"
+            "A total network shutdown",
+            "A long, grinding slump in cryptocurrency prices",
+            "A wallet kept offline for safety"
+          ],
+          "answer": 1,
+          "difficulty": "easy"
+        },
+        {
+          "word": "RUG PULL",
+          "options": [
+            "An abrupt site redesign",
+            "Cancelling a subscription mid-term",
+            "When a project's creators vanish with everyone's money"
+          ],
+          "answer": 2,
+          "difficulty": "easy"
+        },
+        {
+          "word": "DIAMOND HANDS",
+          "options": [
+            "Holding an investment through brutal losses",
+            "An index of luxury goods",
+            "A manicure trend"
           ],
           "answer": 0,
           "difficulty": "easy"
         },
         {
-          "word": "SIDE QUEST",
+          "word": "SKIMPFLATION",
           "options": [
-            "A detour or unplanned adventure",
-            "A backup career",
-            "A second helping"
+            "Shipping getting slower",
+            "Same price, quietly worse ingredients or service",
+            "Type sizes shrinking on packaging"
+          ],
+          "answer": 1,
+          "difficulty": "easy"
+        },
+        {
+          "word": "DRIP PRICING",
+          "options": [
+            "Charging by the minute",
+            "Nudging prices up a little each year",
+            "Advertising a low price, then adding fees at checkout"
+          ],
+          "answer": 2,
+          "difficulty": "easy"
+        },
+        {
+          "word": "GHOST KITCHEN",
+          "options": [
+            "A delivery-only restaurant with no dining room",
+            "A commercial kitchen sitting unused",
+            "A kitchen staffed only overnight"
           ],
           "answer": 0,
           "difficulty": "easy"
         },
         {
-          "word": "GYATT",
+          "word": "DARK STORE",
           "options": [
-            "An exclamation of surprise, usually at someone attractive",
-            "A German pastry",
-            "A type of pickup truck"
+            "A storefront on the dark web",
+            "A retail space used only to fill online orders",
+            "A shop with no signage out front"
+          ],
+          "answer": 1,
+          "difficulty": "easy"
+        },
+        {
+          "word": "LOSS LEADER",
+          "options": [
+            "The worst-performing product line",
+            "The manager who takes the blame",
+            "An item sold below cost to pull customers in"
+          ],
+          "answer": 2,
+          "difficulty": "easy"
+        },
+        {
+          "word": "ZOMBIE COMPANY",
+          "options": [
+            "A firm earning just enough to cover its debt payments",
+            "A company bought and immediately shut down",
+            "A dead brand revived by new owners"
           ],
           "answer": 0,
           "difficulty": "easy"
         },
         {
-          "word": "MAIN CHARACTER ENERGY",
+          "word": "SHOVELWARE",
           "options": [
-            "Acting like you're the star of your own movie",
-            "Caffeine before a performance",
-            "Being cast in a lead role"
+            "A tool for moving files in bulk",
+            "Low-effort software bundled in to pad out a catalog",
+            "Landscaping design software"
+          ],
+          "answer": 1,
+          "difficulty": "easy"
+        },
+        {
+          "word": "AIRDROP",
+          "options": [
+            "A wireless file transfer between phones",
+            "An emergency server backup",
+            "Free crypto tokens sent to wallets to drum up interest"
+          ],
+          "answer": 2,
+          "difficulty": "easy"
+        },
+        {
+          "word": "GOLDEN HOUR",
+          "options": [
+            "The hour after sunrise or before sunset, best for photos",
+            "The peak time of day for posting online",
+            "The opening hour of a sale"
           ],
           "answer": 0,
           "difficulty": "easy"
         },
         {
-          "word": "DOOMER",
+          "word": "GREENFIELD",
           "options": [
-            "Someone convinced things will only get worse",
-            "A heavy metal subgenre fan",
-            "A demolition contractor"
+            "An outdoor festival site",
+            "A project built from scratch with no existing constraints",
+            "A building with eco certification"
+          ],
+          "answer": 1,
+          "difficulty": "easy"
+        },
+        {
+          "word": "EVERGREEN",
+          "options": [
+            "A subscription that renews automatically",
+            "A sustainably sourced product",
+            "Content that stays relevant long after it's published"
+          ],
+          "answer": 2,
+          "difficulty": "easy"
+        },
+        {
+          "word": "HOMOPHILY",
+          "options": [
+            "The tendency to bond with people who are like you",
+            "A fear of large crowds",
+            "A preference for symmetry in design"
           ],
           "answer": 0,
           "difficulty": "medium"
         },
         {
-          "word": "PARASOCIAL",
+          "word": "SEALIONING",
           "options": [
-            "Socializing in two groups at once",
-            "A one-sided bond with someone famous who doesn't know you exist",
-            "A phase of avoiding people"
+            "Burying a thread in emoji",
+            "Harassment disguised as polite, relentless questioning",
+            "Photobombing someone's livestream"
           ],
           "answer": 1,
           "difficulty": "medium"
         },
         {
-          "word": "SHERLOCKED",
+          "word": "CONCERN TROLLING",
           "options": [
-            "Solved a mystery ahead of everyone",
-            "Locked out of your own account",
-            "When a platform builds your app's feature and kills your business"
+            "Reporting posts for entertainment",
+            "Warning strangers about a scam",
+            "Posing as a supporter in order to undermine a cause"
           ],
           "answer": 2,
           "difficulty": "medium"
         },
         {
-          "word": "ASTROTURFING",
+          "word": "WHATABOUTISM",
           "options": [
-            "Fake grassroots support paid for by a company",
-            "Installing an artificial lawn",
-            "A skateboarding trick"
+            "Deflecting criticism by pointing at someone else's wrongdoing",
+            "Asking clarifying questions in bad faith",
+            "Speculating endlessly about the future"
           ],
           "answer": 0,
           "difficulty": "medium"
         },
         {
-          "word": "GREENWASHING",
+          "word": "NUTPICKING",
           "options": [
-            "Cleaning with vinegar and baking soda",
-            "Marketing something as eco-friendly when it isn't",
-            "A green photo filter"
+            "Screening a jury pool",
+            "Presenting a group's most extreme members as typical of it",
+            "Selecting only the strongest data points"
           ],
           "answer": 1,
           "difficulty": "medium"
         },
         {
-          "word": "BIKESHEDDING",
+          "word": "MOTTE AND BAILEY",
           "options": [
-            "Arguing over trivial details while the big decision goes unmade",
-            "Building storage for bicycles",
-            "Commuting by bike to save money"
-          ],
-          "answer": 0,
-          "difficulty": "medium"
-        },
-        {
-          "word": "SHADOWBAN",
-          "options": [
-            "A nighttime curfew",
-            "A dark-mode restriction",
-            "Being quietly hidden from feeds without ever being told"
+            "A medieval board game",
+            "A two-stage negotiating tactic",
+            "Retreating to an easy claim when your bold one is challenged"
           ],
           "answer": 2,
           "difficulty": "medium"
         },
         {
-          "word": "SUNSETTING",
+          "word": "STEELMANNING",
           "options": [
-            "Discontinuing a product in planned stages",
-            "An evening photography trend",
-            "Dimming your screen after dark"
+            "Arguing the strongest possible version of your opponent's case",
+            "Propping up a weak argument with data",
+            "Hardening a system against attack"
           ],
           "answer": 0,
           "difficulty": "medium"
         },
         {
-          "word": "DOGFOODING",
+          "word": "AFFORDANCE",
           "options": [
-            "Marketing pet food to humans",
-            "A company using its own product internally",
-            "Eating cheaply to save money"
+            "A grant awarded to a startup",
+            "What an object's design tells you that you can do with it",
+            "A price a customer can manage"
           ],
           "answer": 1,
           "difficulty": "medium"
         },
         {
-          "word": "CHURN",
+          "word": "LIMINAL",
           "options": [
-            "The rate at which customers cancel and leave",
-            "The sound a struggling engine makes",
-            "Making butter the old-fashioned way"
-          ],
-          "answer": 0,
-          "difficulty": "medium"
-        },
-        {
-          "word": "MOAT",
-          "options": [
-            "A cash reserve for emergencies",
-            "A durable advantage competitors can't copy",
-            "A legal barrier to entry"
-          ],
-          "answer": 1,
-          "difficulty": "medium"
-        },
-        {
-          "word": "FREEMIUM",
-          "options": [
-            "A free trial that expires",
-            "Premium service given away free",
-            "A free basic tier with paid upgrades"
+            "Just barely within the law",
+            "Having to do with lighting",
+            "Occupying a threshold, between one state and the next"
           ],
           "answer": 2,
           "difficulty": "medium"
         },
         {
-          "word": "DEPLATFORMING",
+          "word": "FUNGIBLE",
           "options": [
-            "Removing someone from the services they use to reach an audience",
-            "Demolishing a concert stage",
-            "Getting off a train"
+            "Interchangeable — one unit is as good as any other",
+            "Able to be broken down into parts",
+            "Prone to spreading quickly"
           ],
           "answer": 0,
           "difficulty": "medium"
         },
         {
-          "word": "QUIET FIRING",
+          "word": "ANTIFRAGILE",
           "options": [
-            "A silent alarm at a workplace",
-            "Making a job unpleasant enough that someone quits",
-            "Terminating someone by text message"
+            "A fragile system with good backups",
+            "Something that gets stronger from stress and disorder",
+            "Packaging built to resist damage"
           ],
           "answer": 1,
           "difficulty": "medium"
         },
         {
-          "word": "KAYFABE",
+          "word": "LINDY EFFECT",
           "options": [
-            "A traditional Japanese theater form",
-            "A convincing fake ID",
-            "The pretense that staged events are real, borrowed from pro wrestling"
+            "The delay between a cause and its effect",
+            "The tendency of crowds to fall into sync",
+            "The longer something has survived, the longer it's likely to last"
           ],
           "answer": 2,
           "difficulty": "medium"
         },
         {
-          "word": "STREISAND EFFECT",
+          "word": "SURVIVORSHIP BIAS",
           "options": [
-            "Trying to suppress something makes it spread further",
-            "A vocal warm-up technique",
-            "A movie plot cliche"
+            "Drawing conclusions only from the things that made it through",
+            "A preference for hiring older workers",
+            "Overestimating your own resilience"
           ],
           "answer": 0,
           "difficulty": "medium"
         },
         {
-          "word": "PREBUNKING",
+          "word": "VELLEITY",
           "options": [
-            "Booking a trip well in advance",
-            "Warning people about a false claim before they encounter it",
-            "Writing a rebuttal ahead of a debate"
+            "A minor legal technicality",
+            "A wish too faint to ever act on",
+            "A sudden burst of speed"
           ],
           "answer": 1,
           "difficulty": "medium"
         },
         {
-          "word": "ONBOARDING",
+          "word": "SALIENCE",
           "options": [
-            "Loading cargo onto a ship",
-            "Boarding a plane by group number",
-            "Getting a new hire or user up to speed"
+            "The saltiness of a solution",
+            "A formal style of greeting",
+            "How much something stands out and seizes attention"
           ],
           "answer": 2,
           "difficulty": "medium"
         },
         {
-          "word": "ZOOM FATIGUE",
+          "word": "HEURISTIC",
           "options": [
-            "Exhaustion from too many video calls",
-            "Wear on a camera lens",
-            "Blur from a fast pan"
+            "A mental shortcut that's usually good enough",
+            "A step-by-step formal proof",
+            "A diagnostic scan"
           ],
           "answer": 0,
           "difficulty": "medium"
         },
         {
-          "word": "LONGTERMISM",
+          "word": "EPISTEMIC",
           "options": [
-            "A buy-and-hold investing strategy",
-            "The view that we should weigh the far future heavily in decisions today",
-            "A chronic illness classification"
+            "Recurring at regular intervals",
+            "Having to do with knowledge and how we come to know it",
+            "Relating to the spread of disease"
+          ],
+          "answer": 1,
+          "difficulty": "medium"
+        },
+        {
+          "word": "GRANFALLOON",
+          "options": [
+            "An oversized hot-air balloon",
+            "A lavish grand opening",
+            "A group whose shared identity is essentially meaningless"
+          ],
+          "answer": 2,
+          "difficulty": "medium"
+        },
+        {
+          "word": "VALENCE",
+          "options": [
+            "Whether an experience is positively or negatively charged",
+            "The strength of a broadcast signal",
+            "A formal dress ball"
+          ],
+          "answer": 0,
+          "difficulty": "medium"
+        },
+        {
+          "word": "ASYMMETRIC INFORMATION",
+          "options": [
+            "A one-way method of encryption",
+            "A deal where one side knows far more than the other",
+            "Data stored in uneven block sizes"
           ],
           "answer": 1,
           "difficulty": "medium"
@@ -1520,15 +1520,7 @@
           "difficulty": "easy"
         },
         {
-          "word": "BOUGIE",
-          "difficulty": "easy"
-        },
-        {
           "word": "MILLENNIAL",
-          "difficulty": "easy"
-        },
-        {
-          "word": "SOURDOUGH",
           "difficulty": "easy"
         },
         {
@@ -1536,19 +1528,7 @@
           "difficulty": "easy"
         },
         {
-          "word": "AUTONOMOUS",
-          "difficulty": "easy"
-        },
-        {
           "word": "SUBSCRIPTION",
-          "difficulty": "easy"
-        },
-        {
-          "word": "CONNOISSEUR",
-          "difficulty": "easy"
-        },
-        {
-          "word": "BUREAUCRACY",
           "difficulty": "easy"
         },
         {
@@ -1557,14 +1537,6 @@
         },
         {
           "word": "RENAISSANCE",
-          "difficulty": "easy"
-        },
-        {
-          "word": "ESPRESSO",
-          "difficulty": "easy"
-        },
-        {
-          "word": "GUACAMOLE",
           "difficulty": "easy"
         },
         {
@@ -1592,19 +1564,11 @@
           "difficulty": "easy"
         },
         {
-          "word": "PARAPHERNALIA",
-          "difficulty": "easy"
-        },
-        {
           "word": "CAMOUFLAGE",
           "difficulty": "easy"
         },
         {
           "word": "MISCHIEVOUS",
-          "difficulty": "easy"
-        },
-        {
-          "word": "ONOMATOPOEIA",
           "difficulty": "easy"
         },
         {
@@ -1617,42 +1581,66 @@
         },
         {
           "word": "MAINTENANCE",
-          "difficulty": "medium"
-        },
-        {
-          "word": "OCCURRENCE",
-          "difficulty": "medium"
+          "difficulty": "easy"
         },
         {
           "word": "EMBARRASSED",
-          "difficulty": "medium"
+          "difficulty": "easy"
         },
         {
           "word": "DEFINITELY",
-          "difficulty": "medium"
+          "difficulty": "easy"
         },
         {
           "word": "SEPARATE",
-          "difficulty": "medium"
+          "difficulty": "easy"
         },
         {
           "word": "NECESSARY",
-          "difficulty": "medium"
-        },
-        {
-          "word": "LIAISON",
-          "difficulty": "medium"
-        },
-        {
-          "word": "ACCOMMODATE",
-          "difficulty": "medium"
-        },
-        {
-          "word": "PRIVILEGE",
-          "difficulty": "medium"
+          "difficulty": "easy"
         },
         {
           "word": "RECOMMEND",
+          "difficulty": "easy"
+        },
+        {
+          "word": "COLLEAGUE",
+          "difficulty": "easy"
+        },
+        {
+          "word": "HIERARCHY",
+          "difficulty": "easy"
+        },
+        {
+          "word": "EXAGGERATE",
+          "difficulty": "easy"
+        },
+        {
+          "word": "RENDEZVOUS",
+          "difficulty": "medium"
+        },
+        {
+          "word": "CHAUFFEUR",
+          "difficulty": "medium"
+        },
+        {
+          "word": "MNEMONIC",
+          "difficulty": "medium"
+        },
+        {
+          "word": "SUBPOENA",
+          "difficulty": "medium"
+        },
+        {
+          "word": "ISTHMUS",
+          "difficulty": "medium"
+        },
+        {
+          "word": "CONNOISSEUR",
+          "difficulty": "medium"
+        },
+        {
+          "word": "BUREAUCRACY",
           "difficulty": "medium"
         },
         {
@@ -1660,23 +1648,11 @@
           "difficulty": "medium"
         },
         {
-          "word": "VACUUM",
+          "word": "ACCOMMODATE",
           "difficulty": "medium"
         },
         {
-          "word": "BROCCOLI",
-          "difficulty": "medium"
-        },
-        {
-          "word": "COLLEAGUE",
-          "difficulty": "medium"
-        },
-        {
-          "word": "THRESHOLD",
-          "difficulty": "medium"
-        },
-        {
-          "word": "HARASS",
+          "word": "OCCURRENCE",
           "difficulty": "medium"
         },
         {
@@ -1684,7 +1660,23 @@
           "difficulty": "medium"
         },
         {
+          "word": "LIAISON",
+          "difficulty": "medium"
+        },
+        {
           "word": "PERSEVERANCE",
+          "difficulty": "medium"
+        },
+        {
+          "word": "HARASS",
+          "difficulty": "medium"
+        },
+        {
+          "word": "BROCCOLI",
+          "difficulty": "medium"
+        },
+        {
+          "word": "PRIVILEGE",
           "difficulty": "medium"
         },
         {
@@ -1696,12 +1688,12 @@
           "difficulty": "medium"
         },
         {
-          "word": "HORS D'OEUVRE",
-          "difficulty": "hard"
+          "word": "THRESHOLD",
+          "difficulty": "medium"
         },
         {
-          "word": "RESTAURATEUR",
-          "difficulty": "hard"
+          "word": "VACUUM",
+          "difficulty": "medium"
         },
         {
           "word": "WORCESTERSHIRE",
@@ -1712,51 +1704,7 @@
           "difficulty": "hard"
         },
         {
-          "word": "CHAUFFEUR",
-          "difficulty": "hard"
-        },
-        {
           "word": "SCHADENFREUDE",
-          "difficulty": "hard"
-        },
-        {
-          "word": "ANTIDISESTABLISHMENTARIANISM",
-          "difficulty": "hard"
-        },
-        {
-          "word": "PNEUMONIA",
-          "difficulty": "hard"
-        },
-        {
-          "word": "HAUTE COUTURE",
-          "difficulty": "hard"
-        },
-        {
-          "word": "RENDEZVOUS",
-          "difficulty": "hard"
-        },
-        {
-          "word": "BOURGEOISIE",
-          "difficulty": "hard"
-        },
-        {
-          "word": "QUINOA",
-          "difficulty": "hard"
-        },
-        {
-          "word": "SYZYGY",
-          "difficulty": "hard"
-        },
-        {
-          "word": "ISTHMUS",
-          "difficulty": "hard"
-        },
-        {
-          "word": "MNEMONIC",
-          "difficulty": "hard"
-        },
-        {
-          "word": "SUBPOENA",
           "difficulty": "hard"
         },
         {
@@ -1764,15 +1712,67 @@
           "difficulty": "hard"
         },
         {
-          "word": "PHLEGMATIC",
-          "difficulty": "hard"
-        },
-        {
           "word": "IDIOSYNCRASY",
           "difficulty": "hard"
         },
         {
-          "word": "ZUCCHINI",
+          "word": "HORS D'OEUVRE",
+          "difficulty": "hard"
+        },
+        {
+          "word": "RESTAURATEUR",
+          "difficulty": "hard"
+        },
+        {
+          "word": "BOURGEOISIE",
+          "difficulty": "hard"
+        },
+        {
+          "word": "PHLEGMATIC",
+          "difficulty": "hard"
+        },
+        {
+          "word": "SYZYGY",
+          "difficulty": "hard"
+        },
+        {
+          "word": "ONOMATOPOEIA",
+          "difficulty": "hard"
+        },
+        {
+          "word": "SACRILEGIOUS",
+          "difficulty": "hard"
+        },
+        {
+          "word": "MILLEFEUILLE",
+          "difficulty": "hard"
+        },
+        {
+          "word": "WEIMARANER",
+          "difficulty": "hard"
+        },
+        {
+          "word": "PARALLELEPIPED",
+          "difficulty": "hard"
+        },
+        {
+          "word": "DIPHTHONG",
+          "difficulty": "hard"
+        },
+        {
+          "word": "MINUSCULE",
+          "difficulty": "hard"
+        },
+        {
+          "word": "DAIQUIRI",
+          "difficulty": "hard"
+        },
+        {
+          "word": "SUPERSEDE",
+          "difficulty": "hard"
+        },
+        {
+          "word": "PARAPHERNALIA",
           "difficulty": "hard"
         }
       ]

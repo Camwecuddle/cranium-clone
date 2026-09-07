@@ -8,8 +8,8 @@
       "howto": "Read the question. The whole team can confer on one answer.",
       "cards": [
         {
-          "q": "What short-video app, owned by ByteDance, launched internationally in 2017?",
-          "a": "TikTok",
+          "q": "Which company owns YouTube?",
+          "a": "Google (Alphabet)",
           "difficulty": "easy"
         },
         {
@@ -18,8 +18,8 @@
           "difficulty": "easy"
         },
         {
-          "q": "Which company makes ChatGPT?",
-          "a": "OpenAI",
+          "q": "What does the 'www' in a web address stand for?",
+          "a": "World Wide Web",
           "difficulty": "easy"
         },
         {
@@ -68,13 +68,13 @@
           "difficulty": "easy"
         },
         {
-          "q": "What does 'GOAT' stand for in sports slang?",
-          "a": "Greatest Of All Time",
+          "q": "What does 'GPS' stand for?",
+          "a": "Global Positioning System",
           "difficulty": "easy"
         },
         {
-          "q": "Which country hosted the 2024 Summer Olympics?",
-          "a": "France (Paris)",
+          "q": "Which private company flies NASA astronauts to the space station?",
+          "a": "SpaceX",
           "difficulty": "easy"
         },
         {
@@ -88,8 +88,8 @@
           "difficulty": "easy"
         },
         {
-          "q": "What console did Nintendo release in 2017 that plays both handheld and docked to a TV?",
-          "a": "The Nintendo Switch",
+          "q": "Which planet is NASA's Perseverance rover exploring?",
+          "a": "Mars",
           "difficulty": "easy"
         },
         {
@@ -133,18 +133,18 @@
           "difficulty": "easy"
         },
         {
-          "q": "What streaming service produced 'Stranger Things'?",
-          "a": "Netflix",
+          "q": "What does 'USB' stand for?",
+          "a": "Universal Serial Bus",
           "difficulty": "easy"
         },
         {
-          "q": "In what year did the World Health Organization declare COVID-19 a pandemic?",
-          "a": "2020",
+          "q": "Which city's Summer Olympics were postponed to 2021?",
+          "a": "Tokyo",
           "difficulty": "easy"
         },
         {
-          "q": "What app made 'swipe right' a part of everyday language?",
-          "a": "Tinder",
+          "q": "Which company makes the PlayStation?",
+          "a": "Sony",
           "difficulty": "easy"
         },
         {
@@ -369,12 +369,12 @@
           "difficulty": "easy"
         },
         {
-          "q": "'The cloud' is one enormous computer located in Nevada.",
-          "a": false,
+          "q": "The very first text message ever sent read 'Merry Christmas.'",
+          "a": true,
           "difficulty": "easy"
         },
         {
-          "q": "Taylor Swift re-recorded her old albums and labeled them '(Taylor's Version)'.",
+          "q": "There are more possible games of chess than atoms in the observable universe.",
           "a": true,
           "difficulty": "easy"
         },
@@ -406,7 +406,7 @@
           "difficulty": "easy"
         },
         {
-          "q": "Instagram was owned by Facebook before Facebook renamed itself Meta.",
+          "q": "Google was originally called BackRub.",
           "a": true,
           "difficulty": "easy"
         },
@@ -422,8 +422,8 @@
           "difficulty": "easy"
         },
         {
-          "q": "AI image generators work by searching the internet and pasting real photos together.",
-          "a": false,
+          "q": "The Bluetooth logo is built from two Scandinavian runes.",
+          "a": true,
           "difficulty": "easy"
         },
         {
@@ -465,8 +465,8 @@
           "difficulty": "easy"
         },
         {
-          "q": "Streaming a song requires downloading the whole file first.",
-          "a": false,
+          "q": "Amazon started out selling only books.",
+          "a": true,
           "difficulty": "easy"
         },
         {
@@ -480,9 +480,8 @@
           "difficulty": "easy"
         },
         {
-          "q": "A 'deepfake' is a video file that's unusually large.",
-          "a": false,
-          "note": "It's synthetic media faking a real person.",
+          "q": "YouTube was founded by former PayPal employees.",
+          "a": true,
           "difficulty": "easy"
         },
         {
@@ -512,13 +511,14 @@
           "difficulty": "easy"
         },
         {
-          "q": "There are more than 8 billion people alive on Earth.",
+          "q": "The @ symbol appeared on typewriters before computers existed.",
           "a": true,
           "difficulty": "easy"
         },
         {
-          "q": "The Nintendo Switch can only be played docked to a television.",
+          "q": "Wikipedia's articles are written by paid staff writers.",
           "a": false,
+          "note": "It's written and edited by unpaid volunteers.",
           "difficulty": "easy"
         },
         {
@@ -759,34 +759,34 @@
           "difficulty": "easy"
         },
         {
-          "q": "What does 'NFT' stand for?",
+          "q": "What does 'HTTP' stand for?",
           "options": [
-            "New Financial Token",
-            "Networked File Transfer",
-            "Non-Fungible Token",
-            "Nearly Free Trade"
+            "HyperText Transfer Protocol",
+            "High Traffic Transfer Process",
+            "Hosted Text Transport Protocol",
+            "Hyperlink Transmission Path"
           ],
-          "answer": 2,
+          "answer": 0,
           "difficulty": "easy"
         },
         {
-          "q": "Which streaming service is home to 'The Mandalorian'?",
+          "q": "Which of these came first?",
           "options": [
-            "Netflix",
-            "Hulu",
-            "Max",
-            "Disney+"
+            "The first iPhone",
+            "Facebook",
+            "YouTube",
+            "The first Android phone"
           ],
-          "answer": 3,
+          "answer": 1,
           "difficulty": "easy"
         },
         {
-          "q": "Roughly how many people live on Earth today?",
+          "q": "Roughly how long does light take to travel from the Sun to Earth?",
           "options": [
-            "5 billion",
-            "8 billion",
-            "11 billion",
-            "6 billion"
+            "8 seconds",
+            "8 minutes",
+            "8 hours",
+            "8 days"
           ],
           "answer": 1,
           "difficulty": "easy"
@@ -825,14 +825,14 @@
           "difficulty": "easy"
         },
         {
-          "q": "Which company owns Instagram, WhatsApp, and Facebook?",
+          "q": "What is the most-watched sporting event in the world?",
           "options": [
-            "Alphabet",
-            "Tencent",
-            "Meta",
-            "X Corp"
+            "The Super Bowl",
+            "The FIFA World Cup final",
+            "The Olympic opening ceremony",
+            "The Tour de France"
           ],
-          "answer": 2,
+          "answer": 1,
           "difficulty": "easy"
         },
         {
@@ -869,14 +869,14 @@
           "difficulty": "easy"
         },
         {
-          "q": "Which app is best known for photos that disappear?",
+          "q": "Which of these is a unit of digital storage?",
           "options": [
-            "Pinterest",
-            "LinkedIn",
-            "Reddit",
-            "Snapchat"
+            "Hertz",
+            "Terabyte",
+            "Lumen",
+            "Ohm"
           ],
-          "answer": 3,
+          "answer": 1,
           "difficulty": "easy"
         },
         {
@@ -946,14 +946,14 @@
           "difficulty": "easy"
         },
         {
-          "q": "What does 'FOMO' stand for?",
+          "q": "What does the 'G' in 5G stand for?",
           "options": [
-            "Fear Of Missing Out",
-            "For Members Only",
-            "Front Of My Office",
-            "Full On Meltdown"
+            "Gigabyte",
+            "Generation",
+            "Global",
+            "Gigahertz"
           ],
-          "answer": 0,
+          "answer": 1,
           "difficulty": "easy"
         },
         {
@@ -968,25 +968,25 @@
           "difficulty": "easy"
         },
         {
-          "q": "What is the name of Amazon's voice assistant?",
+          "q": "Which company makes the Galaxy line of phones?",
           "options": [
-            "Siri",
-            "Cortana",
-            "Alexa",
-            "Bixby"
+            "LG",
+            "Samsung",
+            "Sony",
+            "Huawei"
           ],
-          "answer": 2,
+          "answer": 1,
           "difficulty": "easy"
         },
         {
-          "q": "Which platform organizes its communities into 'subreddits'?",
+          "q": "What does 'CPU' stand for?",
           "options": [
-            "Discord",
-            "Tumblr",
-            "Twitch",
-            "Reddit"
+            "Central Processing Unit",
+            "Core Power Unit",
+            "Computer Peripheral Update",
+            "Central Program Utility"
           ],
-          "answer": 3,
+          "answer": 0,
           "difficulty": "easy"
         },
         {

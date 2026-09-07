@@ -16,59 +16,59 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 
 **Easy** (30)
 
-1. **_ I _ T _ K** — _App on everyone's phone_ → TIKTOK
-2. **_ A _ B _ E** — _Blockbuster movie_ → BARBIE
+1. **_ I _ _ O _** — _App on everyone's phone_ → TIKTOK
+2. **_ A _ _ I _** — _Blockbuster movie_ → BARBIE
 3. **_ O _ C _   _ R _ S _** — _Something you tell someone who's too online_ → TOUCH GRASS
-4. **_ T _ A _ G _ R   _ H _ N _ S** — _Streaming show_ → STRANGER THINGS
-5. **_ A _ N   _ H _ R _ C _ E _** — _Slang for acting like the star of your own life_ → MAIN CHARACTER
-6. **_ R _ I _ _ C _ A _   _ N _ E _ _ I _ E _ C _** — _Two words that took over the world_ → ARTIFICIAL INTELLIGENCE
-7. **_ I _ L _ E   _ I _ I _ H** — _Musician with a whisper voice_ → BILLIE EILISH
-8. **_ U _ E _   _ U _ T _ I _ G** — _Doing your job and nothing more_ → QUIET QUITTING
+4. **_ T _ _ N _ E _   _ H _ _ G _** — _Streaming show_ → STRANGER THINGS
+5. **_ _ I _   _ H _ _ A _ _ E _** — _Slang for acting like the star of your own life_ → MAIN CHARACTER
+6. **_ R _ I _ _ C _ A _   _ N _ _ L _ _ G _ _ C _** — _Two words that took over the world_ → ARTIFICIAL INTELLIGENCE
+7. **_ I _ _ I _   _ I _ _ S _** — _Musician with a whisper voice_ → BILLIE EILISH
+8. **_ U _ E _   _ U _ _ T _ N _** — _Doing your job and nothing more_ → QUIET QUITTING
 9. **_ M _ N _   U S** — _Lockdown-era video game_ → AMONG US
-10. **_ M _ S _   _ U _ G _ R** — _Food trend_ → SMASH BURGER
-11. **_ O _ M _ C _ O _ L _ N _** — _What you do at 2am with bad news_ → DOOMSCROLLING
-12. **_ P _ T _ F _   _ R _ P _ E _** — _Yearly music stat dump_ → SPOTIFY WRAPPED
-13. **_ H _   _ E _ R** — _TV show set in a chaotic kitchen_ → THE BEAR
-14. **_ E _ O   _ A _ Y** — _Famous parents, same career_ → NEPO BABY
+10. **_ M _ S _   _ U _ _ E _** — _Food trend_ → SMASH BURGER
+11. **_ O _ M _ _ R _ _ L _ N _** — _What you do at 2am with bad news_ → DOOMSCROLLING
+12. **_ P _ _ _ F _   _ R _ _ _ E _** — _Yearly music stat dump_ → SPOTIFY WRAPPED
+13. **_ H _   _ _ A _** — _TV show set in a chaotic kitchen_ → THE BEAR
+14. **_ _ P _   _ _ B _** — _Famous parents, same career_ → NEPO BABY
 15. **_ M _ R _   _ A _ C _** — _Wrist gadget_ → SMART WATCH
-16. **_ O _ K   _ R _ M   _ O _ E** — _How half of us do our jobs now_ → WORK FROM HOME
+16. **_ _ R _   _ _ O _   _ _ M _** — _How half of us do our jobs now_ → WORK FROM HOME
 17. **_ A _   _ U _ N _** — _Puerto Rican superstar_ → BAD BUNNY
-18. **_ V _ R _ _ H _ N _   _ V _ R _ _ H _ R _   _ L _   A T   _ N _ E** — _Best Picture winner about a laundromat_ → EVERYTHING EVERYWHERE ALL AT ONCE
-19. **_ I _ E   _ U _ T _ E** — _Your second job_ → SIDE HUSTLE
-20. **_ E _ E _ L** — _App that pings you once a day_ → BEREAL
-21. **_ Q _ I _   _ A _ E** — _Korean survival series_ → SQUID GAME
-22. **_ A _ L _ G _ T _ N _** — _Making someone doubt their own memory_ → GASLIGHTING
-23. **_ L _ C _ R _ C   _ C _ O _ E _** — _Cluttering up city sidewalks_ → ELECTRIC SCOOTER
-24. **_ L _ T   _ W _ S _** — _What every streaming series needs_ → PLOT TWIST
-25. **_ A _ R _ N _   _ A _ P _ N _ E _** — _Pop star who sings about coffee_ → SABRINA CARPENTER
-26. **_ H _   _ L _ O _ I _ H _** — _The thing feeding you videos_ → THE ALGORITHM
-27. **_ Z _ M _ I _** — _Weight-loss drug in every headline_ → OZEMPIC
-28. **_ E _ O _   _ L _ Y _ R** — _Anime-styled hit movie about a demon_ → DEMON SLAYER
-29. **_ E _ F   _ H _ C _ O _ T** — _Grocery run without a cashier_ → SELF CHECKOUT
-30. **_ I _ C _ R _** — _Where the group chat lives_ → DISCORD
+18. **_ V _ R _ _ H _ N _   _ V _ R _ _ H _ R _   _ L _   A T   _ _ C _** — _Best Picture winner about a laundromat_ → EVERYTHING EVERYWHERE ALL AT ONCE
+19. **_ _ D _   _ U _ _ L _** — _Your second job_ → SIDE HUSTLE
+20. **_ E _ _ A _** — _App that pings you once a day_ → BEREAL
+21. **_ Q _ I _   _ _ M _** — _Korean survival series_ → SQUID GAME
+22. **_ A _ _ I _ H _ _ N _** — _Making someone doubt their own memory_ → GASLIGHTING
+23. **_ L _ _ T _ I _   _ C _ _ _ E _** — _Cluttering up city sidewalks_ → ELECTRIC SCOOTER
+24. **_ _ O _   _ W _ S _** — _What every streaming series needs_ → PLOT TWIST
+25. **_ A _ _ _ N _   _ A _ _ E _ _ E _** — _Pop star who sings about coffee_ → SABRINA CARPENTER
+26. **_ H _   _ L _ _ R _ _ H _** — _The thing feeding you videos_ → THE ALGORITHM
+27. **_ Z _ _ _ I _** — _Weight-loss drug in every headline_ → OZEMPIC
+28. **_ E _ O _   _ L _ _ E _** — _Anime-styled hit movie about a demon_ → DEMON SLAYER
+29. **_ _ L _   _ H _ _ K _ U _** — _Grocery run without a cashier_ → SELF CHECKOUT
+30. **_ I _ _ _ R _** — _Where the group chat lives_ → DISCORD
 
 **Medium** (20)
 
-1. **_ U _ _ _ S _ _ O _** — _Streaming drama about a media dynasty_ → SUCCESSION
-2. **_ N _ _ I _ _ _ F _ _ A _ _ O _** — _When a platform slowly gets worse_ → ENSHITTIFICATION
+1. **_ _ C _ _ _ _ I _ _** — _Streaming drama about a media dynasty_ → SUCCESSION
+2. **_ _ S _ _ _ T _ _ _ C _ _ _ O _** — _When a platform slowly gets worse_ → ENSHITTIFICATION
 3. **_ H _   _ _ S _   O F   U S** — _Video game adapted into an HBO series_ → THE LAST OF US
 4. **_ E _ _ _ C _** — _Singer behind the album 'Renaissance'_ → BEYONCE
-5. **_ A _ S _   _ A _ E _** — _What a central bank does to fight inflation_ → RAISE RATES
-6. **_ E _ _ _ A _ _ V _   A I** — _The kind of AI that makes new text and images_ → GENERATIVE AI
-7. **_ V _ _ I _** — _The chip company at the center of the AI boom_ → NVIDIA
-8. **_ E _ _ I _   _ H _ _ _ P _** — _Buying things to feel better_ → RETAIL THERAPY
+5. **_ _ I _ _   _ _ T _ _** — _What a central bank does to fight inflation_ → RAISE RATES
+6. **_ _ N _ _ _ _ I _ _   A I** — _The kind of AI that makes new text and images_ → GENERATIVE AI
+7. **_ _ _ D _ _** — _The chip company at the center of the AI boom_ → NVIDIA
+8. **_ _ _ A _ _   _ H _ _ _ P _** — _Buying things to feel better_ → RETAIL THERAPY
 9. **_ L _ _ _ K _** — _Social app built on the AT Protocol_ → BLUESKY
-10. **_ L _ _ _ C _ _ I _** — _The ledger technology under crypto_ → BLOCKCHAIN
-11. **_ _ M _   _ T _ _ K _** — _What people called GameStop and AMC in 2021_ → MEME STOCKS
-12. **_ H _   _ U _ _ N _   _ A _ _ I _** — _Netflix series about a chess prodigy_ → THE QUEENS GAMBIT
+10. **_ _ O _ _ _ _ A _ _** — _The ledger technology under crypto_ → BLOCKCHAIN
+11. **_ _ M _   _ _ _ C _ _** — _What people called GameStop and AMC in 2021_ → MEME STOCKS
+12. **_ H _   _ _ _ E _ _   _ _ _ B _ _** — _Netflix series about a chess prodigy_ → THE QUEENS GAMBIT
 13. **_ A _ _ _ F _** — _What a company announces when it cuts staff_ → LAYOFFS
-14. **_ R _ _ P _** — _The gene-editing tool_ → CRISPR
-15. **_ H _ _ U _** — _2024 remake of a series about a Japanese lord_ → SHOGUN
-16. **_ I _ _ _ A _   _ A _ _ E _** — _Where your crypto lives_ → DIGITAL WALLET
-17. **_ E _ _ R _ C _   _ A _ A _** — _Rapper behind 'Mr. Morale & the Big Steppers'_ → KENDRICK LAMAR
-18. **_ U _ G _   _ R _ _ _ N _** — _Why your ride costs triple in the rain_ → SURGE PRICING
-19. **_ _ U _   _ R _ M _** — _The documentary genre that took over streaming_ → TRUE CRIME
-20. **_ N _ _ _ A _   _ U _ _ I _   _ F _ _ R _ N _** — _What a company does when it first sells shares_ → INITIAL PUBLIC OFFERING
+14. **_ _ _ S _ _** — _The gene-editing tool_ → CRISPR
+15. **_ _ _ G _ _** — _2024 remake of a series about a Japanese lord_ → SHOGUN
+16. **_ I _ _ _ A _   _ _ _ L _ _** — _Where your crypto lives_ → DIGITAL WALLET
+17. **_ _ N _ _ _ C _   _ _ M _ _** — _Rapper behind 'Mr. Morale & the Big Steppers'_ → KENDRICK LAMAR
+18. **_ _ R _ _   _ R _ _ _ N _** — _Why your ride costs triple in the rain_ → SURGE PRICING
+19. **_ _ U _   _ _ I _ _** — _The documentary genre that took over streaming_ → TRUE CRIME
+20. **_ N _ _ _ A _   _ _ _ L _ _   _ _ F _ _ _ N _** — _What a company does when it first sells shares_ → INITIAL PUBLIC OFFERING
 
 **Hard** (20)
 
@@ -102,58 +102,58 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 **Easy** (30)
 
 1. **PODCAST** → T-S-A-C-D-O-P
-2. **INFLUENCER** → R-E-C-N-E-U-L-F-N-I
-3. **STREAMING** → G-N-I-M-A-E-R-T-S
-4. **HASHTAG** → G-A-T-H-S-A-H
-5. **EMOJI** → I-J-O-M-E
-6. **WORDLE** → E-L-D-R-O-W
-7. **SELFIE** → E-I-F-L-E-S
-8. **ALGORITHM** → M-H-T-I-R-O-G-L-A
-9. **UNBOXING** → G-N-I-X-O-B-N-U
-10. **CHATBOT** → T-O-B-T-A-H-C
-11. **FOLLOWERS** → S-R-E-W-O-L-L-O-F
-12. **SUBSCRIBE** → E-B-I-R-C-S-B-U-S
-13. **PLAYLIST** → T-S-I-L-Y-A-L-P
-14. **AIRPODS** → S-D-O-P-R-I-A
-15. **CRYPTO** → O-T-P-Y-R-C
-16. **VLOGGER** → R-E-G-G-O-L-V
-17. **SPOILER** → R-E-L-I-O-P-S
-18. **BINGE** → E-G-N-I-B
-19. **FILTER** → R-E-T-L-I-F
-20. **UPLOAD** → D-A-O-L-P-U
-21. **TRENDING** → G-N-I-D-N-E-R-T
-22. **AVATAR** → R-A-T-A-V-A
-23. **RIZZ** → Z-Z-I-R
-24. **PIXELATED** → D-E-T-A-L-E-X-I-P
-25. **BANDWIDTH** → H-T-D-I-W-D-N-A-B
-26. **THUMBNAIL** → L-I-A-N-B-M-U-H-T
-27. **GLITCH** → H-C-T-I-L-G
-28. **SCOOTER** → R-E-T-O-O-C-S
-29. **AIRDROP** → P-O-R-D-R-I-A
-30. **MULTIVERSE** → E-S-R-E-V-I-T-L-U-M
+2. **STREAMER** → R-E-M-A-E-R-T-S
+3. **HASHTAG** → G-A-T-H-S-A-H
+4. **UNBOXING** → G-N-I-X-O-B-N-U
+5. **CHATBOT** → T-O-B-T-A-H-C
+6. **PLAYLIST** → T-S-I-L-Y-A-L-P
+7. **TRENDING** → G-N-I-D-N-E-R-T
+8. **SPOILER** → R-E-L-I-O-P-S
+9. **FOLLOWER** → R-E-W-O-L-L-O-F
+10. **SUBSCRIBE** → E-B-I-R-C-S-B-U-S
+11. **ALGORITHM** → M-H-T-I-R-O-G-L-A
+12. **BANDWIDTH** → H-T-D-I-W-D-N-A-B
+13. **THUMBNAIL** → L-I-A-N-B-M-U-H-T
+14. **AIRDROP** → P-O-R-D-R-I-A
+15. **SCOOTER** → R-E-T-O-O-C-S
+16. **INFLUENCE** → E-C-N-E-U-L-F-N-I
+17. **DOWNLOAD** → D-A-O-L-N-W-O-D
+18. **STREAMING** → G-N-I-M-A-E-R-T-S
+19. **WIRELESS** → S-S-E-L-E-R-I-W
+20. **PASSWORD** → D-R-O-W-S-S-A-P
+21. **KEYBOARD** → D-R-A-O-B-Y-E-K
+22. **SOFTWARE** → E-R-A-W-T-F-O-S
+23. **HARDWARE** → E-R-A-W-D-R-A-H
+24. **WEARABLE** → E-L-B-A-R-A-E-W
+25. **DASHBOARD** → D-R-A-O-B-H-S-A-D
+26. **FIREWALL** → L-L-A-W-E-R-I-F
+27. **CHECKOUT** → T-U-O-K-C-E-H-C
+28. **ANALYTICS** → S-C-I-T-Y-L-A-N-A
+29. **WORKFLOW** → W-O-L-F-K-R-O-W
+30. **MONETIZE** → E-Z-I-T-E-N-O-M
 
 **Medium** (20)
 
-1. **MONETIZE** → E-Z-I-T-E-N-O-M
-2. **DASHBOARD** → D-R-A-O-B-H-S-A-D
-3. **WEARABLE** → E-L-B-A-R-A-E-W
-4. **PODCASTER** → R-E-T-S-A-C-D-O-P
-5. **STREAMERS** → S-R-E-M-A-E-R-T-S
-6. **ENCRYPTED** → D-E-T-P-Y-R-C-N-E
-7. **TELEHEALTH** → H-T-L-A-E-H-E-L-E-T
-8. **WORKFLOWS** → S-W-O-L-F-K-R-O-W
-9. **INFLATION** → N-O-I-T-A-L-F-N-I
-10. **RECESSION** → N-O-I-S-S-E-C-E-R
-11. **SIMULATION** → N-O-I-T-A-L-U-M-I-S
-12. **BIOMETRIC** → C-I-R-T-E-M-O-I-B
-13. **CHECKOUT** → T-U-O-K-C-E-H-C
-14. **ANALYTICS** → S-C-I-T-Y-L-A-N-A
-15. **FIREWALL** → L-L-A-W-E-R-I-F
-16. **DOWNLOADS** → S-D-A-O-L-N-W-O-D
-17. **GENERATIVE** → E-V-I-T-A-R-E-N-E-G
-18. **RIDESHARE** → E-R-A-H-S-E-D-I-R
-19. **NEWSLETTER** → R-E-T-T-E-L-S-W-E-N
-20. **SUBSCRIBER** → R-E-B-I-R-C-S-B-U-S
+1. **INFLUENCER** → R-E-C-N-E-U-L-F-N-I
+2. **TELEHEALTH** → H-T-L-A-E-H-E-L-E-T
+3. **NEWSLETTER** → R-E-T-T-E-L-S-W-E-N
+4. **GENERATIVE** → E-V-I-T-A-R-E-N-E-G
+5. **SIMULATION** → N-O-I-T-A-L-U-M-I-S
+6. **SUBSCRIBER** → R-E-B-I-R-C-S-B-U-S
+7. **SMARTPHONE** → E-N-O-H-P-T-R-A-M-S
+8. **TOUCHSCREEN** → N-E-E-R-C-S-H-C-U-O-T
+9. **MICROPHONE** → E-N-O-H-P-O-R-C-I-M
+10. **ENGAGEMENT** → T-N-E-M-E-G-A-G-N-E
+11. **MONETIZING** → G-N-I-Z-I-T-E-N-O-M
+12. **CROWDSOURCE** → E-C-R-U-O-S-D-W-O-R-C
+13. **BLOCKCHAIN** → N-I-A-H-C-K-C-O-L-B
+14. **RIDESHARING** → G-N-I-R-A-H-S-E-D-I-R
+15. **STREAMLINED** → D-E-N-I-L-M-A-E-R-T-S
+16. **UNFOLLOWING** → G-N-I-W-O-L-L-O-F-N-U
+17. **PIXELATION** → N-O-I-T-A-L-E-X-I-P
+18. **AUTOCORRECT** → T-C-E-R-R-O-C-O-T-U-A
+19. **SCREENSHOTS** → S-T-O-H-S-N-E-E-R-C-S
+20. **ENCRYPTION** → N-O-I-T-P-Y-R-C-N-E
 
 **Hard** (20)
 
@@ -186,59 +186,59 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 
 **Easy** (30)
 
-1. **RIZZ** — A) A charred crust on grilled meat; B) Charm or skill at flirting; C) A glitch that freezes a video game → **B**
-2. **DELULU** — A) Delusional, usually in an upbeat way; B) A slowed-down remix of a lullaby; C) A very small ukulele → **A**
-3. **SITUATIONSHIP** — A) An open-plan office layout; B) A romantic thing nobody will define; C) A group project with no leader → **B**
-4. **ENSHITTIFICATION** — A) Industrial composting; B) A grungy photo filter; C) The slow decline of an online platform → **C**
-5. **CHEUGY** — A) Out of date or trying too hard; B) Expensive but worth it; C) Pleasantly chewy → **A**
-6. **BUSSIN'** — A) Commuting by public transit; B) Really, really good — usually food; C) Breaking under pressure → **B**
-7. **NPC** — A) A nonprofit corporation; B) Someone going through life on autopilot; C) A phone charging standard → **B**
-8. **GATEKEEPING** — A) Airport security screening; B) Hoarding information so others can't join in; C) Closing out a bar tab → **B**
-9. **SKIBIDI** — A) A nonsense word from a viral video series; B) A Japanese noodle dish; C) A folding electric scooter → **A**
-10. **QUIET QUITTING** — A) Resigning by email over a weekend; B) Doing your job description and nothing extra; C) Muting yourself on a conference call → **B**
-11. **NEPO BABY** — A) A brand-new employee; B) The child of famous parents in the same industry; C) An influencer under the age of two → **B**
-12. **GLOW-UP** — A) A dramatic improvement in looks or style; B) A sunrise photo trend; C) Neon stage lighting → **A**
-13. **RATIO'D** — A) When a reply gets more likes than the original post; B) Split evenly between two people; C) Compressed to a smaller file size → **A**
-14. **RAGE BAIT** — A) A lure used in deep-sea fishing; B) Content designed to make you angry enough to engage; C) A horror game jump scare → **B**
-15. **MID** — A) Middle-aged; B) Right around midnight; C) Thoroughly mediocre → **C**
-16. **THE ICK** — A) A sudden, total turn-off toward someone you liked; B) A stain that won't come out; C) A 24-hour stomach bug → **A**
-17. **GIRL DINNER** — A) A plate of random snacks eaten as a meal; B) A formal dinner party with a seating chart; C) A cooking competition show → **A**
-18. **SIMP** — A) A one-pot recipe; B) Someone way too devoted to a crush; C) A computer simulation → **B**
-19. **PROMPT ENGINEERING** — A) Writing instructions that get good answers out of an AI; B) Fixing a jammed printer; C) Cueing actors from offstage → **A**
-20. **GHOSTING** — A) Cutting off all contact with zero explanation; B) Overdoing Halloween decorations; C) Removing someone from a photo → **A**
-21. **VIBE CHECK** — A) A soundcheck before a concert; B) A quick read on the mood of a room; C) A polygraph test → **B**
-22. **HALLUCINATION (AI)** — A) A screen flickering on an old monitor; B) Motion sickness from a VR headset; C) An AI stating something false with total confidence → **C**
-23. **BEIGE FLAG** — A) A harmless, weirdly specific quirk in a partner; B) A serious warning sign to leave; C) A signal of surrender → **A**
-24. **DOOMSCROLLING** — A) Fast-forwarding through a boring show; B) Endlessly scrolling through bad news; C) Deleting apps in a panic → **B**
-25. **SHRINKFLATION** — A) A smaller product for the same price; B) Deflation in a small economy; C) Clothes that shrink in the dryer → **A**
-26. **TOUCH GRASS** — A) Go outside and log off; B) Start a lawn care routine; C) Take up golf → **A**
-27. **LORE** — A) The backstory behind a person, meme, or franchise; B) A legal loophole; C) A low-resolution image → **A**
-28. **SIDE QUEST** — A) A detour or unplanned adventure; B) A backup career; C) A second helping → **A**
-29. **GYATT** — A) An exclamation of surprise, usually at someone attractive; B) A German pastry; C) A type of pickup truck → **A**
-30. **MAIN CHARACTER ENERGY** — A) Acting like you're the star of your own movie; B) Caffeine before a performance; C) Being cast in a lead role → **A**
+1. **BRIGADING** — A) A coordinated pile-on against one person online; B) A fire safety drill; C) Signing up for military service → **A**
+2. **FINSTA** — A) A first-time investor; B) A private second account kept for close friends; C) A fake product listing → **B**
+3. **SLOP** — A) A spilled-drink emoji; B) A rough first draft; C) Low-effort AI-generated content flooding a platform → **C**
+4. **SUBTWEET** — A) A post about someone without ever naming them; B) A reply hidden beneath another; C) A post scheduled to go out later → **A**
+5. **LURKER** — A) A process running in the background; B) Someone who reads everything and never posts; C) An automated spam account → **B**
+6. **UNICORN** — A) A bug nobody can reproduce; B) A one-off marketing stunt; C) A startup valued at over a billion dollars → **C**
+7. **BOOTSTRAPPED** — A) Funded out of its own revenue instead of investors; B) Built from a failed company's leftovers; C) Assembled out of borrowed code → **A**
+8. **VAPORWARE** — A) Free software paid for by ads; B) A product announced with fanfare that never ships; C) Software that runs entirely in the cloud → **B**
+9. **SNEAKERNET** — A) A ring of counterfeit sellers; B) A tool for browsing anonymously; C) Moving data by physically carrying drives around → **C**
+10. **YAK SHAVING** — A) The chain of side tasks you hit before the real one; B) Trimming a bloated budget; C) Deleting unused code → **A**
+11. **RUBBER DUCKING** — A) Testing a product on yourself first; B) Explaining a problem out loud until you spot the answer; C) Dodging a difficult conversation → **B**
+12. **SCOPE CREEP** — A) A camera slowly zooming in; B) A deadline moving earlier; C) A project quietly growing past what was agreed → **C**
+13. **TECHNICAL DEBT** — A) Shortcuts taken now that cost you more later; B) Money owed to a software vendor; C) The cost of replacing old hardware → **A**
+14. **DEAD INTERNET THEORY** — A) The idea that old sites never truly vanish; B) The claim that most online activity is now bots; C) A prediction that we'll run out of addresses → **B**
+15. **DOXXING** — A) Locking a document against edits; B) Forging a certificate; C) Publishing someone's private information without consent → **C**
+16. **SWATTING** — A) A fake emergency call that sends armed police to a home; B) Beating back a wave of spam; C) Squashing a software bug → **A**
+17. **CRYPTO WINTER** — A) A total network shutdown; B) A long, grinding slump in cryptocurrency prices; C) A wallet kept offline for safety → **B**
+18. **RUG PULL** — A) An abrupt site redesign; B) Cancelling a subscription mid-term; C) When a project's creators vanish with everyone's money → **C**
+19. **DIAMOND HANDS** — A) Holding an investment through brutal losses; B) An index of luxury goods; C) A manicure trend → **A**
+20. **SKIMPFLATION** — A) Shipping getting slower; B) Same price, quietly worse ingredients or service; C) Type sizes shrinking on packaging → **B**
+21. **DRIP PRICING** — A) Charging by the minute; B) Nudging prices up a little each year; C) Advertising a low price, then adding fees at checkout → **C**
+22. **GHOST KITCHEN** — A) A delivery-only restaurant with no dining room; B) A commercial kitchen sitting unused; C) A kitchen staffed only overnight → **A**
+23. **DARK STORE** — A) A storefront on the dark web; B) A retail space used only to fill online orders; C) A shop with no signage out front → **B**
+24. **LOSS LEADER** — A) The worst-performing product line; B) The manager who takes the blame; C) An item sold below cost to pull customers in → **C**
+25. **ZOMBIE COMPANY** — A) A firm earning just enough to cover its debt payments; B) A company bought and immediately shut down; C) A dead brand revived by new owners → **A**
+26. **SHOVELWARE** — A) A tool for moving files in bulk; B) Low-effort software bundled in to pad out a catalog; C) Landscaping design software → **B**
+27. **AIRDROP** — A) A wireless file transfer between phones; B) An emergency server backup; C) Free crypto tokens sent to wallets to drum up interest → **C**
+28. **GOLDEN HOUR** — A) The hour after sunrise or before sunset, best for photos; B) The peak time of day for posting online; C) The opening hour of a sale → **A**
+29. **GREENFIELD** — A) An outdoor festival site; B) A project built from scratch with no existing constraints; C) A building with eco certification → **B**
+30. **EVERGREEN** — A) A subscription that renews automatically; B) A sustainably sourced product; C) Content that stays relevant long after it's published → **C**
 
 **Medium** (20)
 
-1. **DOOMER** — A) Someone convinced things will only get worse; B) A heavy metal subgenre fan; C) A demolition contractor → **A**
-2. **PARASOCIAL** — A) Socializing in two groups at once; B) A one-sided bond with someone famous who doesn't know you exist; C) A phase of avoiding people → **B**
-3. **SHERLOCKED** — A) Solved a mystery ahead of everyone; B) Locked out of your own account; C) When a platform builds your app's feature and kills your business → **C**
-4. **ASTROTURFING** — A) Fake grassroots support paid for by a company; B) Installing an artificial lawn; C) A skateboarding trick → **A**
-5. **GREENWASHING** — A) Cleaning with vinegar and baking soda; B) Marketing something as eco-friendly when it isn't; C) A green photo filter → **B**
-6. **BIKESHEDDING** — A) Arguing over trivial details while the big decision goes unmade; B) Building storage for bicycles; C) Commuting by bike to save money → **A**
-7. **SHADOWBAN** — A) A nighttime curfew; B) A dark-mode restriction; C) Being quietly hidden from feeds without ever being told → **C**
-8. **SUNSETTING** — A) Discontinuing a product in planned stages; B) An evening photography trend; C) Dimming your screen after dark → **A**
-9. **DOGFOODING** — A) Marketing pet food to humans; B) A company using its own product internally; C) Eating cheaply to save money → **B**
-10. **CHURN** — A) The rate at which customers cancel and leave; B) The sound a struggling engine makes; C) Making butter the old-fashioned way → **A**
-11. **MOAT** — A) A cash reserve for emergencies; B) A durable advantage competitors can't copy; C) A legal barrier to entry → **B**
-12. **FREEMIUM** — A) A free trial that expires; B) Premium service given away free; C) A free basic tier with paid upgrades → **C**
-13. **DEPLATFORMING** — A) Removing someone from the services they use to reach an audience; B) Demolishing a concert stage; C) Getting off a train → **A**
-14. **QUIET FIRING** — A) A silent alarm at a workplace; B) Making a job unpleasant enough that someone quits; C) Terminating someone by text message → **B**
-15. **KAYFABE** — A) A traditional Japanese theater form; B) A convincing fake ID; C) The pretense that staged events are real, borrowed from pro wrestling → **C**
-16. **STREISAND EFFECT** — A) Trying to suppress something makes it spread further; B) A vocal warm-up technique; C) A movie plot cliche → **A**
-17. **PREBUNKING** — A) Booking a trip well in advance; B) Warning people about a false claim before they encounter it; C) Writing a rebuttal ahead of a debate → **B**
-18. **ONBOARDING** — A) Loading cargo onto a ship; B) Boarding a plane by group number; C) Getting a new hire or user up to speed → **C**
-19. **ZOOM FATIGUE** — A) Exhaustion from too many video calls; B) Wear on a camera lens; C) Blur from a fast pan → **A**
-20. **LONGTERMISM** — A) A buy-and-hold investing strategy; B) The view that we should weigh the far future heavily in decisions today; C) A chronic illness classification → **B**
+1. **HOMOPHILY** — A) The tendency to bond with people who are like you; B) A fear of large crowds; C) A preference for symmetry in design → **A**
+2. **SEALIONING** — A) Burying a thread in emoji; B) Harassment disguised as polite, relentless questioning; C) Photobombing someone's livestream → **B**
+3. **CONCERN TROLLING** — A) Reporting posts for entertainment; B) Warning strangers about a scam; C) Posing as a supporter in order to undermine a cause → **C**
+4. **WHATABOUTISM** — A) Deflecting criticism by pointing at someone else's wrongdoing; B) Asking clarifying questions in bad faith; C) Speculating endlessly about the future → **A**
+5. **NUTPICKING** — A) Screening a jury pool; B) Presenting a group's most extreme members as typical of it; C) Selecting only the strongest data points → **B**
+6. **MOTTE AND BAILEY** — A) A medieval board game; B) A two-stage negotiating tactic; C) Retreating to an easy claim when your bold one is challenged → **C**
+7. **STEELMANNING** — A) Arguing the strongest possible version of your opponent's case; B) Propping up a weak argument with data; C) Hardening a system against attack → **A**
+8. **AFFORDANCE** — A) A grant awarded to a startup; B) What an object's design tells you that you can do with it; C) A price a customer can manage → **B**
+9. **LIMINAL** — A) Just barely within the law; B) Having to do with lighting; C) Occupying a threshold, between one state and the next → **C**
+10. **FUNGIBLE** — A) Interchangeable — one unit is as good as any other; B) Able to be broken down into parts; C) Prone to spreading quickly → **A**
+11. **ANTIFRAGILE** — A) A fragile system with good backups; B) Something that gets stronger from stress and disorder; C) Packaging built to resist damage → **B**
+12. **LINDY EFFECT** — A) The delay between a cause and its effect; B) The tendency of crowds to fall into sync; C) The longer something has survived, the longer it's likely to last → **C**
+13. **SURVIVORSHIP BIAS** — A) Drawing conclusions only from the things that made it through; B) A preference for hiring older workers; C) Overestimating your own resilience → **A**
+14. **VELLEITY** — A) A minor legal technicality; B) A wish too faint to ever act on; C) A sudden burst of speed → **B**
+15. **SALIENCE** — A) The saltiness of a solution; B) A formal style of greeting; C) How much something stands out and seizes attention → **C**
+16. **HEURISTIC** — A) A mental shortcut that's usually good enough; B) A step-by-step formal proof; C) A diagnostic scan → **A**
+17. **EPISTEMIC** — A) Recurring at regular intervals; B) Having to do with knowledge and how we come to know it; C) Relating to the spread of disease → **B**
+18. **GRANFALLOON** — A) An oversized hot-air balloon; B) A lavish grand opening; C) A group whose shared identity is essentially meaningless → **C**
+19. **VALENCE** — A) Whether an experience is positively or negatively charged; B) The strength of a broadcast signal; C) A formal dress ball → **A**
+20. **ASYMMETRIC INFORMATION** — A) A one-way method of encryption; B) A deal where one side knows far more than the other; C) Data stored in uneven block sizes → **B**
 
 **Hard** (20)
 
@@ -277,76 +277,76 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 4. **ALGORITHMIC**
 5. **QUARANTINE**
 6. **AESTHETIC**
-7. **BOUGIE**
-8. **MILLENNIAL**
-9. **SOURDOUGH**
-10. **SUSTAINABILITY**
-11. **AUTONOMOUS**
-12. **SUBSCRIPTION**
-13. **CONNOISSEUR**
-14. **BUREAUCRACY**
-15. **MICROPLASTIC**
-16. **RENAISSANCE**
-17. **ESPRESSO**
-18. **GUACAMOLE**
-19. **PLAGIARISM**
-20. **NEURODIVERGENT**
-21. **PHENOMENON**
-22. **RHYTHM**
-23. **LABYRINTH**
-24. **SILHOUETTE**
-25. **PARAPHERNALIA**
-26. **CAMOUFLAGE**
-27. **MISCHIEVOUS**
-28. **ONOMATOPOEIA**
-29. **ACQUIESCE**
-30. **CONSCIENTIOUS**
+7. **MILLENNIAL**
+8. **SUSTAINABILITY**
+9. **SUBSCRIPTION**
+10. **MICROPLASTIC**
+11. **RENAISSANCE**
+12. **PLAGIARISM**
+13. **NEURODIVERGENT**
+14. **PHENOMENON**
+15. **RHYTHM**
+16. **LABYRINTH**
+17. **SILHOUETTE**
+18. **CAMOUFLAGE**
+19. **MISCHIEVOUS**
+20. **ACQUIESCE**
+21. **CONSCIENTIOUS**
+22. **MAINTENANCE**
+23. **EMBARRASSED**
+24. **DEFINITELY**
+25. **SEPARATE**
+26. **NECESSARY**
+27. **RECOMMEND**
+28. **COLLEAGUE**
+29. **HIERARCHY**
+30. **EXAGGERATE**
 
 **Medium** (20)
 
-1. **MAINTENANCE**
-2. **OCCURRENCE**
-3. **EMBARRASSED**
-4. **DEFINITELY**
-5. **SEPARATE**
-6. **NECESSARY**
-7. **LIAISON**
-8. **ACCOMMODATE**
-9. **PRIVILEGE**
-10. **RECOMMEND**
-11. **QUESTIONNAIRE**
-12. **VACUUM**
-13. **BROCCOLI**
-14. **COLLEAGUE**
-15. **THRESHOLD**
-16. **HARASS**
-17. **MILLENNIUM**
-18. **PERSEVERANCE**
-19. **CEMETERY**
-20. **PLAYWRIGHT**
+1. **RENDEZVOUS**
+2. **CHAUFFEUR**
+3. **MNEMONIC**
+4. **SUBPOENA**
+5. **ISTHMUS**
+6. **CONNOISSEUR**
+7. **BUREAUCRACY**
+8. **QUESTIONNAIRE**
+9. **ACCOMMODATE**
+10. **OCCURRENCE**
+11. **MILLENNIUM**
+12. **LIAISON**
+13. **PERSEVERANCE**
+14. **HARASS**
+15. **BROCCOLI**
+16. **PRIVILEGE**
+17. **CEMETERY**
+18. **PLAYWRIGHT**
+19. **THRESHOLD**
+20. **VACUUM**
 
 **Hard** (20)
 
-1. **HORS D'OEUVRE**
-2. **RESTAURATEUR**
-3. **WORCESTERSHIRE**
-4. **BOUILLABAISSE**
-5. **CHAUFFEUR**
-6. **SCHADENFREUDE**
-7. **ANTIDISESTABLISHMENTARIANISM**
-8. **PNEUMONIA**
-9. **HAUTE COUTURE**
-10. **RENDEZVOUS**
-11. **BOURGEOISIE**
-12. **QUINOA**
-13. **SYZYGY**
-14. **ISTHMUS**
-15. **MNEMONIC**
-16. **SUBPOENA**
-17. **CHIAROSCURO**
-18. **PHLEGMATIC**
-19. **IDIOSYNCRASY**
-20. **ZUCCHINI**
+1. **WORCESTERSHIRE**
+2. **BOUILLABAISSE**
+3. **SCHADENFREUDE**
+4. **CHIAROSCURO**
+5. **IDIOSYNCRASY**
+6. **HORS D'OEUVRE**
+7. **RESTAURATEUR**
+8. **BOURGEOISIE**
+9. **PHLEGMATIC**
+10. **SYZYGY**
+11. **ONOMATOPOEIA**
+12. **SACRILEGIOUS**
+13. **MILLEFEUILLE**
+14. **WEIMARANER**
+15. **PARALLELEPIPED**
+16. **DIPHTHONG**
+17. **MINUSCULE**
+18. **DAIQUIRI**
+19. **SUPERSEDE**
+20. **PARAPHERNALIA**
 
 
 ## Creative Cat — Draw it, sculpt it, no words allowed (210 cards)
@@ -364,29 +364,29 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 3. A selfie stick
 4. An electric scooter
 5. A food delivery bag
-6. A robot vacuum
+6. A wireless charging pad
 7. A smartwatch
 8. A delivery drone
-9. A QR code
+9. A drive-thru line
 10. A tangled charging cable
 11. A video call
-12. An air fryer
+12. A dashcam
 13. A gaming setup
-14. A group chat
+14. A luggage tracker
 15. A cracked phone screen
 16. Noise-cancelling headphones
 17. A self-checkout machine
 18. Doomscrolling in bed
-19. A charcuterie board
+19. A smart thermostat
 20. An EV charging station
 21. A standing desk
 22. A cat on a laptop
 23. A package on a doorstep
 24. A VR headset
 25. Phone flashlights at a concert
-26. A dog in a stroller
-27. Latte art
-28. A pickleball court
+26. A meal kit box
+27. A phone gimbal
+28. A podcast studio
 29. A smart doorbell
 30. A bad haircut
 
@@ -445,23 +445,23 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 **Easy** (30)
 
 1. A Wi-Fi symbol
-2. A smartphone
-3. A slice of pizza
-4. A heart
+2. A wristwatch
+3. A ladder
+4. A wheelbarrow
 5. A shopping cart
 6. A rocket ship
 7. A coffee cup with a lid
 8. A pair of earbuds
-9. A thumbs up
+9. A watering can
 10. A house with a satellite dish
-11. A hashtag
+11. A mailbox on a post
 12. A traffic cone
 13. A dog wearing sunglasses
-14. A hamburger
+14. A toaster with toast
 15. A skateboard
 16. A battery charging symbol
 17. A tent under the stars
-18. A ghost
+18. A key
 19. A treadmill
 20. A pineapple
 21. A paper airplane
@@ -471,7 +471,7 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 25. An avocado cut in half
 26. A shopping bag with handles
 27. A soccer ball
-28. A light bulb
+28. A padlock
 29. A snowman wearing headphones
 30. A taco
 
@@ -530,11 +530,11 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 **Easy** (30)
 
 1. A game controller
-2. A boba tea
+2. A bike helmet
 3. A ring light
 4. A smart speaker
-5. A face mask
-6. A charging brick
+5. A pair of scissors
+6. A desk lamp
 7. A robot dog
 8. Avocado toast
 9. A drone
@@ -542,22 +542,22 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 11. A cell tower
 12. A robot vacuum
 13. A podcast microphone
-14. A Croc
-15. A sourdough loaf
+14. A french press
+15. A tripod
 16. An electric car
 17. A selfie stick
 18. A rubber duck
 19. A satellite
 20. A taco truck
-21. A water bottle
-22. A dumbbell
+21. A ceiling fan
+22. A shopping basket
 23. A VR headset
 24. A shopping cart
 25. A hoverboard
 26. A pickleball paddle
 27. An IV drip
 28. A wedding cake
-29. A cracked laptop
+29. A hair dryer
 30. A hamster ball
 
 **Medium** (20)
@@ -617,9 +617,9 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 
 **Easy** (30)
 
-1. What short-video app, owned by ByteDance, launched internationally in 2017? → **TikTok**
+1. Which company owns YouTube? → **Google (Alphabet)**
 2. What Korean survival drama became Netflix's most-watched series ever after it premiered in 2021? → **Squid Game**
-3. Which company makes ChatGPT? → **OpenAI**
+3. What does the 'www' in a web address stand for? → **World Wide Web**
 4. What 2023 film about the father of the atomic bomb won Best Picture? → **Oppenheimer**
 5. Facebook's parent company renamed itself in 2021. What is it called now? → **Meta**
 6. Whose Eras Tour became the first concert tour to gross over $1 billion? → **Taylor Swift**
@@ -629,11 +629,11 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 10. Which company released the Vision Pro headset in 2024? → **Apple**
 11. Which social network did Elon Musk buy in 2022 and rename X? → **Twitter**
 12. What 2023 movie about a fashion doll grossed over a billion dollars? → **Barbie**
-13. What does 'GOAT' stand for in sports slang? → **Greatest Of All Time**
-14. Which country hosted the 2024 Summer Olympics? → **France (Paris)**
+13. What does 'GPS' stand for? → **Global Positioning System**
+14. Which private company flies NASA astronauts to the space station? → **SpaceX**
 15. What is the name of the AI assistant made by Anthropic? → **Claude**
 16. Which food delivery app calls its couriers 'Dashers'? → **DoorDash**
-17. What console did Nintendo release in 2017 that plays both handheld and docked to a TV? → **The Nintendo Switch**
+17. Which planet is NASA's Perseverance rover exploring? → **Mars**
 18. Who became the first woman to serve as Vice President of the United States? → **Kamala Harris**
 19. How many characters can fit in a standard free post on X (formerly Twitter)? → **280**
 20. What 2016 mobile game had people wandering the streets catching creatures? → **Pokemon GO**
@@ -642,9 +642,9 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 23. What space telescope, launched in December 2021, is the successor to Hubble? → **The James Webb Space Telescope**
 24. What language-learning app has a green owl as its mascot? → **Duolingo**
 25. What paddle sport, played with a perforated plastic ball, became the fastest-growing sport in America? → **Pickleball**
-26. What streaming service produced 'Stranger Things'? → **Netflix**
-27. In what year did the World Health Organization declare COVID-19 a pandemic? → **2020**
-28. What app made 'swipe right' a part of everyday language? → **Tinder**
+26. What does 'USB' stand for? → **Universal Serial Bus**
+27. Which city's Summer Olympics were postponed to 2021? → **Tokyo**
+28. Which company makes the PlayStation? → **Sony**
 29. What Disney+ series follows a bounty hunter and a small green alien child? → **The Mandalorian**
 30. What word describes the practice of doing your job from anywhere while traveling? → **Being a digital nomad**
 
@@ -703,17 +703,17 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 **Easy** (30)
 
 1. Netflix started out as a DVD-by-mail rental company. → **TRUE**
-2. 'The cloud' is one enormous computer located in Nevada. → **FALSE**
-3. Taylor Swift re-recorded her old albums and labeled them '(Taylor's Version)'. → **TRUE**
+2. The very first text message ever sent read 'Merry Christmas.' → **TRUE**
+3. There are more possible games of chess than atoms in the observable universe. → **TRUE**
 4. TikTok absorbed an app called Musical.ly to break into the US market. → **TRUE**
 5. Bitcoin has an unlimited supply. → **FALSE** (It's capped at 21 million coins.)
 6. The first iPhone was released in 2007. → **TRUE**
 7. Emoji were invented in the United States. → **FALSE** (They were invented in Japan in the late 1990s.)
 8. The New York Times bought Wordle. → **TRUE**
-9. Instagram was owned by Facebook before Facebook renamed itself Meta. → **TRUE**
+9. Google was originally called BackRub. → **TRUE**
 10. The word 'podcast' comes from the iPod. → **TRUE**
 11. Zoom was founded during the COVID-19 pandemic. → **FALSE** (It was founded in 2011.)
-12. AI image generators work by searching the internet and pasting real photos together. → **FALSE**
+12. The Bluetooth logo is built from two Scandinavian runes. → **TRUE**
 13. In most US states, rideshare drivers are legally employees of the app company. → **FALSE** (They're generally independent contractors.)
 14. 'Doomscrolling' has been added to major dictionaries. → **TRUE**
 15. Spotify pays artists about one dollar per stream. → **FALSE** (It's a fraction of a cent.)
@@ -721,17 +721,17 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 17. QR codes were invented in the 2010s for restaurant menus. → **FALSE** (They were invented in Japan in 1994 for tracking car parts.)
 18. Airbnb started when its founders rented out air mattresses in their own apartment. → **TRUE**
 19. Electric cars have more moving parts in the drivetrain than gas cars. → **FALSE**
-20. Streaming a song requires downloading the whole file first. → **FALSE**
+20. Amazon started out selling only books. → **TRUE**
 21. 'Barbie' and 'Oppenheimer' were released in theaters on the same day. → **TRUE**
 22. Google's parent company is named Alphabet. → **TRUE**
-23. A 'deepfake' is a video file that's unusually large. → **FALSE** (It's synthetic media faking a real person.)
+23. YouTube was founded by former PayPal employees. → **TRUE**
 24. Slack was originally built as an internal tool at a video game company. → **TRUE**
 25. The James Webb Space Telescope orbits the Earth, just like Hubble. → **FALSE** (It orbits the Sun, about a million miles out.)
 26. Duolingo's mascot is an owl. → **TRUE**
 27. 'Rizz' is short for 'charisma.' → **TRUE**
 28. Nvidia got its start making graphics cards for video games. → **TRUE**
-29. There are more than 8 billion people alive on Earth. → **TRUE**
-30. The Nintendo Switch can only be played docked to a television. → **FALSE**
+29. The @ symbol appeared on typewriters before computers existed. → **TRUE**
+30. Wikipedia's articles are written by paid staff writers. → **FALSE** (It's written and edited by unpaid volunteers.)
 
 **Medium** (20)
 
@@ -788,27 +788,27 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 **Easy** (30)
 
 1. Which of these launched FIRST? — A) TikTok; B) Instagram; C) Snapchat; D) Zoom → **B**
-2. What does 'NFT' stand for? — A) New Financial Token; B) Networked File Transfer; C) Non-Fungible Token; D) Nearly Free Trade → **C**
-3. Which streaming service is home to 'The Mandalorian'? — A) Netflix; B) Hulu; C) Max; D) Disney+ → **D**
-4. Roughly how many people live on Earth today? — A) 5 billion; B) 8 billion; C) 11 billion; D) 6 billion → **B**
+2. What does 'HTTP' stand for? — A) HyperText Transfer Protocol; B) High Traffic Transfer Process; C) Hosted Text Transport Protocol; D) Hyperlink Transmission Path → **A**
+3. Which of these came first? — A) The first iPhone; B) Facebook; C) YouTube; D) The first Android phone → **B**
+4. Roughly how long does light take to travel from the Sun to Earth? — A) 8 seconds; B) 8 minutes; C) 8 hours; D) 8 days → **B**
 5. Which of these is NOT a real social media app? — A) BeReal; B) Bluesky; C) Blipster; D) Threads → **C**
 6. Which dictionary named 'rizz' its Word of the Year in 2023? — A) Merriam-Webster; B) Oxford; C) Cambridge; D) Collins → **B**
 7. In AI, what is a 'hallucination'? — A) The model overheating; B) The model confidently stating something false; C) A rendering glitch; D) Motion sickness in VR → **B**
-8. Which company owns Instagram, WhatsApp, and Facebook? — A) Alphabet; B) Tencent; C) Meta; D) X Corp → **C**
+8. What is the most-watched sporting event in the world? — A) The Super Bowl; B) The FIFA World Cup final; C) The Olympic opening ceremony; D) The Tour de France → **B**
 9. Which of these is a real K-pop group? — A) REDSQUARE; B) BLACKPINK; C) GREENLIGHT; D) BLUEMOON → **B**
 10. What year did ChatGPT first launch to the public? — A) 2018; B) 2020; C) 2022; D) 2024 → **C**
 11. Which of these is a Taylor Swift album? — A) The Tortured Poets Department; B) The Wounded Painters Society; C) The Lonely Novelists Guild; D) The Broken Sculptors Union → **A**
-12. Which app is best known for photos that disappear? — A) Pinterest; B) LinkedIn; C) Reddit; D) Snapchat → **D**
+12. Which of these is a unit of digital storage? — A) Hertz; B) Terabyte; C) Lumen; D) Ohm → **B**
 13. What do you call someone who works remotely while traveling the world? — A) A telecommuter; B) A digital nomad; C) A freelancer; D) A remote monk → **B**
 14. Which of these is a real electric vehicle brand? — A) Rivera; B) Riviera; C) Rivian; D) Rivet → **C**
 15. What are the 'streaming wars'? — A) An esports league; B) Competition between video subscription services; C) A dispute over river water rights; D) Live battles on TikTok → **B**
 16. Which of these was a viral TikTok dance? — A) The Renegade; B) The Macarena; C) The Cha Cha Slide; D) The Cotton-Eyed Joe → **A**
 17. Ozempic was originally prescribed to treat what? — A) Migraines; B) Insomnia; C) Type 2 diabetes; D) Seasonal allergies → **C**
 18. TikTok's parent company ByteDance is headquartered in which country? — A) South Korea; B) Singapore; C) Japan; D) China → **D**
-19. What does 'FOMO' stand for? — A) Fear Of Missing Out; B) For Members Only; C) Front Of My Office; D) Full On Meltdown → **A**
+19. What does the 'G' in 5G stand for? — A) Gigabyte; B) Generation; C) Global; D) Gigahertz → **B**
 20. Which of these is a real Netflix series? — A) Tuesday; B) Wednesday; C) Thursday; D) Sunday → **B**
-21. What is the name of Amazon's voice assistant? — A) Siri; B) Cortana; C) Alexa; D) Bixby → **C**
-22. Which platform organizes its communities into 'subreddits'? — A) Discord; B) Tumblr; C) Twitch; D) Reddit → **D**
+21. Which company makes the Galaxy line of phones? — A) LG; B) Samsung; C) Sony; D) Huawei → **B**
+22. What does 'CPU' stand for? — A) Central Processing Unit; B) Core Power Unit; C) Computer Peripheral Update; D) Central Program Utility → **A**
 23. What is a 'situationship'? — A) An open-plan office; B) A romantic relationship nobody has defined; C) A group chat; D) A workplace dispute → **B**
 24. Which of these is a real AI assistant? — A) Clyde; B) Claude; C) Clive; D) Clara → **B**
 25. What does 'EV' stand for? — A) Extra Value; B) Engine Volume; C) Electric Vehicle; D) Exit Velocity → **C**
@@ -876,30 +876,30 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 **Easy** (30)
 
 1. Looking for a signal
-2. Unboxing a package
+2. A first day at a new job
 3. Talking on mute
-4. A yoga class
+4. Waking up late for work
 5. Assembling furniture
 6. Waiting for a ride
 7. Making a latte
-8. Photographing your food
+8. A blind date
 9. A robot vacuum attack
 10. Stuck in a revolving door
-11. Airport security
+11. Losing signal mid-call
 12. Sneaking snacks into a movie
-13. A home workout
+13. A package that's too big
 14. A dying phone battery
 15. Catching a closing elevator
-16. Parallel parking
+16. Ordering at a loud bar
 17. Forgetting a dance
 18. Tangled headphones
 19. A declined card
 20. Unsending a text
-21. Folding a fitted sheet
+21. Waiting on hold
 22. Spotify Wrapped
 23. Missing the group chat
 24. Sneezing in a mask
-25. Looking busy
+25. Wrapping an awkward gift
 26. A gym mirror selfie
 27. Scanning a QR code
 28. Installing a car seat
@@ -966,18 +966,18 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 4. A reality show judge
 5. A fitness influencer
 6. An AI chatbot
-7. A flight attendant
-8. A sports announcer
-9. A yoga instructor
+7. A boxing ring announcer
+8. A librarian shushing you
+9. An infomercial host
 10. A customer service rep
-11. A movie trailer voiceover
+11. A chess commentator
 12. A weather reporter in a storm
 13. A drive-thru speaker
-14. A wine snob
+14. A safari guide
 15. A parent using a new phone
-16. An auctioneer
+16. An airport announcement
 17. A nature documentary narrator
-18. A mall Santa
+18. A hype man
 19. A DJ hyping the crowd
 20. A comedian bombing
 21. A lawyer's closing argument
@@ -987,7 +987,7 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 25. A gate agent announcing a delay
 26. A gamer rage quitting
 27. A meditation app narrator
-28. A car salesperson
+28. A voice actor playing a villain
 29. A chatty dentist
 30. A bored tour guide
 
@@ -1047,12 +1047,12 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 
 1. **Espresso** — Sabrina Carpenter
 2. **Blinding Lights** — The Weeknd
-3. **Shake It Off** — Taylor Swift
-4. **Uptown Funk** — Mark Ronson & Bruno Mars
-5. **Old Town Road** — Lil Nas X
+3. **Viva La Vida** — Coldplay
+4. **Say Something** — A Great Big World
+5. **Perfect** — Ed Sheeran
 6. **Bad Guy** — Billie Eilish
-7. **Let It Go** — from Frozen
-8. **Happy** — Pharrell Williams
+7. **Locked Out of Heaven** — Bruno Mars
+8. **Pompeii** — Bastille
 9. **Levitating** — Dua Lipa
 10. **Dynamite** — BTS
 11. **Someone Like You** — Adele
@@ -1062,12 +1062,12 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 15. **Flowers** — Miley Cyrus
 16. **As It Was** — Harry Styles
 17. **Anti-Hero** — Taylor Swift
-18. **Roar** — Katy Perry
+18. **A Thousand Years** — Christina Perri
 19. **Rolling in the Deep** — Adele
-20. **Can't Stop the Feeling!** — Justin Timberlake
+20. **This Is Me** — from The Greatest Showman
 21. **Thunder** — Imagine Dragons
 22. **Sunflower** — Post Malone & Swae Lee
-23. **Baby Shark** — Pinkfong
+23. **Sugar** — Maroon 5
 24. **Unstoppable** — Sia
 25. **Counting Stars** — OneRepublic
 26. **The Stranger Things theme** — TV theme

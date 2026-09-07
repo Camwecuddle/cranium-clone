@@ -24,15 +24,20 @@ axis rather than just getting longer:
 
 | Card type | Easy | Hard |
 | --- | --- | --- |
-| Blankout | Under half the letters showing, on something famous | Almost no letters showing, on a term you have to actually know |
-| Gnilleps | Short words | Fifteen-letter words with ugly consonant runs |
-| Lexicon | Slang you've heard | Obscure terms where all three definitions sound plausible |
-| Spellbound | Commonly misspelled words | `WORCESTERSHIRE`, `BOUILLABAISSE`, `SYZYGY` |
+| Blankout | About a third of the letters showing, on something famous | Almost no letters showing, on a term you have to actually know |
+| Gnilleps | 7–9 letters | 12–16 letters, with ugly consonant runs |
+| Lexicon | Terms you've seen but couldn't define exactly | Obscure terms where all three definitions sound plausible |
+| Spellbound | Commonly misspelled words | Silent letters and foreign spellings — `MILLEFEUILLE`, `PARALLELEPIPED`, `SYZYGY` |
 | Cloodle / Sensosketch / Sculptorades | A concrete object | An abstract concept — *burnout*, *the attention economy* |
 | Cameo / Copycat | A simple physical bit | Abstractions — *déjà vu*, *compound interest*, *the last slice of pizza* |
 | Factoid / Selectaquest | General knowledge | Dates, figures, and specifics |
 | Polygraph | Obviously true or obviously false | Counterintuitive facts and believable falsehoods |
 | Humdinger | Hooks everybody knows | Film scores, game themes, and the Netflix *ta-dum* |
+
+Easy is not a different game — it's the same game with a fair chance of getting it. A
+Lexicon card should still be close to a coin flip the way the original's were; if your
+table is guessing every easy card correctly, something is miscalibrated and worth
+retuning in the JSON.
 
 Mixing tiers works well as a handicap: put the people who play a lot on hard and everyone
 else on easy.
