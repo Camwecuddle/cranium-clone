@@ -8,94 +8,284 @@
       "howto": "Charades. Act it out silently — no talking, no sound effects, no pointing at objects in the room.",
       "cards": [
         {
-          "clue": "Holding your phone in the air hunting for a signal"
+          "clue": "Holding your phone in the air hunting for a signal",
+          "difficulty": "easy"
         },
         {
-          "clue": "Unboxing a package on camera"
+          "clue": "Unboxing a package on camera",
+          "difficulty": "easy"
         },
         {
-          "clue": "Realizing you were on mute the entire meeting"
+          "clue": "Realizing you were on mute the entire meeting",
+          "difficulty": "easy"
         },
         {
-          "clue": "A yoga class going very badly"
+          "clue": "A yoga class going very badly",
+          "difficulty": "easy"
         },
         {
-          "clue": "Assembling flat-pack furniture without the instructions"
+          "clue": "Assembling flat-pack furniture without the instructions",
+          "difficulty": "easy"
         },
         {
-          "clue": "Waiting for a rideshare that keeps circling the block"
+          "clue": "Waiting for a rideshare that keeps circling the block",
+          "difficulty": "easy"
         },
         {
-          "clue": "A barista making an absurdly complicated latte"
+          "clue": "A barista making an absurdly complicated latte",
+          "difficulty": "easy"
         },
         {
-          "clue": "Getting the perfect overhead photo of your dinner"
+          "clue": "Getting the perfect overhead photo of your dinner",
+          "difficulty": "easy"
         },
         {
-          "clue": "Being chased around the room by a robot vacuum"
+          "clue": "Being chased around the room by a robot vacuum",
+          "difficulty": "easy"
         },
         {
-          "clue": "Getting stuck in a revolving door"
+          "clue": "Getting stuck in a revolving door",
+          "difficulty": "easy"
         },
         {
-          "clue": "Going through airport security with too much stuff"
+          "clue": "Going through airport security with too much stuff",
+          "difficulty": "easy"
         },
         {
-          "clue": "Opening a bag of chips quietly in a movie theater"
+          "clue": "Opening a bag of chips quietly in a movie theater",
+          "difficulty": "easy"
         },
         {
-          "clue": "Doing a live workout stream in a tiny apartment"
+          "clue": "Doing a live workout stream in a tiny apartment",
+          "difficulty": "easy"
         },
         {
-          "clue": "Your phone dying at 1% while you're navigating"
+          "clue": "Your phone dying at 1% while you're navigating",
+          "difficulty": "easy"
         },
         {
-          "clue": "Speed-walking to catch a closing elevator"
+          "clue": "Speed-walking to catch a closing elevator",
+          "difficulty": "easy"
         },
         {
-          "clue": "Parallel parking while people watch"
+          "clue": "Parallel parking while people watch",
+          "difficulty": "easy"
         },
         {
-          "clue": "Forgetting the moves halfway through a dance video"
+          "clue": "Forgetting the moves halfway through a dance video",
+          "difficulty": "easy"
         },
         {
-          "clue": "Getting your headphone cord caught on a doorknob"
+          "clue": "Getting your headphone cord caught on a doorknob",
+          "difficulty": "easy"
         },
         {
-          "clue": "Your card getting declined on a first date"
+          "clue": "Your card getting declined on a first date",
+          "difficulty": "easy"
         },
         {
-          "clue": "Deleting a text before the other person reads it"
+          "clue": "Deleting a text before the other person reads it",
+          "difficulty": "easy"
         },
         {
-          "clue": "Trying to fold a fitted sheet"
+          "clue": "Trying to fold a fitted sheet",
+          "difficulty": "easy"
         },
         {
-          "clue": "Reacting to your year-end music stats"
+          "clue": "Reacting to your year-end music stats",
+          "difficulty": "easy"
         },
         {
-          "clue": "Being the only one who didn't see the group chat"
+          "clue": "Being the only one who didn't see the group chat",
+          "difficulty": "easy"
         },
         {
-          "clue": "Sneezing while wearing a face mask"
+          "clue": "Sneezing while wearing a face mask",
+          "difficulty": "easy"
         },
         {
-          "clue": "Looking busy the second your boss walks by"
+          "clue": "Looking busy the second your boss walks by",
+          "difficulty": "easy"
         },
         {
-          "clue": "Taking a mirror selfie in a crowded gym"
+          "clue": "Taking a mirror selfie in a crowded gym",
+          "difficulty": "easy"
         },
         {
-          "clue": "Trying to scan a QR code that won't focus"
+          "clue": "Trying to scan a QR code that won't focus",
+          "difficulty": "easy"
         },
         {
-          "clue": "Wrestling a fitted car seat into the back of a car"
+          "clue": "Wrestling a fitted car seat into the back of a car",
+          "difficulty": "easy"
         },
         {
-          "clue": "Pretending to know a song's words at a concert"
+          "clue": "Pretending to know a song's words at a concert",
+          "difficulty": "easy"
         },
         {
-          "clue": "Getting a splash from a puddle by a passing car"
+          "clue": "Getting a splash from a puddle by a passing car",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "Sneaking out of a party without saying goodbye",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Realizing mid-presentation that you're sharing the wrong screen",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Getting a haircut you hate and pretending to love it",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Taking a group photo with a self-timer",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Stuck in a middle seat between two sleepers",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Returning something without a receipt",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Waiting for a very slow elevator with your boss",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Fighting with a childproof cap",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Setting up a tent in the wind",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Being the designated driver at 1am",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Learning your flight is delayed six hours",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Teaching a grandparent to use a video call",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Realizing you left your wallet at the restaurant",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Getting caught by a rotating lawn sprinkler",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Eating soup on a moving train",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Being picked last for a team",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Hunting for keys at the bottom of a deep bag",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Escaping a group photo you're not part of",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Assembling a gift the night before the birthday",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Noticing your shirt is inside out mid-meeting",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Deja vu",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "Writer's block",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "Jet lag",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "Nostalgia",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "Regret",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "A conspiracy theory spreading",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "Compound interest",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "Peer pressure",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "Gravity",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "Evolution",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "Democracy",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "Inflation",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "Procrastination",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "Karma",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "Gentrification",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "A midlife crisis",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "Supply and demand",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "Free will",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "Bureaucracy",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "The passage of time",
+          "difficulty": "hard"
         }
       ]
     },
@@ -104,94 +294,284 @@
       "howto": "Impersonate it out loud. Talk and act like them — but never say their name or the words on the card.",
       "cards": [
         {
-          "clue": "A tech CEO unveiling a product on stage"
+          "clue": "A tech CEO unveiling a product on stage",
+          "difficulty": "easy"
         },
         {
-          "clue": "A true-crime podcast host"
+          "clue": "A true-crime podcast host",
+          "difficulty": "easy"
         },
         {
-          "clue": "A GPS voice recalculating for the fourth time"
+          "clue": "A GPS voice recalculating for the fourth time",
+          "difficulty": "easy"
         },
         {
-          "clue": "A reality TV show judge delivering bad news"
+          "clue": "A reality TV show judge delivering bad news",
+          "difficulty": "easy"
         },
         {
-          "clue": "A fitness influencer filming a 5am morning routine"
+          "clue": "A fitness influencer filming a 5am morning routine",
+          "difficulty": "easy"
         },
         {
-          "clue": "An AI chatbot politely refusing to answer"
+          "clue": "An AI chatbot politely refusing to answer",
+          "difficulty": "easy"
         },
         {
-          "clue": "A flight attendant doing the safety demonstration"
+          "clue": "A flight attendant doing the safety demonstration",
+          "difficulty": "easy"
         },
         {
-          "clue": "A sports announcer calling a last-second goal"
+          "clue": "A sports announcer calling a last-second goal",
+          "difficulty": "easy"
         },
         {
-          "clue": "A yoga instructor at the end of class"
+          "clue": "A yoga instructor at the end of class",
+          "difficulty": "easy"
         },
         {
-          "clue": "An unnervingly enthusiastic customer service rep"
+          "clue": "An unnervingly enthusiastic customer service rep",
+          "difficulty": "easy"
         },
         {
-          "clue": "A movie trailer voiceover"
+          "clue": "A movie trailer voiceover",
+          "difficulty": "easy"
         },
         {
-          "clue": "A weather reporter standing in a hurricane"
+          "clue": "A weather reporter standing in a hurricane",
+          "difficulty": "easy"
         },
         {
-          "clue": "A drive-thru speaker you can barely understand"
+          "clue": "A drive-thru speaker you can barely understand",
+          "difficulty": "easy"
         },
         {
-          "clue": "A wine snob at a tasting"
+          "clue": "A wine snob at a tasting",
+          "difficulty": "easy"
         },
         {
-          "clue": "A parent trying to use a new phone"
+          "clue": "A parent trying to use a new phone",
+          "difficulty": "easy"
         },
         {
-          "clue": "An auctioneer"
+          "clue": "An auctioneer",
+          "difficulty": "easy"
         },
         {
-          "clue": "A nature documentary narrator"
+          "clue": "A nature documentary narrator",
+          "difficulty": "easy"
         },
         {
-          "clue": "A mall Santa on his last shift"
+          "clue": "A mall Santa on his last shift",
+          "difficulty": "easy"
         },
         {
-          "clue": "A DJ hyping a crowd that isn't into it"
+          "clue": "A DJ hyping a crowd that isn't into it",
+          "difficulty": "easy"
         },
         {
-          "clue": "A stand-up comedian bombing"
+          "clue": "A stand-up comedian bombing",
+          "difficulty": "easy"
         },
         {
-          "clue": "A lawyer's closing argument on a legal drama"
+          "clue": "A lawyer's closing argument on a legal drama",
+          "difficulty": "easy"
         },
         {
-          "clue": "A soccer player faking an injury"
+          "clue": "A soccer player faking an injury",
+          "difficulty": "easy"
         },
         {
-          "clue": "A barista calling out a name they can't pronounce"
+          "clue": "A barista calling out a name they can't pronounce",
+          "difficulty": "easy"
         },
         {
-          "clue": "A cooking show host tasting their own dish"
+          "clue": "A cooking show host tasting their own dish",
+          "difficulty": "easy"
         },
         {
-          "clue": "An airline gate agent announcing another delay"
+          "clue": "An airline gate agent announcing another delay",
+          "difficulty": "easy"
         },
         {
-          "clue": "A gamer streaming a rage quit"
+          "clue": "A gamer streaming a rage quit",
+          "difficulty": "easy"
         },
         {
-          "clue": "A meditation app narrator"
+          "clue": "A meditation app narrator",
+          "difficulty": "easy"
         },
         {
-          "clue": "A car salesperson closing a deal"
+          "clue": "A car salesperson closing a deal",
+          "difficulty": "easy"
         },
         {
-          "clue": "A dentist making small talk mid-cleaning"
+          "clue": "A dentist making small talk mid-cleaning",
+          "difficulty": "easy"
         },
         {
-          "clue": "A tour guide who has given this tour 900 times"
+          "clue": "A tour guide who has given this tour 900 times",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A podcast guest who will not stop plugging their book",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "A landlord showing a very small apartment",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "A pilot delivering bad news cheerfully",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "A life coach on a livestream",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "A radio DJ reading the traffic report",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "A museum audio guide",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "A hostage negotiator in a movie",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "A late-night used car commercial",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "A wedding officiant who barely knows the couple",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "A news anchor during breaking news",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "A golf commentator whispering",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "A telemarketer who won't take no",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "A sommelier describing tap water",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "A referee explaining a video review",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "A politician dodging a direct question",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "A cooking competition judge delivering a critique",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "A self-checkout machine's error message",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "A theme park ride safety announcement",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "A trainer counting your last three reps",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "A documentary subject reminiscing about the 90s",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "A GPS that has given up on you",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "The Wi-Fi router in your house",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "An AI politely refusing your request",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "A vending machine that ate your money",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "Your phone's battery at 2%",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "A smoke alarm with a low battery",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "An email that's been left on read",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "The last slice of pizza",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "A password you can't remember",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "A traffic light in a very small town",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "An algorithm choosing what you see next",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "A group chat everyone has muted",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "An office printer",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "A gym membership nobody uses",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "The comments section",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "An expiring free trial",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "A software update that won't stop asking",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "A shopping cart with one broken wheel",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "An autocorrect that keeps guessing wrong",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "A data center full of servers",
+          "difficulty": "hard"
         }
       ]
     },
@@ -201,123 +581,353 @@
       "cards": [
         {
           "clue": "Espresso",
-          "artist": "Sabrina Carpenter"
+          "artist": "Sabrina Carpenter",
+          "difficulty": "easy"
         },
         {
           "clue": "Blinding Lights",
-          "artist": "The Weeknd"
+          "artist": "The Weeknd",
+          "difficulty": "easy"
         },
         {
           "clue": "Shake It Off",
-          "artist": "Taylor Swift"
+          "artist": "Taylor Swift",
+          "difficulty": "easy"
         },
         {
           "clue": "Uptown Funk",
-          "artist": "Mark Ronson & Bruno Mars"
+          "artist": "Mark Ronson & Bruno Mars",
+          "difficulty": "easy"
         },
         {
           "clue": "Old Town Road",
-          "artist": "Lil Nas X"
+          "artist": "Lil Nas X",
+          "difficulty": "easy"
         },
         {
           "clue": "Bad Guy",
-          "artist": "Billie Eilish"
+          "artist": "Billie Eilish",
+          "difficulty": "easy"
         },
         {
           "clue": "Let It Go",
-          "artist": "from Frozen"
+          "artist": "from Frozen",
+          "difficulty": "easy"
         },
         {
           "clue": "Happy",
-          "artist": "Pharrell Williams"
+          "artist": "Pharrell Williams",
+          "difficulty": "easy"
         },
         {
           "clue": "Levitating",
-          "artist": "Dua Lipa"
+          "artist": "Dua Lipa",
+          "difficulty": "easy"
         },
         {
           "clue": "Dynamite",
-          "artist": "BTS"
+          "artist": "BTS",
+          "difficulty": "easy"
         },
         {
           "clue": "Someone Like You",
-          "artist": "Adele"
+          "artist": "Adele",
+          "difficulty": "easy"
         },
         {
           "clue": "Shallow",
-          "artist": "Lady Gaga & Bradley Cooper"
+          "artist": "Lady Gaga & Bradley Cooper",
+          "difficulty": "easy"
         },
         {
           "clue": "Despacito",
-          "artist": "Luis Fonsi"
+          "artist": "Luis Fonsi",
+          "difficulty": "easy"
         },
         {
           "clue": "We Don't Talk About Bruno",
-          "artist": "from Encanto"
+          "artist": "from Encanto",
+          "difficulty": "easy"
         },
         {
           "clue": "Flowers",
-          "artist": "Miley Cyrus"
+          "artist": "Miley Cyrus",
+          "difficulty": "easy"
         },
         {
           "clue": "As It Was",
-          "artist": "Harry Styles"
+          "artist": "Harry Styles",
+          "difficulty": "easy"
         },
         {
           "clue": "Anti-Hero",
-          "artist": "Taylor Swift"
+          "artist": "Taylor Swift",
+          "difficulty": "easy"
         },
         {
           "clue": "Roar",
-          "artist": "Katy Perry"
+          "artist": "Katy Perry",
+          "difficulty": "easy"
         },
         {
           "clue": "Rolling in the Deep",
-          "artist": "Adele"
+          "artist": "Adele",
+          "difficulty": "easy"
         },
         {
           "clue": "Can't Stop the Feeling!",
-          "artist": "Justin Timberlake"
+          "artist": "Justin Timberlake",
+          "difficulty": "easy"
         },
         {
           "clue": "Thunder",
-          "artist": "Imagine Dragons"
+          "artist": "Imagine Dragons",
+          "difficulty": "easy"
         },
         {
           "clue": "Sunflower",
-          "artist": "Post Malone & Swae Lee"
+          "artist": "Post Malone & Swae Lee",
+          "difficulty": "easy"
         },
         {
           "clue": "Baby Shark",
-          "artist": "Pinkfong"
+          "artist": "Pinkfong",
+          "difficulty": "easy"
         },
         {
           "clue": "Unstoppable",
-          "artist": "Sia"
+          "artist": "Sia",
+          "difficulty": "easy"
         },
         {
           "clue": "Counting Stars",
-          "artist": "OneRepublic"
+          "artist": "OneRepublic",
+          "difficulty": "easy"
         },
         {
           "clue": "The Stranger Things theme",
-          "artist": "TV theme"
+          "artist": "TV theme",
+          "difficulty": "easy"
         },
         {
           "clue": "Bad Habits",
-          "artist": "Ed Sheeran"
+          "artist": "Ed Sheeran",
+          "difficulty": "easy"
         },
         {
           "clue": "Cheap Thrills",
-          "artist": "Sia"
+          "artist": "Sia",
+          "difficulty": "easy"
         },
         {
           "clue": "Wake Me Up",
-          "artist": "Avicii"
+          "artist": "Avicii",
+          "difficulty": "easy"
         },
         {
           "clue": "Radioactive",
-          "artist": "Imagine Dragons"
+          "artist": "Imagine Dragons",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "Somebody That I Used to Know",
+          "artist": "Gotye",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Take Me to Church",
+          "artist": "Hozier",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Pumped Up Kicks",
+          "artist": "Foster the People",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Riptide",
+          "artist": "Vance Joy",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Ho Hey",
+          "artist": "The Lumineers",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Stay With Me",
+          "artist": "Sam Smith",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Royals",
+          "artist": "Lorde",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "No Tears Left to Cry",
+          "artist": "Ariana Grande",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Circles",
+          "artist": "Post Malone",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Heat Waves",
+          "artist": "Glass Animals",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "drivers license",
+          "artist": "Olivia Rodrigo",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Watermelon Sugar",
+          "artist": "Harry Styles",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Industry Baby",
+          "artist": "Lil Nas X & Jack Harlow",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Dance Monkey",
+          "artist": "Tones and I",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Believer",
+          "artist": "Imagine Dragons",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Bad Romance",
+          "artist": "Lady Gaga",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Get Lucky",
+          "artist": "Daft Punk",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Rather Be",
+          "artist": "Clean Bandit",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Ophelia",
+          "artist": "The Lumineers",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Snooze",
+          "artist": "SZA",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "The Squid Game theme",
+          "artist": "TV theme",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "The Succession theme",
+          "artist": "TV theme",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "The Game of Thrones main title",
+          "artist": "TV theme",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "Cornfield Chase",
+          "artist": "from Interstellar",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "Time",
+          "artist": "from Inception",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "The Mandalorian theme",
+          "artist": "TV theme",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "The Last of Us theme",
+          "artist": "TV theme",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "The Dune theme",
+          "artist": "from the film",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "The Marvel Studios fanfare",
+          "artist": "studio sting",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "The Netflix ta-dum",
+          "artist": "two notes, good luck",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "The Duolingo notification jingle",
+          "artist": "app sound",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "The Super Mario Bros. theme",
+          "artist": "video game",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "The Tetris theme",
+          "artist": "video game",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "The Legend of Zelda main theme",
+          "artist": "video game",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "Clair de Lune",
+          "artist": "Debussy",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "Dance the Night",
+          "artist": "Dua Lipa, from Barbie",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "Can You Hear the Music",
+          "artist": "from Oppenheimer",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "The Pirates of the Caribbean theme",
+          "artist": "from the films",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "Hedwig's Theme",
+          "artist": "from Harry Potter",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "The Jurassic Park theme",
+          "artist": "from the film",
+          "difficulty": "hard"
         }
       ]
     }

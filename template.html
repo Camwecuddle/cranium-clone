@@ -87,6 +87,23 @@ body{
 .act-btn:hover{color:var(--ink); border-color:var(--deck)}
 .act-btn[aria-pressed="true"]{background:var(--deck-wash); border-color:var(--deck); color:var(--deck); font-weight:600}
 
+.diffs{display:flex; flex-wrap:wrap; gap:7px}
+.diff-btn{
+  font-family:var(--body); font-weight:500; font-size:13.5px;
+  border:1.5px solid var(--hairline); background:transparent; color:var(--ink-muted);
+  border-radius:999px; padding:6px 13px; cursor:pointer; transition:all .15s;
+  display:inline-flex; align-items:center; gap:7px;
+}
+.diff-btn:hover{color:var(--ink); border-color:var(--deck)}
+.diff-btn[aria-pressed="true"]{background:var(--deck-wash); border-color:var(--deck); color:var(--deck); font-weight:600}
+.diff-btn .cnt{font-variant-numeric:tabular-nums; opacity:.6; font-size:12px}
+.bars{display:inline-flex; align-items:flex-end; gap:2px; height:11px}
+.bars i{width:3px; border-radius:1px; background:currentColor; opacity:.28}
+.bars i:nth-child(1){height:5px}
+.bars i:nth-child(2){height:8px}
+.bars i:nth-child(3){height:11px}
+.bars i.on{opacity:1}
+
 button:focus-visible, a:focus-visible{outline:2.5px solid var(--deck); outline-offset:2px}
 
 /* ---- the card ---- */
@@ -103,7 +120,11 @@ button:focus-visible, a:focus-visible{outline:2.5px solid var(--deck); outline-o
   padding:11px 22px; display:flex; align-items:center; justify-content:space-between; gap:14px;
 }
 .card-band .act{font-family:var(--display); font-weight:800; font-size:19px; letter-spacing:-.01em}
-.card-band .of{font-size:12px; font-variant-numeric:tabular-nums; opacity:.85; font-weight:500}
+.card-band .of{
+  font-size:12px; font-variant-numeric:tabular-nums; opacity:.9; font-weight:500;
+  display:inline-flex; align-items:center; gap:7px; text-align:right;
+}
+.card-band .of .tier{text-transform:capitalize; letter-spacing:.02em}
 .card-howto{
   padding:12px 22px; background:var(--deck-wash); color:var(--ink);
   font-size:13px; line-height:1.45; border-bottom:1px solid var(--hairline);
@@ -190,6 +211,11 @@ footer b{color:var(--ink); font-weight:600}
     <div class="acts" id="acts"></div>
   </div>
 
+  <div class="picker">
+    <div class="picker-label">Difficulty</div>
+    <div class="diffs" id="diffs"></div>
+  </div>
+
   <article class="card" id="card"></article>
 
   <div class="controls">
@@ -200,7 +226,7 @@ footer b{color:var(--ink); font-weight:600}
       <button class="btn btn-ghost" id="tbtn">Start</button>
     </div>
   </div>
-  <p class="hint"><kbd>N</kbd> next card · <kbd>A</kbd> show answer · <kbd>T</kbd> timer</p>
+  <p class="hint"><kbd>N</kbd> next card · <kbd>A</kbd> show answer · <kbd>T</kbd> timer · <kbd>1</kbd><kbd>2</kbd><kbd>3</kbd> easy, medium, hard · <kbd>0</kbd> any</p>
 
   <footer id="foot"></footer>
 </div>
@@ -213,21 +239,39 @@ footer b{color:var(--ink); font-weight:600}
   var SLUG = {"Word Worm":"worm","Creative Cat":"cat","Data Head":"data","Star Performer":"star"};
   var NO_ANSWER = {"Cloodle":1,"Sensosketch":1,"Sculptorades":1,"Cameo":1,"Copycat":1};
 
-  var di = 0, ai = 0, card = null, revealed = false, bags = {};
+  var di = 0, ai = 0, diff = "all", card = null, revealed = false, bags = {};
+  var TIERS = [["all","Any tier",0],["easy","Easy",1],["medium","Medium",2],["hard","Hard",3]];
+  var LVL = {easy:1, medium:2, hard:3};
   var elDecks = document.getElementById("decks"), elActs = document.getElementById("acts"),
-      elCard = document.getElementById("card"), elReveal = document.getElementById("reveal");
+      elCard = document.getElementById("card"), elReveal = document.getElementById("reveal"),
+      elDiffs = document.getElementById("diffs");
 
   function esc(s){ return String(s).replace(/[&<>"]/g, function(c){
     return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]; }); }
 
   function deck(){ return DECKS[di]; }
   function act(){ return deck().activities[ai]; }
-  function bagKey(){ return di + "/" + ai; }
+  function bagKey(){ return di + "/" + ai + "/" + diff; }
+
+  /* the cards in the current deck + type + difficulty, as indices */
+  function pool(){
+    var cards = act().cards, out = [];
+    for(var i = 0; i < cards.length; i++){
+      if(diff === "all" || cards[i].difficulty === diff) out.push(i);
+    }
+    return out;
+  }
+
+  function bars(n){
+    var s = '<span class="bars">';
+    for(var i = 1; i <= 3; i++) s += '<i class="' + (i <= n ? "on" : "") + '"></i>';
+    return s + "</span>";
+  }
 
   function draw(){
     var a = act(), key = bagKey();
     if(!bags[key] || !bags[key].length){
-      var order = a.cards.map(function(_,i){ return i; });
+      var order = pool();
       for(var i = order.length - 1; i > 0; i--){
         var j = Math.floor(Math.random() * (i + 1)), t = order[i];
         order[i] = order[j]; order[j] = t;
@@ -298,14 +342,17 @@ footer b{color:var(--ink); font-weight:600}
   }
 
   function render(dealt){
-    var d = deck(), a = act(), key = bagKey();
+    var d = deck(), a = act(), key = bagKey(), poolSize = pool().length;
+    buildDiffs();
     document.documentElement.style.setProperty("--deck", "var(--" + SLUG[d.deck] + ")");
     document.documentElement.style.setProperty("--deck-wash", "var(--" + SLUG[d.deck] + "-wash)");
 
     elCard.className = "card" + (dealt ? " dealing" : "");
     elCard.innerHTML =
       '<div class="card-band"><span class="act">' + esc(a.name) + '</span>' +
-      '<span class="of">' + (bags[key] ? bags[key].length : 0) + ' left of ' + a.cards.length + '</span></div>' +
+      '<span class="of">' + bars(LVL[card.difficulty]) +
+      '<span class="tier">' + esc(card.difficulty) + '</span>' +
+      '<span>' + (bags[key] ? bags[key].length : 0) + ' left of ' + poolSize + '</span></span></div>' +
       '<div class="card-howto">' + esc(a.howto) + '</div>' +
       '<div class="card-body">' + bodyHTML(a, card) + '</div>' +
       answerHTML(a, card);
@@ -318,6 +365,22 @@ footer b{color:var(--ink); font-weight:600}
       b.setAttribute("aria-pressed", i === di ? "true" : "false"); });
     Array.prototype.forEach.call(elActs.children, function(b, i){
       b.setAttribute("aria-pressed", i === ai ? "true" : "false"); });
+  }
+
+  function buildDiffs(){
+    var counts = {all:0, easy:0, medium:0, hard:0};
+    act().cards.forEach(function(c){ counts.all++; counts[c.difficulty]++; });
+    elDiffs.innerHTML = "";
+    TIERS.forEach(function(t){
+      var b = document.createElement("button");
+      b.className = "diff-btn"; b.type = "button";
+      b.setAttribute("aria-pressed", diff === t[0] ? "true" : "false");
+      b.innerHTML = (t[2] ? bars(t[2]) : "") +
+                    "<span>" + t[1] + "</span>" +
+                    '<span class="cnt">' + counts[t[0]] + "</span>";
+      b.onclick = function(){ diff = t[0]; draw(); };
+      elDiffs.appendChild(b);
+    });
   }
 
   function buildActs(){
@@ -367,13 +430,17 @@ footer b{color:var(--ink); font-weight:600}
     if(k === "n"){ draw(); }
     else if(k === "a"){ elReveal.click(); }
     else if(k === "t"){ toggle(); }
+    else if(k === "0" || k === "1" || k === "2" || k === "3"){
+      diff = TIERS[+k][0]; draw();
+    }
   });
 
   var total = DECKS.reduce(function(n, d){
     return n + d.activities.reduce(function(m, a){ return m + a.cards.length; }, 0); }, 0);
   document.getElementById("foot").innerHTML =
-    '<b>' + total + ' cards</b> across ' + DECKS.length + ' decks. ' +
-    'Each card type shuffles its own pile — you will see every card once before any repeats.';
+    '<b>' + total + ' cards</b> across ' + DECKS.length + ' decks — every card type has 30 easy, ' +
+    '20 medium and 20 hard. Each type and difficulty shuffles its own pile, so you will see ' +
+    'every card in it once before any repeats.';
 
   buildActs(); draw(); paint();
 })();

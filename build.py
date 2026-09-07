@@ -8,6 +8,8 @@ import pathlib
 
 ROOT = pathlib.Path(__file__).parent
 ORDER = ["word-worm", "creative-cat", "data-head", "star-performer"]
+TIERS = ["easy", "medium", "hard"]
+LETTERS = "ABCD"
 DECKS = [json.loads((ROOT / "data" / f"{n}.json").read_text()) for n in ORDER]
 
 # ---------------------------------------------------------------- html
@@ -27,54 +29,52 @@ page = template.replace("__DATA__", json.dumps(DECKS, ensure_ascii=False))
     "</head>\n<body>\n" + page + "\n</body>\n</html>\n"
 )
 
+
 # ---------------------------------------------------------------- markdown
-LETTERS = "ABCD"
+def line(name, i, c):
+    """One card as a numbered Markdown line, formatted for its card type."""
+    if name == "Blankout":
+        return f"{i}. **{c['puzzle']}** — _{c['hint']}_ → {c['answer']}"
+    if name == "Gnilleps":
+        return f"{i}. **{c['word']}** → {c['backwards']}"
+    if name == "Spellbound":
+        return f"{i}. **{c['word']}**"
+    if name in ("Lexicon", "Selectaquest"):
+        opts = "; ".join(f"{LETTERS[j]}) {o}" for j, o in enumerate(c["options"]))
+        head = c["word"] if name == "Lexicon" else c["q"]
+        bold = f"**{head}**" if name == "Lexicon" else head
+        return f"{i}. {bold} — {opts} → **{LETTERS[c['answer']]}**"
+    if name == "Factoid":
+        return f"{i}. {c['q']} → **{c['a']}**"
+    if name == "Polygraph":
+        note = f" ({c['note']})" if c.get("note") else ""
+        return f"{i}. {c['q']} → **{'TRUE' if c['a'] else 'FALSE'}**{note}"
+    if name == "Humdinger":
+        return f"{i}. **{c['clue']}** — {c['artist']}"
+    return f"{i}. {c['clue']}"
+
+
 out = [
     "# Cranium 2026 — every card\n",
-    "Printable/scannable text of all four decks. "
+    "Printable/scannable text of all four decks, grouped by card type and difficulty. "
     "Generated from `data/*.json` by `build.py` — edit the JSON, not this file.\n",
 ]
-total = 0
+total = sum(len(a["cards"]) for d in DECKS for a in d["activities"])
+out.append(f"\n**{total} cards total** — every card type has 30 easy, 20 medium, 20 hard.\n")
+
 for deck in DECKS:
     n = sum(len(a["cards"]) for a in deck["activities"])
-    total += n
     out.append(f"\n## {deck['deck']} — {deck['tagline']} ({n} cards)\n")
     for act in deck["activities"]:
         out.append(f"\n### {act['name']} ({len(act['cards'])})\n")
         out.append(f"*{act['howto']}*\n")
-        for i, c in enumerate(act["cards"], 1):
-            if act["name"] == "Blankout":
-                out.append(f"{i}. **{c['puzzle']}** — _{c['hint']}_ → {c['answer']}")
-            elif act["name"] == "Gnilleps":
-                out.append(f"{i}. **{c['word']}** → {c['backwards']}")
-            elif act["name"] == "Spellbound":
-                out.append(f"{i}. **{c['word']}**")
-            elif act["name"] == "Lexicon":
-                opts = "; ".join(
-                    f"{LETTERS[j]}) {o}" for j, o in enumerate(c["options"])
-                )
-                out.append(
-                    f"{i}. **{c['word']}** — {opts} → **{LETTERS[c['answer']]}**"
-                )
-            elif act["name"] == "Factoid":
-                out.append(f"{i}. {c['q']} → **{c['a']}**")
-            elif act["name"] == "Polygraph":
-                verdict = "TRUE" if c["a"] else "FALSE"
-                note = f" ({c['note']})" if c.get("note") else ""
-                out.append(f"{i}. {c['q']} → **{verdict}**{note}")
-            elif act["name"] == "Selectaquest":
-                opts = "; ".join(
-                    f"{LETTERS[j]}) {o}" for j, o in enumerate(c["options"])
-                )
-                out.append(
-                    f"{i}. {c['q']} — {opts} → **{LETTERS[c['answer']]}**"
-                )
-            elif act["name"] == "Humdinger":
-                out.append(f"{i}. **{c['clue']}** — {c['artist']}")
-            else:
-                out.append(f"{i}. {c['clue']}")
+        for tier in TIERS:
+            cards = [c for c in act["cards"] if c["difficulty"] == tier]
+            if not cards:
+                continue
+            out.append(f"\n**{tier.capitalize()}** ({len(cards)})\n")
+            out += [line(act["name"], i, c) for i, c in enumerate(cards, 1)]
         out.append("")
 
-out.insert(2, f"\n**{total} cards total.**\n")
 (ROOT / "CARDS.md").write_text("\n".join(out) + "\n")
 print(f"built index.html, artifact.html and CARDS.md — {total} cards")

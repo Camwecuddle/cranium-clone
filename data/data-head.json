@@ -9,123 +9,353 @@
       "cards": [
         {
           "q": "What short-video app, owned by ByteDance, launched internationally in 2017?",
-          "a": "TikTok"
+          "a": "TikTok",
+          "difficulty": "easy"
         },
         {
           "q": "What Korean survival drama became Netflix's most-watched series ever after it premiered in 2021?",
-          "a": "Squid Game"
+          "a": "Squid Game",
+          "difficulty": "easy"
         },
         {
           "q": "Which company makes ChatGPT?",
-          "a": "OpenAI"
+          "a": "OpenAI",
+          "difficulty": "easy"
         },
         {
           "q": "What 2023 film about the father of the atomic bomb won Best Picture?",
-          "a": "Oppenheimer"
+          "a": "Oppenheimer",
+          "difficulty": "easy"
         },
         {
           "q": "Facebook's parent company renamed itself in 2021. What is it called now?",
-          "a": "Meta"
+          "a": "Meta",
+          "difficulty": "easy"
         },
         {
           "q": "Whose Eras Tour became the first concert tour to gross over $1 billion?",
-          "a": "Taylor Swift"
+          "a": "Taylor Swift",
+          "difficulty": "easy"
         },
         {
           "q": "What blocky sandbox game is the best-selling video game of all time?",
-          "a": "Minecraft"
+          "a": "Minecraft",
+          "difficulty": "easy"
         },
         {
           "q": "What cryptocurrency, invented by the pseudonymous 'Satoshi Nakamoto,' first crossed $100,000 per coin?",
-          "a": "Bitcoin"
+          "a": "Bitcoin",
+          "difficulty": "easy"
         },
         {
           "q": "What is the name of SpaceX's giant rocket — the largest ever launched?",
-          "a": "Starship"
+          "a": "Starship",
+          "difficulty": "easy"
         },
         {
           "q": "Which company released the Vision Pro headset in 2024?",
-          "a": "Apple"
+          "a": "Apple",
+          "difficulty": "easy"
         },
         {
           "q": "Which social network did Elon Musk buy in 2022 and rename X?",
-          "a": "Twitter"
+          "a": "Twitter",
+          "difficulty": "easy"
         },
         {
           "q": "What 2023 movie about a fashion doll grossed over a billion dollars?",
-          "a": "Barbie"
+          "a": "Barbie",
+          "difficulty": "easy"
         },
         {
           "q": "What does 'GOAT' stand for in sports slang?",
-          "a": "Greatest Of All Time"
+          "a": "Greatest Of All Time",
+          "difficulty": "easy"
         },
         {
           "q": "Which country hosted the 2024 Summer Olympics?",
-          "a": "France (Paris)"
+          "a": "France (Paris)",
+          "difficulty": "easy"
         },
         {
           "q": "What is the name of the AI assistant made by Anthropic?",
-          "a": "Claude"
+          "a": "Claude",
+          "difficulty": "easy"
         },
         {
           "q": "Which food delivery app calls its couriers 'Dashers'?",
-          "a": "DoorDash"
+          "a": "DoorDash",
+          "difficulty": "easy"
         },
         {
           "q": "What console did Nintendo release in 2017 that plays both handheld and docked to a TV?",
-          "a": "The Nintendo Switch"
+          "a": "The Nintendo Switch",
+          "difficulty": "easy"
         },
         {
           "q": "Who became the first woman to serve as Vice President of the United States?",
-          "a": "Kamala Harris"
+          "a": "Kamala Harris",
+          "difficulty": "easy"
         },
         {
           "q": "How many characters can fit in a standard free post on X (formerly Twitter)?",
-          "a": "280"
+          "a": "280",
+          "difficulty": "easy"
         },
         {
           "q": "What 2016 mobile game had people wandering the streets catching creatures?",
-          "a": "Pokemon GO"
+          "a": "Pokemon GO",
+          "difficulty": "easy"
         },
         {
           "q": "What does Instagram call its short vertical videos?",
-          "a": "Reels"
+          "a": "Reels",
+          "difficulty": "easy"
         },
         {
           "q": "Which chipmaker became one of the world's most valuable companies on the back of the AI boom?",
-          "a": "Nvidia"
+          "a": "Nvidia",
+          "difficulty": "easy"
         },
         {
           "q": "What space telescope, launched in December 2021, is the successor to Hubble?",
-          "a": "The James Webb Space Telescope"
+          "a": "The James Webb Space Telescope",
+          "difficulty": "easy"
         },
         {
           "q": "What language-learning app has a green owl as its mascot?",
-          "a": "Duolingo"
+          "a": "Duolingo",
+          "difficulty": "easy"
         },
         {
           "q": "What paddle sport, played with a perforated plastic ball, became the fastest-growing sport in America?",
-          "a": "Pickleball"
+          "a": "Pickleball",
+          "difficulty": "easy"
         },
         {
           "q": "What streaming service produced 'Stranger Things'?",
-          "a": "Netflix"
+          "a": "Netflix",
+          "difficulty": "easy"
         },
         {
           "q": "In what year did the World Health Organization declare COVID-19 a pandemic?",
-          "a": "2020"
+          "a": "2020",
+          "difficulty": "easy"
         },
         {
           "q": "What app made 'swipe right' a part of everyday language?",
-          "a": "Tinder"
+          "a": "Tinder",
+          "difficulty": "easy"
         },
         {
           "q": "What Disney+ series follows a bounty hunter and a small green alien child?",
-          "a": "The Mandalorian"
+          "a": "The Mandalorian",
+          "difficulty": "easy"
         },
         {
           "q": "What word describes the practice of doing your job from anywhere while traveling?",
-          "a": "Being a digital nomad"
+          "a": "Being a digital nomad",
+          "difficulty": "easy"
+        },
+        {
+          "q": "What does the 'GPT' in ChatGPT stand for?",
+          "a": "Generative Pre-trained Transformer",
+          "difficulty": "medium"
+        },
+        {
+          "q": "Which lab built AlphaFold, the AI that predicts protein structures?",
+          "a": "DeepMind (Google DeepMind)",
+          "difficulty": "medium"
+        },
+        {
+          "q": "Which Chinese AI lab released the R1 reasoning model in 2025?",
+          "a": "DeepSeek",
+          "difficulty": "medium"
+        },
+        {
+          "q": "What does the 'S' in HTTPS stand for?",
+          "a": "Secure",
+          "difficulty": "medium"
+        },
+        {
+          "q": "Which company owns the studio behind Minecraft?",
+          "a": "Microsoft",
+          "difficulty": "medium"
+        },
+        {
+          "q": "Which social platform has the most monthly active users worldwide?",
+          "a": "Facebook",
+          "difficulty": "medium"
+        },
+        {
+          "q": "What vaccine technology did the Pfizer and Moderna COVID shots use?",
+          "a": "mRNA",
+          "difficulty": "medium"
+        },
+        {
+          "q": "What is the name of Google's family of AI models launched in 2023?",
+          "a": "Gemini",
+          "difficulty": "medium"
+        },
+        {
+          "q": "What does 'VPN' stand for?",
+          "a": "Virtual Private Network",
+          "difficulty": "medium"
+        },
+        {
+          "q": "TSMC, which makes the world's most advanced chips, is based in which country?",
+          "a": "Taiwan",
+          "difficulty": "medium"
+        },
+        {
+          "q": "In what year was the Paris climate agreement adopted?",
+          "a": "2015",
+          "difficulty": "medium"
+        },
+        {
+          "q": "What is the name for the roughly four-year event that cuts Bitcoin's mining reward in half?",
+          "a": "The halving",
+          "difficulty": "medium"
+        },
+        {
+          "q": "What does 'SaaS' stand for?",
+          "a": "Software as a Service",
+          "difficulty": "medium"
+        },
+        {
+          "q": "Which app introduced disappearing 'Stories' before Instagram copied them?",
+          "a": "Snapchat",
+          "difficulty": "medium"
+        },
+        {
+          "q": "Who is the CEO of Nvidia?",
+          "a": "Jensen Huang",
+          "difficulty": "medium"
+        },
+        {
+          "q": "Which pharmaceutical company makes Ozempic and Wegovy?",
+          "a": "Novo Nordisk",
+          "difficulty": "medium"
+        },
+        {
+          "q": "What does 'API' stand for?",
+          "a": "Application Programming Interface",
+          "difficulty": "medium"
+        },
+        {
+          "q": "What protocol does the social network Bluesky run on?",
+          "a": "The AT Protocol",
+          "difficulty": "medium"
+        },
+        {
+          "q": "Which country was the first to make Bitcoin legal tender?",
+          "a": "El Salvador",
+          "difficulty": "medium"
+        },
+        {
+          "q": "What does 'IPO' stand for?",
+          "a": "Initial Public Offering",
+          "difficulty": "medium"
+        },
+        {
+          "q": "What is the title of the 2017 paper that introduced the transformer architecture?",
+          "a": "'Attention Is All You Need'",
+          "difficulty": "hard"
+        },
+        {
+          "q": "How many bitcoins will ever exist?",
+          "a": "21 million",
+          "difficulty": "hard"
+        },
+        {
+          "q": "In what year did Instagram launch?",
+          "a": "2010",
+          "difficulty": "hard"
+        },
+        {
+          "q": "Which company acquired GitHub, and in what year?",
+          "a": "Microsoft, in 2018",
+          "difficulty": "hard"
+        },
+        {
+          "q": "Which Nobel Prize did the creators of AlphaFold share in 2024?",
+          "a": "Chemistry",
+          "difficulty": "hard"
+        },
+        {
+          "q": "What is the EU's landmark 2024 law regulating artificial intelligence called?",
+          "a": "The EU AI Act",
+          "difficulty": "hard"
+        },
+        {
+          "q": "On average, how long is the gap between two Bitcoin blocks?",
+          "a": "About 10 minutes",
+          "difficulty": "hard"
+        },
+        {
+          "q": "Which blockchain popularized 'smart contracts'?",
+          "a": "Ethereum",
+          "difficulty": "hard"
+        },
+        {
+          "q": "A modern flagship phone chip holds roughly how many transistors — millions, billions, or trillions?",
+          "a": "Tens of billions",
+          "difficulty": "hard"
+        },
+        {
+          "q": "What does 'GDPR' stand for?",
+          "a": "General Data Protection Regulation",
+          "difficulty": "hard"
+        },
+        {
+          "q": "Which country has the most internet users?",
+          "a": "China",
+          "difficulty": "hard"
+        },
+        {
+          "q": "In what year was the first message sent over ARPANET, the internet's ancestor?",
+          "a": "1969",
+          "difficulty": "hard"
+        },
+        {
+          "q": "What does Moore's Law actually observe?",
+          "a": "That the number of transistors on a chip roughly doubles every two years",
+          "difficulty": "hard"
+        },
+        {
+          "q": "Which company is building the Kuiper satellite internet constellation?",
+          "a": "Amazon",
+          "difficulty": "hard"
+        },
+        {
+          "q": "What is Meta's family of open-weight AI models called?",
+          "a": "Llama",
+          "difficulty": "hard"
+        },
+        {
+          "q": "What does 'RAG' stand for in AI systems?",
+          "a": "Retrieval-Augmented Generation",
+          "difficulty": "hard"
+        },
+        {
+          "q": "In what year did Apple's App Store open?",
+          "a": "2008",
+          "difficulty": "hard"
+        },
+        {
+          "q": "Where does the James Webb Space Telescope sit?",
+          "a": "At the L2 point, about a million miles from Earth",
+          "difficulty": "hard"
+        },
+        {
+          "q": "What is 'quantum supremacy'?",
+          "a": "The point at which a quantum computer solves a problem no classical computer feasibly can",
+          "difficulty": "hard"
+        },
+        {
+          "q": "Which 2014 stock market debut raised more money than any IPO before it?",
+          "a": "Alibaba",
+          "difficulty": "hard"
         }
       ]
     },
@@ -135,131 +365,381 @@
       "cards": [
         {
           "q": "Netflix started out as a DVD-by-mail rental company.",
-          "a": true
+          "a": true,
+          "difficulty": "easy"
         },
         {
           "q": "'The cloud' is one enormous computer located in Nevada.",
-          "a": false
+          "a": false,
+          "difficulty": "easy"
         },
         {
           "q": "Taylor Swift re-recorded her old albums and labeled them '(Taylor's Version)'.",
-          "a": true
+          "a": true,
+          "difficulty": "easy"
         },
         {
           "q": "TikTok absorbed an app called Musical.ly to break into the US market.",
-          "a": true
+          "a": true,
+          "difficulty": "easy"
         },
         {
           "q": "Bitcoin has an unlimited supply.",
           "a": false,
-          "note": "It's capped at 21 million coins."
+          "note": "It's capped at 21 million coins.",
+          "difficulty": "easy"
         },
         {
           "q": "The first iPhone was released in 2007.",
-          "a": true
+          "a": true,
+          "difficulty": "easy"
         },
         {
           "q": "Emoji were invented in the United States.",
           "a": false,
-          "note": "They were invented in Japan in the late 1990s."
+          "note": "They were invented in Japan in the late 1990s.",
+          "difficulty": "easy"
         },
         {
           "q": "The New York Times bought Wordle.",
-          "a": true
+          "a": true,
+          "difficulty": "easy"
         },
         {
           "q": "Instagram was owned by Facebook before Facebook renamed itself Meta.",
-          "a": true
+          "a": true,
+          "difficulty": "easy"
         },
         {
           "q": "The word 'podcast' comes from the iPod.",
-          "a": true
+          "a": true,
+          "difficulty": "easy"
         },
         {
           "q": "Zoom was founded during the COVID-19 pandemic.",
           "a": false,
-          "note": "It was founded in 2011."
+          "note": "It was founded in 2011.",
+          "difficulty": "easy"
         },
         {
           "q": "AI image generators work by searching the internet and pasting real photos together.",
-          "a": false
+          "a": false,
+          "difficulty": "easy"
         },
         {
           "q": "In most US states, rideshare drivers are legally employees of the app company.",
           "a": false,
-          "note": "They're generally independent contractors."
+          "note": "They're generally independent contractors.",
+          "difficulty": "easy"
         },
         {
           "q": "'Doomscrolling' has been added to major dictionaries.",
-          "a": true
+          "a": true,
+          "difficulty": "easy"
         },
         {
           "q": "Spotify pays artists about one dollar per stream.",
           "a": false,
-          "note": "It's a fraction of a cent."
+          "note": "It's a fraction of a cent.",
+          "difficulty": "easy"
         },
         {
           "q": "The Mars rover Perseverance landed in 2021.",
-          "a": true
+          "a": true,
+          "difficulty": "easy"
         },
         {
           "q": "QR codes were invented in the 2010s for restaurant menus.",
           "a": false,
-          "note": "They were invented in Japan in 1994 for tracking car parts."
+          "note": "They were invented in Japan in 1994 for tracking car parts.",
+          "difficulty": "easy"
         },
         {
           "q": "Airbnb started when its founders rented out air mattresses in their own apartment.",
-          "a": true
+          "a": true,
+          "difficulty": "easy"
         },
         {
           "q": "Electric cars have more moving parts in the drivetrain than gas cars.",
-          "a": false
+          "a": false,
+          "difficulty": "easy"
         },
         {
           "q": "Streaming a song requires downloading the whole file first.",
-          "a": false
+          "a": false,
+          "difficulty": "easy"
         },
         {
           "q": "'Barbie' and 'Oppenheimer' were released in theaters on the same day.",
-          "a": true
+          "a": true,
+          "difficulty": "easy"
         },
         {
           "q": "Google's parent company is named Alphabet.",
-          "a": true
+          "a": true,
+          "difficulty": "easy"
         },
         {
           "q": "A 'deepfake' is a video file that's unusually large.",
           "a": false,
-          "note": "It's synthetic media faking a real person."
+          "note": "It's synthetic media faking a real person.",
+          "difficulty": "easy"
         },
         {
           "q": "Slack was originally built as an internal tool at a video game company.",
-          "a": true
+          "a": true,
+          "difficulty": "easy"
         },
         {
           "q": "The James Webb Space Telescope orbits the Earth, just like Hubble.",
           "a": false,
-          "note": "It orbits the Sun, about a million miles out."
+          "note": "It orbits the Sun, about a million miles out.",
+          "difficulty": "easy"
         },
         {
           "q": "Duolingo's mascot is an owl.",
-          "a": true
+          "a": true,
+          "difficulty": "easy"
         },
         {
           "q": "'Rizz' is short for 'charisma.'",
-          "a": true
+          "a": true,
+          "difficulty": "easy"
         },
         {
           "q": "Nvidia got its start making graphics cards for video games.",
-          "a": true
+          "a": true,
+          "difficulty": "easy"
         },
         {
           "q": "There are more than 8 billion people alive on Earth.",
-          "a": true
+          "a": true,
+          "difficulty": "easy"
         },
         {
           "q": "The Nintendo Switch can only be played docked to a television.",
-          "a": false
+          "a": false,
+          "difficulty": "easy"
+        },
+        {
+          "q": "The 'S' in HTTPS stands for 'secure.'",
+          "a": true,
+          "difficulty": "medium"
+        },
+        {
+          "q": "'Wi-Fi' is an abbreviation of 'Wireless Fidelity.'",
+          "a": false,
+          "difficulty": "medium",
+          "note": "It's a brand name a marketing firm invented — it doesn't stand for anything."
+        },
+        {
+          "q": "Incognito mode hides your browsing from your internet provider.",
+          "a": false,
+          "difficulty": "medium",
+          "note": "It only stops your own browser from saving the history."
+        },
+        {
+          "q": "Bitcoin transactions are anonymous and untraceable.",
+          "a": false,
+          "difficulty": "medium",
+          "note": "Every transaction is recorded on a public ledger."
+        },
+        {
+          "q": "Nvidia now earns more from data centers than from gaming.",
+          "a": true,
+          "difficulty": "medium"
+        },
+        {
+          "q": "5G networks caused the COVID-19 pandemic.",
+          "a": false,
+          "difficulty": "medium"
+        },
+        {
+          "q": "Electric cars produce zero emissions across their full life cycle.",
+          "a": false,
+          "difficulty": "medium",
+          "note": "Manufacturing and grid electricity both carry emissions."
+        },
+        {
+          "q": "Most of the world's internet traffic travels through undersea cables.",
+          "a": true,
+          "difficulty": "medium"
+        },
+        {
+          "q": "Signal and WhatsApp both use end-to-end encryption by default.",
+          "a": true,
+          "difficulty": "medium"
+        },
+        {
+          "q": "Deleting a file immediately erases it from the drive.",
+          "a": false,
+          "difficulty": "medium",
+          "note": "It usually just marks the space as reusable."
+        },
+        {
+          "q": "TikTok's feed mainly shows you content from accounts you follow.",
+          "a": false,
+          "difficulty": "medium",
+          "note": "The main feed is recommendation-driven, not follow-driven."
+        },
+        {
+          "q": "The EU passed a law requiring USB-C charging ports on new phones.",
+          "a": true,
+          "difficulty": "medium"
+        },
+        {
+          "q": "Solar is now cheaper than new coal power in most of the world.",
+          "a": true,
+          "difficulty": "medium"
+        },
+        {
+          "q": "A blockchain has to be public to work at all.",
+          "a": false,
+          "difficulty": "medium",
+          "note": "Private and permissioned chains exist."
+        },
+        {
+          "q": "Video streaming accounts for the majority of internet bandwidth.",
+          "a": true,
+          "difficulty": "medium"
+        },
+        {
+          "q": "Text-message two-factor codes are the most secure option available.",
+          "a": false,
+          "difficulty": "medium",
+          "note": "An authenticator app or hardware key is stronger — SMS can be intercepted."
+        },
+        {
+          "q": "Amazon's cloud business is more profitable than its retail business.",
+          "a": true,
+          "difficulty": "medium"
+        },
+        {
+          "q": "Modern AI language models are programmed with explicit grammar rules.",
+          "a": false,
+          "difficulty": "medium",
+          "note": "They learn statistical patterns from text instead."
+        },
+        {
+          "q": "The James Webb Space Telescope observes mainly in infrared.",
+          "a": true,
+          "difficulty": "medium"
+        },
+        {
+          "q": "Apple takes a cut of most purchases made inside App Store apps.",
+          "a": true,
+          "difficulty": "medium"
+        },
+        {
+          "q": "There are more mobile phone subscriptions in the world than there are people.",
+          "a": true,
+          "difficulty": "hard"
+        },
+        {
+          "q": "The first computer programmer is generally considered to have been a woman.",
+          "a": true,
+          "difficulty": "hard",
+          "note": "Ada Lovelace, in the 1840s."
+        },
+        {
+          "q": "Training a large AI model uses about as much electricity as a household does in a week.",
+          "a": false,
+          "difficulty": "hard",
+          "note": "It's orders of magnitude more than that."
+        },
+        {
+          "q": "Most crypto trading volume happens on decentralized exchanges.",
+          "a": false,
+          "difficulty": "hard",
+          "note": "Centralized exchanges still dominate."
+        },
+        {
+          "q": "Fertility rates have been falling in nearly every country on Earth.",
+          "a": true,
+          "difficulty": "hard"
+        },
+        {
+          "q": "Extreme poverty worldwide has fallen by more than half since 1990.",
+          "a": true,
+          "difficulty": "hard"
+        },
+        {
+          "q": "The word 'robot' comes from a Czech play.",
+          "a": true,
+          "difficulty": "hard",
+          "note": "Karel Capek's 'R.U.R.', 1920."
+        },
+        {
+          "q": "Email existed before the World Wide Web.",
+          "a": true,
+          "difficulty": "hard"
+        },
+        {
+          "q": "A QR code still scans with up to about 30% of it damaged.",
+          "a": true,
+          "difficulty": "hard",
+          "note": "Error correction is built into the format."
+        },
+        {
+          "q": "GPS satellites have to correct for Einstein's relativity to stay accurate.",
+          "a": true,
+          "difficulty": "hard"
+        },
+        {
+          "q": "The internet and the World Wide Web are two names for the same thing.",
+          "a": false,
+          "difficulty": "hard",
+          "note": "The web is one service running on top of the internet."
+        },
+        {
+          "q": "Nvidia was founded in the 1990s.",
+          "a": true,
+          "difficulty": "hard",
+          "note": "1993."
+        },
+        {
+          "q": "The screen is the most expensive component in a typical smartphone.",
+          "a": false,
+          "difficulty": "hard",
+          "note": "The processor and other silicon usually cost more."
+        },
+        {
+          "q": "Lithium is the scarcest material in an electric car battery.",
+          "a": false,
+          "difficulty": "hard",
+          "note": "Cobalt and nickel supply are the tighter constraints."
+        },
+        {
+          "q": "The average person checks their phone fewer than 20 times a day.",
+          "a": false,
+          "difficulty": "hard"
+        },
+        {
+          "q": "Streaming a movie uses more energy than driving to a video store would have.",
+          "a": false,
+          "difficulty": "hard"
+        },
+        {
+          "q": "Bitcoin's annual energy use is comparable to that of a mid-sized country.",
+          "a": true,
+          "difficulty": "hard"
+        },
+        {
+          "q": "The @ symbol was picked for email addresses partly because it was rarely used.",
+          "a": true,
+          "difficulty": "hard"
+        },
+        {
+          "q": "Moore's Law is a law of physics.",
+          "a": false,
+          "difficulty": "hard",
+          "note": "It's an observed trend, and an industry target."
+        },
+        {
+          "q": "The first webcam was set up to watch a coffee pot.",
+          "a": true,
+          "difficulty": "hard",
+          "note": "The Trojan Room coffee pot at Cambridge."
         }
       ]
     },
@@ -275,7 +755,8 @@
             "Snapchat",
             "Zoom"
           ],
-          "answer": 1
+          "answer": 1,
+          "difficulty": "easy"
         },
         {
           "q": "What does 'NFT' stand for?",
@@ -285,7 +766,8 @@
             "Non-Fungible Token",
             "Nearly Free Trade"
           ],
-          "answer": 2
+          "answer": 2,
+          "difficulty": "easy"
         },
         {
           "q": "Which streaming service is home to 'The Mandalorian'?",
@@ -295,7 +777,8 @@
             "Max",
             "Disney+"
           ],
-          "answer": 3
+          "answer": 3,
+          "difficulty": "easy"
         },
         {
           "q": "Roughly how many people live on Earth today?",
@@ -305,7 +788,8 @@
             "11 billion",
             "6 billion"
           ],
-          "answer": 1
+          "answer": 1,
+          "difficulty": "easy"
         },
         {
           "q": "Which of these is NOT a real social media app?",
@@ -315,7 +799,8 @@
             "Blipster",
             "Threads"
           ],
-          "answer": 2
+          "answer": 2,
+          "difficulty": "easy"
         },
         {
           "q": "Which dictionary named 'rizz' its Word of the Year in 2023?",
@@ -325,7 +810,8 @@
             "Cambridge",
             "Collins"
           ],
-          "answer": 1
+          "answer": 1,
+          "difficulty": "easy"
         },
         {
           "q": "In AI, what is a 'hallucination'?",
@@ -335,7 +821,8 @@
             "A rendering glitch",
             "Motion sickness in VR"
           ],
-          "answer": 1
+          "answer": 1,
+          "difficulty": "easy"
         },
         {
           "q": "Which company owns Instagram, WhatsApp, and Facebook?",
@@ -345,7 +832,8 @@
             "Meta",
             "X Corp"
           ],
-          "answer": 2
+          "answer": 2,
+          "difficulty": "easy"
         },
         {
           "q": "Which of these is a real K-pop group?",
@@ -355,7 +843,8 @@
             "GREENLIGHT",
             "BLUEMOON"
           ],
-          "answer": 1
+          "answer": 1,
+          "difficulty": "easy"
         },
         {
           "q": "What year did ChatGPT first launch to the public?",
@@ -365,7 +854,8 @@
             "2022",
             "2024"
           ],
-          "answer": 2
+          "answer": 2,
+          "difficulty": "easy"
         },
         {
           "q": "Which of these is a Taylor Swift album?",
@@ -375,7 +865,8 @@
             "The Lonely Novelists Guild",
             "The Broken Sculptors Union"
           ],
-          "answer": 0
+          "answer": 0,
+          "difficulty": "easy"
         },
         {
           "q": "Which app is best known for photos that disappear?",
@@ -385,7 +876,8 @@
             "Reddit",
             "Snapchat"
           ],
-          "answer": 3
+          "answer": 3,
+          "difficulty": "easy"
         },
         {
           "q": "What do you call someone who works remotely while traveling the world?",
@@ -395,7 +887,8 @@
             "A freelancer",
             "A remote monk"
           ],
-          "answer": 1
+          "answer": 1,
+          "difficulty": "easy"
         },
         {
           "q": "Which of these is a real electric vehicle brand?",
@@ -405,7 +898,8 @@
             "Rivian",
             "Rivet"
           ],
-          "answer": 2
+          "answer": 2,
+          "difficulty": "easy"
         },
         {
           "q": "What are the 'streaming wars'?",
@@ -415,7 +909,8 @@
             "A dispute over river water rights",
             "Live battles on TikTok"
           ],
-          "answer": 1
+          "answer": 1,
+          "difficulty": "easy"
         },
         {
           "q": "Which of these was a viral TikTok dance?",
@@ -425,7 +920,8 @@
             "The Cha Cha Slide",
             "The Cotton-Eyed Joe"
           ],
-          "answer": 0
+          "answer": 0,
+          "difficulty": "easy"
         },
         {
           "q": "Ozempic was originally prescribed to treat what?",
@@ -435,7 +931,8 @@
             "Type 2 diabetes",
             "Seasonal allergies"
           ],
-          "answer": 2
+          "answer": 2,
+          "difficulty": "easy"
         },
         {
           "q": "TikTok's parent company ByteDance is headquartered in which country?",
@@ -445,7 +942,8 @@
             "Japan",
             "China"
           ],
-          "answer": 3
+          "answer": 3,
+          "difficulty": "easy"
         },
         {
           "q": "What does 'FOMO' stand for?",
@@ -455,7 +953,8 @@
             "Front Of My Office",
             "Full On Meltdown"
           ],
-          "answer": 0
+          "answer": 0,
+          "difficulty": "easy"
         },
         {
           "q": "Which of these is a real Netflix series?",
@@ -465,7 +964,8 @@
             "Thursday",
             "Sunday"
           ],
-          "answer": 1
+          "answer": 1,
+          "difficulty": "easy"
         },
         {
           "q": "What is the name of Amazon's voice assistant?",
@@ -475,7 +975,8 @@
             "Alexa",
             "Bixby"
           ],
-          "answer": 2
+          "answer": 2,
+          "difficulty": "easy"
         },
         {
           "q": "Which platform organizes its communities into 'subreddits'?",
@@ -485,7 +986,8 @@
             "Twitch",
             "Reddit"
           ],
-          "answer": 3
+          "answer": 3,
+          "difficulty": "easy"
         },
         {
           "q": "What is a 'situationship'?",
@@ -495,7 +997,8 @@
             "A group chat",
             "A workplace dispute"
           ],
-          "answer": 1
+          "answer": 1,
+          "difficulty": "easy"
         },
         {
           "q": "Which of these is a real AI assistant?",
@@ -505,7 +1008,8 @@
             "Clive",
             "Clara"
           ],
-          "answer": 1
+          "answer": 1,
+          "difficulty": "easy"
         },
         {
           "q": "What does 'EV' stand for?",
@@ -515,7 +1019,8 @@
             "Electric Vehicle",
             "Exit Velocity"
           ],
-          "answer": 2
+          "answer": 2,
+          "difficulty": "easy"
         },
         {
           "q": "Roughly what does one stream pay an artist on a major music service?",
@@ -525,7 +1030,8 @@
             "Less than a penny",
             "About five dollars"
           ],
-          "answer": 2
+          "answer": 2,
+          "difficulty": "easy"
         },
         {
           "q": "Which of these is NOT owned by Meta?",
@@ -535,7 +1041,8 @@
             "YouTube",
             "Threads"
           ],
-          "answer": 2
+          "answer": 2,
+          "difficulty": "easy"
         },
         {
           "q": "Which of these movies came out most recently?",
@@ -545,7 +1052,8 @@
             "Barbie",
             "Jurassic Park"
           ],
-          "answer": 2
+          "answer": 2,
+          "difficulty": "easy"
         },
         {
           "q": "What does 'POV' stand for in a video caption?",
@@ -555,7 +1063,8 @@
             "Post On Video",
             "Play Or Vote"
           ],
-          "answer": 0
+          "answer": 0,
+          "difficulty": "easy"
         },
         {
           "q": "Which company built the Falcon 9 rocket?",
@@ -565,7 +1074,448 @@
             "Boeing",
             "Rocket Lab"
           ],
-          "answer": 1
+          "answer": 1,
+          "difficulty": "easy"
+        },
+        {
+          "q": "What does 'GPT' stand for?",
+          "options": [
+            "General Purpose Technology",
+            "Generative Pre-trained Transformer",
+            "Graphical Processing Tool",
+            "Global Prediction Table"
+          ],
+          "answer": 1,
+          "difficulty": "medium"
+        },
+        {
+          "q": "Which company makes the chips most used to train AI models?",
+          "options": [
+            "Intel",
+            "AMD",
+            "Nvidia",
+            "Qualcomm"
+          ],
+          "answer": 2,
+          "difficulty": "medium"
+        },
+        {
+          "q": "Which company releases the Llama models?",
+          "options": [
+            "Google",
+            "Meta",
+            "OpenAI",
+            "Amazon"
+          ],
+          "answer": 1,
+          "difficulty": "medium"
+        },
+        {
+          "q": "Which country first adopted Bitcoin as legal tender?",
+          "options": [
+            "Venezuela",
+            "El Salvador",
+            "Panama",
+            "Nigeria"
+          ],
+          "answer": 1,
+          "difficulty": "medium"
+        },
+        {
+          "q": "Where does the James Webb Space Telescope sit?",
+          "options": [
+            "In low Earth orbit",
+            "On the far side of the Moon",
+            "At L2, about a million miles out",
+            "In orbit around Mars"
+          ],
+          "answer": 2,
+          "difficulty": "medium"
+        },
+        {
+          "q": "Which vaccine technology did Pfizer and Moderna use for COVID-19?",
+          "options": [
+            "Live attenuated",
+            "mRNA",
+            "Viral vector",
+            "Protein subunit"
+          ],
+          "answer": 1,
+          "difficulty": "medium"
+        },
+        {
+          "q": "TSMC, the leading advanced chipmaker, is based where?",
+          "options": [
+            "South Korea",
+            "Japan",
+            "Taiwan",
+            "China"
+          ],
+          "answer": 2,
+          "difficulty": "medium"
+        },
+        {
+          "q": "What does 'SaaS' stand for?",
+          "options": [
+            "Software as a Service",
+            "Storage and Security",
+            "Systems and Analytics Suite",
+            "Scalable Application Server"
+          ],
+          "answer": 0,
+          "difficulty": "medium"
+        },
+        {
+          "q": "Which platform introduced disappearing 'Stories' first?",
+          "options": [
+            "Instagram",
+            "Snapchat",
+            "WhatsApp",
+            "Facebook"
+          ],
+          "answer": 1,
+          "difficulty": "medium"
+        },
+        {
+          "q": "Which company makes Ozempic?",
+          "options": [
+            "Pfizer",
+            "Eli Lilly",
+            "Novo Nordisk",
+            "Merck"
+          ],
+          "answer": 2,
+          "difficulty": "medium"
+        },
+        {
+          "q": "In what year was the Paris climate agreement adopted?",
+          "options": [
+            "2009",
+            "2012",
+            "2015",
+            "2018"
+          ],
+          "answer": 2,
+          "difficulty": "medium"
+        },
+        {
+          "q": "What does 'VPN' stand for?",
+          "options": [
+            "Verified Private Node",
+            "Virtual Private Network",
+            "Variable Packet Number",
+            "Visual Processing Network"
+          ],
+          "answer": 1,
+          "difficulty": "medium"
+        },
+        {
+          "q": "Which of these is NOT a real large language model?",
+          "options": [
+            "Claude",
+            "Gemini",
+            "Mistral",
+            "Cobalt"
+          ],
+          "answer": 3,
+          "difficulty": "medium"
+        },
+        {
+          "q": "Roughly what share of the world's people use the internet?",
+          "options": [
+            "About a third",
+            "About half",
+            "About two thirds",
+            "Nearly everyone"
+          ],
+          "answer": 2,
+          "difficulty": "medium"
+        },
+        {
+          "q": "What is a 'stablecoin' usually pegged to?",
+          "options": [
+            "Gold",
+            "A currency like the US dollar",
+            "Bitcoin",
+            "A stock index"
+          ],
+          "answer": 1,
+          "difficulty": "medium"
+        },
+        {
+          "q": "Which company owns LinkedIn?",
+          "options": [
+            "Meta",
+            "Microsoft",
+            "Salesforce",
+            "Oracle"
+          ],
+          "answer": 1,
+          "difficulty": "medium"
+        },
+        {
+          "q": "What is an Ethereum 'layer 2'?",
+          "options": [
+            "A second cryptocurrency",
+            "A network built on top of Ethereum to make it faster and cheaper",
+            "A hardware wallet",
+            "A legal classification"
+          ],
+          "answer": 1,
+          "difficulty": "medium"
+        },
+        {
+          "q": "Which source has added the most new electricity generation worldwide in recent years?",
+          "options": [
+            "Coal",
+            "Nuclear",
+            "Solar",
+            "Natural gas"
+          ],
+          "answer": 2,
+          "difficulty": "medium"
+        },
+        {
+          "q": "What does 'end-to-end encryption' mean?",
+          "options": [
+            "Only the sender and recipient can read it",
+            "It's encrypted only while stored on the server",
+            "It deletes after being read",
+            "It's compressed for transfer"
+          ],
+          "answer": 0,
+          "difficulty": "medium"
+        },
+        {
+          "q": "Which of these is NOT a cloud computing provider?",
+          "options": [
+            "AWS",
+            "Azure",
+            "Google Cloud",
+            "Shopify"
+          ],
+          "answer": 3,
+          "difficulty": "medium"
+        },
+        {
+          "q": "The 2017 paper that introduced the transformer architecture is titled:",
+          "options": [
+            "Deep Residual Learning",
+            "Attention Is All You Need",
+            "Generative Adversarial Networks",
+            "ImageNet Classification"
+          ],
+          "answer": 1,
+          "difficulty": "hard"
+        },
+        {
+          "q": "Which Nobel Prize did the AlphaFold team share in 2024?",
+          "options": [
+            "Physics",
+            "Chemistry",
+            "Medicine",
+            "Peace"
+          ],
+          "answer": 1,
+          "difficulty": "hard"
+        },
+        {
+          "q": "How many bitcoins will ever be mined?",
+          "options": [
+            "10 million",
+            "21 million",
+            "100 million",
+            "There's no cap"
+          ],
+          "answer": 1,
+          "difficulty": "hard"
+        },
+        {
+          "q": "In what year did Microsoft acquire GitHub?",
+          "options": [
+            "2015",
+            "2016",
+            "2018",
+            "2021"
+          ],
+          "answer": 2,
+          "difficulty": "hard"
+        },
+        {
+          "q": "What does 'RAG' stand for in AI?",
+          "options": [
+            "Rapid Answer Generation",
+            "Retrieval-Augmented Generation",
+            "Recursive Attention Gating",
+            "Ranked Adaptive Grouping"
+          ],
+          "answer": 1,
+          "difficulty": "hard"
+        },
+        {
+          "q": "In what year was the first message sent over ARPANET?",
+          "options": [
+            "1959",
+            "1969",
+            "1979",
+            "1983"
+          ],
+          "answer": 1,
+          "difficulty": "hard"
+        },
+        {
+          "q": "Which company is building the Kuiper satellite internet constellation?",
+          "options": [
+            "SpaceX",
+            "Amazon",
+            "OneWeb",
+            "Boeing"
+          ],
+          "answer": 1,
+          "difficulty": "hard"
+        },
+        {
+          "q": "What does Moore's Law observe?",
+          "options": [
+            "A hard physics limit on chip speed",
+            "That transistor counts roughly double every two years",
+            "That a network's value grows with its users",
+            "A rule about patent expiry"
+          ],
+          "answer": 1,
+          "difficulty": "hard"
+        },
+        {
+          "q": "What is the average time between Bitcoin blocks?",
+          "options": [
+            "10 seconds",
+            "1 minute",
+            "10 minutes",
+            "1 hour"
+          ],
+          "answer": 2,
+          "difficulty": "hard"
+        },
+        {
+          "q": "What does 'GDPR' stand for?",
+          "options": [
+            "Global Data Privacy Rules",
+            "General Data Protection Regulation",
+            "Government Digital Policy Review",
+            "Guaranteed Data Portability Right"
+          ],
+          "answer": 1,
+          "difficulty": "hard"
+        },
+        {
+          "q": "The EU's landmark 2024 artificial intelligence law is known as:",
+          "options": [
+            "The Digital Services Act",
+            "The AI Act",
+            "The Data Governance Act",
+            "The Cyber Resilience Act"
+          ],
+          "answer": 1,
+          "difficulty": "hard"
+        },
+        {
+          "q": "In what year did Apple's App Store open?",
+          "options": [
+            "2007",
+            "2008",
+            "2010",
+            "2012"
+          ],
+          "answer": 1,
+          "difficulty": "hard"
+        },
+        {
+          "q": "Which 2014 IPO raised more money than any before it?",
+          "options": [
+            "Facebook",
+            "Alibaba",
+            "Uber",
+            "Visa"
+          ],
+          "answer": 1,
+          "difficulty": "hard"
+        },
+        {
+          "q": "In AI criticism, what is a 'stochastic parrot'?",
+          "options": [
+            "A model that repeats patterns without understanding them",
+            "A random number generator",
+            "A speech synthesis method",
+            "A benchmark dataset"
+          ],
+          "answer": 0,
+          "difficulty": "hard"
+        },
+        {
+          "q": "Which of these is Goodhart's Law?",
+          "options": [
+            "When a measure becomes a target, it stops being a good measure",
+            "Work expands to fill the time available",
+            "Systems tend toward disorder",
+            "Adding people to a late project makes it later"
+          ],
+          "answer": 0,
+          "difficulty": "hard"
+        },
+        {
+          "q": "Roughly how many transistors are in a modern flagship phone processor?",
+          "options": [
+            "Millions",
+            "Hundreds of millions",
+            "Tens of billions",
+            "Trillions"
+          ],
+          "answer": 2,
+          "difficulty": "hard"
+        },
+        {
+          "q": "Which country has the most internet users?",
+          "options": [
+            "India",
+            "United States",
+            "China",
+            "Indonesia"
+          ],
+          "answer": 2,
+          "difficulty": "hard"
+        },
+        {
+          "q": "What is 'differential privacy'?",
+          "options": [
+            "Adding statistical noise so no individual can be identified in a dataset",
+            "Different privacy laws in different regions",
+            "Encrypting only the sensitive fields",
+            "Charging users extra for privacy"
+          ],
+          "answer": 0,
+          "difficulty": "hard"
+        },
+        {
+          "q": "Which of these is a real claimed computing milestone?",
+          "options": [
+            "Quantum supremacy",
+            "Quantum saturation",
+            "Quantum convergence",
+            "Quantum inversion"
+          ],
+          "answer": 0,
+          "difficulty": "hard"
+        },
+        {
+          "q": "Which company's chips does TSMC manufacture?",
+          "options": [
+            "Only its own",
+            "Apple's and Nvidia's, among others",
+            "Only Intel's",
+            "None — it designs but doesn't manufacture"
+          ],
+          "answer": 1,
+          "difficulty": "hard"
         }
       ]
     }

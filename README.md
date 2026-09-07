@@ -8,7 +8,7 @@ prompts written for right now.
 (say, Word Worm → Blankout), then play one of *these* Blankouts instead. Every rule, the
 timer, and the board stay exactly the same. Only the prompts change.
 
-**390 cards** across the four decks, matching the game's real card types:
+**910 cards** across the four decks, matching the game's real card types:
 
 | Deck | Card types |
 | --- | --- |
@@ -17,18 +17,38 @@ timer, and the board stay exactly the same. Only the prompts change.
 | **Data Head** — trivia | Factoid, Polygraph, Selectaquest |
 | **Star Performer** — acting | Cameo, Copycat, Humdinger |
 
-Thirty cards per type.
+Every card type has **70 cards in three difficulty tiers** — 30 easy, 20 medium, 20 hard.
+
+Difficulty means something different for each card type, so each one scales on its own
+axis rather than just getting longer:
+
+| Card type | Easy | Hard |
+| --- | --- | --- |
+| Blankout | A few letters missing from something famous | Most letters missing, and a term you have to actually know |
+| Gnilleps | Short words | Fifteen-letter words with ugly consonant runs |
+| Lexicon | Slang you've heard | Obscure terms where all three definitions sound plausible |
+| Spellbound | Commonly misspelled words | `WORCESTERSHIRE`, `BOUILLABAISSE`, `SYZYGY` |
+| Cloodle / Sensosketch / Sculptorades | A concrete object | An abstract concept — *burnout*, *the attention economy* |
+| Factoid / Selectaquest | General knowledge | Dates, figures, and specifics |
+| Polygraph | Obviously true or obviously false | Counterintuitive facts and believable falsehoods |
+| Cameo / Copycat | A simple physical bit | Abstractions — *déjà vu*, *compound interest*, *the last slice of pizza* |
+| Humdinger | Hooks everybody knows | Film scores, game themes, and the Netflix *ta-dum* |
+
+Mixing tiers works well as a handicap: put the people who play a lot on hard and everyone
+else on easy.
 
 ## Using it at game night
 
-- **[`index.html`](index.html)** — open it in any browser (phone included). Tap a deck, tap
-  a card type, and it deals. Each type shuffles its own pile, so you see all thirty before
-  anything repeats. There's a 60-second timer built in to match the sand timer in the box.
+- **[`index.html`](index.html)** — open it in any browser (phone included). Tap a deck, a
+  card type, and a difficulty, and it deals. Each combination shuffles its own pile, so you
+  see everything in it before anything repeats. There's a 60-second timer built in to match
+  the sand timer in the box.
 - **[`CARDS.md`](CARDS.md)** — the whole set as plain text, if you'd rather print it or
   read off a page.
 
 Keyboard shortcuts while playing: <kbd>N</kbd> deals the next card, <kbd>A</kbd> shows the
-answer, <kbd>T</kbd> starts and stops the timer.
+answer, <kbd>T</kbd> starts and stops the timer, and <kbd>1</kbd> <kbd>2</kbd> <kbd>3</kbd>
+jump to easy, medium, and hard (<kbd>0</kbd> for any tier).
 
 ## What each card type asks for
 
@@ -56,7 +76,8 @@ answer, <kbd>T</kbd> starts and stops the timer.
 ## Editing the decks
 
 The cards live in `data/*.json` — one file per deck, each with its card types and their
-cards. Add, cut, or reword whatever you like, then run:
+cards. Every card carries a `"difficulty"` of `easy`, `medium`, or `hard`. Add, cut, or
+reword whatever you like, then run:
 
 ```
 python3 build.py

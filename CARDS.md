@@ -1,17 +1,20 @@
 # Cranium 2026 — every card
 
-Printable/scannable text of all four decks. Generated from `data/*.json` by `build.py` — edit the JSON, not this file.
+Printable/scannable text of all four decks, grouped by card type and difficulty. Generated from `data/*.json` by `build.py` — edit the JSON, not this file.
 
 
-**390 cards total.**
+**910 cards total** — every card type has 30 easy, 20 medium, 20 hard.
 
 
-## Word Worm — Spelling, definitions, and wordplay (120 cards)
+## Word Worm — Spelling, definitions, and wordplay (280 cards)
 
 
-### Blankout (30)
+### Blankout (70)
 
 *Read the hint and the puzzle out loud, letter blanks and all. Your team has to fill in the missing letters and say the whole answer.*
+
+
+**Easy** (30)
 
 1. **T _ K T _ K** — _App on everyone's phone_ → TIKTOK
 2. **B _ R B _ E** — _Blockbuster movie_ → BARBIE
@@ -44,10 +47,59 @@ Printable/scannable text of all four decks. Generated from `data/*.json` by `bui
 29. **S _ L F   C H _ C K _ U T** — _Grocery run without a cashier_ → SELF CHECKOUT
 30. **D _ S C _ R D** — _Where the group chat lives_ → DISCORD
 
+**Medium** (20)
 
-### Gnilleps (30)
+1. **S _ C C _ S S _ _ N** — _Streaming drama about a media dynasty_ → SUCCESSION
+2. **_ N S H _ T T _ F _ C _ T _ _ N** — _When a platform slowly gets worse_ → ENSHITTIFICATION
+3. **T H _   L _ S T   _ F   U S** — _Video game adapted into an HBO series_ → THE LAST OF US
+4. **B _ Y _ N C _** — _Singer behind the album 'Renaissance'_ → BEYONCE
+5. **R _ _ S _   R _ T _ S** — _What a central bank does to fight inflation_ → RAISE RATES
+6. **G _ N _ R _ T _ V _   A _** — _The kind of AI that makes new text and images_ → GENERATIVE AI
+7. **N V _ D _ _** — _The chip company at the center of the AI boom_ → NVIDIA
+8. **R _ T _ _ L   T H _ R _ P Y** — _Buying things to feel better_ → RETAIL THERAPY
+9. **B L _ _ S K Y** — _Social app built on the AT Protocol_ → BLUESKY
+10. **B L _ C K C H _ _ N** — _The ledger technology under crypto_ → BLOCKCHAIN
+11. **M _ M _   S T _ C K S** — _What people called GameStop and AMC in 2021_ → MEME STOCKS
+12. **T H _   Q _ _ _ N S   G _ M B _ T** — _Netflix series about a chess prodigy_ → THE QUEENS GAMBIT
+13. **L _ Y _ F F S** — _What a company announces when it cuts staff_ → LAYOFFS
+14. **C R _ S P R** — _The gene-editing tool_ → CRISPR
+15. **S H _ G _ N** — _2024 remake of a series about a Japanese lord_ → SHOGUN
+16. **D _ G _ T _ L   W _ L L _ T** — _Where your crypto lives_ → DIGITAL WALLET
+17. **K _ N D R _ C K   L _ M _ R** — _Rapper behind 'Mr. Morale & the Big Steppers'_ → KENDRICK LAMAR
+18. **S _ R G _   P R _ C _ N G** — _Why your ride costs triple in the rain_ → SURGE PRICING
+19. **T R _ _   C R _ M _** — _The documentary genre that took over streaming_ → TRUE CRIME
+20. **_ N _ T _ _ L   P _ B L _ C   _ F F _ R _ N G** — _What a company does when it first sells shares_ → INITIAL PUBLIC OFFERING
+
+**Hard** (20)
+
+1. **E _ _ A _ E _ E _ T   _ A _ T** — _Content built to game a recommendation system_ → ENGAGEMENT BAIT
+2. **_ _ _ _ A _** — _Japanese concept of a reason for being_ → IKIGAI
+3. **_ E _ _ _ O _ _ E _ E _ T   _ E A _ _ _ _ _** — _The training method that made chatbots polite_ → REINFORCEMENT LEARNING
+4. **_ T A _ _ _ A T _ O _** — _Stagnant growth plus rising prices_ → STAGFLATION
+5. **A _ _ _ A _ O _ _** — _The AI that predicts protein structures_ → ALPHAFOLD
+6. **_ _ _ _ O _ _** — _A startup valued over a billion dollars_ → UNICORN
+7. **_ E _ A _ _ O _ _ _ A T _ O _** — _Cutting an economy's carbon emissions to zero_ → DECARBONIZATION
+8. **_ O _   _ O _   _ A _ E** — _The algorithmic main feed on TikTok_ → FOR YOU PAGE
+9. **_ _ _ _ _ _ A _ _ E _** — _Retail buzzword for online and in-store as one_ → OMNICHANNEL
+10. **_ _ _ - 1   A _ O _ _ _ T** — _The drug class behind the weight-loss boom_ → GLP-1 AGONIST
+11. **_ O _ _ _ _ _ A T _ O _   _ _ A _** — _Believing what already fits your worldview_ → CONFIRMATION BIAS
+12. **_ _ _ _ T _ O _** — _The 2022 fusion milestone at a US lab_ → IGNITION
+13. **_ _ _ E   _ O _ _ _ _** — _Building software by describing it to an AI_ → VIBE CODING
+14. **_ E _ _ O _ _ _ _** — _Bringing factories back to your own country_ → RESHORING
+15. **_   _ _ A _ E _   _ E _ O _ E _ _** — _A sharp economic drop and equally sharp rebound_ → V SHAPED RECOVERY
+16. **_ A _ _ E   _ A _ _ _ A _ E   _ O _ E _** — _What the acronym LLM spells out_ → LARGE LANGUAGE MODEL
+17. **_ _ _ T _ _ _ _** — _Japanese art of mending pottery with gold_ → KINTSUGI
+18. **_ A _ _   _ A T T E _ _ _** — _Interface design meant to trick you into subscribing_ → DARK PATTERNS
+19. **_ O _ O _ _ O _ _ A** — _The fear of being without your phone_ → NOMOPHOBIA
+20. **_ E T _ _ E _ A _   A _ _ _ E _ T E _   _ E _ E _ A T _ O _** — _Attaching an AI to a live document search_ → RETRIEVAL AUGMENTED GENERATION
+
+
+### Gnilleps (70)
 
 *Spell the word BACKWARDS out loud. No writing it down first, no peeking.*
+
+
+**Easy** (30)
 
 1. **PODCAST** → T-S-A-C-D-O-P
 2. **INFLUENCER** → R-E-C-N-E-U-L-F-N-I
@@ -80,10 +132,59 @@ Printable/scannable text of all four decks. Generated from `data/*.json` by `bui
 29. **AIRDROP** → P-O-R-D-R-I-A
 30. **MULTIVERSE** → E-S-R-E-V-I-T-L-U-M
 
+**Medium** (20)
 
-### Lexicon (30)
+1. **MONETIZE** → E-Z-I-T-E-N-O-M
+2. **DASHBOARD** → D-R-A-O-B-H-S-A-D
+3. **WEARABLE** → E-L-B-A-R-A-E-W
+4. **PODCASTER** → R-E-T-S-A-C-D-O-P
+5. **STREAMERS** → S-R-E-M-A-E-R-T-S
+6. **ENCRYPTED** → D-E-T-P-Y-R-C-N-E
+7. **TELEHEALTH** → H-T-L-A-E-H-E-L-E-T
+8. **WORKFLOWS** → S-W-O-L-F-K-R-O-W
+9. **INFLATION** → N-O-I-T-A-L-F-N-I
+10. **RECESSION** → N-O-I-S-S-E-C-E-R
+11. **SIMULATION** → N-O-I-T-A-L-U-M-I-S
+12. **BIOMETRIC** → C-I-R-T-E-M-O-I-B
+13. **CHECKOUT** → T-U-O-K-C-E-H-C
+14. **ANALYTICS** → S-C-I-T-Y-L-A-N-A
+15. **FIREWALL** → L-L-A-W-E-R-I-F
+16. **DOWNLOADS** → S-D-A-O-L-N-W-O-D
+17. **GENERATIVE** → E-V-I-T-A-R-E-N-E-G
+18. **RIDESHARE** → E-R-A-H-S-E-D-I-R
+19. **NEWSLETTER** → R-E-T-T-E-L-S-W-E-N
+20. **SUBSCRIBER** → R-E-B-I-R-C-S-B-U-S
+
+**Hard** (20)
+
+1. **CRYPTOCURRENCY** → Y-C-N-E-R-R-U-C-O-T-P-Y-R-C
+2. **NOTIFICATIONS** → S-N-O-I-T-A-C-I-F-I-T-O-N
+3. **AUTHENTICATION** → N-O-I-T-A-C-I-T-N-E-H-T-U-A
+4. **PERSONALIZED** → D-E-Z-I-L-A-N-O-S-R-E-P
+5. **MISINFORMATION** → N-O-I-T-A-M-R-O-F-N-I-S-I-M
+6. **SUSTAINABILITY** → Y-T-I-L-I-B-A-N-I-A-T-S-U-S
+7. **ENTREPRENEUR** → R-U-E-N-E-R-P-E-R-T-N-E
+8. **ALGORITHMICALLY** → Y-L-L-A-C-I-M-H-T-I-R-O-G-L-A
+9. **INFRASTRUCTURE** → E-R-U-T-C-U-R-T-S-A-R-F-N-I
+10. **NEURODIVERGENT** → T-N-E-G-R-E-V-I-D-O-R-U-E-N
+11. **CYBERSECURITY** → Y-T-I-R-U-C-E-S-R-E-B-Y-C
+12. **UNSUBSCRIBING** → G-N-I-B-I-R-C-S-B-U-S-N-U
+13. **TELECOMMUTING** → G-N-I-T-U-M-M-O-C-E-L-E-T
+14. **GENTRIFICATION** → N-O-I-T-A-C-I-F-I-R-T-N-E-G
+15. **MICROTRANSACTION** → N-O-I-T-C-A-S-N-A-R-T-O-R-C-I-M
+16. **DECENTRALIZED** → D-E-Z-I-L-A-R-T-N-E-C-E-D
+17. **HYPERCONNECTED** → D-E-T-C-E-N-N-O-C-R-E-P-Y-H
+18. **QUANTIFICATION** → N-O-I-T-A-C-I-F-I-T-N-A-U-Q
+19. **CONTROVERSIAL** → L-A-I-S-R-E-V-O-R-T-N-O-C
+20. **PHOTOREALISTIC** → C-I-T-S-I-L-A-E-R-O-T-O-H-P
+
+
+### Lexicon (70)
 
 *Read the word and all three definitions out loud. Your team picks the right one.*
+
+
+**Easy** (30)
 
 1. **RIZZ** — A) A charred crust on grilled meat; B) Charm or skill at flirting; C) A glitch that freezes a video game → **B**
 2. **DELULU** — A) Delusional, usually in an upbeat way; B) A slowed-down remix of a lullaby; C) A very small ukulele → **A**
@@ -116,10 +217,59 @@ Printable/scannable text of all four decks. Generated from `data/*.json` by `bui
 29. **GYATT** — A) An exclamation of surprise, usually at someone attractive; B) A German pastry; C) A type of pickup truck → **A**
 30. **MAIN CHARACTER ENERGY** — A) Acting like you're the star of your own movie; B) Caffeine before a performance; C) Being cast in a lead role → **A**
 
+**Medium** (20)
 
-### Spellbound (30)
+1. **DOOMER** — A) Someone convinced things will only get worse; B) A heavy metal subgenre fan; C) A demolition contractor → **A**
+2. **PARASOCIAL** — A) Socializing in two groups at once; B) A one-sided bond with someone famous who doesn't know you exist; C) A phase of avoiding people → **B**
+3. **SHERLOCKED** — A) Solved a mystery ahead of everyone; B) Locked out of your own account; C) When a platform builds your app's feature and kills your business → **C**
+4. **ASTROTURFING** — A) Fake grassroots support paid for by a company; B) Installing an artificial lawn; C) A skateboarding trick → **A**
+5. **GREENWASHING** — A) Cleaning with vinegar and baking soda; B) Marketing something as eco-friendly when it isn't; C) A green photo filter → **B**
+6. **BIKESHEDDING** — A) Arguing over trivial details while the big decision goes unmade; B) Building storage for bicycles; C) Commuting by bike to save money → **A**
+7. **SHADOWBAN** — A) A nighttime curfew; B) A dark-mode restriction; C) Being quietly hidden from feeds without ever being told → **C**
+8. **SUNSETTING** — A) Discontinuing a product in planned stages; B) An evening photography trend; C) Dimming your screen after dark → **A**
+9. **DOGFOODING** — A) Marketing pet food to humans; B) A company using its own product internally; C) Eating cheaply to save money → **B**
+10. **CHURN** — A) The rate at which customers cancel and leave; B) The sound a struggling engine makes; C) Making butter the old-fashioned way → **A**
+11. **MOAT** — A) A cash reserve for emergencies; B) A durable advantage competitors can't copy; C) A legal barrier to entry → **B**
+12. **FREEMIUM** — A) A free trial that expires; B) Premium service given away free; C) A free basic tier with paid upgrades → **C**
+13. **DEPLATFORMING** — A) Removing someone from the services they use to reach an audience; B) Demolishing a concert stage; C) Getting off a train → **A**
+14. **QUIET FIRING** — A) A silent alarm at a workplace; B) Making a job unpleasant enough that someone quits; C) Terminating someone by text message → **B**
+15. **KAYFABE** — A) A traditional Japanese theater form; B) A convincing fake ID; C) The pretense that staged events are real, borrowed from pro wrestling → **C**
+16. **STREISAND EFFECT** — A) Trying to suppress something makes it spread further; B) A vocal warm-up technique; C) A movie plot cliche → **A**
+17. **PREBUNKING** — A) Booking a trip well in advance; B) Warning people about a false claim before they encounter it; C) Writing a rebuttal ahead of a debate → **B**
+18. **ONBOARDING** — A) Loading cargo onto a ship; B) Boarding a plane by group number; C) Getting a new hire or user up to speed → **C**
+19. **ZOOM FATIGUE** — A) Exhaustion from too many video calls; B) Wear on a camera lens; C) Blur from a fast pan → **A**
+20. **LONGTERMISM** — A) A buy-and-hold investing strategy; B) The view that we should weigh the far future heavily in decisions today; C) A chronic illness classification → **B**
+
+**Hard** (20)
+
+1. **ULTRACREPIDARIAN** — A) Someone who confidently opines well beyond their expertise; B) An extreme endurance athlete; C) A very old bound manuscript → **A**
+2. **SONDER** — A) A soft echo in a large hall; B) The realization that every stranger has a life as vivid as your own; C) A journey taken alone → **B**
+3. **APOPHENIA** — A) A fear of open heights; B) A sudden loss of appetite; C) Seeing meaningful patterns in random data → **C**
+4. **ZEMBLANITY** — A) Making unlucky discoveries by design — the opposite of serendipity; B) A spell of heavy snow; C) A Balkan folk dance → **A**
+5. **ANEMOIA** — A) An iron deficiency; B) Nostalgia for a time you never actually lived through; C) Sickness brought on by high wind → **B**
+6. **AKRASIA** — A) An inability to sit still; B) A Greek honey pastry; C) Acting against your own better judgment → **C**
+7. **HYPERSTITION** — A) An idea that makes itself true by being believed widely enough; B) An extreme form of superstition; C) Fiction written at great speed → **A**
+8. **MOLOCH** — A) An ancient silver coin; B) A trap where everyone competing rationally leaves everyone worse off; C) A Norwegian metal band → **B**
+9. **UMWELT** — A) A German environmental statute; B) A style of world map projection; C) The slice of reality a given creature can actually perceive → **C**
+10. **STOCHASTIC PARROT** — A) A critique of language models as pattern-repeaters without understanding; B) A random number generator; C) A bird species with erratic migration → **A**
+11. **GOODHART'S LAW** — A) Systems inevitably trend toward disorder; B) When a measure becomes a target, it stops being a good measure; C) Work expands to fill the time available → **B**
+12. **CHESTERTON'S FENCE** — A) A rule about property boundary disputes; B) A defensive military formation; C) Don't tear something down until you know why it was put up → **C**
+13. **GELL-MANN AMNESIA** — A) Trusting a source on topics you don't know, right after catching it wrong on one you do; B) Forgetting a colleague's name mid-introduction; C) Memory loss caused by radiation exposure → **A**
+14. **PREFERENCE FALSIFICATION** — A) Rigging the results of a poll; B) Hiding what you actually think because of social pressure; C) Editing a survey after the fact → **B**
+15. **ANTIMEMETIC** — A) Opposed to internet culture generally; B) A class of anti-inflammatory drug; C) Resistant to being remembered or passed on → **C**
+16. **LEGIBILITY** — A) A state's drive to simplify society so it can be measured and governed; B) Handwriting clear enough to read; C) Font sizing for accessibility → **A**
+17. **HEDONIC TREADMILL** — A) A high-intensity cardio machine; B) The tendency to return to a baseline of happiness after good or bad events; C) The escalating cycle of an addiction → **B**
+18. **ERGODICITY** — A) A measure of energy efficiency; B) The science of workplace ergonomics; C) Whether the average over time matches the average across a group → **C**
+19. **SOLASTALGIA** — A) The distress of watching your home environment change around you; B) A melancholy that arrives at sunset; C) Grief over a failed solar installation → **A**
+20. **KOMPROMAT** — A) A negotiated compromise between two states; B) Damaging material collected in order to blackmail someone; C) A compact folding sleeping mat → **B**
+
+
+### Spellbound (70)
 
 *Spell the word out loud, forwards. One shot, no do-overs.*
+
+
+**Easy** (30)
 
 1. **CRYPTOCURRENCY**
 2. **ENTREPRENEURSHIP**
@@ -152,13 +302,62 @@ Printable/scannable text of all four decks. Generated from `data/*.json` by `bui
 29. **ACQUIESCE**
 30. **CONSCIENTIOUS**
 
+**Medium** (20)
 
-## Creative Cat — Draw it, sculpt it, no words allowed (90 cards)
+1. **MAINTENANCE**
+2. **OCCURRENCE**
+3. **EMBARRASSED**
+4. **DEFINITELY**
+5. **SEPARATE**
+6. **NECESSARY**
+7. **LIAISON**
+8. **ACCOMMODATE**
+9. **PRIVILEGE**
+10. **RECOMMEND**
+11. **QUESTIONNAIRE**
+12. **VACUUM**
+13. **BROCCOLI**
+14. **COLLEAGUE**
+15. **THRESHOLD**
+16. **HARASS**
+17. **MILLENNIUM**
+18. **PERSEVERANCE**
+19. **CEMETERY**
+20. **PLAYWRIGHT**
+
+**Hard** (20)
+
+1. **HORS D'OEUVRE**
+2. **RESTAURATEUR**
+3. **WORCESTERSHIRE**
+4. **BOUILLABAISSE**
+5. **CHAUFFEUR**
+6. **SCHADENFREUDE**
+7. **ANTIDISESTABLISHMENTARIANISM**
+8. **PNEUMONIA**
+9. **HAUTE COUTURE**
+10. **RENDEZVOUS**
+11. **BOURGEOISIE**
+12. **QUINOA**
+13. **SYZYGY**
+14. **ISTHMUS**
+15. **MNEMONIC**
+16. **SUBPOENA**
+17. **CHIAROSCURO**
+18. **PHLEGMATIC**
+19. **IDIOSYNCRASY**
+20. **ZUCCHINI**
 
 
-### Cloodle (30)
+## Creative Cat — Draw it, sculpt it, no words allowed (210 cards)
+
+
+### Cloodle (70)
 
 *Draw it with your eyes OPEN. No letters, no numbers, no talking, no gestures.*
+
+
+**Easy** (30)
 
 1. Wireless earbuds
 2. A ring light
@@ -191,10 +390,59 @@ Printable/scannable text of all four decks. Generated from `data/*.json` by `bui
 29. A smart doorbell catching a package thief
 30. Someone livestreaming a haircut gone wrong
 
+**Medium** (20)
 
-### Sensosketch (30)
+1. A rideshare driver arguing with a GPS
+2. Someone livestreaming a cooking fail
+3. A dog in a smart collar chasing a delivery drone
+4. An airport gate where everyone is charging a phone
+5. A wedding where every guest is filming it
+6. An AI-generated portrait that got the hands wrong
+7. A gym where everyone is watching the same TV
+8. A self-driving car stumped by a construction cone
+9. A group chat blowing up during a game
+10. Someone building a desk from a flat box
+11. A barista taking a twelve-word drink order
+12. A food hall with a QR code on every table
+13. Returning a package at a drop-off counter
+14. A drone light show over a skyline
+15. Someone hiding from a video call behind a houseplant
+16. A cat asleep on a warm laptop mid-workday
+17. A parent filming a school play through their phone
+18. A rooftop solar installation
+19. A trader watching a chart fall off a cliff
+20. The slowest possible self-checkout line
+
+**Hard** (20)
+
+1. Burnout
+2. The algorithm
+3. Inflation
+4. Privacy
+5. Nostalgia
+6. Misinformation
+7. Work-life balance
+8. A supply chain
+9. Artificial intelligence
+10. Loneliness in a crowd
+11. Going viral
+12. A digital detox
+13. Imposter syndrome
+14. The gig economy
+15. Climate anxiety
+16. Screen time
+17. Data mining
+18. The attention economy
+19. Sustainability
+20. Doomscrolling
+
+
+### Sensosketch (70)
 
 *Draw it with your eyes CLOSED. Keep it simple — you can't see what you're doing.*
+
+
+**Easy** (30)
 
 1. A Wi-Fi symbol
 2. A smartphone
@@ -227,10 +475,59 @@ Printable/scannable text of all four decks. Generated from `data/*.json` by `bui
 29. A snowman wearing headphones
 30. A taco
 
+**Medium** (20)
 
-### Sculptorades (30)
+1. A bicycle
+2. An octopus
+3. A birthday cake with candles
+4. A guitar
+5. A butterfly
+6. A lighthouse
+7. A pair of scissors
+8. An elephant
+9. A windmill
+10. A sailboat on waves
+11. A pizza with three toppings
+12. A giraffe
+13. A hand holding a phone
+14. A snail
+15. A pineapple wearing sunglasses
+16. A camera on a tripod
+17. A crab
+18. A car seen head-on
+19. A stack of pancakes with syrup
+20. An umbrella in the rain
+
+**Hard** (20)
+
+1. A dinosaur on a skateboard
+2. A person doing a handstand
+3. A horse
+4. A city skyline at night
+5. A robot walking a dog
+6. A hand giving a peace sign
+7. An astronaut floating
+8. A dragon
+9. A person on a rowing machine
+10. A helicopter
+11. A bear wearing headphones
+12. A flamingo standing on one leg
+13. A rollercoaster
+14. A chess knight
+15. A DJ at a turntable
+16. An octopus juggling
+17. A tree with its roots showing
+18. A motorcycle
+19. Someone eating spaghetti
+20. A spiral staircase
+
+
+### Sculptorades (70)
 
 *Sculpt it out of clay. No letters, no numbers, no sound effects, no charades.*
+
+
+**Easy** (30)
 
 1. A game controller
 2. A boba tea with a fat straw
@@ -263,13 +560,62 @@ Printable/scannable text of all four decks. Generated from `data/*.json` by `bui
 29. A laptop with a cracked screen
 30. A hamster in an exercise ball
 
+**Medium** (20)
 
-## Data Head — Trivia, true-or-false, and multiple choice (90 cards)
+1. A drone carrying a coffee cup
+2. A robot arm on an assembly line
+3. Glasses with a camera in them
+4. A gaming chair
+5. An espresso machine
+6. A wind turbine
+7. A hospital bed
+8. A stack of pancakes
+9. A hand holding a phone up to take a photo
+10. A treadmill with a laptop on it
+11. A birdhouse with a camera in it
+12. A dog riding in a backpack carrier
+13. A blender full of smoothie
+14. A skateboard mid-trick
+15. A sushi roll cut open
+16. A vending machine
+17. A washing machine mid-cycle
+18. A tent with a solar panel
+19. A soft-serve cone
+20. A stethoscope
+
+**Hard** (20)
+
+1. Going viral
+2. A traffic jam
+3. Burnout
+4. A supply chain
+5. The internet
+6. Rush hour on a subway
+7. A conspiracy theory
+8. Recycling
+9. A group chat
+10. Working from home
+11. Privacy
+12. A concert crowd
+13. Nostalgia
+14. Renewable energy
+15. A password reset
+16. Teamwork
+17. Time zones
+18. An awkward silence
+19. Growth
+20. A software update
 
 
-### Factoid (30)
+## Data Head — Trivia, true-or-false, and multiple choice (210 cards)
+
+
+### Factoid (70)
 
 *Read the question. The whole team can confer on one answer.*
+
+
+**Easy** (30)
 
 1. What short-video app, owned by ByteDance, launched internationally in 2017? → **TikTok**
 2. What Korean survival drama became Netflix's most-watched series ever after it premiered in 2021? → **Squid Game**
@@ -302,10 +648,59 @@ Printable/scannable text of all four decks. Generated from `data/*.json` by `bui
 29. What Disney+ series follows a bounty hunter and a small green alien child? → **The Mandalorian**
 30. What word describes the practice of doing your job from anywhere while traveling? → **Being a digital nomad**
 
+**Medium** (20)
 
-### Polygraph (30)
+1. What does the 'GPT' in ChatGPT stand for? → **Generative Pre-trained Transformer**
+2. Which lab built AlphaFold, the AI that predicts protein structures? → **DeepMind (Google DeepMind)**
+3. Which Chinese AI lab released the R1 reasoning model in 2025? → **DeepSeek**
+4. What does the 'S' in HTTPS stand for? → **Secure**
+5. Which company owns the studio behind Minecraft? → **Microsoft**
+6. Which social platform has the most monthly active users worldwide? → **Facebook**
+7. What vaccine technology did the Pfizer and Moderna COVID shots use? → **mRNA**
+8. What is the name of Google's family of AI models launched in 2023? → **Gemini**
+9. What does 'VPN' stand for? → **Virtual Private Network**
+10. TSMC, which makes the world's most advanced chips, is based in which country? → **Taiwan**
+11. In what year was the Paris climate agreement adopted? → **2015**
+12. What is the name for the roughly four-year event that cuts Bitcoin's mining reward in half? → **The halving**
+13. What does 'SaaS' stand for? → **Software as a Service**
+14. Which app introduced disappearing 'Stories' before Instagram copied them? → **Snapchat**
+15. Who is the CEO of Nvidia? → **Jensen Huang**
+16. Which pharmaceutical company makes Ozempic and Wegovy? → **Novo Nordisk**
+17. What does 'API' stand for? → **Application Programming Interface**
+18. What protocol does the social network Bluesky run on? → **The AT Protocol**
+19. Which country was the first to make Bitcoin legal tender? → **El Salvador**
+20. What does 'IPO' stand for? → **Initial Public Offering**
+
+**Hard** (20)
+
+1. What is the title of the 2017 paper that introduced the transformer architecture? → **'Attention Is All You Need'**
+2. How many bitcoins will ever exist? → **21 million**
+3. In what year did Instagram launch? → **2010**
+4. Which company acquired GitHub, and in what year? → **Microsoft, in 2018**
+5. Which Nobel Prize did the creators of AlphaFold share in 2024? → **Chemistry**
+6. What is the EU's landmark 2024 law regulating artificial intelligence called? → **The EU AI Act**
+7. On average, how long is the gap between two Bitcoin blocks? → **About 10 minutes**
+8. Which blockchain popularized 'smart contracts'? → **Ethereum**
+9. A modern flagship phone chip holds roughly how many transistors — millions, billions, or trillions? → **Tens of billions**
+10. What does 'GDPR' stand for? → **General Data Protection Regulation**
+11. Which country has the most internet users? → **China**
+12. In what year was the first message sent over ARPANET, the internet's ancestor? → **1969**
+13. What does Moore's Law actually observe? → **That the number of transistors on a chip roughly doubles every two years**
+14. Which company is building the Kuiper satellite internet constellation? → **Amazon**
+15. What is Meta's family of open-weight AI models called? → **Llama**
+16. What does 'RAG' stand for in AI systems? → **Retrieval-Augmented Generation**
+17. In what year did Apple's App Store open? → **2008**
+18. Where does the James Webb Space Telescope sit? → **At the L2 point, about a million miles from Earth**
+19. What is 'quantum supremacy'? → **The point at which a quantum computer solves a problem no classical computer feasibly can**
+20. Which 2014 stock market debut raised more money than any IPO before it? → **Alibaba**
+
+
+### Polygraph (70)
 
 *Read the statement. The team decides: true or false?*
+
+
+**Easy** (30)
 
 1. Netflix started out as a DVD-by-mail rental company. → **TRUE**
 2. 'The cloud' is one enormous computer located in Nevada. → **FALSE**
@@ -338,10 +733,59 @@ Printable/scannable text of all four decks. Generated from `data/*.json` by `bui
 29. There are more than 8 billion people alive on Earth. → **TRUE**
 30. The Nintendo Switch can only be played docked to a television. → **FALSE**
 
+**Medium** (20)
 
-### Selectaquest (30)
+1. The 'S' in HTTPS stands for 'secure.' → **TRUE**
+2. 'Wi-Fi' is an abbreviation of 'Wireless Fidelity.' → **FALSE** (It's a brand name a marketing firm invented — it doesn't stand for anything.)
+3. Incognito mode hides your browsing from your internet provider. → **FALSE** (It only stops your own browser from saving the history.)
+4. Bitcoin transactions are anonymous and untraceable. → **FALSE** (Every transaction is recorded on a public ledger.)
+5. Nvidia now earns more from data centers than from gaming. → **TRUE**
+6. 5G networks caused the COVID-19 pandemic. → **FALSE**
+7. Electric cars produce zero emissions across their full life cycle. → **FALSE** (Manufacturing and grid electricity both carry emissions.)
+8. Most of the world's internet traffic travels through undersea cables. → **TRUE**
+9. Signal and WhatsApp both use end-to-end encryption by default. → **TRUE**
+10. Deleting a file immediately erases it from the drive. → **FALSE** (It usually just marks the space as reusable.)
+11. TikTok's feed mainly shows you content from accounts you follow. → **FALSE** (The main feed is recommendation-driven, not follow-driven.)
+12. The EU passed a law requiring USB-C charging ports on new phones. → **TRUE**
+13. Solar is now cheaper than new coal power in most of the world. → **TRUE**
+14. A blockchain has to be public to work at all. → **FALSE** (Private and permissioned chains exist.)
+15. Video streaming accounts for the majority of internet bandwidth. → **TRUE**
+16. Text-message two-factor codes are the most secure option available. → **FALSE** (An authenticator app or hardware key is stronger — SMS can be intercepted.)
+17. Amazon's cloud business is more profitable than its retail business. → **TRUE**
+18. Modern AI language models are programmed with explicit grammar rules. → **FALSE** (They learn statistical patterns from text instead.)
+19. The James Webb Space Telescope observes mainly in infrared. → **TRUE**
+20. Apple takes a cut of most purchases made inside App Store apps. → **TRUE**
+
+**Hard** (20)
+
+1. There are more mobile phone subscriptions in the world than there are people. → **TRUE**
+2. The first computer programmer is generally considered to have been a woman. → **TRUE** (Ada Lovelace, in the 1840s.)
+3. Training a large AI model uses about as much electricity as a household does in a week. → **FALSE** (It's orders of magnitude more than that.)
+4. Most crypto trading volume happens on decentralized exchanges. → **FALSE** (Centralized exchanges still dominate.)
+5. Fertility rates have been falling in nearly every country on Earth. → **TRUE**
+6. Extreme poverty worldwide has fallen by more than half since 1990. → **TRUE**
+7. The word 'robot' comes from a Czech play. → **TRUE** (Karel Capek's 'R.U.R.', 1920.)
+8. Email existed before the World Wide Web. → **TRUE**
+9. A QR code still scans with up to about 30% of it damaged. → **TRUE** (Error correction is built into the format.)
+10. GPS satellites have to correct for Einstein's relativity to stay accurate. → **TRUE**
+11. The internet and the World Wide Web are two names for the same thing. → **FALSE** (The web is one service running on top of the internet.)
+12. Nvidia was founded in the 1990s. → **TRUE** (1993.)
+13. The screen is the most expensive component in a typical smartphone. → **FALSE** (The processor and other silicon usually cost more.)
+14. Lithium is the scarcest material in an electric car battery. → **FALSE** (Cobalt and nickel supply are the tighter constraints.)
+15. The average person checks their phone fewer than 20 times a day. → **FALSE**
+16. Streaming a movie uses more energy than driving to a video store would have. → **FALSE**
+17. Bitcoin's annual energy use is comparable to that of a mid-sized country. → **TRUE**
+18. The @ symbol was picked for email addresses partly because it was rarely used. → **TRUE**
+19. Moore's Law is a law of physics. → **FALSE** (It's an observed trend, and an industry target.)
+20. The first webcam was set up to watch a coffee pot. → **TRUE** (The Trojan Room coffee pot at Cambridge.)
+
+
+### Selectaquest (70)
 
 *Read the question and all the choices out loud. The team picks one.*
+
+
+**Easy** (30)
 
 1. Which of these launched FIRST? — A) TikTok; B) Instagram; C) Snapchat; D) Zoom → **B**
 2. What does 'NFT' stand for? — A) New Financial Token; B) Networked File Transfer; C) Non-Fungible Token; D) Nearly Free Trade → **C**
@@ -374,13 +818,62 @@ Printable/scannable text of all four decks. Generated from `data/*.json` by `bui
 29. What does 'POV' stand for in a video caption? — A) Point Of View; B) Plenty Of Vibes; C) Post On Video; D) Play Or Vote → **A**
 30. Which company built the Falcon 9 rocket? — A) Blue Origin; B) SpaceX; C) Boeing; D) Rocket Lab → **B**
 
+**Medium** (20)
 
-## Star Performer — Act it, impersonate it, hum it (90 cards)
+1. What does 'GPT' stand for? — A) General Purpose Technology; B) Generative Pre-trained Transformer; C) Graphical Processing Tool; D) Global Prediction Table → **B**
+2. Which company makes the chips most used to train AI models? — A) Intel; B) AMD; C) Nvidia; D) Qualcomm → **C**
+3. Which company releases the Llama models? — A) Google; B) Meta; C) OpenAI; D) Amazon → **B**
+4. Which country first adopted Bitcoin as legal tender? — A) Venezuela; B) El Salvador; C) Panama; D) Nigeria → **B**
+5. Where does the James Webb Space Telescope sit? — A) In low Earth orbit; B) On the far side of the Moon; C) At L2, about a million miles out; D) In orbit around Mars → **C**
+6. Which vaccine technology did Pfizer and Moderna use for COVID-19? — A) Live attenuated; B) mRNA; C) Viral vector; D) Protein subunit → **B**
+7. TSMC, the leading advanced chipmaker, is based where? — A) South Korea; B) Japan; C) Taiwan; D) China → **C**
+8. What does 'SaaS' stand for? — A) Software as a Service; B) Storage and Security; C) Systems and Analytics Suite; D) Scalable Application Server → **A**
+9. Which platform introduced disappearing 'Stories' first? — A) Instagram; B) Snapchat; C) WhatsApp; D) Facebook → **B**
+10. Which company makes Ozempic? — A) Pfizer; B) Eli Lilly; C) Novo Nordisk; D) Merck → **C**
+11. In what year was the Paris climate agreement adopted? — A) 2009; B) 2012; C) 2015; D) 2018 → **C**
+12. What does 'VPN' stand for? — A) Verified Private Node; B) Virtual Private Network; C) Variable Packet Number; D) Visual Processing Network → **B**
+13. Which of these is NOT a real large language model? — A) Claude; B) Gemini; C) Mistral; D) Cobalt → **D**
+14. Roughly what share of the world's people use the internet? — A) About a third; B) About half; C) About two thirds; D) Nearly everyone → **C**
+15. What is a 'stablecoin' usually pegged to? — A) Gold; B) A currency like the US dollar; C) Bitcoin; D) A stock index → **B**
+16. Which company owns LinkedIn? — A) Meta; B) Microsoft; C) Salesforce; D) Oracle → **B**
+17. What is an Ethereum 'layer 2'? — A) A second cryptocurrency; B) A network built on top of Ethereum to make it faster and cheaper; C) A hardware wallet; D) A legal classification → **B**
+18. Which source has added the most new electricity generation worldwide in recent years? — A) Coal; B) Nuclear; C) Solar; D) Natural gas → **C**
+19. What does 'end-to-end encryption' mean? — A) Only the sender and recipient can read it; B) It's encrypted only while stored on the server; C) It deletes after being read; D) It's compressed for transfer → **A**
+20. Which of these is NOT a cloud computing provider? — A) AWS; B) Azure; C) Google Cloud; D) Shopify → **D**
+
+**Hard** (20)
+
+1. The 2017 paper that introduced the transformer architecture is titled: — A) Deep Residual Learning; B) Attention Is All You Need; C) Generative Adversarial Networks; D) ImageNet Classification → **B**
+2. Which Nobel Prize did the AlphaFold team share in 2024? — A) Physics; B) Chemistry; C) Medicine; D) Peace → **B**
+3. How many bitcoins will ever be mined? — A) 10 million; B) 21 million; C) 100 million; D) There's no cap → **B**
+4. In what year did Microsoft acquire GitHub? — A) 2015; B) 2016; C) 2018; D) 2021 → **C**
+5. What does 'RAG' stand for in AI? — A) Rapid Answer Generation; B) Retrieval-Augmented Generation; C) Recursive Attention Gating; D) Ranked Adaptive Grouping → **B**
+6. In what year was the first message sent over ARPANET? — A) 1959; B) 1969; C) 1979; D) 1983 → **B**
+7. Which company is building the Kuiper satellite internet constellation? — A) SpaceX; B) Amazon; C) OneWeb; D) Boeing → **B**
+8. What does Moore's Law observe? — A) A hard physics limit on chip speed; B) That transistor counts roughly double every two years; C) That a network's value grows with its users; D) A rule about patent expiry → **B**
+9. What is the average time between Bitcoin blocks? — A) 10 seconds; B) 1 minute; C) 10 minutes; D) 1 hour → **C**
+10. What does 'GDPR' stand for? — A) Global Data Privacy Rules; B) General Data Protection Regulation; C) Government Digital Policy Review; D) Guaranteed Data Portability Right → **B**
+11. The EU's landmark 2024 artificial intelligence law is known as: — A) The Digital Services Act; B) The AI Act; C) The Data Governance Act; D) The Cyber Resilience Act → **B**
+12. In what year did Apple's App Store open? — A) 2007; B) 2008; C) 2010; D) 2012 → **B**
+13. Which 2014 IPO raised more money than any before it? — A) Facebook; B) Alibaba; C) Uber; D) Visa → **B**
+14. In AI criticism, what is a 'stochastic parrot'? — A) A model that repeats patterns without understanding them; B) A random number generator; C) A speech synthesis method; D) A benchmark dataset → **A**
+15. Which of these is Goodhart's Law? — A) When a measure becomes a target, it stops being a good measure; B) Work expands to fill the time available; C) Systems tend toward disorder; D) Adding people to a late project makes it later → **A**
+16. Roughly how many transistors are in a modern flagship phone processor? — A) Millions; B) Hundreds of millions; C) Tens of billions; D) Trillions → **C**
+17. Which country has the most internet users? — A) India; B) United States; C) China; D) Indonesia → **C**
+18. What is 'differential privacy'? — A) Adding statistical noise so no individual can be identified in a dataset; B) Different privacy laws in different regions; C) Encrypting only the sensitive fields; D) Charging users extra for privacy → **A**
+19. Which of these is a real claimed computing milestone? — A) Quantum supremacy; B) Quantum saturation; C) Quantum convergence; D) Quantum inversion → **A**
+20. Which company's chips does TSMC manufacture? — A) Only its own; B) Apple's and Nvidia's, among others; C) Only Intel's; D) None — it designs but doesn't manufacture → **B**
 
 
-### Cameo (30)
+## Star Performer — Act it, impersonate it, hum it (210 cards)
+
+
+### Cameo (70)
 
 *Charades. Act it out silently — no talking, no sound effects, no pointing at objects in the room.*
+
+
+**Easy** (30)
 
 1. Holding your phone in the air hunting for a signal
 2. Unboxing a package on camera
@@ -413,10 +906,59 @@ Printable/scannable text of all four decks. Generated from `data/*.json` by `bui
 29. Pretending to know a song's words at a concert
 30. Getting a splash from a puddle by a passing car
 
+**Medium** (20)
 
-### Copycat (30)
+1. Sneaking out of a party without saying goodbye
+2. Realizing mid-presentation that you're sharing the wrong screen
+3. Getting a haircut you hate and pretending to love it
+4. Taking a group photo with a self-timer
+5. Stuck in a middle seat between two sleepers
+6. Returning something without a receipt
+7. Waiting for a very slow elevator with your boss
+8. Fighting with a childproof cap
+9. Setting up a tent in the wind
+10. Being the designated driver at 1am
+11. Learning your flight is delayed six hours
+12. Teaching a grandparent to use a video call
+13. Realizing you left your wallet at the restaurant
+14. Getting caught by a rotating lawn sprinkler
+15. Eating soup on a moving train
+16. Being picked last for a team
+17. Hunting for keys at the bottom of a deep bag
+18. Escaping a group photo you're not part of
+19. Assembling a gift the night before the birthday
+20. Noticing your shirt is inside out mid-meeting
+
+**Hard** (20)
+
+1. Deja vu
+2. Writer's block
+3. Jet lag
+4. Nostalgia
+5. Regret
+6. A conspiracy theory spreading
+7. Compound interest
+8. Peer pressure
+9. Gravity
+10. Evolution
+11. Democracy
+12. Inflation
+13. Procrastination
+14. Karma
+15. Gentrification
+16. A midlife crisis
+17. Supply and demand
+18. Free will
+19. Bureaucracy
+20. The passage of time
+
+
+### Copycat (70)
 
 *Impersonate it out loud. Talk and act like them — but never say their name or the words on the card.*
+
+
+**Easy** (30)
 
 1. A tech CEO unveiling a product on stage
 2. A true-crime podcast host
@@ -449,10 +991,59 @@ Printable/scannable text of all four decks. Generated from `data/*.json` by `bui
 29. A dentist making small talk mid-cleaning
 30. A tour guide who has given this tour 900 times
 
+**Medium** (20)
 
-### Humdinger (30)
+1. A podcast guest who will not stop plugging their book
+2. A landlord showing a very small apartment
+3. A pilot delivering bad news cheerfully
+4. A life coach on a livestream
+5. A radio DJ reading the traffic report
+6. A museum audio guide
+7. A hostage negotiator in a movie
+8. A late-night used car commercial
+9. A wedding officiant who barely knows the couple
+10. A news anchor during breaking news
+11. A golf commentator whispering
+12. A telemarketer who won't take no
+13. A sommelier describing tap water
+14. A referee explaining a video review
+15. A politician dodging a direct question
+16. A cooking competition judge delivering a critique
+17. A self-checkout machine's error message
+18. A theme park ride safety announcement
+19. A trainer counting your last three reps
+20. A documentary subject reminiscing about the 90s
+
+**Hard** (20)
+
+1. A GPS that has given up on you
+2. The Wi-Fi router in your house
+3. An AI politely refusing your request
+4. A vending machine that ate your money
+5. Your phone's battery at 2%
+6. A smoke alarm with a low battery
+7. An email that's been left on read
+8. The last slice of pizza
+9. A password you can't remember
+10. A traffic light in a very small town
+11. An algorithm choosing what you see next
+12. A group chat everyone has muted
+13. An office printer
+14. A gym membership nobody uses
+15. The comments section
+16. An expiring free trial
+17. A software update that won't stop asking
+18. A shopping cart with one broken wheel
+19. An autocorrect that keeps guessing wrong
+20. A data center full of servers
+
+
+### Humdinger (70)
 
 *Hum the tune. No words, no lyrics, no tapping out the rhythm on the table.*
+
+
+**Easy** (30)
 
 1. **Espresso** — Sabrina Carpenter
 2. **Blinding Lights** — The Weeknd
@@ -484,4 +1075,50 @@ Printable/scannable text of all four decks. Generated from `data/*.json` by `bui
 28. **Cheap Thrills** — Sia
 29. **Wake Me Up** — Avicii
 30. **Radioactive** — Imagine Dragons
+
+**Medium** (20)
+
+1. **Somebody That I Used to Know** — Gotye
+2. **Take Me to Church** — Hozier
+3. **Pumped Up Kicks** — Foster the People
+4. **Riptide** — Vance Joy
+5. **Ho Hey** — The Lumineers
+6. **Stay With Me** — Sam Smith
+7. **Royals** — Lorde
+8. **No Tears Left to Cry** — Ariana Grande
+9. **Circles** — Post Malone
+10. **Heat Waves** — Glass Animals
+11. **drivers license** — Olivia Rodrigo
+12. **Watermelon Sugar** — Harry Styles
+13. **Industry Baby** — Lil Nas X & Jack Harlow
+14. **Dance Monkey** — Tones and I
+15. **Believer** — Imagine Dragons
+16. **Bad Romance** — Lady Gaga
+17. **Get Lucky** — Daft Punk
+18. **Rather Be** — Clean Bandit
+19. **Ophelia** — The Lumineers
+20. **Snooze** — SZA
+
+**Hard** (20)
+
+1. **The Squid Game theme** — TV theme
+2. **The Succession theme** — TV theme
+3. **The Game of Thrones main title** — TV theme
+4. **Cornfield Chase** — from Interstellar
+5. **Time** — from Inception
+6. **The Mandalorian theme** — TV theme
+7. **The Last of Us theme** — TV theme
+8. **The Dune theme** — from the film
+9. **The Marvel Studios fanfare** — studio sting
+10. **The Netflix ta-dum** — two notes, good luck
+11. **The Duolingo notification jingle** — app sound
+12. **The Super Mario Bros. theme** — video game
+13. **The Tetris theme** — video game
+14. **The Legend of Zelda main theme** — video game
+15. **Clair de Lune** — Debussy
+16. **Dance the Night** — Dua Lipa, from Barbie
+17. **Can You Hear the Music** — from Oppenheimer
+18. **The Pirates of the Caribbean theme** — from the films
+19. **Hedwig's Theme** — from Harry Potter
+20. **The Jurassic Park theme** — from the film
 
