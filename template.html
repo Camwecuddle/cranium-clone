@@ -87,6 +87,39 @@ body{
 .act-btn:hover{color:var(--ink); border-color:var(--deck)}
 .act-btn[aria-pressed="true"]{background:var(--deck-wash); border-color:var(--deck); color:var(--deck); font-weight:600}
 
+/* table setup — set once per game night, not per draw */
+.setup{
+  background:var(--surface-2); border:1.5px solid var(--hairline); border-radius:12px;
+  padding:13px 16px; display:flex; align-items:center; gap:14px; flex-wrap:wrap;
+}
+.setup-label{
+  font-size:11px; letter-spacing:.13em; text-transform:uppercase;
+  color:var(--ink-muted); font-weight:600; flex:none;
+}
+.gens{display:flex; flex-wrap:wrap; gap:7px}
+.gen-btn{
+  font-family:var(--body); font-size:13.5px; cursor:pointer;
+  border:1.5px solid var(--hairline); background:var(--surface); color:var(--ink-muted);
+  border-radius:8px; padding:6px 12px; display:inline-flex; align-items:center; gap:8px;
+  transition:all .15s;
+}
+.gen-btn .tick{
+  width:15px; height:15px; border-radius:4px; flex:none;
+  border:1.5px solid var(--hairline); display:grid; place-items:center;
+  font-size:10px; line-height:1; color:transparent;
+}
+.gen-btn .yrs{font-size:11.5px; opacity:.65; font-variant-numeric:tabular-nums}
+.gen-btn:hover{border-color:var(--ink-muted)}
+.gen-btn[aria-pressed="true"]{color:var(--ink); border-color:var(--ink-muted); font-weight:600}
+.gen-btn[aria-pressed="true"] .tick{
+  background:var(--ink); border-color:var(--ink); color:var(--surface);
+}
+.setup-note{font-size:12.5px; color:var(--ink-muted); margin:0; flex:1 1 240px; min-width:0}
+
+.empty{padding:34px 22px; display:flex; flex-direction:column; gap:9px}
+.empty h2{font-family:var(--display); font-weight:600; font-size:21px; margin:0; letter-spacing:-.01em}
+.empty p{margin:0; color:var(--ink-muted); font-size:14.5px; max-width:52ch; line-height:1.5}
+
 .diffs{display:flex; flex-wrap:wrap; gap:7px}
 .diff-btn{
   font-family:var(--body); font-weight:500; font-size:13.5px;
@@ -198,8 +231,14 @@ footer b{color:var(--ink); font-weight:600}
 <div class="wrap">
   <header class="masthead">
     <h1 class="wordmark"><span>Cranium 2026</span></h1>
-    <p>Draw a real Cranium card, read off its category, then play one of these instead. Same rules, references from this century.</p>
+    <p>Draw a real Cranium card, read off its category, then play one of these instead. Same rules, references your table actually shares.</p>
   </header>
+
+  <section class="setup">
+    <span class="setup-label">Who's playing</span>
+    <div class="gens" id="gens"></div>
+    <p class="setup-note" id="gennote"></p>
+  </section>
 
   <div class="picker">
     <div class="picker-label">Deck</div>
@@ -240,24 +279,44 @@ footer b{color:var(--ink); font-weight:600}
   var NO_ANSWER = {"Cloodle":1,"Sensosketch":1,"Sculptorades":1,"Cameo":1,"Copycat":1};
 
   var di = 0, ai = 0, diff = "all", card = null, revealed = false, bags = {};
+  var GEN_LIST = [["boomer","Boomers","1946–64"], ["genx","Gen X","1965–80"],
+                  ["millennial","Millennials","1981–96"], ["genz","Gen Z","1997–2012"]];
+  var GEN_KEY = "cranium2026:gens";
+  var gens = {boomer:true, genx:true, millennial:true, genz:true};
+  try {
+    var saved = JSON.parse(localStorage.getItem(GEN_KEY));
+    if(saved) GEN_LIST.forEach(function(g){ gens[g[0]] = !!saved[g[0]]; });
+  } catch(e) {}
   var TIERS = [["all","Any tier",0],["easy","Easy",1],["medium","Medium",2],["hard","Hard",3]];
   var LVL = {easy:1, medium:2, hard:3};
   var elDecks = document.getElementById("decks"), elActs = document.getElementById("acts"),
       elCard = document.getElementById("card"), elReveal = document.getElementById("reveal"),
-      elDiffs = document.getElementById("diffs");
+      elDiffs = document.getElementById("diffs"),
+      elGens = document.getElementById("gens"),
+      elGenNote = document.getElementById("gennote");
 
   function esc(s){ return String(s).replace(/[&<>"]/g, function(c){
     return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]; }); }
 
   function deck(){ return DECKS[di]; }
   function act(){ return deck().activities[ai]; }
-  function bagKey(){ return di + "/" + ai + "/" + diff; }
+  function genList(){
+    return GEN_LIST.filter(function(g){ return gens[g[0]]; }).map(function(g){ return g[0]; });
+  }
+  function bagKey(){ return di + "/" + ai + "/" + diff + "/" + genList().join(","); }
 
-  /* the cards in the current deck + type + difficulty, as indices */
-  function pool(){
-    var cards = act().cards, out = [];
+  /* a card plays if it's timeless, or if anyone at the table would know it */
+  function fits(c){
+    if(c.gens.indexOf("all") >= 0) return true;
+    for(var i = 0; i < c.gens.length; i++){ if(gens[c.gens[i]]) return true; }
+    return false;
+  }
+
+  /* the cards in the current deck + type + difficulty + generations, as indices */
+  function pool(tier){
+    var cards = act().cards, want = tier || diff, out = [];
     for(var i = 0; i < cards.length; i++){
-      if(diff === "all" || cards[i].difficulty === diff) out.push(i);
+      if((want === "all" || cards[i].difficulty === want) && fits(cards[i])) out.push(i);
     }
     return out;
   }
@@ -278,6 +337,7 @@ footer b{color:var(--ink); font-weight:600}
       }
       bags[key] = order;
     }
+    if(!bags[key].length){ card = null; revealed = false; render(true); return; }
     card = a.cards[bags[key].pop()];
     revealed = false;
     render(true);
@@ -344,10 +404,29 @@ footer b{color:var(--ink); font-weight:600}
   function render(dealt){
     var d = deck(), a = act(), key = bagKey(), poolSize = pool().length;
     buildDiffs();
+    buildGens();
     document.documentElement.style.setProperty("--deck", "var(--" + SLUG[d.deck] + ")");
     document.documentElement.style.setProperty("--deck-wash", "var(--" + SLUG[d.deck] + "-wash)");
 
     elCard.className = "card" + (dealt ? " dealing" : "");
+    if(!card){
+      var off = GEN_LIST.filter(function(g){ return !gens[g[0]]; })
+                        .map(function(g){ return g[1]; });
+      elCard.innerHTML =
+        '<div class="card-band"><span class="act">' + esc(a.name) + '</span></div>' +
+        '<div class="empty"><h2>No ' + esc(a.name) + ' cards for this table</h2>' +
+        '<p>Nothing in this deck matches ' +
+        (diff === "all" ? "the generations you have on" : "this difficulty and generation mix") +
+        (off.length ? ' — ' + esc(off.join(" and ")) + ' ' +
+                      (off.length > 1 ? "are" : "is") + ' switched off.' : ".") +
+        ' Turn a generation back on, or pick another difficulty or card type.</p></div>';
+      elReveal.disabled = true; elReveal.style.opacity = ".4";
+      Array.prototype.forEach.call(elDecks.children, function(b, i){
+        b.setAttribute("aria-pressed", i === di ? "true" : "false"); });
+      Array.prototype.forEach.call(elActs.children, function(b, i){
+        b.setAttribute("aria-pressed", i === ai ? "true" : "false"); });
+      return;
+    }
     elCard.innerHTML =
       '<div class="card-band"><span class="act">' + esc(a.name) + '</span>' +
       '<span class="of">' + bars(LVL[card.difficulty]) +
@@ -369,7 +448,10 @@ footer b{color:var(--ink); font-weight:600}
 
   function buildDiffs(){
     var counts = {all:0, easy:0, medium:0, hard:0};
-    act().cards.forEach(function(c){ counts.all++; counts[c.difficulty]++; });
+    act().cards.forEach(function(c){
+      if(!fits(c)) return;
+      counts.all++; counts[c.difficulty]++;
+    });
     elDiffs.innerHTML = "";
     TIERS.forEach(function(t){
       var b = document.createElement("button");
@@ -381,6 +463,30 @@ footer b{color:var(--ink); font-weight:600}
       b.onclick = function(){ diff = t[0]; draw(); };
       elDiffs.appendChild(b);
     });
+  }
+
+  function buildGens(){
+    elGens.innerHTML = "";
+    GEN_LIST.forEach(function(g){
+      var b = document.createElement("button");
+      b.className = "gen-btn"; b.type = "button";
+      b.setAttribute("aria-pressed", gens[g[0]] ? "true" : "false");
+      b.innerHTML = '<span class="tick">\u2713</span><span>' + g[1] + '</span>' +
+                    '<span class="yrs">b. ' + g[2] + '</span>';
+      b.onclick = function(){
+        gens[g[0]] = !gens[g[0]];
+        try { localStorage.setItem(GEN_KEY, JSON.stringify(gens)); } catch(e) {}
+        buildGens(); draw();
+      };
+      elGens.appendChild(b);
+    });
+    var on = GEN_LIST.filter(function(g){ return gens[g[0]]; }).length;
+    var playable = DECKS.reduce(function(n, d){
+      return n + d.activities.reduce(function(m, a){
+        return m + a.cards.filter(fits).length; }, 0); }, 0);
+    elGenNote.textContent = on === GEN_LIST.length
+      ? "All " + playable + " cards are in play. Switch off a generation to drop its references."
+      : playable + " cards in play — the rest reference a generation you have switched off.";
   }
 
   function buildActs(){
@@ -438,14 +544,11 @@ footer b{color:var(--ink); font-weight:600}
   var total = DECKS.reduce(function(n, d){
     return n + d.activities.reduce(function(m, a){ return m + a.cards.length; }, 0); }, 0);
   document.getElementById("foot").innerHTML =
-    '<b>' + total + ' cards</b> across ' + DECKS.length + ' decks — every card type has ' +
-    TIERS.slice(1).map(function(t){
-      return act().cards.filter(function(c){ return c.difficulty === t[0]; }).length +
-             ' ' + t[1].toLowerCase();
-    }).join(", ").replace(/, ([^,]*)$/, " and $1") +
-    '. Each type and difficulty shuffles its own pile, so you will see every card in it ' +
+    '<b>' + total + ' cards</b> across ' + DECKS.length + ' decks, spanning the 1960s to now. ' +
+    'Anything that is not tied to a particular era stays in play whoever is at the table. ' +
+    'Each deck, type and difficulty shuffles its own pile, so you will see every card in it ' +
     'once before any repeats.';
 
-  buildActs(); draw(); paint();
+  buildGens(); buildActs(); draw(); paint();
 })();
 </script>

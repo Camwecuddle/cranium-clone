@@ -8,7 +8,7 @@ prompts written for right now.
 (say, Word Worm → Blankout), then play one of *these* Blankouts instead. Every rule, the
 timer, and the board stay exactly the same. Only the prompts change.
 
-**1,170 cards** across the four decks, matching the game's real card types:
+**1,326 cards** across the four decks, matching the game's real card types:
 
 | Deck | Card types |
 | --- | --- |
@@ -17,15 +17,30 @@ timer, and the board stay exactly the same. Only the prompts change.
 | **Data Head** — trivia | Factoid, Polygraph, Selectaquest |
 | **Star Performer** — acting | Cameo, Copycat, Humdinger |
 
-Every card type has **90 cards in three difficulty tiers** — 40 easy, 25 medium, 25 hard.
+Every card type has **102 cards in three difficulty tiers** — 46 easy, 28 medium, 28 hard.
 
-## What era the references come from
+## Who's playing
 
-Most people playing are somewhere in their twenties, so the cards are aimed at what that
-group actually shares: roughly **2008 through today**. That means the current stuff (AI,
-Ozempic, *The Bear*, Sabrina Carpenter) sits alongside the things they grew up on — Vine,
-Club Penguin, Guitar Hero, the Wii, LimeWire, 2010s pop, the first iPhone. A table of
-25-year-olds should recognize a card from either end.
+Every card is tagged with the generations that would actually recognize it, and the page
+has a **Who's playing** strip at the top where you switch generations on and off. Turn
+Gen Z off and the Gen Z slang stops coming up; turn Millennials off and the 90s goes with
+it. Your choice is remembered in that browser.
+
+| | Born | References drawn from |
+| --- | --- | --- |
+| **Boomers** | 1946–64 | The 60s, 70s and 80s — Woodstock, Watergate, the Walkman, Sputnik |
+| **Gen X** | 1965–80 | Late 70s through the early 90s — MTV, Betamax, latchkey kids, *The Breakfast Club* |
+| **Millennials** | 1981–96 | The 90s and 2000s — Nirvana, *Friends*, dial-up, LimeWire, mixtapes |
+| **Gen Z** | 1997–2012 | 2010s to now — Vine, Club Penguin, TikTok, AI, current slang |
+
+A card can belong to more than one — *Star Wars* and Michael Jackson are tagged for three
+of them. And **most cards aren't tagged to any generation at all**: a wheelbarrow is a
+wheelbarrow, `BOUILLABAISSE` is spelled the same in any decade, and acting out *the
+passage of time* doesn't date. Those stay in play no matter who's switched on, which is
+why the decks never run dry — with everything off except Boomers you still have about a
+thousand cards.
+
+Roughly a quarter of the set is era-tagged; the rest is timeless.
 
 Difficulty means something different for each card type, so each one scales on its own
 axis rather than just getting longer:
@@ -102,6 +117,10 @@ python3 build.py
 
 That regenerates `index.html`, `artifact.html`, and `CARDS.md` from the JSON.
 `template.html` is the page itself; `build.py` just injects the card data into it.
+
+The tags are a judgment call, not a science — if a card feels wrongly placed for your
+table, `gens` on that card in the JSON takes any mix of `boomer`, `genx`, `millennial`,
+`genz`, or the single value `all` to mean "always in play."
 
 A note on the trivia: Data Head answers were correct as of 2026. A few (streaming
 catalogs, who owns what) will drift — fix them in `data/data-head.json` and rebuild.

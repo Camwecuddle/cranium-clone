@@ -9,363 +9,744 @@
       "cards": [
         {
           "clue": "Wireless earbuds",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A ring light",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A selfie stick",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "An electric scooter",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A food delivery bag",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A wireless charging pad",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A smartwatch",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A delivery drone",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A drive-thru line",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A tangled charging cable",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A video call",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A dashcam",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A gaming setup",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A luggage tracker",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A cracked phone screen",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Noise-cancelling headphones",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A self-checkout machine",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Doomscrolling in bed",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "clue": "A smart thermostat",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "An EV charging station",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A standing desk",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A cat on a laptop",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A package on a doorstep",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A VR headset",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Phone flashlights at a concert",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A meal kit box",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A phone gimbal",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A podcast studio",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A smart doorbell",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A bad haircut",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A rideshare pickup",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A kitchen disaster",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A dog chasing a drone",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "An airport gate",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Filming a wedding",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "AI-generated hands",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "clue": "A row of treadmills",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A self-driving car",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A blowing-up group chat",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Flat-pack furniture",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A complicated coffee order",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A food hall",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A package return counter",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A drone light show",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Hiding from a camera",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A phone at 1%",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Filming a school play",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Rooftop solar panels",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A crashing stock chart",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A long checkout line",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Burnout",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "The algorithm",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Inflation",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Privacy",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Nostalgia",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Misinformation",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Work-life balance",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A supply chain",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Artificial intelligence",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Loneliness in a crowd",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Going viral",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A digital detox",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Imposter syndrome",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "The gig economy",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Climate anxiety",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Screen time",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Data mining",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "The attention economy",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Sustainability",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Doomscrolling",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "clue": "An iPod",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "clue": "A Wii remote",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "clue": "A flip phone",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "clue": "A Guitar Hero controller",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "clue": "A DVD box set",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "clue": "3D movie glasses",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "clue": "A Polaroid camera",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "boomer",
+            "genx",
+            "millennial"
+          ]
         },
         {
           "clue": "A fidget spinner",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "clue": "A GoPro",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "clue": "A beanbag chair",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A LAN party",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "clue": "A Blockbuster store",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "clue": "A photo booth strip",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "clue": "A mall food court",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "clue": "A school computer lab",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "clue": "Growing up",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A childhood memory",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "The end of an era",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Selling out",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Peer pressure",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "A rotary phone",
+          "difficulty": "easy",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "clue": "A typewriter",
+          "difficulty": "easy",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "clue": "A vinyl record",
+          "difficulty": "easy",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "clue": "A drive-in movie",
+          "difficulty": "easy",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "clue": "A VHS tape",
+          "difficulty": "easy",
+          "gens": [
+            "boomer",
+            "genx",
+            "millennial"
+          ]
+        },
+        {
+          "clue": "A lava lamp",
+          "difficulty": "easy",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "clue": "A phone booth",
+          "difficulty": "medium",
+          "gens": [
+            "boomer",
+            "genx",
+            "millennial"
+          ]
+        },
+        {
+          "clue": "A newspaper stand",
+          "difficulty": "medium",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "clue": "A station wagon",
+          "difficulty": "medium",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "clue": "The space race",
+          "difficulty": "hard",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "clue": "The moon landing",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "The generation gap",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         }
       ]
     },
@@ -375,363 +756,723 @@
       "cards": [
         {
           "clue": "A Wi-Fi symbol",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A wristwatch",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A ladder",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A wheelbarrow",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A shopping cart",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A rocket ship",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A coffee cup with a lid",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A pair of earbuds",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A watering can",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A house with a satellite dish",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A mailbox on a post",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A traffic cone",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A dog wearing sunglasses",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A toaster with toast",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A skateboard",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A battery charging symbol",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A tent under the stars",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A key",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A treadmill",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A pineapple",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A paper airplane",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A robot head",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A cactus in a pot",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A hot air balloon",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "An avocado cut in half",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A shopping bag with handles",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A soccer ball",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A padlock",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A snowman wearing headphones",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A taco",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A bicycle",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "An octopus",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A birthday cake",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A guitar",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A butterfly",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A lighthouse",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A pair of scissors",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "An elephant",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A windmill",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A sailboat",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A pizza",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A giraffe",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A hand holding a phone",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A snail",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A pineapple in sunglasses",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A camera on a tripod",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "clue": "A crab",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A car",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A stack of pancakes",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "An umbrella",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A dinosaur on a skateboard",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A person doing a handstand",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A horse",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A city skyline at night",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A robot walking a dog",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A hand giving a peace sign",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "An astronaut floating",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A dragon",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A person on a rowing machine",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A helicopter",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A bear wearing headphones",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A flamingo standing on one leg",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A rollercoaster",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A chess knight",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A DJ at a turntable",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "An octopus juggling",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A tree with its roots showing",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A motorcycle",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Someone eating spaghetti",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A spiral staircase",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A flip phone",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "clue": "A film camera",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A CD",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A boombox",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
         },
         {
           "clue": "A basketball hoop",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A picnic bench",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A traffic light",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A wind chime",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A ferris wheel",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A microwave",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A hedgehog",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A tractor",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A grandfather clock",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A penguin",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A saxophone",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A person riding a bike",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A hand holding a pen",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A cat stretching",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A drum kit",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Two people shaking hands",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "An anchor",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "A mushroom",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "A bowtie",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "A candle",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "An hourglass",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "A horseshoe",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "A rotary phone",
+          "difficulty": "medium",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "clue": "A record player",
+          "difficulty": "medium",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "clue": "A typewriter",
+          "difficulty": "medium",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "clue": "A carousel horse",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "A grand piano",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "A person on a swing",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         }
       ]
     },
@@ -741,363 +1482,724 @@
       "cards": [
         {
           "clue": "A game controller",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A bike helmet",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A ring light",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A smart speaker",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A pair of scissors",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A desk lamp",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A robot dog",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Avocado toast",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A drone",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A skateboard",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A cell tower",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A robot vacuum",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A podcast microphone",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A french press",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A tripod",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "clue": "An electric car",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A selfie stick",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A rubber duck",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A satellite",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A taco truck",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A ceiling fan",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A shopping basket",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A VR headset",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A shopping cart",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A hoverboard",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A pickleball paddle",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "clue": "An IV drip",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A wedding cake",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A hair dryer",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A hamster ball",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A ramen bowl",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A robot arm",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Smart glasses",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A gaming chair",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "An espresso machine",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "clue": "A wind turbine",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A hospital bed",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A stack of pancakes",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A hand holding a phone",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A treadmill desk",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A birdhouse",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A dog in a backpack",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A blender",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A surfboard",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A sushi roll",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A vending machine",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A washing machine",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A camping tent",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A soft-serve cone",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A stethoscope",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Going viral",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A traffic jam",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Burnout",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A supply chain",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "The internet",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Rush hour on a subway",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A conspiracy theory",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Recycling",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A group chat",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Working from home",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Privacy",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A concert crowd",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Nostalgia",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Renewable energy",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A password reset",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Teamwork",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Time zones",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "An awkward silence",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Growth",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A software update",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A Rubik's cube",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "genx",
+            "millennial"
+          ]
         },
         {
           "clue": "A cassette tape",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "boomer",
+            "genx",
+            "millennial"
+          ]
         },
         {
           "clue": "A Game Boy",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "clue": "A yo-yo",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A slinky",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A basketball",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A trophy",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A garden gnome",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A snow globe",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A pair of dice",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A claw machine",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A jukebox",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A pinball machine",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A record player",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A popcorn machine",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Childhood",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "Friendship",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A rivalry",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A comeback",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "clue": "A long-distance relationship",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "A film reel",
+          "difficulty": "easy",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "clue": "A pocket watch",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "A gramophone",
+          "difficulty": "easy",
+          "gens": [
+            "boomer"
+          ]
+        },
+        {
+          "clue": "A milk bottle",
+          "difficulty": "easy",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "clue": "A rolling pin",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "A birdcage",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "A sewing machine",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "A rocking chair",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "A wagon wheel",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "The American Dream",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "A family tree",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "A time capsule",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         }
       ]
     }

@@ -3,18 +3,18 @@
 Printable/scannable text of all four decks, grouped by card type and difficulty. Generated from `data/*.json` by `build.py` — edit the JSON, not this file.
 
 
-**1170 cards total** — every card type has 30 easy, 20 medium, 20 hard.
+**1326 cards total** — every card type has 30 easy, 20 medium, 20 hard.
 
 
-## Word Worm — Spelling, definitions, and wordplay (360 cards)
+## Word Worm — Spelling, definitions, and wordplay (408 cards)
 
 
-### Blankout (90)
+### Blankout (102)
 
 *Read the hint and the puzzle out loud, letter blanks and all. Your team has to fill in the missing letters and say the whole answer.*
 
 
-**Easy** (40)
+**Easy** (46)
 
 1. **_ I _ _ O _** — _App on everyone's phone_ → TIKTOK
 2. **_ A _ _ I _** — _Blockbuster movie_ → BARBIE
@@ -56,8 +56,14 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 38. **_ C _   _ U _ _ E _   _ H _ _ L _ _ G _** — _Charity trend that soaked everyone in 2014_ → ICE BUCKET CHALLENGE
 39. **_ U _ _ A _   _ _ R _** — _Game played with a plastic guitar_ → GUITAR HERO
 40. **_ _ U _   _ E _ _ _ I _** — _Virtual world where you were a penguin_ → CLUB PENGUIN
+41. **_ H _   _ E _ _ _ E _** — _Band from Liverpool, four of them_ → THE BEATLES
+42. **_ _ A _   _ _ R _** — _1977 film set a long time ago in a galaxy far away_ → STAR WARS
+43. **_ I _ _ _ E _   _ A _ _ _ O _** — _The King of Pop_ → MICHAEL JACKSON
+44. **_ H _   _ O _ _ _ N _   _ T _ _ E _** — _Band with the tongue-and-lips logo_ → THE ROLLING STONES
+45. **_ E _ _ F _ L _** — _Sitcom famously about nothing_ → SEINFELD
+46. **_ I _ _ _ N _** — _Seattle band that defined grunge_ → NIRVANA
 
-**Medium** (25)
+**Medium** (28)
 
 1. **_ _ C _ _ _ _ I _ _** — _Streaming drama about a media dynasty_ → SUCCESSION
 2. **_ _ S _ _ _ T _ _ _ C _ _ _ O _** — _When a platform slowly gets worse_ → ENSHITTIFICATION
@@ -84,8 +90,11 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 23. **_ _ _ B _ _** — _Blogging site with a very specific 2014 atmosphere_ → TUMBLR
 24. **_ _ M _ _ _ R _** — _How a generation illegally got its music_ → LIMEWIRE
 25. **_ H _   _ _ _ L _ _   _ _ A _ _** — _2013 trend that started with one person dancing alone_ → THE HARLEM SHAKE
+26. **_ _ O _ _ _ O _ _** — _1969 music festival in a very muddy field_ → WOODSTOCK
+27. **_ H _   _ _ E _ _ _ A _ _   _ _ U _** — _1985 film about five students in detention_ → THE BREAKFAST CLUB
+28. **_ R _ _ _ D _** — _Sitcom set around a New York coffee house_ → FRIENDS
 
-**Hard** (25)
+**Hard** (28)
 
 1. **E _ _ A _ E _ E _ T   _ A _ T** — _Content built to game a recommendation system_ → ENGAGEMENT BAIT
 2. **_ _ _ _ A _** — _Japanese concept of a reason for being_ → IKIGAI
@@ -112,14 +121,17 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 23. **_ _ _ P _ _ _** — _Site where 2000s kids raised virtual pets_ → NEOPETS
 24. **_ _ _ _ _ O _ _ _ _** — _Flash animation hub from before YouTube took over_ → NEWGROUNDS
 25. **_ _ _ B _ _   _ _ _ N _ _ _** — _2010 viral video of a man overwhelmed by the sky_ → DOUBLE RAINBOW
+26. **_ _ _ _ R _ _ _ _** — _Scandal that brought down a president_ → WATERGATE
+27. **_ H _   _ _ _ K _ _ _** — _Sony device that first made music portable_ → THE WALKMAN
+28. **_ _ A _   U P   _ _ _ _ R _ _ _** — _The screeching sound of getting online in 1997_ → DIAL UP INTERNET
 
 
-### Gnilleps (90)
+### Gnilleps (102)
 
 *Spell the word BACKWARDS out loud. No writing it down first, no peeking.*
 
 
-**Easy** (40)
+**Easy** (46)
 
 1. **PODCAST** → T-S-A-C-D-O-P
 2. **STREAMER** → R-E-M-A-E-R-T-S
@@ -161,8 +173,14 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 38. **JOYSTICK** → K-C-I-T-S-Y-O-J
 39. **CARTRIDGE** → E-G-D-I-R-T-R-A-C
 40. **HANDHELD** → D-L-E-H-D-N-A-H
+41. **CASSETTE** → E-T-T-E-S-S-A-C
+42. **JUKEBOX** → X-O-B-E-K-U-J
+43. **POLAROID** → D-I-O-R-A-L-O-P
+44. **RECORDS** → S-D-R-O-C-E-R
+45. **ANTENNA** → A-N-N-E-T-N-A
+46. **PAYPHONE** → E-N-O-H-P-Y-A-P
 
-**Medium** (25)
+**Medium** (28)
 
 1. **INFLUENCER** → R-E-C-N-E-U-L-F-N-I
 2. **TELEHEALTH** → H-T-L-A-E-H-E-L-E-T
@@ -189,8 +207,11 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 23. **MULTIPLAYER** → R-E-Y-A-L-P-I-T-L-U-M
 24. **LEADERBOARD** → D-R-A-O-B-R-E-D-A-E-L
 25. **HEADPHONES** → S-E-N-O-H-P-D-A-E-H
+26. **TYPEWRITER** → R-E-T-I-R-W-E-P-Y-T
+27. **TELEGRAPHS** → S-H-P-A-R-G-E-L-E-T
+28. **CAMCORDERS** → S-R-E-D-R-O-C-M-A-C
 
-**Hard** (25)
+**Hard** (28)
 
 1. **CRYPTOCURRENCY** → Y-C-N-E-R-R-U-C-O-T-P-Y-R-C
 2. **NOTIFICATIONS** → S-N-O-I-T-A-C-I-F-I-T-O-N
@@ -217,14 +238,17 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 23. **PROCRASTINATE** → E-T-A-N-I-T-S-A-R-C-O-R-P
 24. **UNPRECEDENTED** → D-E-T-N-E-D-E-C-E-R-P-N-U
 25. **CHAMPIONSHIPS** → S-P-I-H-S-N-O-I-P-M-A-H-C
+26. **PHONOGRAPHIC** → C-I-H-P-A-R-G-O-N-O-H-P
+27. **STENOGRAPHER** → R-E-H-P-A-R-G-O-N-E-T-S
+28. **MIMEOGRAPHED** → D-E-H-P-A-R-G-O-E-M-I-M
 
 
-### Lexicon (90)
+### Lexicon (102)
 
 *Read the word and all three definitions out loud. Your team picks the right one.*
 
 
-**Easy** (40)
+**Easy** (46)
 
 1. **BRIGADING** — A) A coordinated pile-on against one person online; B) A fire safety drill; C) Signing up for military service → **A**
 2. **FINSTA** — A) A first-time investor; B) A private second account kept for close friends; C) A fake product listing → **B**
@@ -266,8 +290,14 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 38. **PHOTOBOMB** — A) Badly overexposing an image; B) Turning up uninvited in someone else's photo; C) Deleting a photo from a device remotely → **B**
 39. **TROLLING** — A) Slowly scrolling through a feed; B) Hunting for online bargains; C) Provoking people online purely for the reaction → **C**
 40. **LEET** — A) Writing words with numbers standing in for letters; B) A brief server outage; C) A brand of protein bar → **A**
+41. **GROOVY** — A) A dance with repeating steps; B) Excellent or fashionable, in 1960s slang; C) A deep scratch across a record → **B**
+42. **RADICAL** — A) A political extremist; B) The root symbol in mathematics; C) Excellent, in 1980s skater and surfer slang → **C**
+43. **BOGUS** — A) Unfair or fake, everywhere in 1980s slang; B) A reported ghost sighting; C) An error in the bookkeeping → **A**
+44. **YUPPIE** — A) A style of Alpine yodelling; B) A young urban professional, the 1980s archetype; C) A small, very energetic dog breed → **B**
+45. **MIXTAPE** — A) A radio programming block; B) A record label's sampler album; C) A cassette compiled by hand, usually for someone you liked → **C**
+46. **AS IF** — A) A dismissive 'no way', straight out of 1990s teen slang; B) A conditional statement in programming; C) A hypothetical used in accounting → **A**
 
-**Medium** (25)
+**Medium** (28)
 
 1. **HOMOPHILY** — A) The tendency to bond with people who are like you; B) A fear of large crowds; C) A preference for symmetry in design → **A**
 2. **SEALIONING** — A) Burying a thread in emoji; B) Harassment disguised as polite, relentless questioning; C) Photobombing someone's livestream → **B**
@@ -294,8 +324,11 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 23. **RETCON** — A) A convention for retro gaming; B) Changing established backstory after the fact; C) Rebooting a games console → **B**
 24. **STAN** — A) A standing-room-only ticket; B) A default factory configuration; C) An obsessive fan, named after an Eminem song → **C**
 25. **NORMIE** — A) Someone outside a subculture who misses all the references; B) A statistical average; C) A standard-issue uniform → **A**
+26. **JUMPING THE SHARK** — A) A manoeuvre in competitive surfing; B) The moment a show passes its peak and starts sliding; C) A risky all-or-nothing financial bet → **B**
+27. **LATCHKEY KID** — A) An apprentice to a locksmith; B) A kid who has lost their house keys; C) A child who let themselves into an empty house after school → **C**
+28. **DINK** — A) Dual Income, No Kids — a 1980s household label; B) A soft drop shot in tennis; C) A small dent knocked into metal → **A**
 
-**Hard** (25)
+**Hard** (28)
 
 1. **ULTRACREPIDARIAN** — A) Someone who confidently opines well beyond their expertise; B) An extreme endurance athlete; C) A very old bound manuscript → **A**
 2. **SONDER** — A) A soft echo in a large hall; B) The realization that every stranger has a life as vivid as your own; C) A journey taken alone → **B**
@@ -322,14 +355,17 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 23. **ETERNAL SEPTEMBER** — A) A name for predictable seasonal traffic spikes; B) The point when a niche community is permanently swamped by newcomers; C) An unusually drawn-out product launch → **B**
 24. **SEMANTIC SATIATION** — A) The point where a market is completely served; B) Over-tagging a piece of content until search breaks; C) When a word repeated enough times stops feeling like a word → **C**
 25. **CYBERBALKANIZATION** — A) The splitting of the internet into isolated, like-minded enclaves; B) The physical division of undersea cable routes; C) A strategy of pricing differently by region → **A**
+26. **SAMIZDAT** — A) A regional style of folk embroidery; B) Banned writing copied and passed hand to hand; C) A Soviet state news agency → **B**
+27. **ZEITGEIST** — A) A tradition of telling ghost stories; B) An early mechanical time-keeping device; C) The defining mood and ideas of a particular period → **C**
+28. **MOONSHOT** — A) A hugely ambitious project with a real chance of failing; B) A long-range basketball attempt; C) A photograph taken by moonlight → **A**
 
 
-### Spellbound (90)
+### Spellbound (102)
 
 *Spell the word out loud, forwards. One shot, no do-overs.*
 
 
-**Easy** (40)
+**Easy** (46)
 
 1. **CRYPTOCURRENCY**
 2. **ENTREPRENEURSHIP**
@@ -371,8 +407,14 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 38. **BEGINNING**
 39. **ARGUMENT**
 40. **SURPRISE**
+41. **NEIGHBOR**
+42. **RECEIPT**
+43. **SCHEDULE**
+44. **THOROUGH**
+45. **VEGETABLE**
+46. **CHOCOLATE**
 
-**Medium** (25)
+**Medium** (28)
 
 1. **RENDEZVOUS**
 2. **CHAUFFEUR**
@@ -399,8 +441,11 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 23. **LICENSE**
 24. **RESTAURANT**
 25. **GAUGE**
+26. **MAYONNAISE**
+27. **DIARRHEA**
+28. **ASTHMA**
 
-**Hard** (25)
+**Hard** (28)
 
 1. **WORCESTERSHIRE**
 2. **BOUILLABAISSE**
@@ -427,17 +472,20 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 23. **VACILLATE**
 24. **GNOCCHI**
 25. **SOLILOQUY**
+26. **SEQUOIA**
+27. **ANEMONE**
+28. **COLONEL**
 
 
-## Creative Cat — Draw it, sculpt it, no words allowed (270 cards)
+## Creative Cat — Draw it, sculpt it, no words allowed (306 cards)
 
 
-### Cloodle (90)
+### Cloodle (102)
 
 *Draw it with your eyes OPEN. No letters, no numbers, no talking, no gestures.*
 
 
-**Easy** (40)
+**Easy** (46)
 
 1. Wireless earbuds
 2. A ring light
@@ -479,8 +527,14 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 38. A fidget spinner
 39. A GoPro
 40. A beanbag chair
+41. A rotary phone
+42. A typewriter
+43. A vinyl record
+44. A drive-in movie
+45. A VHS tape
+46. A lava lamp
 
-**Medium** (25)
+**Medium** (28)
 
 1. A rideshare pickup
 2. A kitchen disaster
@@ -507,8 +561,11 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 23. A photo booth strip
 24. A mall food court
 25. A school computer lab
+26. A phone booth
+27. A newspaper stand
+28. A station wagon
 
-**Hard** (25)
+**Hard** (28)
 
 1. Burnout
 2. The algorithm
@@ -535,14 +592,17 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 23. The end of an era
 24. Selling out
 25. Peer pressure
+26. The space race
+27. The moon landing
+28. The generation gap
 
 
-### Sensosketch (90)
+### Sensosketch (102)
 
 *Draw it with your eyes CLOSED. Keep it simple — you can't see what you're doing.*
 
 
-**Easy** (40)
+**Easy** (46)
 
 1. A Wi-Fi symbol
 2. A wristwatch
@@ -584,8 +644,14 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 38. A wind chime
 39. A ferris wheel
 40. A microwave
+41. An anchor
+42. A mushroom
+43. A bowtie
+44. A candle
+45. An hourglass
+46. A horseshoe
 
-**Medium** (25)
+**Medium** (28)
 
 1. A bicycle
 2. An octopus
@@ -612,8 +678,11 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 23. A grandfather clock
 24. A penguin
 25. A saxophone
+26. A rotary phone
+27. A record player
+28. A typewriter
 
-**Hard** (25)
+**Hard** (28)
 
 1. A dinosaur on a skateboard
 2. A person doing a handstand
@@ -640,14 +709,17 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 23. A cat stretching
 24. A drum kit
 25. Two people shaking hands
+26. A carousel horse
+27. A grand piano
+28. A person on a swing
 
 
-### Sculptorades (90)
+### Sculptorades (102)
 
 *Sculpt it out of clay. No letters, no numbers, no sound effects, no charades.*
 
 
-**Easy** (40)
+**Easy** (46)
 
 1. A game controller
 2. A bike helmet
@@ -689,8 +761,14 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 38. A garden gnome
 39. A snow globe
 40. A pair of dice
+41. A film reel
+42. A pocket watch
+43. A gramophone
+44. A milk bottle
+45. A rolling pin
+46. A birdcage
 
-**Medium** (25)
+**Medium** (28)
 
 1. A ramen bowl
 2. A robot arm
@@ -717,8 +795,11 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 23. A pinball machine
 24. A record player
 25. A popcorn machine
+26. A sewing machine
+27. A rocking chair
+28. A wagon wheel
 
-**Hard** (25)
+**Hard** (28)
 
 1. Going viral
 2. A traffic jam
@@ -745,17 +826,20 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 23. A rivalry
 24. A comeback
 25. A long-distance relationship
+26. The American Dream
+27. A family tree
+28. A time capsule
 
 
-## Data Head — Trivia, true-or-false, and multiple choice (270 cards)
+## Data Head — Trivia, true-or-false, and multiple choice (306 cards)
 
 
-### Factoid (90)
+### Factoid (102)
 
 *Read the question. The whole team can confer on one answer.*
 
 
-**Easy** (40)
+**Easy** (46)
 
 1. Which company owns YouTube? → **Google (Alphabet)**
 2. What Korean survival drama became Netflix's most-watched series ever after it premiered in 2021? → **Squid Game**
@@ -797,8 +881,14 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 38. What book and film series is set at a school called Hogwarts? → **Harry Potter**
 39. What console did Nintendo release in 2006 with motion controls? → **The Wii**
 40. Which app is known for disappearing photos and 'streaks'? → **Snapchat**
+41. Which band recorded 'Abbey Road'? → **The Beatles**
+42. Who was the first person to walk on the Moon? → **Neil Armstrong**
+43. Which singer was known as the King of Pop? → **Michael Jackson**
+44. What 1977 film introduced Luke Skywalker? → **Star Wars**
+45. Which sitcom was famously 'about nothing'? → **Seinfeld**
+46. Which band released 'Nevermind' in 1991? → **Nirvana**
 
-**Medium** (25)
+**Medium** (28)
 
 1. What does the 'GPT' in ChatGPT stand for? → **Generative Pre-trained Transformer**
 2. Which lab built AlphaFold, the AI that predicts protein structures? → **DeepMind (Google DeepMind)**
@@ -825,8 +915,11 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 23. What was the highest-grossing film of the 2010s? → **Avengers: Endgame**
 24. Which video game franchise features a soldier called Master Chief? → **Halo**
 25. What file-sharing service was shut down in 2001 over music piracy? → **Napster**
+26. What scandal forced Richard Nixon to resign in 1974? → **Watergate**
+27. Which Sony device made music portable in 1979? → **The Walkman**
+28. Which wall came down in 1989? → **The Berlin Wall**
 
-**Hard** (25)
+**Hard** (28)
 
 1. What is the title of the 2017 paper that introduced the transformer architecture? → **'Attention Is All You Need'**
 2. How many bitcoins will ever exist? → **21 million**
@@ -853,14 +946,17 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 23. Which Google product — its attempt at a social network — shut down in 2019? → **Google+**
 24. Which phone was recalled in 2016 because its batteries caught fire? → **The Samsung Galaxy Note 7**
 25. In what year did Netflix start streaming video instead of only mailing DVDs? → **2007**
+26. What was the first artificial satellite, launched in 1957? → **Sputnik**
+27. In what year did Apollo 11 land on the Moon? → **1969**
+28. Which two formats fought the 1980s home video war? → **VHS and Betamax**
 
 
-### Polygraph (90)
+### Polygraph (102)
 
 *Read the statement. The team decides: true or false?*
 
 
-**Easy** (40)
+**Easy** (46)
 
 1. Netflix started out as a DVD-by-mail rental company. → **TRUE**
 2. The very first text message ever sent read 'Merry Christmas.' → **TRUE**
@@ -902,8 +998,14 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 38. The iPod was released before the iPhone. → **TRUE**
 39. Angry Birds started life as a console game. → **FALSE** (It launched on mobile in 2009.)
 40. Disney bought Club Penguin. → **TRUE**
+41. The Beatles came from Liverpool. → **TRUE**
+42. Neil Armstrong was the first person to walk on the Moon. → **TRUE**
+43. The first Star Wars film came out in the 1970s. → **TRUE** (1977.)
+44. Elvis Presley was known as the King of Pop. → **FALSE** (He was the King of Rock and Roll.)
+45. Cassette tapes came before CDs. → **TRUE**
+46. The Rubik's Cube was invented in the 1980s. → **FALSE** (It was invented in 1974.)
 
-**Medium** (25)
+**Medium** (28)
 
 1. The 'S' in HTTPS stands for 'secure.' → **TRUE**
 2. 'Wi-Fi' is an abbreviation of 'Wireless Fidelity.' → **FALSE** (It's a brand name a marketing firm invented — it doesn't stand for anything.)
@@ -930,8 +1032,11 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 23. Minecraft was created by a Swedish developer. → **TRUE** (Markus 'Notch' Persson.)
 24. The Harlem Shake videos all used a track by a producer called Baauer. → **TRUE**
 25. Twitter's original character limit was 140. → **TRUE**
+26. The Berlin Wall came down in 1989. → **TRUE**
+27. Betamax beat VHS in the home video format war. → **FALSE** (VHS won.)
+28. Woodstock was held in the town of Woodstock. → **FALSE** (It was held on a farm in Bethel, New York.)
 
-**Hard** (25)
+**Hard** (28)
 
 1. There are more mobile phone subscriptions in the world than there are people. → **TRUE**
 2. The first computer programmer is generally considered to have been a woman. → **TRUE** (Ada Lovelace, in the 1840s.)
@@ -958,14 +1063,17 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 23. Facebook bought Instagram for around a billion dollars. → **TRUE**
 24. The blue-and-black versus white-and-gold dress argument happened in 2015. → **TRUE**
 25. Rick Astley wrote 'Never Gonna Give You Up' himself. → **FALSE** (It was written by the production trio Stock Aitken Waterman.)
+26. Sputnik was launched by the United States. → **FALSE** (It was launched by the Soviet Union.)
+27. The first handheld mobile phone call was made in the 1970s. → **TRUE** (1973.)
+28. MTV's first music video was 'Video Killed the Radio Star.' → **TRUE**
 
 
-### Selectaquest (90)
+### Selectaquest (102)
 
 *Read the question and all the choices out loud. The team picks one.*
 
 
-**Easy** (40)
+**Easy** (46)
 
 1. Which of these launched FIRST? — A) TikTok; B) Instagram; C) Snapchat; D) Zoom → **B**
 2. What does 'HTTP' stand for? — A) HyperText Transfer Protocol; B) High Traffic Transfer Process; C) Hosted Text Transport Protocol; D) Hyperlink Transmission Path → **A**
@@ -1007,8 +1115,14 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 38. Who is the main character of The Hunger Games? — A) Tris Prior; B) Bella Swan; C) Hermione Granger; D) Katniss Everdeen → **D**
 39. In which mobile game did you fling birds at pigs? — A) Angry Birds; B) Cut the Rope; C) Fruit Ninja; D) Temple Run → **A**
 40. Which app popularized 'streaks'? — A) Instagram; B) Snapchat; C) Twitter; D) Pinterest → **B**
+41. Which band recorded 'Abbey Road'? — A) The Rolling Stones; B) The Beatles; C) The Who; D) Led Zeppelin → **B**
+42. Who was the first person to walk on the Moon? — A) Buzz Aldrin; B) Yuri Gagarin; C) Neil Armstrong; D) John Glenn → **C**
+43. Which of these films came out in 1977? — A) Jaws; B) Star Wars; C) E.T.; D) Alien → **B**
+44. Who sang 'Thriller'? — A) Prince; B) Lionel Richie; C) Michael Jackson; D) Stevie Wonder → **C**
+45. Which sitcom was set around a New York coffee house? — A) Cheers; B) Frasier; C) Friends; D) Seinfeld → **C**
+46. What did a Walkman play? — A) CDs; B) Cassette tapes; C) Vinyl records; D) MiniDiscs → **B**
 
-**Medium** (25)
+**Medium** (28)
 
 1. What does 'GPT' stand for? — A) General Purpose Technology; B) Generative Pre-trained Transformer; C) Graphical Processing Tool; D) Global Prediction Table → **B**
 2. Which company makes the chips most used to train AI models? — A) Intel; B) AMD; C) Nvidia; D) Qualcomm → **C**
@@ -1035,8 +1149,11 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 23. Which film was the highest-grossing of the 2010s? — A) Avatar; B) Titanic; C) Avengers: Endgame; D) The Force Awakens → **C**
 24. Which company bought Instagram in 2012? — A) Google; B) Facebook; C) Twitter; D) Yahoo → **B**
 25. Which music service was shut down in 2001 over piracy? — A) LimeWire; B) Kazaa; C) Napster; D) BitTorrent → **C**
+26. Which scandal ended Nixon's presidency? — A) Iran-Contra; B) Watergate; C) Whitewater; D) Teapot Dome → **B**
+27. In what year did the Berlin Wall come down? — A) 1979; B) 1985; C) 1989; D) 1991 → **C**
+28. Which format won the home video war? — A) Betamax; B) VHS; C) LaserDisc; D) Video CD → **B**
 
-**Hard** (25)
+**Hard** (28)
 
 1. The 2017 paper that introduced the transformer architecture is titled: — A) Deep Residual Learning; B) Attention Is All You Need; C) Generative Adversarial Networks; D) ImageNet Classification → **B**
 2. Which Nobel Prize did the AlphaFold team share in 2024? — A) Physics; B) Chemistry; C) Medicine; D) Peace → **B**
@@ -1063,17 +1180,20 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 23. Which Google product shut down in 2019? — A) Gmail; B) Google Docs; C) Google+; D) Google Maps → **C**
 24. Which phone was recalled in 2016 for catching fire? — A) iPhone 7; B) Google Pixel; C) LG G5; D) Samsung Galaxy Note 7 → **D**
 25. In what year did Netflix begin streaming video? — A) 2003; B) 2007; C) 2011; D) 2013 → **B**
+26. What was the first artificial satellite? — A) Explorer 1; B) Sputnik 1; C) Vostok 1; D) Telstar → **B**
+27. Which was the first music video played on MTV? — A) Video Killed the Radio Star; B) Thriller; C) Bohemian Rhapsody; D) Take On Me → **A**
+28. In what year did Apollo 11 land on the Moon? — A) 1961; B) 1965; C) 1969; D) 1972 → **C**
 
 
-## Star Performer — Act it, impersonate it, hum it (270 cards)
+## Star Performer — Act it, impersonate it, hum it (306 cards)
 
 
-### Cameo (90)
+### Cameo (102)
 
 *Charades. Act it out silently — no talking, no sound effects, no pointing at objects in the room.*
 
 
-**Easy** (40)
+**Easy** (46)
 
 1. Looking for a signal
 2. A first day at a new job
@@ -1115,8 +1235,14 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 38. A trust fall
 39. Musical chairs
 40. Blowing out birthday candles
+41. Answering a rotary phone
+42. Winding a cassette with a pencil
+43. Hitchhiking
+44. Changing a tire
+45. Ironing a shirt
+46. Slow dancing
 
-**Medium** (25)
+**Medium** (28)
 
 1. An Irish goodbye
 2. Sharing the wrong screen
@@ -1143,8 +1269,11 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 23. Sneaking in past curfew
 24. A middle school dance
 25. Cramming for an exam
+26. Developing film in a darkroom
+27. Reading a paper map
+28. Sending a fax
 
-**Hard** (25)
+**Hard** (28)
 
 1. Deja vu
 2. Writer's block
@@ -1171,14 +1300,17 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 23. Second-hand embarrassment
 24. A guilty conscience
 25. Muscle memory
+26. Growing apart
+27. Coming of age
+28. A family tradition
 
 
-### Copycat (90)
+### Copycat (102)
 
 *Impersonate it out loud. Talk and act like them — but never say their name or the words on the card.*
 
 
-**Easy** (40)
+**Easy** (46)
 
 1. A tech CEO on stage
 2. A true-crime podcast host
@@ -1220,8 +1352,14 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 38. A game show host
 39. A magician
 40. A radio caller winning a prize
+41. A radio DJ
+42. A diner waitress
+43. A TV weatherman
+44. A preacher
+45. A drill sergeant
+46. A telephone operator
 
-**Medium** (25)
+**Medium** (28)
 
 1. A guest plugging their book
 2. A landlord showing an apartment
@@ -1248,8 +1386,11 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 23. A carnival barker
 24. A late-night talk show host
 25. A wrestler cutting a promo
+26. A newsreel narrator
+27. A game show announcer
+28. A door-to-door salesman
 
-**Hard** (25)
+**Hard** (28)
 
 1. A GPS that gave up
 2. Your home Wi-Fi router
@@ -1276,14 +1417,17 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 23. A car alarm
 24. An escalator
 25. A mall at closing time
+26. A rotary telephone
+27. A record skipping
+28. A VCR eating a tape
 
 
-### Humdinger (90)
+### Humdinger (102)
 
 *Hum the tune. No words, no lyrics, no tapping out the rhythm on the table.*
 
 
-**Easy** (40)
+**Easy** (46)
 
 1. **Espresso** — Sabrina Carpenter
 2. **Blinding Lights** — The Weeknd
@@ -1325,8 +1469,14 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 38. **What Makes You Beautiful** — One Direction
 39. **Thrift Shop** — Macklemore & Ryan Lewis
 40. **Stereo Hearts** — Gym Class Heroes
+41. **Hey Jude** — The Beatles
+42. **Billie Jean** — Michael Jackson
+43. **Bohemian Rhapsody** — Queen
+44. **Sweet Caroline** — Neil Diamond
+45. **Smells Like Teen Spirit** — Nirvana
+46. **Livin' on a Prayer** — Bon Jovi
 
-**Medium** (25)
+**Medium** (28)
 
 1. **Somebody That I Used to Know** — Gotye
 2. **Take Me to Church** — Hozier
@@ -1353,8 +1503,11 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 23. **Welcome to the Black Parade** — My Chemical Romance
 24. **Hey Ya!** — OutKast
 25. **Feel Good Inc.** — Gorillaz
+26. **Come On Eileen** — Dexys Midnight Runners
+27. **Take On Me** — a-ha
+28. **Wonderwall** — Oasis
 
-**Hard** (25)
+**Hard** (28)
 
 1. **The Squid Game theme** — TV theme
 2. **The Succession theme** — TV theme
@@ -1381,4 +1534,7 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 23. **The Pokemon battle theme** — Red and Blue
 24. **The SpongeBob SquarePants theme** — TV theme
 25. **The Wii Sports theme** — video game
+26. **The Twilight Zone theme** — TV theme
+27. **Suicide Is Painless** — the M*A*S*H theme
+28. **The Jeopardy! think music** — game show
 

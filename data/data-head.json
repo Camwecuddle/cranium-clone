@@ -10,452 +10,847 @@
         {
           "q": "Which company owns YouTube?",
           "a": "Google (Alphabet)",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "What Korean survival drama became Netflix's most-watched series ever after it premiered in 2021?",
           "a": "Squid Game",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "What does the 'www' in a web address stand for?",
           "a": "World Wide Web",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What 2023 film about the father of the atomic bomb won Best Picture?",
           "a": "Oppenheimer",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Facebook's parent company renamed itself in 2021. What is it called now?",
           "a": "Meta",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "Whose Eras Tour became the first concert tour to gross over $1 billion?",
           "a": "Taylor Swift",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What blocky sandbox game is the best-selling video game of all time?",
           "a": "Minecraft",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What cryptocurrency, invented by the pseudonymous 'Satoshi Nakamoto,' first crossed $100,000 per coin?",
           "a": "Bitcoin",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What is the name of SpaceX's giant rocket — the largest ever launched?",
           "a": "Starship",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which company released the Vision Pro headset in 2024?",
           "a": "Apple",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which social network did Elon Musk buy in 2022 and rename X?",
           "a": "Twitter",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What 2023 movie about a fashion doll grossed over a billion dollars?",
           "a": "Barbie",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What does 'GPS' stand for?",
           "a": "Global Positioning System",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which private company flies NASA astronauts to the space station?",
           "a": "SpaceX",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What is the name of the AI assistant made by Anthropic?",
           "a": "Claude",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "q": "Which food delivery app calls its couriers 'Dashers'?",
           "a": "DoorDash",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which planet is NASA's Perseverance rover exploring?",
           "a": "Mars",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Who became the first woman to serve as Vice President of the United States?",
           "a": "Kamala Harris",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "How many characters can fit in a standard free post on X (formerly Twitter)?",
           "a": "280",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "What 2016 mobile game had people wandering the streets catching creatures?",
           "a": "Pokemon GO",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What does Instagram call its short vertical videos?",
           "a": "Reels",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "Which chipmaker became one of the world's most valuable companies on the back of the AI boom?",
           "a": "Nvidia",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What space telescope, launched in December 2021, is the successor to Hubble?",
           "a": "The James Webb Space Telescope",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What language-learning app has a green owl as its mascot?",
           "a": "Duolingo",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What paddle sport, played with a perforated plastic ball, became the fastest-growing sport in America?",
           "a": "Pickleball",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What does 'USB' stand for?",
           "a": "Universal Serial Bus",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which city's Summer Olympics were postponed to 2021?",
           "a": "Tokyo",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which company makes the PlayStation?",
           "a": "Sony",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What Disney+ series follows a bounty hunter and a small green alien child?",
           "a": "The Mandalorian",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What word describes the practice of doing your job from anywhere while traveling?",
           "a": "Being a digital nomad",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What does the 'GPT' in ChatGPT stand for?",
           "a": "Generative Pre-trained Transformer",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "q": "Which lab built AlphaFold, the AI that predicts protein structures?",
           "a": "DeepMind (Google DeepMind)",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which Chinese AI lab released the R1 reasoning model in 2025?",
           "a": "DeepSeek",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What does the 'S' in HTTPS stand for?",
           "a": "Secure",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which company owns the studio behind Minecraft?",
           "a": "Microsoft",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "Which social platform has the most monthly active users worldwide?",
           "a": "Facebook",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What vaccine technology did the Pfizer and Moderna COVID shots use?",
           "a": "mRNA",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What is the name of Google's family of AI models launched in 2023?",
           "a": "Gemini",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What does 'VPN' stand for?",
           "a": "Virtual Private Network",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "TSMC, which makes the world's most advanced chips, is based in which country?",
           "a": "Taiwan",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "In what year was the Paris climate agreement adopted?",
           "a": "2015",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What is the name for the roughly four-year event that cuts Bitcoin's mining reward in half?",
           "a": "The halving",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What does 'SaaS' stand for?",
           "a": "Software as a Service",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which app introduced disappearing 'Stories' before Instagram copied them?",
           "a": "Snapchat",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "Who is the CEO of Nvidia?",
           "a": "Jensen Huang",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which pharmaceutical company makes Ozempic and Wegovy?",
           "a": "Novo Nordisk",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "q": "What does 'API' stand for?",
           "a": "Application Programming Interface",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What protocol does the social network Bluesky run on?",
           "a": "The AT Protocol",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "q": "Which country was the first to make Bitcoin legal tender?",
           "a": "El Salvador",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What does 'IPO' stand for?",
           "a": "Initial Public Offering",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What is the title of the 2017 paper that introduced the transformer architecture?",
           "a": "'Attention Is All You Need'",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "How many bitcoins will ever exist?",
           "a": "21 million",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "In what year did Instagram launch?",
           "a": "2010",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "Which company acquired GitHub, and in what year?",
           "a": "Microsoft, in 2018",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which Nobel Prize did the creators of AlphaFold share in 2024?",
           "a": "Chemistry",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What is the EU's landmark 2024 law regulating artificial intelligence called?",
           "a": "The EU AI Act",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "On average, how long is the gap between two Bitcoin blocks?",
           "a": "About 10 minutes",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which blockchain popularized 'smart contracts'?",
           "a": "Ethereum",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "A modern flagship phone chip holds roughly how many transistors — millions, billions, or trillions?",
           "a": "Tens of billions",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What does 'GDPR' stand for?",
           "a": "General Data Protection Regulation",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which country has the most internet users?",
           "a": "China",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "In what year was the first message sent over ARPANET, the internet's ancestor?",
           "a": "1969",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What does Moore's Law actually observe?",
           "a": "That the number of transistors on a chip roughly doubles every two years",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which company is building the Kuiper satellite internet constellation?",
           "a": "Amazon",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What is Meta's family of open-weight AI models called?",
           "a": "Llama",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What does 'RAG' stand for in AI systems?",
           "a": "Retrieval-Augmented Generation",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "In what year did Apple's App Store open?",
           "a": "2008",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Where does the James Webb Space Telescope sit?",
           "a": "At the L2 point, about a million miles from Earth",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What is 'quantum supremacy'?",
           "a": "The point at which a quantum computer solves a problem no classical computer feasibly can",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which 2014 stock market debut raised more money than any IPO before it?",
           "a": "Alibaba",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What was the first YouTube video to reach a billion views?",
           "a": "Gangnam Style",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "What social network came before Facebook and ranked your Top 8 friends?",
           "a": "MySpace",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "What six-second video app shut down in 2017?",
           "a": "Vine",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which video rental chain did Netflix put out of business?",
           "a": "Blockbuster",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "What 2014 charity trend had people dumping ice water on their heads?",
           "a": "The Ice Bucket Challenge",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What Apple device played your music before the iPhone did?",
           "a": "The iPod",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "What was the first Marvel Cinematic Universe film, released in 2008?",
           "a": "Iron Man",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "What book and film series is set at a school called Hogwarts?",
           "a": "Harry Potter",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "What console did Nintendo release in 2006 with motion controls?",
           "a": "The Wii",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which app is known for disappearing photos and 'streaks'?",
           "a": "Snapchat",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "In what year did the first iPhone go on sale?",
           "a": "2007",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "Which rapper released the album 'Take Care' in 2011?",
           "a": "Drake",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What was the highest-grossing film of the 2010s?",
           "a": "Avengers: Endgame",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which video game franchise features a soldier called Master Chief?",
           "a": "Halo",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "What file-sharing service was shut down in 2001 over music piracy?",
           "a": "Napster",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What was the very first video uploaded to YouTube?",
           "a": "'Me at the zoo', in 2005",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "In what year did Instagram launch Stories?",
           "a": "2016",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "Which Google product — its attempt at a social network — shut down in 2019?",
           "a": "Google+",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which phone was recalled in 2016 because its batteries caught fire?",
           "a": "The Samsung Galaxy Note 7",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "In what year did Netflix start streaming video instead of only mailing DVDs?",
           "a": "2007",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
+        },
+        {
+          "q": "Which band recorded 'Abbey Road'?",
+          "a": "The Beatles",
+          "difficulty": "easy",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "q": "Who was the first person to walk on the Moon?",
+          "a": "Neil Armstrong",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "q": "Which singer was known as the King of Pop?",
+          "a": "Michael Jackson",
+          "difficulty": "easy",
+          "gens": [
+            "boomer",
+            "genx",
+            "millennial"
+          ]
+        },
+        {
+          "q": "What 1977 film introduced Luke Skywalker?",
+          "a": "Star Wars",
+          "difficulty": "easy",
+          "gens": [
+            "boomer",
+            "genx",
+            "millennial"
+          ]
+        },
+        {
+          "q": "Which sitcom was famously 'about nothing'?",
+          "a": "Seinfeld",
+          "difficulty": "easy",
+          "gens": [
+            "genx",
+            "millennial"
+          ]
+        },
+        {
+          "q": "Which band released 'Nevermind' in 1991?",
+          "a": "Nirvana",
+          "difficulty": "easy",
+          "gens": [
+            "genx",
+            "millennial"
+          ]
+        },
+        {
+          "q": "What scandal forced Richard Nixon to resign in 1974?",
+          "a": "Watergate",
+          "difficulty": "medium",
+          "gens": [
+            "boomer"
+          ]
+        },
+        {
+          "q": "Which Sony device made music portable in 1979?",
+          "a": "The Walkman",
+          "difficulty": "medium",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "q": "Which wall came down in 1989?",
+          "a": "The Berlin Wall",
+          "difficulty": "medium",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "q": "What was the first artificial satellite, launched in 1957?",
+          "a": "Sputnik",
+          "difficulty": "hard",
+          "gens": [
+            "boomer"
+          ]
+        },
+        {
+          "q": "In what year did Apollo 11 land on the Moon?",
+          "a": "1969",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "q": "Which two formats fought the 1980s home video war?",
+          "a": "VHS and Betamax",
+          "difficulty": "hard",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
         }
       ]
     },
@@ -466,485 +861,891 @@
         {
           "q": "Netflix started out as a DVD-by-mail rental company.",
           "a": true,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "The very first text message ever sent read 'Merry Christmas.'",
           "a": true,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "There are more possible games of chess than atoms in the observable universe.",
           "a": true,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "TikTok absorbed an app called Musical.ly to break into the US market.",
           "a": true,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "q": "Bitcoin has an unlimited supply.",
           "a": false,
           "note": "It's capped at 21 million coins.",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "The first iPhone was released in 2007.",
           "a": true,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "Emoji were invented in the United States.",
           "a": false,
           "note": "They were invented in Japan in the late 1990s.",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "The New York Times bought Wordle.",
           "a": true,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Google was originally called BackRub.",
           "a": true,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "The word 'podcast' comes from the iPod.",
           "a": true,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "Zoom was founded during the COVID-19 pandemic.",
           "a": false,
           "note": "It was founded in 2011.",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "The Bluetooth logo is built from two Scandinavian runes.",
           "a": true,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "In most US states, rideshare drivers are legally employees of the app company.",
           "a": false,
           "note": "They're generally independent contractors.",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "'Doomscrolling' has been added to major dictionaries.",
           "a": true,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "q": "Spotify pays artists about one dollar per stream.",
           "a": false,
           "note": "It's a fraction of a cent.",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "The Mars rover Perseverance landed in 2021.",
           "a": true,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "QR codes were invented in the 2010s for restaurant menus.",
           "a": false,
           "note": "They were invented in Japan in 1994 for tracking car parts.",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Airbnb started when its founders rented out air mattresses in their own apartment.",
           "a": true,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "Electric cars have more moving parts in the drivetrain than gas cars.",
           "a": false,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Amazon started out selling only books.",
           "a": true,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "'Barbie' and 'Oppenheimer' were released in theaters on the same day.",
           "a": true,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "q": "Google's parent company is named Alphabet.",
           "a": true,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "YouTube was founded by former PayPal employees.",
           "a": true,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "Slack was originally built as an internal tool at a video game company.",
           "a": true,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "The James Webb Space Telescope orbits the Earth, just like Hubble.",
           "a": false,
           "note": "It orbits the Sun, about a million miles out.",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Duolingo's mascot is an owl.",
           "a": true,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "'Rizz' is short for 'charisma.'",
           "a": true,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "q": "Nvidia got its start making graphics cards for video games.",
           "a": true,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "The @ symbol appeared on typewriters before computers existed.",
           "a": true,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Wikipedia's articles are written by paid staff writers.",
           "a": false,
           "note": "It's written and edited by unpaid volunteers.",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "The 'S' in HTTPS stands for 'secure.'",
           "a": true,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "'Wi-Fi' is an abbreviation of 'Wireless Fidelity.'",
           "a": false,
           "difficulty": "medium",
-          "note": "It's a brand name a marketing firm invented — it doesn't stand for anything."
+          "note": "It's a brand name a marketing firm invented — it doesn't stand for anything.",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Incognito mode hides your browsing from your internet provider.",
           "a": false,
           "difficulty": "medium",
-          "note": "It only stops your own browser from saving the history."
+          "note": "It only stops your own browser from saving the history.",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Bitcoin transactions are anonymous and untraceable.",
           "a": false,
           "difficulty": "medium",
-          "note": "Every transaction is recorded on a public ledger."
+          "note": "Every transaction is recorded on a public ledger.",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Nvidia now earns more from data centers than from gaming.",
           "a": true,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "5G networks caused the COVID-19 pandemic.",
           "a": false,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Electric cars produce zero emissions across their full life cycle.",
           "a": false,
           "difficulty": "medium",
-          "note": "Manufacturing and grid electricity both carry emissions."
+          "note": "Manufacturing and grid electricity both carry emissions.",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Most of the world's internet traffic travels through undersea cables.",
           "a": true,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Signal and WhatsApp both use end-to-end encryption by default.",
           "a": true,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Deleting a file immediately erases it from the drive.",
           "a": false,
           "difficulty": "medium",
-          "note": "It usually just marks the space as reusable."
+          "note": "It usually just marks the space as reusable.",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "TikTok's feed mainly shows you content from accounts you follow.",
           "a": false,
           "difficulty": "medium",
-          "note": "The main feed is recommendation-driven, not follow-driven."
+          "note": "The main feed is recommendation-driven, not follow-driven.",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "q": "The EU passed a law requiring USB-C charging ports on new phones.",
           "a": true,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Solar is now cheaper than new coal power in most of the world.",
           "a": true,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "A blockchain has to be public to work at all.",
           "a": false,
           "difficulty": "medium",
-          "note": "Private and permissioned chains exist."
+          "note": "Private and permissioned chains exist.",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Video streaming accounts for the majority of internet bandwidth.",
           "a": true,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Text-message two-factor codes are the most secure option available.",
           "a": false,
           "difficulty": "medium",
-          "note": "An authenticator app or hardware key is stronger — SMS can be intercepted."
+          "note": "An authenticator app or hardware key is stronger — SMS can be intercepted.",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Amazon's cloud business is more profitable than its retail business.",
           "a": true,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Modern AI language models are programmed with explicit grammar rules.",
           "a": false,
           "difficulty": "medium",
-          "note": "They learn statistical patterns from text instead."
+          "note": "They learn statistical patterns from text instead.",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "The James Webb Space Telescope observes mainly in infrared.",
           "a": true,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Apple takes a cut of most purchases made inside App Store apps.",
           "a": true,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "There are more mobile phone subscriptions in the world than there are people.",
           "a": true,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "The first computer programmer is generally considered to have been a woman.",
           "a": true,
           "difficulty": "hard",
-          "note": "Ada Lovelace, in the 1840s."
+          "note": "Ada Lovelace, in the 1840s.",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Training a large AI model uses about as much electricity as a household does in a week.",
           "a": false,
           "difficulty": "hard",
-          "note": "It's orders of magnitude more than that."
+          "note": "It's orders of magnitude more than that.",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Most crypto trading volume happens on decentralized exchanges.",
           "a": false,
           "difficulty": "hard",
-          "note": "Centralized exchanges still dominate."
+          "note": "Centralized exchanges still dominate.",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Fertility rates have been falling in nearly every country on Earth.",
           "a": true,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Extreme poverty worldwide has fallen by more than half since 1990.",
           "a": true,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "The word 'robot' comes from a Czech play.",
           "a": true,
           "difficulty": "hard",
-          "note": "Karel Capek's 'R.U.R.', 1920."
+          "note": "Karel Capek's 'R.U.R.', 1920.",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Email existed before the World Wide Web.",
           "a": true,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "A QR code still scans with up to about 30% of it damaged.",
           "a": true,
           "difficulty": "hard",
-          "note": "Error correction is built into the format."
+          "note": "Error correction is built into the format.",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "GPS satellites have to correct for Einstein's relativity to stay accurate.",
           "a": true,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "The internet and the World Wide Web are two names for the same thing.",
           "a": false,
           "difficulty": "hard",
-          "note": "The web is one service running on top of the internet."
+          "note": "The web is one service running on top of the internet.",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Nvidia was founded in the 1990s.",
           "a": true,
           "difficulty": "hard",
-          "note": "1993."
+          "note": "1993.",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "The screen is the most expensive component in a typical smartphone.",
           "a": false,
           "difficulty": "hard",
-          "note": "The processor and other silicon usually cost more."
+          "note": "The processor and other silicon usually cost more.",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Lithium is the scarcest material in an electric car battery.",
           "a": false,
           "difficulty": "hard",
-          "note": "Cobalt and nickel supply are the tighter constraints."
+          "note": "Cobalt and nickel supply are the tighter constraints.",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "The average person checks their phone fewer than 20 times a day.",
           "a": false,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Streaming a movie uses more energy than driving to a video store would have.",
           "a": false,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Bitcoin's annual energy use is comparable to that of a mid-sized country.",
           "a": true,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "The @ symbol was picked for email addresses partly because it was rarely used.",
           "a": true,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Moore's Law is a law of physics.",
           "a": false,
           "difficulty": "hard",
-          "note": "It's an observed trend, and an industry target."
+          "note": "It's an observed trend, and an industry target.",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "The first webcam was set up to watch a coffee pot.",
           "a": true,
           "difficulty": "hard",
-          "note": "The Trojan Room coffee pot at Cambridge."
+          "note": "The Trojan Room coffee pot at Cambridge.",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Vine videos were capped at six seconds.",
           "a": true,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "MySpace let you set a song that played automatically on your profile.",
           "a": true,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "Blockbuster had the chance to buy Netflix and turned it down.",
           "a": true,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "The Wii shipped with Wii Sports in most regions.",
           "a": true,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "A Snapchat streak counts consecutive days two people have snapped each other.",
           "a": true,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "The first Harry Potter film came out in the 1990s.",
           "a": false,
           "difficulty": "easy",
-          "note": "It was released in 2001."
+          "note": "It was released in 2001.",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "'Gangnam Style' was the first YouTube video to pass a billion views.",
           "a": true,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "The iPod was released before the iPhone.",
           "a": true,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "Angry Birds started life as a console game.",
           "a": false,
           "difficulty": "easy",
-          "note": "It launched on mobile in 2009."
+          "note": "It launched on mobile in 2009.",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "Disney bought Club Penguin.",
           "a": true,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "The Ice Bucket Challenge raised over $100 million for ALS research.",
           "a": true,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "Flappy Bird was pulled from app stores by its own creator.",
           "a": true,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "Minecraft was created by a Swedish developer.",
           "a": true,
           "difficulty": "medium",
-          "note": "Markus 'Notch' Persson."
+          "note": "Markus 'Notch' Persson.",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "The Harlem Shake videos all used a track by a producer called Baauer.",
           "a": true,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "Twitter's original character limit was 140.",
           "a": true,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "YouTube was originally built as a video dating site.",
           "a": true,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "The 'Distracted Boyfriend' meme is a stock photo shot in Spain.",
           "a": true,
           "difficulty": "hard",
-          "note": "Barcelona."
+          "note": "Barcelona.",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "Facebook bought Instagram for around a billion dollars.",
           "a": true,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "The blue-and-black versus white-and-gold dress argument happened in 2015.",
           "a": true,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Rick Astley wrote 'Never Gonna Give You Up' himself.",
           "a": false,
           "difficulty": "hard",
-          "note": "It was written by the production trio Stock Aitken Waterman."
+          "note": "It was written by the production trio Stock Aitken Waterman.",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "q": "The Beatles came from Liverpool.",
+          "a": true,
+          "difficulty": "easy",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "q": "Neil Armstrong was the first person to walk on the Moon.",
+          "a": true,
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "q": "The first Star Wars film came out in the 1970s.",
+          "a": true,
+          "difficulty": "easy",
+          "gens": [
+            "boomer",
+            "genx",
+            "millennial"
+          ],
+          "note": "1977."
+        },
+        {
+          "q": "Elvis Presley was known as the King of Pop.",
+          "a": false,
+          "difficulty": "easy",
+          "gens": [
+            "boomer",
+            "genx"
+          ],
+          "note": "He was the King of Rock and Roll."
+        },
+        {
+          "q": "Cassette tapes came before CDs.",
+          "a": true,
+          "difficulty": "easy",
+          "gens": [
+            "boomer",
+            "genx",
+            "millennial"
+          ]
+        },
+        {
+          "q": "The Rubik's Cube was invented in the 1980s.",
+          "a": false,
+          "difficulty": "easy",
+          "gens": [
+            "genx",
+            "millennial"
+          ],
+          "note": "It was invented in 1974."
+        },
+        {
+          "q": "The Berlin Wall came down in 1989.",
+          "a": true,
+          "difficulty": "medium",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "q": "Betamax beat VHS in the home video format war.",
+          "a": false,
+          "difficulty": "medium",
+          "gens": [
+            "boomer",
+            "genx"
+          ],
+          "note": "VHS won."
+        },
+        {
+          "q": "Woodstock was held in the town of Woodstock.",
+          "a": false,
+          "difficulty": "medium",
+          "gens": [
+            "boomer"
+          ],
+          "note": "It was held on a farm in Bethel, New York."
+        },
+        {
+          "q": "Sputnik was launched by the United States.",
+          "a": false,
+          "difficulty": "hard",
+          "gens": [
+            "boomer"
+          ],
+          "note": "It was launched by the Soviet Union."
+        },
+        {
+          "q": "The first handheld mobile phone call was made in the 1970s.",
+          "a": true,
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ],
+          "note": "1973."
+        },
+        {
+          "q": "MTV's first music video was 'Video Killed the Radio Star.'",
+          "a": true,
+          "difficulty": "hard",
+          "gens": [
+            "genx"
+          ]
         }
       ]
     },
@@ -961,7 +1762,10 @@
             "Zoom"
           ],
           "answer": 1,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "q": "What does 'HTTP' stand for?",
@@ -972,7 +1776,10 @@
             "Hyperlink Transmission Path"
           ],
           "answer": 0,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which of these came first?",
@@ -983,7 +1790,11 @@
             "The first Android phone"
           ],
           "answer": 1,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "Roughly how long does light take to travel from the Sun to Earth?",
@@ -994,7 +1805,10 @@
             "8 days"
           ],
           "answer": 1,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which of these is NOT a real social media app?",
@@ -1005,7 +1819,10 @@
             "Threads"
           ],
           "answer": 2,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "q": "Which dictionary named 'rizz' its Word of the Year in 2023?",
@@ -1016,7 +1833,10 @@
             "Collins"
           ],
           "answer": 1,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "q": "In AI, what is a 'hallucination'?",
@@ -1027,7 +1847,10 @@
             "Motion sickness in VR"
           ],
           "answer": 1,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What is the most-watched sporting event in the world?",
@@ -1038,7 +1861,10 @@
             "The Tour de France"
           ],
           "answer": 1,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which of these is a real K-pop group?",
@@ -1049,7 +1875,10 @@
             "BLUEMOON"
           ],
           "answer": 1,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What year did ChatGPT first launch to the public?",
@@ -1060,7 +1889,10 @@
             "2024"
           ],
           "answer": 2,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "q": "Which of these is a Taylor Swift album?",
@@ -1071,7 +1903,10 @@
             "The Broken Sculptors Union"
           ],
           "answer": 0,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "q": "Which of these is a unit of digital storage?",
@@ -1082,7 +1917,10 @@
             "Ohm"
           ],
           "answer": 1,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What do you call someone who works remotely while traveling the world?",
@@ -1093,7 +1931,10 @@
             "A remote monk"
           ],
           "answer": 1,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which of these is a real electric vehicle brand?",
@@ -1104,7 +1945,10 @@
             "Rivet"
           ],
           "answer": 2,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What are the 'streaming wars'?",
@@ -1115,7 +1959,10 @@
             "Live battles on TikTok"
           ],
           "answer": 1,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "q": "Which of these was a viral TikTok dance?",
@@ -1126,7 +1973,10 @@
             "The Cotton-Eyed Joe"
           ],
           "answer": 0,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "q": "Ozempic was originally prescribed to treat what?",
@@ -1137,7 +1987,10 @@
             "Seasonal allergies"
           ],
           "answer": 2,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "q": "TikTok's parent company ByteDance is headquartered in which country?",
@@ -1148,7 +2001,10 @@
             "China"
           ],
           "answer": 3,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "q": "What does the 'G' in 5G stand for?",
@@ -1159,7 +2015,10 @@
             "Gigahertz"
           ],
           "answer": 1,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which of these is a real Netflix series?",
@@ -1170,7 +2029,10 @@
             "Sunday"
           ],
           "answer": 1,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "q": "Which company makes the Galaxy line of phones?",
@@ -1181,7 +2043,10 @@
             "Huawei"
           ],
           "answer": 1,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What does 'CPU' stand for?",
@@ -1192,7 +2057,10 @@
             "Central Program Utility"
           ],
           "answer": 0,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What is a 'situationship'?",
@@ -1203,7 +2071,10 @@
             "A workplace dispute"
           ],
           "answer": 1,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "q": "Which of these is a real AI assistant?",
@@ -1214,7 +2085,10 @@
             "Clara"
           ],
           "answer": 1,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "q": "What does 'EV' stand for?",
@@ -1225,7 +2099,10 @@
             "Exit Velocity"
           ],
           "answer": 2,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Roughly what does one stream pay an artist on a major music service?",
@@ -1236,7 +2113,10 @@
             "About five dollars"
           ],
           "answer": 2,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which of these is NOT owned by Meta?",
@@ -1247,7 +2127,10 @@
             "Threads"
           ],
           "answer": 2,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "q": "Which of these movies came out most recently?",
@@ -1258,7 +2141,10 @@
             "Jurassic Park"
           ],
           "answer": 2,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "q": "What does 'POV' stand for in a video caption?",
@@ -1269,7 +2155,10 @@
             "Play Or Vote"
           ],
           "answer": 0,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which company built the Falcon 9 rocket?",
@@ -1280,7 +2169,10 @@
             "Rocket Lab"
           ],
           "answer": 1,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What does 'GPT' stand for?",
@@ -1291,7 +2183,10 @@
             "Global Prediction Table"
           ],
           "answer": 1,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which company makes the chips most used to train AI models?",
@@ -1302,7 +2197,10 @@
             "Qualcomm"
           ],
           "answer": 2,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which company releases the Llama models?",
@@ -1313,7 +2211,10 @@
             "Amazon"
           ],
           "answer": 1,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "q": "Which country first adopted Bitcoin as legal tender?",
@@ -1324,7 +2225,10 @@
             "Nigeria"
           ],
           "answer": 1,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Where does the James Webb Space Telescope sit?",
@@ -1335,7 +2239,10 @@
             "In orbit around Mars"
           ],
           "answer": 2,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which vaccine technology did Pfizer and Moderna use for COVID-19?",
@@ -1346,7 +2253,10 @@
             "Protein subunit"
           ],
           "answer": 1,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "TSMC, the leading advanced chipmaker, is based where?",
@@ -1357,7 +2267,10 @@
             "China"
           ],
           "answer": 2,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What does 'SaaS' stand for?",
@@ -1368,7 +2281,10 @@
             "Scalable Application Server"
           ],
           "answer": 0,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which platform introduced disappearing 'Stories' first?",
@@ -1379,7 +2295,11 @@
             "Facebook"
           ],
           "answer": 1,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "Which company makes Ozempic?",
@@ -1390,7 +2310,10 @@
             "Merck"
           ],
           "answer": 2,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "q": "In what year was the Paris climate agreement adopted?",
@@ -1401,7 +2324,10 @@
             "2018"
           ],
           "answer": 2,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What does 'VPN' stand for?",
@@ -1412,7 +2338,10 @@
             "Visual Processing Network"
           ],
           "answer": 1,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which of these is NOT a real large language model?",
@@ -1423,7 +2352,10 @@
             "Cobalt"
           ],
           "answer": 3,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "q": "Roughly what share of the world's people use the internet?",
@@ -1434,7 +2366,10 @@
             "Nearly everyone"
           ],
           "answer": 2,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What is a 'stablecoin' usually pegged to?",
@@ -1445,7 +2380,10 @@
             "A stock index"
           ],
           "answer": 1,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which company owns LinkedIn?",
@@ -1456,7 +2394,10 @@
             "Oracle"
           ],
           "answer": 1,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What is an Ethereum 'layer 2'?",
@@ -1467,7 +2408,10 @@
             "A legal classification"
           ],
           "answer": 1,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which source has added the most new electricity generation worldwide in recent years?",
@@ -1478,7 +2422,10 @@
             "Natural gas"
           ],
           "answer": 2,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What does 'end-to-end encryption' mean?",
@@ -1489,7 +2436,10 @@
             "It's compressed for transfer"
           ],
           "answer": 0,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which of these is NOT a cloud computing provider?",
@@ -1500,7 +2450,10 @@
             "Shopify"
           ],
           "answer": 3,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "The 2017 paper that introduced the transformer architecture is titled:",
@@ -1511,7 +2464,10 @@
             "ImageNet Classification"
           ],
           "answer": 1,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which Nobel Prize did the AlphaFold team share in 2024?",
@@ -1522,7 +2478,10 @@
             "Peace"
           ],
           "answer": 1,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "How many bitcoins will ever be mined?",
@@ -1533,7 +2492,10 @@
             "There's no cap"
           ],
           "answer": 1,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "q": "In what year did Microsoft acquire GitHub?",
@@ -1544,7 +2506,10 @@
             "2021"
           ],
           "answer": 2,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What does 'RAG' stand for in AI?",
@@ -1555,7 +2520,10 @@
             "Ranked Adaptive Grouping"
           ],
           "answer": 1,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "In what year was the first message sent over ARPANET?",
@@ -1566,7 +2534,10 @@
             "1983"
           ],
           "answer": 1,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which company is building the Kuiper satellite internet constellation?",
@@ -1577,7 +2548,10 @@
             "Boeing"
           ],
           "answer": 1,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What does Moore's Law observe?",
@@ -1588,7 +2562,10 @@
             "A rule about patent expiry"
           ],
           "answer": 1,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What is the average time between Bitcoin blocks?",
@@ -1599,7 +2576,10 @@
             "1 hour"
           ],
           "answer": 2,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What does 'GDPR' stand for?",
@@ -1610,7 +2590,10 @@
             "Guaranteed Data Portability Right"
           ],
           "answer": 1,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "The EU's landmark 2024 artificial intelligence law is known as:",
@@ -1621,7 +2604,10 @@
             "The Cyber Resilience Act"
           ],
           "answer": 1,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "In what year did Apple's App Store open?",
@@ -1632,7 +2618,10 @@
             "2012"
           ],
           "answer": 1,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which 2014 IPO raised more money than any before it?",
@@ -1643,7 +2632,11 @@
             "Visa"
           ],
           "answer": 1,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "In AI criticism, what is a 'stochastic parrot'?",
@@ -1654,7 +2647,10 @@
             "A benchmark dataset"
           ],
           "answer": 0,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "q": "Which of these is Goodhart's Law?",
@@ -1665,7 +2661,10 @@
             "Adding people to a late project makes it later"
           ],
           "answer": 0,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Roughly how many transistors are in a modern flagship phone processor?",
@@ -1676,7 +2675,10 @@
             "Trillions"
           ],
           "answer": 2,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which country has the most internet users?",
@@ -1687,7 +2689,10 @@
             "Indonesia"
           ],
           "answer": 2,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "What is 'differential privacy'?",
@@ -1698,7 +2703,10 @@
             "Charging users extra for privacy"
           ],
           "answer": 0,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which of these is a real claimed computing milestone?",
@@ -1709,7 +2717,10 @@
             "Quantum inversion"
           ],
           "answer": 0,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which company's chips does TSMC manufacture?",
@@ -1720,7 +2731,10 @@
             "None — it designs but doesn't manufacture"
           ],
           "answer": 1,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which of these apps shut down in 2017?",
@@ -1731,7 +2745,11 @@
             "Spotify"
           ],
           "answer": 0,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "In which virtual world did you play as a penguin?",
@@ -1742,7 +2760,11 @@
             "Habbo"
           ],
           "answer": 1,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "Which console had motion controls and a sensor bar?",
@@ -1753,7 +2775,11 @@
             "PSP"
           ],
           "answer": 2,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "Who performed 'Gangnam Style'?",
@@ -1764,7 +2790,11 @@
             "PSY"
           ],
           "answer": 3,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "What is the name of Harry Potter's school?",
@@ -1775,7 +2805,11 @@
             "Ilvermorny"
           ],
           "answer": 0,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "Which of these was a Nintendo handheld?",
@@ -1786,7 +2820,11 @@
             "Neo Geo"
           ],
           "answer": 1,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "What was the first Marvel Cinematic Universe film?",
@@ -1797,7 +2835,11 @@
             "Captain America"
           ],
           "answer": 2,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "Who is the main character of The Hunger Games?",
@@ -1808,7 +2850,10 @@
             "Katniss Everdeen"
           ],
           "answer": 3,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "q": "In which mobile game did you fling birds at pigs?",
@@ -1819,7 +2864,11 @@
             "Temple Run"
           ],
           "answer": 0,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "Which app popularized 'streaks'?",
@@ -1830,7 +2879,11 @@
             "Pinterest"
           ],
           "answer": 1,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "In what year did the first iPhone go on sale?",
@@ -1841,7 +2894,11 @@
             "2011"
           ],
           "answer": 1,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "Which of these launched first?",
@@ -1852,7 +2909,11 @@
             "Roblox"
           ],
           "answer": 3,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "Which film was the highest-grossing of the 2010s?",
@@ -1863,7 +2924,10 @@
             "The Force Awakens"
           ],
           "answer": 2,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "q": "Which company bought Instagram in 2012?",
@@ -1874,7 +2938,11 @@
             "Yahoo"
           ],
           "answer": 1,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "Which music service was shut down in 2001 over piracy?",
@@ -1885,7 +2953,11 @@
             "BitTorrent"
           ],
           "answer": 2,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "What was the first video uploaded to YouTube?",
@@ -1896,7 +2968,11 @@
             "Numa Numa"
           ],
           "answer": 0,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "In what year did Instagram launch Stories?",
@@ -1907,7 +2983,11 @@
             "2020"
           ],
           "answer": 1,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "Which Google product shut down in 2019?",
@@ -1918,7 +2998,11 @@
             "Google Maps"
           ],
           "answer": 2,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "Which phone was recalled in 2016 for catching fire?",
@@ -1929,7 +3013,11 @@
             "Samsung Galaxy Note 7"
           ],
           "answer": 3,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "q": "In what year did Netflix begin streaming video?",
@@ -1940,7 +3028,188 @@
             "2013"
           ],
           "answer": 1,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
+        },
+        {
+          "q": "Which band recorded 'Abbey Road'?",
+          "options": [
+            "The Rolling Stones",
+            "The Beatles",
+            "The Who",
+            "Led Zeppelin"
+          ],
+          "answer": 1,
+          "difficulty": "easy",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "q": "Who was the first person to walk on the Moon?",
+          "options": [
+            "Buzz Aldrin",
+            "Yuri Gagarin",
+            "Neil Armstrong",
+            "John Glenn"
+          ],
+          "answer": 2,
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "q": "Which of these films came out in 1977?",
+          "options": [
+            "Jaws",
+            "Star Wars",
+            "E.T.",
+            "Alien"
+          ],
+          "answer": 1,
+          "difficulty": "easy",
+          "gens": [
+            "boomer",
+            "genx",
+            "millennial"
+          ]
+        },
+        {
+          "q": "Who sang 'Thriller'?",
+          "options": [
+            "Prince",
+            "Lionel Richie",
+            "Michael Jackson",
+            "Stevie Wonder"
+          ],
+          "answer": 2,
+          "difficulty": "easy",
+          "gens": [
+            "boomer",
+            "genx",
+            "millennial"
+          ]
+        },
+        {
+          "q": "Which sitcom was set around a New York coffee house?",
+          "options": [
+            "Cheers",
+            "Frasier",
+            "Friends",
+            "Seinfeld"
+          ],
+          "answer": 2,
+          "difficulty": "easy",
+          "gens": [
+            "genx",
+            "millennial"
+          ]
+        },
+        {
+          "q": "What did a Walkman play?",
+          "options": [
+            "CDs",
+            "Cassette tapes",
+            "Vinyl records",
+            "MiniDiscs"
+          ],
+          "answer": 1,
+          "difficulty": "easy",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "q": "Which scandal ended Nixon's presidency?",
+          "options": [
+            "Iran-Contra",
+            "Watergate",
+            "Whitewater",
+            "Teapot Dome"
+          ],
+          "answer": 1,
+          "difficulty": "medium",
+          "gens": [
+            "boomer"
+          ]
+        },
+        {
+          "q": "In what year did the Berlin Wall come down?",
+          "options": [
+            "1979",
+            "1985",
+            "1989",
+            "1991"
+          ],
+          "answer": 2,
+          "difficulty": "medium",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "q": "Which format won the home video war?",
+          "options": [
+            "Betamax",
+            "VHS",
+            "LaserDisc",
+            "Video CD"
+          ],
+          "answer": 1,
+          "difficulty": "medium",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "q": "What was the first artificial satellite?",
+          "options": [
+            "Explorer 1",
+            "Sputnik 1",
+            "Vostok 1",
+            "Telstar"
+          ],
+          "answer": 1,
+          "difficulty": "hard",
+          "gens": [
+            "boomer"
+          ]
+        },
+        {
+          "q": "Which was the first music video played on MTV?",
+          "options": [
+            "Video Killed the Radio Star",
+            "Thriller",
+            "Bohemian Rhapsody",
+            "Take On Me"
+          ],
+          "answer": 0,
+          "difficulty": "hard",
+          "gens": [
+            "genx"
+          ]
+        },
+        {
+          "q": "In what year did Apollo 11 land on the Moon?",
+          "options": [
+            "1961",
+            "1965",
+            "1969",
+            "1972"
+          ],
+          "answer": 2,
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         }
       ]
     }

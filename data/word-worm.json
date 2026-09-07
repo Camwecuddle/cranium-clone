@@ -11,541 +11,954 @@
           "hint": "App on everyone's phone",
           "puzzle": "_ I _ _ O _",
           "answer": "TIKTOK",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "hint": "Blockbuster movie",
           "puzzle": "_ A _ _ I _",
           "answer": "BARBIE",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "hint": "Something you tell someone who's too online",
           "puzzle": "_ O _ C _   _ R _ S _",
           "answer": "TOUCH GRASS",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "hint": "Streaming show",
           "puzzle": "_ T _ _ N _ E _   _ H _ _ G _",
           "answer": "STRANGER THINGS",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "hint": "Slang for acting like the star of your own life",
           "puzzle": "_ _ I _   _ H _ _ A _ _ E _",
           "answer": "MAIN CHARACTER",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "hint": "Two words that took over the world",
           "puzzle": "_ R _ I _ _ C _ A _   _ N _ _ L _ _ G _ _ C _",
           "answer": "ARTIFICIAL INTELLIGENCE",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "hint": "Musician with a whisper voice",
           "puzzle": "_ I _ _ I _   _ I _ _ S _",
           "answer": "BILLIE EILISH",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "hint": "Doing your job and nothing more",
           "puzzle": "_ U _ E _   _ U _ _ T _ N _",
           "answer": "QUIET QUITTING",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "hint": "Lockdown-era video game",
           "puzzle": "_ M _ N _   U S",
           "answer": "AMONG US",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "hint": "Food trend",
           "puzzle": "_ M _ S _   _ U _ _ E _",
           "answer": "SMASH BURGER",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "hint": "What you do at 2am with bad news",
           "puzzle": "_ O _ M _ _ R _ _ L _ N _",
           "answer": "DOOMSCROLLING",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "hint": "Yearly music stat dump",
           "puzzle": "_ P _ _ _ F _   _ R _ _ _ E _",
           "answer": "SPOTIFY WRAPPED",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "hint": "TV show set in a chaotic kitchen",
           "puzzle": "_ H _   _ _ A _",
           "answer": "THE BEAR",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "hint": "Famous parents, same career",
           "puzzle": "_ _ P _   _ _ B _",
           "answer": "NEPO BABY",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "hint": "Wrist gadget",
           "puzzle": "_ M _ R _   _ A _ C _",
           "answer": "SMART WATCH",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "hint": "How half of us do our jobs now",
           "puzzle": "_ _ R _   _ _ O _   _ _ M _",
           "answer": "WORK FROM HOME",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "hint": "Puerto Rican superstar",
           "puzzle": "_ A _   _ U _ N _",
           "answer": "BAD BUNNY",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "hint": "Best Picture winner about a laundromat",
           "puzzle": "_ V _ R _ _ H _ N _   _ V _ R _ _ H _ R _   _ L _   A T   _ _ C _",
           "answer": "EVERYTHING EVERYWHERE ALL AT ONCE",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "hint": "Your second job",
           "puzzle": "_ _ D _   _ U _ _ L _",
           "answer": "SIDE HUSTLE",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "hint": "App that pings you once a day",
           "puzzle": "_ E _ _ A _",
           "answer": "BEREAL",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "hint": "Korean survival series",
           "puzzle": "_ Q _ I _   _ _ M _",
           "answer": "SQUID GAME",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "hint": "Making someone doubt their own memory",
           "puzzle": "_ A _ _ I _ H _ _ N _",
           "answer": "GASLIGHTING",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "hint": "Cluttering up city sidewalks",
           "puzzle": "_ L _ _ T _ I _   _ C _ _ _ E _",
           "answer": "ELECTRIC SCOOTER",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "hint": "What every streaming series needs",
           "puzzle": "_ _ O _   _ W _ S _",
           "answer": "PLOT TWIST",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "hint": "Pop star who sings about coffee",
           "puzzle": "_ A _ _ _ N _   _ A _ _ E _ _ E _",
           "answer": "SABRINA CARPENTER",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "hint": "The thing feeding you videos",
           "puzzle": "_ H _   _ L _ _ R _ _ H _",
           "answer": "THE ALGORITHM",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "hint": "Weight-loss drug in every headline",
           "puzzle": "_ Z _ _ _ I _",
           "answer": "OZEMPIC",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "hint": "Anime-styled hit movie about a demon",
           "puzzle": "_ E _ O _   _ L _ _ E _",
           "answer": "DEMON SLAYER",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "hint": "Grocery run without a cashier",
           "puzzle": "_ _ L _   _ H _ _ K _ U _",
           "answer": "SELF CHECKOUT",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "hint": "Where the group chat lives",
           "puzzle": "_ I _ _ _ R _",
           "answer": "DISCORD",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "hint": "Streaming drama about a media dynasty",
           "puzzle": "_ _ C _ _ _ _ I _ _",
           "answer": "SUCCESSION",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "hint": "When a platform slowly gets worse",
           "puzzle": "_ _ S _ _ _ T _ _ _ C _ _ _ O _",
           "answer": "ENSHITTIFICATION",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "hint": "Video game adapted into an HBO series",
           "puzzle": "_ H _   _ _ S _   O F   U S",
           "answer": "THE LAST OF US",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "hint": "Singer behind the album 'Renaissance'",
           "puzzle": "_ E _ _ _ C _",
           "answer": "BEYONCE",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "hint": "What a central bank does to fight inflation",
           "puzzle": "_ _ I _ _   _ _ T _ _",
           "answer": "RAISE RATES",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "hint": "The kind of AI that makes new text and images",
           "puzzle": "_ _ N _ _ _ _ I _ _   A I",
           "answer": "GENERATIVE AI",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "hint": "The chip company at the center of the AI boom",
           "puzzle": "_ _ _ D _ _",
           "answer": "NVIDIA",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "hint": "Buying things to feel better",
           "puzzle": "_ _ _ A _ _   _ H _ _ _ P _",
           "answer": "RETAIL THERAPY",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "hint": "Social app built on the AT Protocol",
           "puzzle": "_ L _ _ _ K _",
           "answer": "BLUESKY",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "hint": "The ledger technology under crypto",
           "puzzle": "_ _ O _ _ _ _ A _ _",
           "answer": "BLOCKCHAIN",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "hint": "What people called GameStop and AMC in 2021",
           "puzzle": "_ _ M _   _ _ _ C _ _",
           "answer": "MEME STOCKS",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "hint": "Netflix series about a chess prodigy",
           "puzzle": "_ H _   _ _ _ E _ _   _ _ _ B _ _",
           "answer": "THE QUEENS GAMBIT",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "hint": "What a company announces when it cuts staff",
           "puzzle": "_ A _ _ _ F _",
           "answer": "LAYOFFS",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "hint": "The gene-editing tool",
           "puzzle": "_ _ _ S _ _",
           "answer": "CRISPR",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "hint": "2024 remake of a series about a Japanese lord",
           "puzzle": "_ _ _ G _ _",
           "answer": "SHOGUN",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "hint": "Where your crypto lives",
           "puzzle": "_ I _ _ _ A _   _ _ _ L _ _",
           "answer": "DIGITAL WALLET",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "hint": "Rapper behind 'Mr. Morale & the Big Steppers'",
           "puzzle": "_ _ N _ _ _ C _   _ _ M _ _",
           "answer": "KENDRICK LAMAR",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "hint": "Why your ride costs triple in the rain",
           "puzzle": "_ _ R _ _   _ R _ _ _ N _",
           "answer": "SURGE PRICING",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "hint": "The documentary genre that took over streaming",
           "puzzle": "_ _ U _   _ _ I _ _",
           "answer": "TRUE CRIME",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "hint": "What a company does when it first sells shares",
           "puzzle": "_ N _ _ _ A _   _ _ _ L _ _   _ _ F _ _ _ N _",
           "answer": "INITIAL PUBLIC OFFERING",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "hint": "Content built to game a recommendation system",
           "puzzle": "E _ _ A _ E _ E _ T   _ A _ T",
           "answer": "ENGAGEMENT BAIT",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "hint": "Japanese concept of a reason for being",
           "puzzle": "_ _ _ _ A _",
           "answer": "IKIGAI",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "hint": "The training method that made chatbots polite",
           "puzzle": "_ E _ _ _ O _ _ E _ E _ T   _ E A _ _ _ _ _",
           "answer": "REINFORCEMENT LEARNING",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "hint": "Stagnant growth plus rising prices",
           "puzzle": "_ T A _ _ _ A T _ O _",
           "answer": "STAGFLATION",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "hint": "The AI that predicts protein structures",
           "puzzle": "A _ _ _ A _ O _ _",
           "answer": "ALPHAFOLD",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "hint": "A startup valued over a billion dollars",
           "puzzle": "_ _ _ _ O _ _",
           "answer": "UNICORN",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "hint": "Cutting an economy's carbon emissions to zero",
           "puzzle": "_ E _ A _ _ O _ _ _ A T _ O _",
           "answer": "DECARBONIZATION",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "hint": "The algorithmic main feed on TikTok",
           "puzzle": "_ O _   _ O _   _ A _ E",
           "answer": "FOR YOU PAGE",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "hint": "Retail buzzword for online and in-store as one",
           "puzzle": "_ _ _ _ _ _ A _ _ E _",
           "answer": "OMNICHANNEL",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "hint": "The drug class behind the weight-loss boom",
           "puzzle": "_ _ _ - 1   A _ O _ _ _ T",
           "answer": "GLP-1 AGONIST",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "hint": "Believing what already fits your worldview",
           "puzzle": "_ O _ _ _ _ _ A T _ O _   _ _ A _",
           "answer": "CONFIRMATION BIAS",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "hint": "The 2022 fusion milestone at a US lab",
           "puzzle": "_ _ _ _ T _ O _",
           "answer": "IGNITION",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "hint": "Building software by describing it to an AI",
           "puzzle": "_ _ _ E   _ O _ _ _ _",
           "answer": "VIBE CODING",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "hint": "Bringing factories back to your own country",
           "puzzle": "_ E _ _ O _ _ _ _",
           "answer": "RESHORING",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "hint": "A sharp economic drop and equally sharp rebound",
           "puzzle": "_   _ _ A _ E _   _ E _ O _ E _ _",
           "answer": "V SHAPED RECOVERY",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "hint": "What the acronym LLM spells out",
           "puzzle": "_ A _ _ E   _ A _ _ _ A _ E   _ O _ E _",
           "answer": "LARGE LANGUAGE MODEL",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "hint": "Japanese art of mending pottery with gold",
           "puzzle": "_ _ _ T _ _ _ _",
           "answer": "KINTSUGI",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "hint": "Interface design meant to trick you into subscribing",
           "puzzle": "_ A _ _   _ A T T E _ _ _",
           "answer": "DARK PATTERNS",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "hint": "The fear of being without your phone",
           "puzzle": "_ O _ O _ _ O _ _ A",
           "answer": "NOMOPHOBIA",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "hint": "Attaching an AI to a live document search",
           "puzzle": "_ E T _ _ E _ A _   A _ _ _ E _ T E _   _ E _ E _ A T _ O _",
           "answer": "RETRIEVAL AUGMENTED GENERATION",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "hint": "Book series that defined a generation's childhood",
           "puzzle": "_ A _ R _   _ O _ _ E _",
           "answer": "HARRY POTTER",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "hint": "First video to hit a billion views on YouTube",
           "puzzle": "_ A _ _ _ A _   _ T _ L _",
           "answer": "GANGNAM STYLE",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "hint": "Dystopian trilogy with a bow and arrow",
           "puzzle": "_ H _   _ U _ _ E _   _ A _ E _",
           "answer": "THE HUNGER GAMES",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "hint": "Mobile game its creator pulled at the height of its fame",
           "puzzle": "_ L _ _ P _   _ _ R _",
           "answer": "FLAPPY BIRD",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "hint": "Sitcom shot like a documentary in a paper company",
           "puzzle": "_ H _   _ F _ _ C _",
           "answer": "THE OFFICE",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "hint": "Chemistry teacher turned drug kingpin",
           "puzzle": "_ R _ _ K _ N _   _ A _",
           "answer": "BREAKING BAD",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "hint": "Fantasy series with a much-argued-about final season",
           "puzzle": "_ _ M _   O F   _ H _ _ _ E _",
           "answer": "GAME OF THRONES",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "hint": "Charity trend that soaked everyone in 2014",
           "puzzle": "_ C _   _ U _ _ E _   _ H _ _ L _ _ G _",
           "answer": "ICE BUCKET CHALLENGE",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "hint": "Game played with a plastic guitar",
           "puzzle": "_ U _ _ A _   _ _ R _",
           "answer": "GUITAR HERO",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "hint": "Virtual world where you were a penguin",
           "puzzle": "_ _ U _   _ E _ _ _ I _",
           "answer": "CLUB PENGUIN",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "hint": "Bait-and-switch with a 1987 music video",
           "puzzle": "_ I _ _ _ O _ _ _ N _",
           "answer": "RICKROLLING",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "hint": "Six-second video app that shut down in 2017",
           "puzzle": "_ _ N _",
           "answer": "VINE",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "hint": "Blogging site with a very specific 2014 atmosphere",
           "puzzle": "_ _ _ B _ _",
           "answer": "TUMBLR",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "hint": "How a generation illegally got its music",
           "puzzle": "_ _ M _ _ _ R _",
           "answer": "LIMEWIRE",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "hint": "2013 trend that started with one person dancing alone",
           "puzzle": "_ H _   _ _ _ L _ _   _ _ A _ _",
           "answer": "THE HARLEM SHAKE",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "hint": "The stock photo meme with three people on a street",
           "puzzle": "_ _ _ _ _ A _ _ _ _   _ _ _ _ R _ _ _ _",
           "answer": "DISTRACTED BOYFRIEND",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "hint": "2011 trend of lying face down in strange places",
           "puzzle": "_ _ _ _ K _ _ _",
           "answer": "PLANKING",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "hint": "Site where 2000s kids raised virtual pets",
           "puzzle": "_ _ _ P _ _ _",
           "answer": "NEOPETS",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "hint": "Flash animation hub from before YouTube took over",
           "puzzle": "_ _ _ _ _ O _ _ _ _",
           "answer": "NEWGROUNDS",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "hint": "2010 viral video of a man overwhelmed by the sky",
           "puzzle": "_ _ _ B _ _   _ _ _ N _ _ _",
           "answer": "DOUBLE RAINBOW",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
+        },
+        {
+          "hint": "Band from Liverpool, four of them",
+          "puzzle": "_ H _   _ E _ _ _ E _",
+          "answer": "THE BEATLES",
+          "difficulty": "easy",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "hint": "1977 film set a long time ago in a galaxy far away",
+          "puzzle": "_ _ A _   _ _ R _",
+          "answer": "STAR WARS",
+          "difficulty": "easy",
+          "gens": [
+            "boomer",
+            "genx",
+            "millennial"
+          ]
+        },
+        {
+          "hint": "The King of Pop",
+          "puzzle": "_ I _ _ _ E _   _ A _ _ _ O _",
+          "answer": "MICHAEL JACKSON",
+          "difficulty": "easy",
+          "gens": [
+            "boomer",
+            "genx",
+            "millennial"
+          ]
+        },
+        {
+          "hint": "Band with the tongue-and-lips logo",
+          "puzzle": "_ H _   _ O _ _ _ N _   _ T _ _ E _",
+          "answer": "THE ROLLING STONES",
+          "difficulty": "easy",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "hint": "Sitcom famously about nothing",
+          "puzzle": "_ E _ _ F _ L _",
+          "answer": "SEINFELD",
+          "difficulty": "easy",
+          "gens": [
+            "genx",
+            "millennial"
+          ]
+        },
+        {
+          "hint": "Seattle band that defined grunge",
+          "puzzle": "_ I _ _ _ N _",
+          "answer": "NIRVANA",
+          "difficulty": "easy",
+          "gens": [
+            "genx",
+            "millennial"
+          ]
+        },
+        {
+          "hint": "1969 music festival in a very muddy field",
+          "puzzle": "_ _ O _ _ _ O _ _",
+          "answer": "WOODSTOCK",
+          "difficulty": "medium",
+          "gens": [
+            "boomer"
+          ]
+        },
+        {
+          "hint": "1985 film about five students in detention",
+          "puzzle": "_ H _   _ _ E _ _ _ A _ _   _ _ U _",
+          "answer": "THE BREAKFAST CLUB",
+          "difficulty": "medium",
+          "gens": [
+            "genx"
+          ]
+        },
+        {
+          "hint": "Sitcom set around a New York coffee house",
+          "puzzle": "_ R _ _ _ D _",
+          "answer": "FRIENDS",
+          "difficulty": "medium",
+          "gens": [
+            "genx",
+            "millennial"
+          ]
+        },
+        {
+          "hint": "Scandal that brought down a president",
+          "puzzle": "_ _ _ _ R _ _ _ _",
+          "answer": "WATERGATE",
+          "difficulty": "hard",
+          "gens": [
+            "boomer"
+          ]
+        },
+        {
+          "hint": "Sony device that first made music portable",
+          "puzzle": "_ H _   _ _ _ K _ _ _",
+          "answer": "THE WALKMAN",
+          "difficulty": "hard",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "hint": "The screeching sound of getting online in 1997",
+          "puzzle": "_ _ A _   U P   _ _ _ _ R _ _ _",
+          "answer": "DIAL UP INTERNET",
+          "difficulty": "hard",
+          "gens": [
+            "genx",
+            "millennial"
+          ]
         }
       ]
     },
@@ -556,452 +969,822 @@
         {
           "word": "PODCAST",
           "backwards": "T-S-A-C-D-O-P",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "STREAMER",
           "backwards": "R-E-M-A-E-R-T-S",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "HASHTAG",
           "backwards": "G-A-T-H-S-A-H",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "UNBOXING",
           "backwards": "G-N-I-X-O-B-N-U",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "CHATBOT",
           "backwards": "T-O-B-T-A-H-C",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "PLAYLIST",
           "backwards": "T-S-I-L-Y-A-L-P",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "TRENDING",
           "backwards": "G-N-I-D-N-E-R-T",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "SPOILER",
           "backwards": "R-E-L-I-O-P-S",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "FOLLOWER",
           "backwards": "R-E-W-O-L-L-O-F",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "SUBSCRIBE",
           "backwards": "E-B-I-R-C-S-B-U-S",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "ALGORITHM",
           "backwards": "M-H-T-I-R-O-G-L-A",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "BANDWIDTH",
           "backwards": "H-T-D-I-W-D-N-A-B",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "THUMBNAIL",
           "backwards": "L-I-A-N-B-M-U-H-T",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "AIRDROP",
           "backwards": "P-O-R-D-R-I-A",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "SCOOTER",
           "backwards": "R-E-T-O-O-C-S",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "INFLUENCE",
           "backwards": "E-C-N-E-U-L-F-N-I",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "DOWNLOAD",
           "backwards": "D-A-O-L-N-W-O-D",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "STREAMING",
           "backwards": "G-N-I-M-A-E-R-T-S",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "WIRELESS",
           "backwards": "S-S-E-L-E-R-I-W",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "PASSWORD",
           "backwards": "D-R-O-W-S-S-A-P",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "KEYBOARD",
           "backwards": "D-R-A-O-B-Y-E-K",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "SOFTWARE",
           "backwards": "E-R-A-W-T-F-O-S",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "HARDWARE",
           "backwards": "E-R-A-W-D-R-A-H",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "WEARABLE",
           "backwards": "E-L-B-A-R-A-E-W",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "DASHBOARD",
           "backwards": "D-R-A-O-B-H-S-A-D",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "FIREWALL",
           "backwards": "L-L-A-W-E-R-I-F",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "CHECKOUT",
           "backwards": "T-U-O-K-C-E-H-C",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "ANALYTICS",
           "backwards": "S-C-I-T-Y-L-A-N-A",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "WORKFLOW",
           "backwards": "W-O-L-F-K-R-O-W",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "MONETIZE",
           "backwards": "E-Z-I-T-E-N-O-M",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "INFLUENCER",
           "backwards": "R-E-C-N-E-U-L-F-N-I",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "TELEHEALTH",
           "backwards": "H-T-L-A-E-H-E-L-E-T",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "NEWSLETTER",
           "backwards": "R-E-T-T-E-L-S-W-E-N",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "GENERATIVE",
           "backwards": "E-V-I-T-A-R-E-N-E-G",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "SIMULATION",
           "backwards": "N-O-I-T-A-L-U-M-I-S",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "SUBSCRIBER",
           "backwards": "R-E-B-I-R-C-S-B-U-S",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "SMARTPHONE",
           "backwards": "E-N-O-H-P-T-R-A-M-S",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "TOUCHSCREEN",
           "backwards": "N-E-E-R-C-S-H-C-U-O-T",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "MICROPHONE",
           "backwards": "E-N-O-H-P-O-R-C-I-M",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "ENGAGEMENT",
           "backwards": "T-N-E-M-E-G-A-G-N-E",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "MONETIZING",
           "backwards": "G-N-I-Z-I-T-E-N-O-M",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "CROWDSOURCE",
           "backwards": "E-C-R-U-O-S-D-W-O-R-C",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "BLOCKCHAIN",
           "backwards": "N-I-A-H-C-K-C-O-L-B",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "RIDESHARING",
           "backwards": "G-N-I-R-A-H-S-E-D-I-R",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "STREAMLINED",
           "backwards": "D-E-N-I-L-M-A-E-R-T-S",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "UNFOLLOWING",
           "backwards": "G-N-I-W-O-L-L-O-F-N-U",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "PIXELATION",
           "backwards": "N-O-I-T-A-L-E-X-I-P",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "AUTOCORRECT",
           "backwards": "T-C-E-R-R-O-C-O-T-U-A",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "SCREENSHOTS",
           "backwards": "S-T-O-H-S-N-E-E-R-C-S",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "ENCRYPTION",
           "backwards": "N-O-I-T-P-Y-R-C-N-E",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "CRYPTOCURRENCY",
           "backwards": "Y-C-N-E-R-R-U-C-O-T-P-Y-R-C",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "NOTIFICATIONS",
           "backwards": "S-N-O-I-T-A-C-I-F-I-T-O-N",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "AUTHENTICATION",
           "backwards": "N-O-I-T-A-C-I-T-N-E-H-T-U-A",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "PERSONALIZED",
           "backwards": "D-E-Z-I-L-A-N-O-S-R-E-P",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "MISINFORMATION",
           "backwards": "N-O-I-T-A-M-R-O-F-N-I-S-I-M",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "SUSTAINABILITY",
           "backwards": "Y-T-I-L-I-B-A-N-I-A-T-S-U-S",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "ENTREPRENEUR",
           "backwards": "R-U-E-N-E-R-P-E-R-T-N-E",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "ALGORITHMICALLY",
           "backwards": "Y-L-L-A-C-I-M-H-T-I-R-O-G-L-A",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "INFRASTRUCTURE",
           "backwards": "E-R-U-T-C-U-R-T-S-A-R-F-N-I",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "NEURODIVERGENT",
           "backwards": "T-N-E-G-R-E-V-I-D-O-R-U-E-N",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "CYBERSECURITY",
           "backwards": "Y-T-I-R-U-C-E-S-R-E-B-Y-C",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "UNSUBSCRIBING",
           "backwards": "G-N-I-B-I-R-C-S-B-U-S-N-U",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "TELECOMMUTING",
           "backwards": "G-N-I-T-U-M-M-O-C-E-L-E-T",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "GENTRIFICATION",
           "backwards": "N-O-I-T-A-C-I-F-I-R-T-N-E-G",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "MICROTRANSACTION",
           "backwards": "N-O-I-T-C-A-S-N-A-R-T-O-R-C-I-M",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "DECENTRALIZED",
           "backwards": "D-E-Z-I-L-A-R-T-N-E-C-E-D",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "HYPERCONNECTED",
           "backwards": "D-E-T-C-E-N-N-O-C-R-E-P-Y-H",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "QUANTIFICATION",
           "backwards": "N-O-I-T-A-C-I-F-I-T-N-A-U-Q",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "CONTROVERSIAL",
           "backwards": "L-A-I-S-R-E-V-O-R-T-N-O-C",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "PHOTOREALISTIC",
           "backwards": "C-I-T-S-I-L-A-E-R-O-T-O-H-P",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "RINGTONE",
           "backwards": "E-N-O-T-G-N-I-R",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "MYSPACE",
           "backwards": "E-C-A-P-S-Y-M",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "word": "NETFLIX",
           "backwards": "X-I-L-F-T-E-N",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "word": "YOUTUBE",
           "backwards": "E-B-U-T-U-O-Y",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "word": "FACEBOOK",
           "backwards": "K-O-O-B-E-C-A-F",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "word": "EMOTICON",
           "backwards": "N-O-C-I-T-O-M-E",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "MEGABYTE",
           "backwards": "E-T-Y-B-A-G-E-M",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "JOYSTICK",
           "backwards": "K-C-I-T-S-Y-O-J",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "CARTRIDGE",
           "backwards": "E-G-D-I-R-T-R-A-C",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "HANDHELD",
           "backwards": "D-L-E-H-D-N-A-H",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "SCREENSAVER",
           "backwards": "R-E-V-A-S-N-E-E-R-C-S",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "PHOTOBOMBED",
           "backwards": "D-E-B-M-O-B-O-T-O-H-P",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "MULTIPLAYER",
           "backwards": "R-E-Y-A-L-P-I-T-L-U-M",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "LEADERBOARD",
           "backwards": "D-R-A-O-B-R-E-D-A-E-L",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "HEADPHONES",
           "backwards": "S-E-N-O-H-P-D-A-E-H",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "CHATROULETTE",
           "backwards": "E-T-T-E-L-U-O-R-T-A-H-C",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "SKATEBOARDING",
           "backwards": "G-N-I-D-R-A-O-B-E-T-A-K-S",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "PROCRASTINATE",
           "backwards": "E-T-A-N-I-T-S-A-R-C-O-R-P",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "UNPRECEDENTED",
           "backwards": "D-E-T-N-E-D-E-C-E-R-P-N-U",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "CHAMPIONSHIPS",
           "backwards": "S-P-I-H-S-N-O-I-P-M-A-H-C",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "word": "CASSETTE",
+          "backwards": "E-T-T-E-S-S-A-C",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "word": "JUKEBOX",
+          "backwards": "X-O-B-E-K-U-J",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "word": "POLAROID",
+          "backwards": "D-I-O-R-A-L-O-P",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "word": "RECORDS",
+          "backwards": "S-D-R-O-C-E-R",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "word": "ANTENNA",
+          "backwards": "A-N-N-E-T-N-A",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "word": "PAYPHONE",
+          "backwards": "E-N-O-H-P-Y-A-P",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "word": "TYPEWRITER",
+          "backwards": "R-E-T-I-R-W-E-P-Y-T",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "word": "TELEGRAPHS",
+          "backwards": "S-H-P-A-R-G-E-L-E-T",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "word": "CAMCORDERS",
+          "backwards": "S-R-E-D-R-O-C-M-A-C",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "word": "PHONOGRAPHIC",
+          "backwards": "C-I-H-P-A-R-G-O-N-O-H-P",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "word": "STENOGRAPHER",
+          "backwards": "R-E-H-P-A-R-G-O-N-E-T-S",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "word": "MIMEOGRAPHED",
+          "backwards": "D-E-H-P-A-R-G-O-E-M-I-M",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         }
       ]
     },
@@ -1017,7 +1800,11 @@
             "Signing up for military service"
           ],
           "answer": 0,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "word": "FINSTA",
@@ -1027,7 +1814,11 @@
             "A fake product listing"
           ],
           "answer": 1,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "word": "SLOP",
@@ -1037,7 +1828,10 @@
             "Low-effort AI-generated content flooding a platform"
           ],
           "answer": 2,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "word": "SUBTWEET",
@@ -1047,7 +1841,11 @@
             "A post scheduled to go out later"
           ],
           "answer": 0,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "word": "LURKER",
@@ -1057,7 +1855,11 @@
             "An automated spam account"
           ],
           "answer": 1,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "word": "UNICORN",
@@ -1067,7 +1869,10 @@
             "A startup valued at over a billion dollars"
           ],
           "answer": 2,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "BOOTSTRAPPED",
@@ -1077,7 +1882,10 @@
             "Assembled out of borrowed code"
           ],
           "answer": 0,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "VAPORWARE",
@@ -1087,7 +1895,10 @@
             "Software that runs entirely in the cloud"
           ],
           "answer": 1,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "SNEAKERNET",
@@ -1097,7 +1908,10 @@
             "Moving data by physically carrying drives around"
           ],
           "answer": 2,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "YAK SHAVING",
@@ -1107,7 +1921,10 @@
             "Deleting unused code"
           ],
           "answer": 0,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "RUBBER DUCKING",
@@ -1117,7 +1934,10 @@
             "Dodging a difficult conversation"
           ],
           "answer": 1,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "SCOPE CREEP",
@@ -1127,7 +1947,10 @@
             "A project quietly growing past what was agreed"
           ],
           "answer": 2,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "TECHNICAL DEBT",
@@ -1137,7 +1960,10 @@
             "The cost of replacing old hardware"
           ],
           "answer": 0,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "DEAD INTERNET THEORY",
@@ -1147,7 +1973,11 @@
             "A prediction that we'll run out of addresses"
           ],
           "answer": 1,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "word": "DOXXING",
@@ -1157,7 +1987,11 @@
             "Publishing someone's private information without consent"
           ],
           "answer": 2,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "word": "SWATTING",
@@ -1167,7 +2001,11 @@
             "Squashing a software bug"
           ],
           "answer": 0,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "word": "CRYPTO WINTER",
@@ -1177,7 +2015,11 @@
             "A wallet kept offline for safety"
           ],
           "answer": 1,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "word": "RUG PULL",
@@ -1187,7 +2029,11 @@
             "When a project's creators vanish with everyone's money"
           ],
           "answer": 2,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "word": "DIAMOND HANDS",
@@ -1197,7 +2043,11 @@
             "A manicure trend"
           ],
           "answer": 0,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "word": "SKIMPFLATION",
@@ -1207,7 +2057,11 @@
             "Type sizes shrinking on packaging"
           ],
           "answer": 1,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "word": "DRIP PRICING",
@@ -1217,7 +2071,11 @@
             "Advertising a low price, then adding fees at checkout"
           ],
           "answer": 2,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "word": "GHOST KITCHEN",
@@ -1227,7 +2085,11 @@
             "A kitchen staffed only overnight"
           ],
           "answer": 0,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "word": "DARK STORE",
@@ -1237,7 +2099,11 @@
             "A shop with no signage out front"
           ],
           "answer": 1,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "word": "LOSS LEADER",
@@ -1247,7 +2113,10 @@
             "An item sold below cost to pull customers in"
           ],
           "answer": 2,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "ZOMBIE COMPANY",
@@ -1257,7 +2126,10 @@
             "A dead brand revived by new owners"
           ],
           "answer": 0,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "SHOVELWARE",
@@ -1267,7 +2139,11 @@
             "Landscaping design software"
           ],
           "answer": 1,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "word": "AIRDROP",
@@ -1277,7 +2153,11 @@
             "Free crypto tokens sent to wallets to drum up interest"
           ],
           "answer": 2,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "word": "GOLDEN HOUR",
@@ -1287,7 +2167,10 @@
             "The opening hour of a sale"
           ],
           "answer": 0,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "GREENFIELD",
@@ -1297,7 +2180,10 @@
             "A building with eco certification"
           ],
           "answer": 1,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "EVERGREEN",
@@ -1307,7 +2193,10 @@
             "Content that stays relevant long after it's published"
           ],
           "answer": 2,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "HOMOPHILY",
@@ -1317,7 +2206,10 @@
             "A preference for symmetry in design"
           ],
           "answer": 0,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "SEALIONING",
@@ -1327,7 +2219,11 @@
             "Photobombing someone's livestream"
           ],
           "answer": 1,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "word": "CONCERN TROLLING",
@@ -1337,7 +2233,10 @@
             "Posing as a supporter in order to undermine a cause"
           ],
           "answer": 2,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "WHATABOUTISM",
@@ -1347,7 +2246,10 @@
             "Speculating endlessly about the future"
           ],
           "answer": 0,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "NUTPICKING",
@@ -1357,7 +2259,11 @@
             "Selecting only the strongest data points"
           ],
           "answer": 1,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "word": "MOTTE AND BAILEY",
@@ -1367,7 +2273,10 @@
             "Retreating to an easy claim when your bold one is challenged"
           ],
           "answer": 2,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "STEELMANNING",
@@ -1377,7 +2286,10 @@
             "Hardening a system against attack"
           ],
           "answer": 0,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "AFFORDANCE",
@@ -1387,7 +2299,10 @@
             "A price a customer can manage"
           ],
           "answer": 1,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "LIMINAL",
@@ -1397,7 +2312,10 @@
             "Occupying a threshold, between one state and the next"
           ],
           "answer": 2,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "FUNGIBLE",
@@ -1407,7 +2325,10 @@
             "Prone to spreading quickly"
           ],
           "answer": 0,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "ANTIFRAGILE",
@@ -1417,7 +2338,10 @@
             "Packaging built to resist damage"
           ],
           "answer": 1,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "LINDY EFFECT",
@@ -1427,7 +2351,10 @@
             "The longer something has survived, the longer it's likely to last"
           ],
           "answer": 2,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "SURVIVORSHIP BIAS",
@@ -1437,7 +2364,10 @@
             "Overestimating your own resilience"
           ],
           "answer": 0,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "VELLEITY",
@@ -1447,7 +2377,10 @@
             "A sudden burst of speed"
           ],
           "answer": 1,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "SALIENCE",
@@ -1457,7 +2390,10 @@
             "How much something stands out and seizes attention"
           ],
           "answer": 2,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "HEURISTIC",
@@ -1467,7 +2403,10 @@
             "A diagnostic scan"
           ],
           "answer": 0,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "EPISTEMIC",
@@ -1477,7 +2416,10 @@
             "Relating to the spread of disease"
           ],
           "answer": 1,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "GRANFALLOON",
@@ -1487,7 +2429,10 @@
             "A group whose shared identity is essentially meaningless"
           ],
           "answer": 2,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "VALENCE",
@@ -1497,7 +2442,10 @@
             "A formal dress ball"
           ],
           "answer": 0,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "ASYMMETRIC INFORMATION",
@@ -1507,7 +2455,10 @@
             "Data stored in uneven block sizes"
           ],
           "answer": 1,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "ULTRACREPIDARIAN",
@@ -1517,7 +2468,10 @@
             "A very old bound manuscript"
           ],
           "answer": 0,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "SONDER",
@@ -1527,7 +2481,10 @@
             "A journey taken alone"
           ],
           "answer": 1,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "APOPHENIA",
@@ -1537,7 +2494,10 @@
             "Seeing meaningful patterns in random data"
           ],
           "answer": 2,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "ZEMBLANITY",
@@ -1547,7 +2507,10 @@
             "A Balkan folk dance"
           ],
           "answer": 0,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "ANEMOIA",
@@ -1557,7 +2520,10 @@
             "Sickness brought on by high wind"
           ],
           "answer": 1,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "AKRASIA",
@@ -1567,7 +2533,10 @@
             "Acting against your own better judgment"
           ],
           "answer": 2,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "HYPERSTITION",
@@ -1577,7 +2546,10 @@
             "Fiction written at great speed"
           ],
           "answer": 0,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "MOLOCH",
@@ -1587,7 +2559,10 @@
             "A Norwegian metal band"
           ],
           "answer": 1,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "UMWELT",
@@ -1597,7 +2572,10 @@
             "The slice of reality a given creature can actually perceive"
           ],
           "answer": 2,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "STOCHASTIC PARROT",
@@ -1607,7 +2585,10 @@
             "A bird species with erratic migration"
           ],
           "answer": 0,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "word": "GOODHART'S LAW",
@@ -1617,7 +2598,10 @@
             "Work expands to fill the time available"
           ],
           "answer": 1,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "CHESTERTON'S FENCE",
@@ -1627,7 +2611,10 @@
             "Don't tear something down until you know why it was put up"
           ],
           "answer": 2,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "GELL-MANN AMNESIA",
@@ -1637,7 +2624,10 @@
             "Memory loss caused by radiation exposure"
           ],
           "answer": 0,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "PREFERENCE FALSIFICATION",
@@ -1647,7 +2637,10 @@
             "Editing a survey after the fact"
           ],
           "answer": 1,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "ANTIMEMETIC",
@@ -1657,7 +2650,10 @@
             "Resistant to being remembered or passed on"
           ],
           "answer": 2,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "LEGIBILITY",
@@ -1667,7 +2663,10 @@
             "Font sizing for accessibility"
           ],
           "answer": 0,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "genz"
+          ]
         },
         {
           "word": "HEDONIC TREADMILL",
@@ -1677,7 +2676,10 @@
             "The escalating cycle of an addiction"
           ],
           "answer": 1,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "ERGODICITY",
@@ -1687,7 +2689,10 @@
             "Whether the average over time matches the average across a group"
           ],
           "answer": 2,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "SOLASTALGIA",
@@ -1697,7 +2702,10 @@
             "Grief over a failed solar installation"
           ],
           "answer": 0,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "KOMPROMAT",
@@ -1707,7 +2715,10 @@
             "A compact folding sleeping mat"
           ],
           "answer": 1,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "RICKROLL",
@@ -1717,7 +2728,11 @@
             "A bread roll served at diners"
           ],
           "answer": 0,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "word": "RAGEQUIT",
@@ -1727,7 +2742,11 @@
             "A very fast checkout process"
           ],
           "answer": 1,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "word": "NOOB",
@@ -1737,7 +2756,11 @@
             "A beginner, usually said with contempt"
           ],
           "answer": 2,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "word": "GRINDING",
@@ -1747,7 +2770,11 @@
             "Negotiating hard on price"
           ],
           "answer": 0,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "word": "SPEEDRUN",
@@ -1757,7 +2784,11 @@
             "A fast-forward playback feature"
           ],
           "answer": 1,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "word": "LET'S PLAY",
@@ -1767,7 +2798,11 @@
             "A video of someone narrating their way through a game"
           ],
           "answer": 2,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "word": "CATFISHING",
@@ -1777,7 +2812,11 @@
             "Luring a competitor into a bad deal"
           ],
           "answer": 0,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "word": "PHOTOBOMB",
@@ -1787,7 +2826,11 @@
             "Deleting a photo from a device remotely"
           ],
           "answer": 1,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "word": "TROLLING",
@@ -1797,7 +2840,11 @@
             "Provoking people online purely for the reaction"
           ],
           "answer": 2,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "word": "LEET",
@@ -1807,7 +2854,11 @@
             "A brand of protein bar"
           ],
           "answer": 0,
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "word": "SHIPPING",
@@ -1817,7 +2868,11 @@
             "Wanting two characters to end up together"
           ],
           "answer": 2,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "word": "CANON",
@@ -1827,7 +2882,11 @@
             "A rule of musical composition"
           ],
           "answer": 0,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "word": "RETCON",
@@ -1837,7 +2896,11 @@
             "Rebooting a games console"
           ],
           "answer": 1,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "word": "STAN",
@@ -1847,7 +2910,11 @@
             "An obsessive fan, named after an Eminem song"
           ],
           "answer": 2,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "word": "NORMIE",
@@ -1857,7 +2924,11 @@
             "A standard-issue uniform"
           ],
           "answer": 0,
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "word": "POE'S LAW",
@@ -1867,7 +2938,11 @@
             "Without a clear signal, parody of an extreme view is indistinguishable from the real thing"
           ],
           "answer": 2,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "word": "GODWIN'S LAW",
@@ -1877,7 +2952,11 @@
             "The observation that platforms decay as they monetize"
           ],
           "answer": 0,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "word": "ETERNAL SEPTEMBER",
@@ -1887,7 +2966,11 @@
             "An unusually drawn-out product launch"
           ],
           "answer": 1,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
         },
         {
           "word": "SEMANTIC SATIATION",
@@ -1897,7 +2980,10 @@
             "When a word repeated enough times stops feeling like a word"
           ],
           "answer": 2,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "CYBERBALKANIZATION",
@@ -1907,7 +2993,175 @@
             "A strategy of pricing differently by region"
           ],
           "answer": 0,
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
+        },
+        {
+          "word": "GROOVY",
+          "options": [
+            "A dance with repeating steps",
+            "Excellent or fashionable, in 1960s slang",
+            "A deep scratch across a record"
+          ],
+          "answer": 1,
+          "difficulty": "easy",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "word": "RADICAL",
+          "options": [
+            "A political extremist",
+            "The root symbol in mathematics",
+            "Excellent, in 1980s skater and surfer slang"
+          ],
+          "answer": 2,
+          "difficulty": "easy",
+          "gens": [
+            "genx",
+            "millennial"
+          ]
+        },
+        {
+          "word": "BOGUS",
+          "options": [
+            "Unfair or fake, everywhere in 1980s slang",
+            "A reported ghost sighting",
+            "An error in the bookkeeping"
+          ],
+          "answer": 0,
+          "difficulty": "easy",
+          "gens": [
+            "genx"
+          ]
+        },
+        {
+          "word": "YUPPIE",
+          "options": [
+            "A style of Alpine yodelling",
+            "A young urban professional, the 1980s archetype",
+            "A small, very energetic dog breed"
+          ],
+          "answer": 1,
+          "difficulty": "easy",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "word": "MIXTAPE",
+          "options": [
+            "A radio programming block",
+            "A record label's sampler album",
+            "A cassette compiled by hand, usually for someone you liked"
+          ],
+          "answer": 2,
+          "difficulty": "easy",
+          "gens": [
+            "genx",
+            "millennial"
+          ]
+        },
+        {
+          "word": "AS IF",
+          "options": [
+            "A dismissive 'no way', straight out of 1990s teen slang",
+            "A conditional statement in programming",
+            "A hypothetical used in accounting"
+          ],
+          "answer": 0,
+          "difficulty": "easy",
+          "gens": [
+            "genx",
+            "millennial"
+          ]
+        },
+        {
+          "word": "JUMPING THE SHARK",
+          "options": [
+            "A manoeuvre in competitive surfing",
+            "The moment a show passes its peak and starts sliding",
+            "A risky all-or-nothing financial bet"
+          ],
+          "answer": 1,
+          "difficulty": "medium",
+          "gens": [
+            "boomer",
+            "genx",
+            "millennial"
+          ]
+        },
+        {
+          "word": "LATCHKEY KID",
+          "options": [
+            "An apprentice to a locksmith",
+            "A kid who has lost their house keys",
+            "A child who let themselves into an empty house after school"
+          ],
+          "answer": 2,
+          "difficulty": "medium",
+          "gens": [
+            "genx"
+          ]
+        },
+        {
+          "word": "DINK",
+          "options": [
+            "Dual Income, No Kids — a 1980s household label",
+            "A soft drop shot in tennis",
+            "A small dent knocked into metal"
+          ],
+          "answer": 0,
+          "difficulty": "medium",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "word": "SAMIZDAT",
+          "options": [
+            "A regional style of folk embroidery",
+            "Banned writing copied and passed hand to hand",
+            "A Soviet state news agency"
+          ],
+          "answer": 1,
+          "difficulty": "hard",
+          "gens": [
+            "boomer"
+          ]
+        },
+        {
+          "word": "ZEITGEIST",
+          "options": [
+            "A tradition of telling ghost stories",
+            "An early mechanical time-keeping device",
+            "The defining mood and ideas of a particular period"
+          ],
+          "answer": 2,
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "word": "MOONSHOT",
+          "options": [
+            "A hugely ambitious project with a real chance of failing",
+            "A long-range basketball attempt",
+            "A photograph taken by moonlight"
+          ],
+          "answer": 0,
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         }
       ]
     },
@@ -1917,363 +3171,717 @@
       "cards": [
         {
           "word": "CRYPTOCURRENCY",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "ENTREPRENEURSHIP",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "CHARCUTERIE",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "ALGORITHMIC",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "QUARANTINE",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "AESTHETIC",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "MILLENNIAL",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "SUSTAINABILITY",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "SUBSCRIPTION",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "MICROPLASTIC",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "RENAISSANCE",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "PLAGIARISM",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "NEURODIVERGENT",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "PHENOMENON",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "RHYTHM",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "LABYRINTH",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "SILHOUETTE",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "CAMOUFLAGE",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "MISCHIEVOUS",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "ACQUIESCE",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "CONSCIENTIOUS",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "MAINTENANCE",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "EMBARRASSED",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "DEFINITELY",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "SEPARATE",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "NECESSARY",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "RECOMMEND",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "COLLEAGUE",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "HIERARCHY",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "EXAGGERATE",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "RENDEZVOUS",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "CHAUFFEUR",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "MNEMONIC",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "SUBPOENA",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "ISTHMUS",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "CONNOISSEUR",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "BUREAUCRACY",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "QUESTIONNAIRE",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "ACCOMMODATE",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "OCCURRENCE",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "MILLENNIUM",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "LIAISON",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "PERSEVERANCE",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "HARASS",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "BROCCOLI",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "PRIVILEGE",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "CEMETERY",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "PLAYWRIGHT",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "THRESHOLD",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "VACUUM",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "WORCESTERSHIRE",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "BOUILLABAISSE",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "SCHADENFREUDE",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "CHIAROSCURO",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "IDIOSYNCRASY",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "HORS D'OEUVRE",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "RESTAURATEUR",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "BOURGEOISIE",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "PHLEGMATIC",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "SYZYGY",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "ONOMATOPOEIA",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "SACRILEGIOUS",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "MILLEFEUILLE",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "WEIMARANER",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "PARALLELEPIPED",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "DIPHTHONG",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "MINUSCULE",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "DAIQUIRI",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "SUPERSEDE",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "PARAPHERNALIA",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "NOSTALGIA",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "VILLAIN",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "WEIRD",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "RECEIVE",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "CALENDAR",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "GRAMMAR",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "TOMORROW",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "BEGINNING",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "ARGUMENT",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "SURPRISE",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "PHARAOH",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "JEWELRY",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "LICENSE",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "RESTAURANT",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "GAUGE",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "FUCHSIA",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "LIQUEFY",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "VACILLATE",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "GNOCCHI",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         },
         {
           "word": "SOLILOQUY",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "word": "NEIGHBOR",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "word": "RECEIPT",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "word": "SCHEDULE",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "word": "THOROUGH",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "word": "VEGETABLE",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "word": "CHOCOLATE",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "word": "MAYONNAISE",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "word": "DIARRHEA",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "word": "ASTHMA",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "word": "SEQUOIA",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "word": "ANEMONE",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "word": "COLONEL",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
         }
       ]
     }
