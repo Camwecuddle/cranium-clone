@@ -24,18 +24,22 @@ axis rather than just getting longer:
 
 | Card type | Easy | Hard |
 | --- | --- | --- |
-| Blankout | A few letters missing from something famous | Most letters missing, and a term you have to actually know |
+| Blankout | Under half the letters showing, on something famous | Almost no letters showing, on a term you have to actually know |
 | Gnilleps | Short words | Fifteen-letter words with ugly consonant runs |
 | Lexicon | Slang you've heard | Obscure terms where all three definitions sound plausible |
 | Spellbound | Commonly misspelled words | `WORCESTERSHIRE`, `BOUILLABAISSE`, `SYZYGY` |
 | Cloodle / Sensosketch / Sculptorades | A concrete object | An abstract concept — *burnout*, *the attention economy* |
+| Cameo / Copycat | A simple physical bit | Abstractions — *déjà vu*, *compound interest*, *the last slice of pizza* |
 | Factoid / Selectaquest | General knowledge | Dates, figures, and specifics |
 | Polygraph | Obviously true or obviously false | Counterintuitive facts and believable falsehoods |
-| Cameo / Copycat | A simple physical bit | Abstractions — *déjà vu*, *compound interest*, *the last slice of pizza* |
 | Humdinger | Hooks everybody knows | Film scores, game themes, and the Netflix *ta-dum* |
 
 Mixing tiers works well as a handicap: put the people who play a lot on hard and everyone
 else on easy.
+
+Every clue in the drawing, sculpting, and acting decks is a short, nameable thing — five
+words at most — so the guessing team has something exact to land on rather than a scene
+they have to narrate back word for word.
 
 ## Using it at game night
 

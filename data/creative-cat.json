@@ -16,15 +16,15 @@
           "difficulty": "easy"
         },
         {
-          "clue": "Someone taking a selfie with a selfie stick",
+          "clue": "A selfie stick",
           "difficulty": "easy"
         },
         {
-          "clue": "An electric scooter abandoned on a sidewalk",
+          "clue": "An electric scooter",
           "difficulty": "easy"
         },
         {
-          "clue": "A food delivery bag on the back of a bike",
+          "clue": "A food delivery bag",
           "difficulty": "easy"
         },
         {
@@ -32,23 +32,23 @@
           "difficulty": "easy"
         },
         {
-          "clue": "A smartwatch closing its exercise rings",
+          "clue": "A smartwatch",
           "difficulty": "easy"
         },
         {
-          "clue": "A drone delivering a package",
+          "clue": "A delivery drone",
           "difficulty": "easy"
         },
         {
-          "clue": "A QR code menu on a restaurant table",
+          "clue": "A QR code",
           "difficulty": "easy"
         },
         {
-          "clue": "A hopelessly tangled charging cable",
+          "clue": "A tangled charging cable",
           "difficulty": "easy"
         },
         {
-          "clue": "A video call in a dress shirt and pajama pants",
+          "clue": "A video call",
           "difficulty": "easy"
         },
         {
@@ -56,19 +56,19 @@
           "difficulty": "easy"
         },
         {
-          "clue": "A gaming setup with RGB lights everywhere",
+          "clue": "A gaming setup",
           "difficulty": "easy"
         },
         {
-          "clue": "A grid of faces on a group video call",
+          "clue": "A group chat",
           "difficulty": "easy"
         },
         {
-          "clue": "A phone with a spiderwebbed cracked screen",
+          "clue": "A cracked phone screen",
           "difficulty": "easy"
         },
         {
-          "clue": "Noise-cancelling headphones on a crowded plane",
+          "clue": "Noise-cancelling headphones",
           "difficulty": "easy"
         },
         {
@@ -76,7 +76,7 @@
           "difficulty": "easy"
         },
         {
-          "clue": "Someone doomscrolling in bed at 3am",
+          "clue": "Doomscrolling in bed",
           "difficulty": "easy"
         },
         {
@@ -88,23 +88,23 @@
           "difficulty": "easy"
         },
         {
-          "clue": "A standing desk with a treadmill under it",
+          "clue": "A standing desk",
           "difficulty": "easy"
         },
         {
-          "clue": "A cat walking across a laptop mid-meeting",
+          "clue": "A cat on a laptop",
           "difficulty": "easy"
         },
         {
-          "clue": "A subscription box on a doorstep",
+          "clue": "A package on a doorstep",
           "difficulty": "easy"
         },
         {
-          "clue": "Someone in a VR headset about to hit the coffee table",
+          "clue": "A VR headset",
           "difficulty": "easy"
         },
         {
-          "clue": "A stadium full of phone flashlights at a concert",
+          "clue": "Phone flashlights at a concert",
           "difficulty": "easy"
         },
         {
@@ -112,7 +112,7 @@
           "difficulty": "easy"
         },
         {
-          "clue": "A barista drawing latte art",
+          "clue": "Latte art",
           "difficulty": "easy"
         },
         {
@@ -120,91 +120,91 @@
           "difficulty": "easy"
         },
         {
-          "clue": "A smart doorbell catching a package thief",
+          "clue": "A smart doorbell",
           "difficulty": "easy"
         },
         {
-          "clue": "Someone livestreaming a haircut gone wrong",
+          "clue": "A bad haircut",
           "difficulty": "easy"
         },
         {
-          "clue": "A rideshare driver arguing with a GPS",
+          "clue": "A rideshare pickup",
           "difficulty": "medium"
         },
         {
-          "clue": "Someone livestreaming a cooking fail",
+          "clue": "A kitchen disaster",
           "difficulty": "medium"
         },
         {
-          "clue": "A dog in a smart collar chasing a delivery drone",
+          "clue": "A dog chasing a drone",
           "difficulty": "medium"
         },
         {
-          "clue": "An airport gate where everyone is charging a phone",
+          "clue": "An airport gate",
           "difficulty": "medium"
         },
         {
-          "clue": "A wedding where every guest is filming it",
+          "clue": "Filming a wedding",
           "difficulty": "medium"
         },
         {
-          "clue": "An AI-generated portrait that got the hands wrong",
+          "clue": "AI-generated hands",
           "difficulty": "medium"
         },
         {
-          "clue": "A gym where everyone is watching the same TV",
+          "clue": "A row of treadmills",
           "difficulty": "medium"
         },
         {
-          "clue": "A self-driving car stumped by a construction cone",
+          "clue": "A self-driving car",
           "difficulty": "medium"
         },
         {
-          "clue": "A group chat blowing up during a game",
+          "clue": "A blowing-up group chat",
           "difficulty": "medium"
         },
         {
-          "clue": "Someone building a desk from a flat box",
+          "clue": "Flat-pack furniture",
           "difficulty": "medium"
         },
         {
-          "clue": "A barista taking a twelve-word drink order",
+          "clue": "A complicated coffee order",
           "difficulty": "medium"
         },
         {
-          "clue": "A food hall with a QR code on every table",
+          "clue": "A food hall",
           "difficulty": "medium"
         },
         {
-          "clue": "Returning a package at a drop-off counter",
+          "clue": "A package return counter",
           "difficulty": "medium"
         },
         {
-          "clue": "A drone light show over a skyline",
+          "clue": "A drone light show",
           "difficulty": "medium"
         },
         {
-          "clue": "Someone hiding from a video call behind a houseplant",
+          "clue": "Hiding from a camera",
           "difficulty": "medium"
         },
         {
-          "clue": "A cat asleep on a warm laptop mid-workday",
+          "clue": "A phone at 1%",
           "difficulty": "medium"
         },
         {
-          "clue": "A parent filming a school play through their phone",
+          "clue": "Filming a school play",
           "difficulty": "medium"
         },
         {
-          "clue": "A rooftop solar installation",
+          "clue": "Rooftop solar panels",
           "difficulty": "medium"
         },
         {
-          "clue": "A trader watching a chart fall off a cliff",
+          "clue": "A crashing stock chart",
           "difficulty": "medium"
         },
         {
-          "clue": "The slowest possible self-checkout line",
+          "clue": "A long checkout line",
           "difficulty": "medium"
         },
         {
@@ -422,7 +422,7 @@
           "difficulty": "medium"
         },
         {
-          "clue": "A birthday cake with candles",
+          "clue": "A birthday cake",
           "difficulty": "medium"
         },
         {
@@ -450,11 +450,11 @@
           "difficulty": "medium"
         },
         {
-          "clue": "A sailboat on waves",
+          "clue": "A sailboat",
           "difficulty": "medium"
         },
         {
-          "clue": "A pizza with three toppings",
+          "clue": "A pizza",
           "difficulty": "medium"
         },
         {
@@ -470,7 +470,7 @@
           "difficulty": "medium"
         },
         {
-          "clue": "A pineapple wearing sunglasses",
+          "clue": "A pineapple in sunglasses",
           "difficulty": "medium"
         },
         {
@@ -482,15 +482,15 @@
           "difficulty": "medium"
         },
         {
-          "clue": "A car seen head-on",
+          "clue": "A car",
           "difficulty": "medium"
         },
         {
-          "clue": "A stack of pancakes with syrup",
+          "clue": "A stack of pancakes",
           "difficulty": "medium"
         },
         {
-          "clue": "An umbrella in the rain",
+          "clue": "An umbrella",
           "difficulty": "medium"
         },
         {
@@ -584,11 +584,11 @@
           "difficulty": "easy"
         },
         {
-          "clue": "A boba tea with a fat straw",
+          "clue": "A boba tea",
           "difficulty": "easy"
         },
         {
-          "clue": "A ring light on a tripod",
+          "clue": "A ring light",
           "difficulty": "easy"
         },
         {
@@ -600,7 +600,7 @@
           "difficulty": "easy"
         },
         {
-          "clue": "A phone charging brick",
+          "clue": "A charging brick",
           "difficulty": "easy"
         },
         {
@@ -624,7 +624,7 @@
           "difficulty": "easy"
         },
         {
-          "clue": "A robot vacuum stuck on a rug",
+          "clue": "A robot vacuum",
           "difficulty": "easy"
         },
         {
@@ -632,7 +632,7 @@
           "difficulty": "easy"
         },
         {
-          "clue": "A Croc with charms in it",
+          "clue": "A Croc",
           "difficulty": "easy"
         },
         {
@@ -640,7 +640,7 @@
           "difficulty": "easy"
         },
         {
-          "clue": "An electric car plugged in",
+          "clue": "An electric car",
           "difficulty": "easy"
         },
         {
@@ -648,7 +648,7 @@
           "difficulty": "easy"
         },
         {
-          "clue": "A rubber duck wearing headphones",
+          "clue": "A rubber duck",
           "difficulty": "easy"
         },
         {
@@ -660,11 +660,11 @@
           "difficulty": "easy"
         },
         {
-          "clue": "A water bottle covered in stickers",
+          "clue": "A water bottle",
           "difficulty": "easy"
         },
         {
-          "clue": "A protein shaker and a dumbbell",
+          "clue": "A dumbbell",
           "difficulty": "easy"
         },
         {
@@ -672,7 +672,7 @@
           "difficulty": "easy"
         },
         {
-          "clue": "A shopping cart full of groceries",
+          "clue": "A shopping cart",
           "difficulty": "easy"
         },
         {
@@ -680,35 +680,35 @@
           "difficulty": "easy"
         },
         {
-          "clue": "A pickleball paddle and ball",
+          "clue": "A pickleball paddle",
           "difficulty": "easy"
         },
         {
-          "clue": "A hospital IV drip",
+          "clue": "An IV drip",
           "difficulty": "easy"
         },
         {
-          "clue": "A three-tier wedding cake",
+          "clue": "A wedding cake",
           "difficulty": "easy"
         },
         {
-          "clue": "A laptop with a cracked screen",
+          "clue": "A cracked laptop",
           "difficulty": "easy"
         },
         {
-          "clue": "A hamster in an exercise ball",
+          "clue": "A hamster ball",
           "difficulty": "easy"
         },
         {
-          "clue": "A drone carrying a coffee cup",
+          "clue": "A ramen bowl",
           "difficulty": "medium"
         },
         {
-          "clue": "A robot arm on an assembly line",
+          "clue": "A robot arm",
           "difficulty": "medium"
         },
         {
-          "clue": "Glasses with a camera in them",
+          "clue": "Smart glasses",
           "difficulty": "medium"
         },
         {
@@ -732,31 +732,31 @@
           "difficulty": "medium"
         },
         {
-          "clue": "A hand holding a phone up to take a photo",
+          "clue": "A hand holding a phone",
           "difficulty": "medium"
         },
         {
-          "clue": "A treadmill with a laptop on it",
+          "clue": "A treadmill desk",
           "difficulty": "medium"
         },
         {
-          "clue": "A birdhouse with a camera in it",
+          "clue": "A birdhouse",
           "difficulty": "medium"
         },
         {
-          "clue": "A dog riding in a backpack carrier",
+          "clue": "A dog in a backpack",
           "difficulty": "medium"
         },
         {
-          "clue": "A blender full of smoothie",
+          "clue": "A blender",
           "difficulty": "medium"
         },
         {
-          "clue": "A skateboard mid-trick",
+          "clue": "A surfboard",
           "difficulty": "medium"
         },
         {
-          "clue": "A sushi roll cut open",
+          "clue": "A sushi roll",
           "difficulty": "medium"
         },
         {
@@ -764,11 +764,11 @@
           "difficulty": "medium"
         },
         {
-          "clue": "A washing machine mid-cycle",
+          "clue": "A washing machine",
           "difficulty": "medium"
         },
         {
-          "clue": "A tent with a solar panel",
+          "clue": "A camping tent",
           "difficulty": "medium"
         },
         {

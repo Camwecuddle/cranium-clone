@@ -16,59 +16,59 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 
 **Easy** (30)
 
-1. **T _ K T _ K** — _App on everyone's phone_ → TIKTOK
-2. **B _ R B _ E** — _Blockbuster movie_ → BARBIE
-3. **T _ U C H   G R _ S S** — _Something you tell someone who's too online_ → TOUCH GRASS
-4. **S T R _ N G _ R   T H _ N G S** — _Streaming show_ → STRANGER THINGS
-5. **M _ I N   C H _ R _ C T _ R** — _Slang for acting like the star of your own life_ → MAIN CHARACTER
-6. **A R T _ F _ C _ A L   I N T _ L L _ G _ N C E** — _Two words that took over the world_ → ARTIFICIAL INTELLIGENCE
-7. **B _ L L _ E   E _ L _ S H** — _Musician with a whisper voice_ → BILLIE EILISH
-8. **Q U _ E T   Q U _ T T _ N G** — _Doing your job and nothing more_ → QUIET QUITTING
-9. **A M _ N G   U S** — _Lockdown-era video game_ → AMONG US
-10. **S M _ S H   B _ R G _ R** — _Food trend_ → SMASH BURGER
-11. **D _ O M S C R _ L L _ N G** — _What you do at 2am with bad news_ → DOOMSCROLLING
-12. **S P _ T _ F Y   W R _ P P _ D** — _Yearly music stat dump_ → SPOTIFY WRAPPED
-13. **T H _   B _ A R** — _TV show set in a chaotic kitchen_ → THE BEAR
-14. **N _ P _   B _ B Y** — _Famous parents, same career_ → NEPO BABY
-15. **S M _ R T   W _ T C H** — _Wrist gadget_ → SMART WATCH
-16. **W _ R K   F R _ M   H _ M E** — _How half of us do our jobs now_ → WORK FROM HOME
-17. **B _ D   B _ N N Y** — _Puerto Rican superstar_ → BAD BUNNY
-18. **E V _ R Y T H _ N G   E V _ R Y W H _ R E   A L L   A T   O N C E** — _Best Picture winner about a laundromat_ → EVERYTHING EVERYWHERE ALL AT ONCE
-19. **S _ D E   H _ S T L E** — _Your second job_ → SIDE HUSTLE
-20. **B _ R _ A L** — _App that pings you once a day_ → BEREAL
-21. **S Q _ _ D   G _ M E** — _Korean survival series_ → SQUID GAME
-22. **G _ S L _ G H T _ N G** — _Making someone doubt their own memory_ → GASLIGHTING
-23. **E L _ C T R _ C   S C _ _ T _ R** — _Cluttering up city sidewalks_ → ELECTRIC SCOOTER
-24. **P L _ T   T W _ S T** — _What every streaming series needs_ → PLOT TWIST
-25. **S _ B R _ N A   C _ R P _ N T _ R** — _Pop star who sings about coffee_ → SABRINA CARPENTER
-26. **T H _   A L G _ R _ T H M** — _The thing feeding you videos_ → THE ALGORITHM
-27. **O Z _ M P _ C** — _Weight-loss drug in every headline_ → OZEMPIC
-28. **D _ M _ N   S L _ Y _ R** — _Anime-styled hit movie about a demon_ → DEMON SLAYER
-29. **S _ L F   C H _ C K _ U T** — _Grocery run without a cashier_ → SELF CHECKOUT
-30. **D _ S C _ R D** — _Where the group chat lives_ → DISCORD
+1. **_ I _ T _ K** — _App on everyone's phone_ → TIKTOK
+2. **_ A _ B _ E** — _Blockbuster movie_ → BARBIE
+3. **_ O _ C _   _ R _ S _** — _Something you tell someone who's too online_ → TOUCH GRASS
+4. **_ T _ A _ G _ R   _ H _ N _ S** — _Streaming show_ → STRANGER THINGS
+5. **_ A _ N   _ H _ R _ C _ E _** — _Slang for acting like the star of your own life_ → MAIN CHARACTER
+6. **_ R _ I _ _ C _ A _   _ N _ E _ _ I _ E _ C _** — _Two words that took over the world_ → ARTIFICIAL INTELLIGENCE
+7. **_ I _ L _ E   _ I _ I _ H** — _Musician with a whisper voice_ → BILLIE EILISH
+8. **_ U _ E _   _ U _ T _ I _ G** — _Doing your job and nothing more_ → QUIET QUITTING
+9. **_ M _ N _   U S** — _Lockdown-era video game_ → AMONG US
+10. **_ M _ S _   _ U _ G _ R** — _Food trend_ → SMASH BURGER
+11. **_ O _ M _ C _ O _ L _ N _** — _What you do at 2am with bad news_ → DOOMSCROLLING
+12. **_ P _ T _ F _   _ R _ P _ E _** — _Yearly music stat dump_ → SPOTIFY WRAPPED
+13. **_ H _   _ E _ R** — _TV show set in a chaotic kitchen_ → THE BEAR
+14. **_ E _ O   _ A _ Y** — _Famous parents, same career_ → NEPO BABY
+15. **_ M _ R _   _ A _ C _** — _Wrist gadget_ → SMART WATCH
+16. **_ O _ K   _ R _ M   _ O _ E** — _How half of us do our jobs now_ → WORK FROM HOME
+17. **_ A _   _ U _ N _** — _Puerto Rican superstar_ → BAD BUNNY
+18. **_ V _ R _ _ H _ N _   _ V _ R _ _ H _ R _   _ L _   A T   _ N _ E** — _Best Picture winner about a laundromat_ → EVERYTHING EVERYWHERE ALL AT ONCE
+19. **_ I _ E   _ U _ T _ E** — _Your second job_ → SIDE HUSTLE
+20. **_ E _ E _ L** — _App that pings you once a day_ → BEREAL
+21. **_ Q _ I _   _ A _ E** — _Korean survival series_ → SQUID GAME
+22. **_ A _ L _ G _ T _ N _** — _Making someone doubt their own memory_ → GASLIGHTING
+23. **_ L _ C _ R _ C   _ C _ O _ E _** — _Cluttering up city sidewalks_ → ELECTRIC SCOOTER
+24. **_ L _ T   _ W _ S _** — _What every streaming series needs_ → PLOT TWIST
+25. **_ A _ R _ N _   _ A _ P _ N _ E _** — _Pop star who sings about coffee_ → SABRINA CARPENTER
+26. **_ H _   _ L _ O _ I _ H _** — _The thing feeding you videos_ → THE ALGORITHM
+27. **_ Z _ M _ I _** — _Weight-loss drug in every headline_ → OZEMPIC
+28. **_ E _ O _   _ L _ Y _ R** — _Anime-styled hit movie about a demon_ → DEMON SLAYER
+29. **_ E _ F   _ H _ C _ O _ T** — _Grocery run without a cashier_ → SELF CHECKOUT
+30. **_ I _ C _ R _** — _Where the group chat lives_ → DISCORD
 
 **Medium** (20)
 
-1. **S _ C C _ S S _ _ N** — _Streaming drama about a media dynasty_ → SUCCESSION
-2. **_ N S H _ T T _ F _ C _ T _ _ N** — _When a platform slowly gets worse_ → ENSHITTIFICATION
-3. **T H _   L _ S T   _ F   U S** — _Video game adapted into an HBO series_ → THE LAST OF US
-4. **B _ Y _ N C _** — _Singer behind the album 'Renaissance'_ → BEYONCE
-5. **R _ _ S _   R _ T _ S** — _What a central bank does to fight inflation_ → RAISE RATES
-6. **G _ N _ R _ T _ V _   A _** — _The kind of AI that makes new text and images_ → GENERATIVE AI
-7. **N V _ D _ _** — _The chip company at the center of the AI boom_ → NVIDIA
-8. **R _ T _ _ L   T H _ R _ P Y** — _Buying things to feel better_ → RETAIL THERAPY
-9. **B L _ _ S K Y** — _Social app built on the AT Protocol_ → BLUESKY
-10. **B L _ C K C H _ _ N** — _The ledger technology under crypto_ → BLOCKCHAIN
-11. **M _ M _   S T _ C K S** — _What people called GameStop and AMC in 2021_ → MEME STOCKS
-12. **T H _   Q _ _ _ N S   G _ M B _ T** — _Netflix series about a chess prodigy_ → THE QUEENS GAMBIT
-13. **L _ Y _ F F S** — _What a company announces when it cuts staff_ → LAYOFFS
-14. **C R _ S P R** — _The gene-editing tool_ → CRISPR
-15. **S H _ G _ N** — _2024 remake of a series about a Japanese lord_ → SHOGUN
-16. **D _ G _ T _ L   W _ L L _ T** — _Where your crypto lives_ → DIGITAL WALLET
-17. **K _ N D R _ C K   L _ M _ R** — _Rapper behind 'Mr. Morale & the Big Steppers'_ → KENDRICK LAMAR
-18. **S _ R G _   P R _ C _ N G** — _Why your ride costs triple in the rain_ → SURGE PRICING
-19. **T R _ _   C R _ M _** — _The documentary genre that took over streaming_ → TRUE CRIME
-20. **_ N _ T _ _ L   P _ B L _ C   _ F F _ R _ N G** — _What a company does when it first sells shares_ → INITIAL PUBLIC OFFERING
+1. **_ U _ _ _ S _ _ O _** — _Streaming drama about a media dynasty_ → SUCCESSION
+2. **_ N _ _ I _ _ _ F _ _ A _ _ O _** — _When a platform slowly gets worse_ → ENSHITTIFICATION
+3. **_ H _   _ _ S _   O F   U S** — _Video game adapted into an HBO series_ → THE LAST OF US
+4. **_ E _ _ _ C _** — _Singer behind the album 'Renaissance'_ → BEYONCE
+5. **_ A _ S _   _ A _ E _** — _What a central bank does to fight inflation_ → RAISE RATES
+6. **_ E _ _ _ A _ _ V _   A I** — _The kind of AI that makes new text and images_ → GENERATIVE AI
+7. **_ V _ _ I _** — _The chip company at the center of the AI boom_ → NVIDIA
+8. **_ E _ _ I _   _ H _ _ _ P _** — _Buying things to feel better_ → RETAIL THERAPY
+9. **_ L _ _ _ K _** — _Social app built on the AT Protocol_ → BLUESKY
+10. **_ L _ _ _ C _ _ I _** — _The ledger technology under crypto_ → BLOCKCHAIN
+11. **_ _ M _   _ T _ _ K _** — _What people called GameStop and AMC in 2021_ → MEME STOCKS
+12. **_ H _   _ U _ _ N _   _ A _ _ I _** — _Netflix series about a chess prodigy_ → THE QUEENS GAMBIT
+13. **_ A _ _ _ F _** — _What a company announces when it cuts staff_ → LAYOFFS
+14. **_ R _ _ P _** — _The gene-editing tool_ → CRISPR
+15. **_ H _ _ U _** — _2024 remake of a series about a Japanese lord_ → SHOGUN
+16. **_ I _ _ _ A _   _ A _ _ E _** — _Where your crypto lives_ → DIGITAL WALLET
+17. **_ E _ _ R _ C _   _ A _ A _** — _Rapper behind 'Mr. Morale & the Big Steppers'_ → KENDRICK LAMAR
+18. **_ U _ G _   _ R _ _ _ N _** — _Why your ride costs triple in the rain_ → SURGE PRICING
+19. **_ _ U _   _ R _ M _** — _The documentary genre that took over streaming_ → TRUE CRIME
+20. **_ N _ _ _ A _   _ U _ _ I _   _ F _ _ R _ N _** — _What a company does when it first sells shares_ → INITIAL PUBLIC OFFERING
 
 **Hard** (20)
 
@@ -361,57 +361,57 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 
 1. Wireless earbuds
 2. A ring light
-3. Someone taking a selfie with a selfie stick
-4. An electric scooter abandoned on a sidewalk
-5. A food delivery bag on the back of a bike
+3. A selfie stick
+4. An electric scooter
+5. A food delivery bag
 6. A robot vacuum
-7. A smartwatch closing its exercise rings
-8. A drone delivering a package
-9. A QR code menu on a restaurant table
-10. A hopelessly tangled charging cable
-11. A video call in a dress shirt and pajama pants
+7. A smartwatch
+8. A delivery drone
+9. A QR code
+10. A tangled charging cable
+11. A video call
 12. An air fryer
-13. A gaming setup with RGB lights everywhere
-14. A grid of faces on a group video call
-15. A phone with a spiderwebbed cracked screen
-16. Noise-cancelling headphones on a crowded plane
+13. A gaming setup
+14. A group chat
+15. A cracked phone screen
+16. Noise-cancelling headphones
 17. A self-checkout machine
-18. Someone doomscrolling in bed at 3am
+18. Doomscrolling in bed
 19. A charcuterie board
 20. An EV charging station
-21. A standing desk with a treadmill under it
-22. A cat walking across a laptop mid-meeting
-23. A subscription box on a doorstep
-24. Someone in a VR headset about to hit the coffee table
-25. A stadium full of phone flashlights at a concert
+21. A standing desk
+22. A cat on a laptop
+23. A package on a doorstep
+24. A VR headset
+25. Phone flashlights at a concert
 26. A dog in a stroller
-27. A barista drawing latte art
+27. Latte art
 28. A pickleball court
-29. A smart doorbell catching a package thief
-30. Someone livestreaming a haircut gone wrong
+29. A smart doorbell
+30. A bad haircut
 
 **Medium** (20)
 
-1. A rideshare driver arguing with a GPS
-2. Someone livestreaming a cooking fail
-3. A dog in a smart collar chasing a delivery drone
-4. An airport gate where everyone is charging a phone
-5. A wedding where every guest is filming it
-6. An AI-generated portrait that got the hands wrong
-7. A gym where everyone is watching the same TV
-8. A self-driving car stumped by a construction cone
-9. A group chat blowing up during a game
-10. Someone building a desk from a flat box
-11. A barista taking a twelve-word drink order
-12. A food hall with a QR code on every table
-13. Returning a package at a drop-off counter
-14. A drone light show over a skyline
-15. Someone hiding from a video call behind a houseplant
-16. A cat asleep on a warm laptop mid-workday
-17. A parent filming a school play through their phone
-18. A rooftop solar installation
-19. A trader watching a chart fall off a cliff
-20. The slowest possible self-checkout line
+1. A rideshare pickup
+2. A kitchen disaster
+3. A dog chasing a drone
+4. An airport gate
+5. Filming a wedding
+6. AI-generated hands
+7. A row of treadmills
+8. A self-driving car
+9. A blowing-up group chat
+10. Flat-pack furniture
+11. A complicated coffee order
+12. A food hall
+13. A package return counter
+14. A drone light show
+15. Hiding from a camera
+16. A phone at 1%
+17. Filming a school play
+18. Rooftop solar panels
+19. A crashing stock chart
+20. A long checkout line
 
 **Hard** (20)
 
@@ -479,24 +479,24 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 
 1. A bicycle
 2. An octopus
-3. A birthday cake with candles
+3. A birthday cake
 4. A guitar
 5. A butterfly
 6. A lighthouse
 7. A pair of scissors
 8. An elephant
 9. A windmill
-10. A sailboat on waves
-11. A pizza with three toppings
+10. A sailboat
+11. A pizza
 12. A giraffe
 13. A hand holding a phone
 14. A snail
-15. A pineapple wearing sunglasses
+15. A pineapple in sunglasses
 16. A camera on a tripod
 17. A crab
-18. A car seen head-on
-19. A stack of pancakes with syrup
-20. An umbrella in the rain
+18. A car
+19. A stack of pancakes
+20. An umbrella
 
 **Hard** (20)
 
@@ -530,56 +530,56 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 **Easy** (30)
 
 1. A game controller
-2. A boba tea with a fat straw
-3. A ring light on a tripod
+2. A boba tea
+3. A ring light
 4. A smart speaker
 5. A face mask
-6. A phone charging brick
+6. A charging brick
 7. A robot dog
 8. Avocado toast
 9. A drone
 10. A skateboard
 11. A cell tower
-12. A robot vacuum stuck on a rug
+12. A robot vacuum
 13. A podcast microphone
-14. A Croc with charms in it
+14. A Croc
 15. A sourdough loaf
-16. An electric car plugged in
+16. An electric car
 17. A selfie stick
-18. A rubber duck wearing headphones
+18. A rubber duck
 19. A satellite
 20. A taco truck
-21. A water bottle covered in stickers
-22. A protein shaker and a dumbbell
+21. A water bottle
+22. A dumbbell
 23. A VR headset
-24. A shopping cart full of groceries
+24. A shopping cart
 25. A hoverboard
-26. A pickleball paddle and ball
-27. A hospital IV drip
-28. A three-tier wedding cake
-29. A laptop with a cracked screen
-30. A hamster in an exercise ball
+26. A pickleball paddle
+27. An IV drip
+28. A wedding cake
+29. A cracked laptop
+30. A hamster ball
 
 **Medium** (20)
 
-1. A drone carrying a coffee cup
-2. A robot arm on an assembly line
-3. Glasses with a camera in them
+1. A ramen bowl
+2. A robot arm
+3. Smart glasses
 4. A gaming chair
 5. An espresso machine
 6. A wind turbine
 7. A hospital bed
 8. A stack of pancakes
-9. A hand holding a phone up to take a photo
-10. A treadmill with a laptop on it
-11. A birdhouse with a camera in it
-12. A dog riding in a backpack carrier
-13. A blender full of smoothie
-14. A skateboard mid-trick
-15. A sushi roll cut open
+9. A hand holding a phone
+10. A treadmill desk
+11. A birdhouse
+12. A dog in a backpack
+13. A blender
+14. A surfboard
+15. A sushi roll
 16. A vending machine
-17. A washing machine mid-cycle
-18. A tent with a solar panel
+17. A washing machine
+18. A camping tent
 19. A soft-serve cone
 20. A stethoscope
 
@@ -875,59 +875,59 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 
 **Easy** (30)
 
-1. Holding your phone in the air hunting for a signal
-2. Unboxing a package on camera
-3. Realizing you were on mute the entire meeting
-4. A yoga class going very badly
-5. Assembling flat-pack furniture without the instructions
-6. Waiting for a rideshare that keeps circling the block
-7. A barista making an absurdly complicated latte
-8. Getting the perfect overhead photo of your dinner
-9. Being chased around the room by a robot vacuum
-10. Getting stuck in a revolving door
-11. Going through airport security with too much stuff
-12. Opening a bag of chips quietly in a movie theater
-13. Doing a live workout stream in a tiny apartment
-14. Your phone dying at 1% while you're navigating
-15. Speed-walking to catch a closing elevator
-16. Parallel parking while people watch
-17. Forgetting the moves halfway through a dance video
-18. Getting your headphone cord caught on a doorknob
-19. Your card getting declined on a first date
-20. Deleting a text before the other person reads it
-21. Trying to fold a fitted sheet
-22. Reacting to your year-end music stats
-23. Being the only one who didn't see the group chat
-24. Sneezing while wearing a face mask
-25. Looking busy the second your boss walks by
-26. Taking a mirror selfie in a crowded gym
-27. Trying to scan a QR code that won't focus
-28. Wrestling a fitted car seat into the back of a car
-29. Pretending to know a song's words at a concert
-30. Getting a splash from a puddle by a passing car
+1. Looking for a signal
+2. Unboxing a package
+3. Talking on mute
+4. A yoga class
+5. Assembling furniture
+6. Waiting for a ride
+7. Making a latte
+8. Photographing your food
+9. A robot vacuum attack
+10. Stuck in a revolving door
+11. Airport security
+12. Sneaking snacks into a movie
+13. A home workout
+14. A dying phone battery
+15. Catching a closing elevator
+16. Parallel parking
+17. Forgetting a dance
+18. Tangled headphones
+19. A declined card
+20. Unsending a text
+21. Folding a fitted sheet
+22. Spotify Wrapped
+23. Missing the group chat
+24. Sneezing in a mask
+25. Looking busy
+26. A gym mirror selfie
+27. Scanning a QR code
+28. Installing a car seat
+29. Faking the lyrics
+30. Splashed by a car
 
 **Medium** (20)
 
-1. Sneaking out of a party without saying goodbye
-2. Realizing mid-presentation that you're sharing the wrong screen
-3. Getting a haircut you hate and pretending to love it
-4. Taking a group photo with a self-timer
-5. Stuck in a middle seat between two sleepers
-6. Returning something without a receipt
-7. Waiting for a very slow elevator with your boss
-8. Fighting with a childproof cap
-9. Setting up a tent in the wind
-10. Being the designated driver at 1am
-11. Learning your flight is delayed six hours
-12. Teaching a grandparent to use a video call
-13. Realizing you left your wallet at the restaurant
-14. Getting caught by a rotating lawn sprinkler
-15. Eating soup on a moving train
-16. Being picked last for a team
-17. Hunting for keys at the bottom of a deep bag
-18. Escaping a group photo you're not part of
-19. Assembling a gift the night before the birthday
-20. Noticing your shirt is inside out mid-meeting
+1. An Irish goodbye
+2. Sharing the wrong screen
+3. A haircut you hate
+4. A self-timer group photo
+5. The middle seat
+6. Returning without a receipt
+7. An awkward elevator ride
+8. A childproof cap
+9. Pitching a tent
+10. The designated driver
+11. A delayed flight
+12. Tech support for a parent
+13. Forgetting your wallet
+14. A lawn sprinkler
+15. Soup on a train
+16. Picked last
+17. Digging for your keys
+18. Photobombing
+19. Last-minute gift wrapping
+20. A shirt on inside out
 
 **Hard** (20)
 
@@ -960,82 +960,82 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 
 **Easy** (30)
 
-1. A tech CEO unveiling a product on stage
+1. A tech CEO on stage
 2. A true-crime podcast host
-3. A GPS voice recalculating for the fourth time
-4. A reality TV show judge delivering bad news
-5. A fitness influencer filming a 5am morning routine
-6. An AI chatbot politely refusing to answer
-7. A flight attendant doing the safety demonstration
-8. A sports announcer calling a last-second goal
-9. A yoga instructor at the end of class
-10. An unnervingly enthusiastic customer service rep
+3. A GPS recalculating
+4. A reality show judge
+5. A fitness influencer
+6. An AI chatbot
+7. A flight attendant
+8. A sports announcer
+9. A yoga instructor
+10. A customer service rep
 11. A movie trailer voiceover
-12. A weather reporter standing in a hurricane
-13. A drive-thru speaker you can barely understand
-14. A wine snob at a tasting
-15. A parent trying to use a new phone
+12. A weather reporter in a storm
+13. A drive-thru speaker
+14. A wine snob
+15. A parent using a new phone
 16. An auctioneer
 17. A nature documentary narrator
-18. A mall Santa on his last shift
-19. A DJ hyping a crowd that isn't into it
-20. A stand-up comedian bombing
-21. A lawyer's closing argument on a legal drama
+18. A mall Santa
+19. A DJ hyping the crowd
+20. A comedian bombing
+21. A lawyer's closing argument
 22. A soccer player faking an injury
-23. A barista calling out a name they can't pronounce
-24. A cooking show host tasting their own dish
-25. An airline gate agent announcing another delay
-26. A gamer streaming a rage quit
+23. A barista calling your name
+24. A cooking show host
+25. A gate agent announcing a delay
+26. A gamer rage quitting
 27. A meditation app narrator
-28. A car salesperson closing a deal
-29. A dentist making small talk mid-cleaning
-30. A tour guide who has given this tour 900 times
+28. A car salesperson
+29. A chatty dentist
+30. A bored tour guide
 
 **Medium** (20)
 
-1. A podcast guest who will not stop plugging their book
-2. A landlord showing a very small apartment
-3. A pilot delivering bad news cheerfully
-4. A life coach on a livestream
-5. A radio DJ reading the traffic report
+1. A guest plugging their book
+2. A landlord showing an apartment
+3. A pilot on the intercom
+4. A life coach
+5. A traffic reporter
 6. A museum audio guide
-7. A hostage negotiator in a movie
-8. A late-night used car commercial
-9. A wedding officiant who barely knows the couple
-10. A news anchor during breaking news
-11. A golf commentator whispering
-12. A telemarketer who won't take no
-13. A sommelier describing tap water
-14. A referee explaining a video review
-15. A politician dodging a direct question
-16. A cooking competition judge delivering a critique
-17. A self-checkout machine's error message
-18. A theme park ride safety announcement
-19. A trainer counting your last three reps
-20. A documentary subject reminiscing about the 90s
+7. A hostage negotiator
+8. A late-night car commercial
+9. A wedding officiant
+10. A breaking news anchor
+11. A golf commentator
+12. A telemarketer
+13. A sommelier
+14. A referee explaining a call
+15. A politician dodging a question
+16. A cooking competition judge
+17. A self-checkout machine
+18. A ride safety announcement
+19. A personal trainer
+20. A documentary interview
 
 **Hard** (20)
 
-1. A GPS that has given up on you
-2. The Wi-Fi router in your house
-3. An AI politely refusing your request
-4. A vending machine that ate your money
-5. Your phone's battery at 2%
-6. A smoke alarm with a low battery
-7. An email that's been left on read
+1. A GPS that gave up
+2. Your home Wi-Fi router
+3. An AI refusing a request
+4. A vending machine
+5. A phone at 2%
+6. A chirping smoke alarm
+7. An email left on read
 8. The last slice of pizza
-9. A password you can't remember
-10. A traffic light in a very small town
-11. An algorithm choosing what you see next
-12. A group chat everyone has muted
+9. A forgotten password
+10. A small-town traffic light
+11. The algorithm
+12. A muted group chat
 13. An office printer
-14. A gym membership nobody uses
+14. An unused gym membership
 15. The comments section
 16. An expiring free trial
-17. A software update that won't stop asking
-18. A shopping cart with one broken wheel
-19. An autocorrect that keeps guessing wrong
-20. A data center full of servers
+17. A nagging software update
+18. A wobbly shopping cart
+19. Autocorrect
+20. A data center
 
 
 ### Humdinger (70)
