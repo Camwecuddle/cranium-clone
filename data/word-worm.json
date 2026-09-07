@@ -1,0 +1,661 @@
+{
+  "deck": "Word Worm",
+  "color": "#F2C230",
+  "tagline": "Spelling, definitions, and wordplay",
+  "activities": [
+    {
+      "name": "Blankout",
+      "howto": "Read the hint and the puzzle out loud, letter blanks and all. Your team has to fill in the missing letters and say the whole answer.",
+      "cards": [
+        {
+          "hint": "App on everyone's phone",
+          "puzzle": "T _ K T _ K",
+          "answer": "TIKTOK"
+        },
+        {
+          "hint": "Blockbuster movie",
+          "puzzle": "B _ R B _ E",
+          "answer": "BARBIE"
+        },
+        {
+          "hint": "Something you tell someone who's too online",
+          "puzzle": "T _ U C H   G R _ S S",
+          "answer": "TOUCH GRASS"
+        },
+        {
+          "hint": "Streaming show",
+          "puzzle": "S T R _ N G _ R   T H _ N G S",
+          "answer": "STRANGER THINGS"
+        },
+        {
+          "hint": "Slang for acting like the star of your own life",
+          "puzzle": "M _ I N   C H _ R _ C T _ R",
+          "answer": "MAIN CHARACTER"
+        },
+        {
+          "hint": "Two words that took over the world",
+          "puzzle": "A R T _ F _ C _ A L   I N T _ L L _ G _ N C E",
+          "answer": "ARTIFICIAL INTELLIGENCE"
+        },
+        {
+          "hint": "Musician with a whisper voice",
+          "puzzle": "B _ L L _ E   E _ L _ S H",
+          "answer": "BILLIE EILISH"
+        },
+        {
+          "hint": "Doing your job and nothing more",
+          "puzzle": "Q U _ E T   Q U _ T T _ N G",
+          "answer": "QUIET QUITTING"
+        },
+        {
+          "hint": "Lockdown-era video game",
+          "puzzle": "A M _ N G   U S",
+          "answer": "AMONG US"
+        },
+        {
+          "hint": "Food trend",
+          "puzzle": "S M _ S H   B _ R G _ R",
+          "answer": "SMASH BURGER"
+        },
+        {
+          "hint": "What you do at 2am with bad news",
+          "puzzle": "D _ O M S C R _ L L _ N G",
+          "answer": "DOOMSCROLLING"
+        },
+        {
+          "hint": "Yearly music stat dump",
+          "puzzle": "S P _ T _ F Y   W R _ P P _ D",
+          "answer": "SPOTIFY WRAPPED"
+        },
+        {
+          "hint": "TV show set in a chaotic kitchen",
+          "puzzle": "T H _   B _ A R",
+          "answer": "THE BEAR"
+        },
+        {
+          "hint": "Famous parents, same career",
+          "puzzle": "N _ P _   B _ B Y",
+          "answer": "NEPO BABY"
+        },
+        {
+          "hint": "Wrist gadget",
+          "puzzle": "S M _ R T   W _ T C H",
+          "answer": "SMART WATCH"
+        },
+        {
+          "hint": "How half of us do our jobs now",
+          "puzzle": "W _ R K   F R _ M   H _ M E",
+          "answer": "WORK FROM HOME"
+        },
+        {
+          "hint": "Puerto Rican superstar",
+          "puzzle": "B _ D   B _ N N Y",
+          "answer": "BAD BUNNY"
+        },
+        {
+          "hint": "Best Picture winner about a laundromat",
+          "puzzle": "E V _ R Y T H _ N G   E V _ R Y W H _ R E   A L L   A T   O N C E",
+          "answer": "EVERYTHING EVERYWHERE ALL AT ONCE"
+        },
+        {
+          "hint": "Your second job",
+          "puzzle": "S _ D E   H _ S T L E",
+          "answer": "SIDE HUSTLE"
+        },
+        {
+          "hint": "App that pings you once a day",
+          "puzzle": "B _ R _ A L",
+          "answer": "BEREAL"
+        },
+        {
+          "hint": "Korean survival series",
+          "puzzle": "S Q _ _ D   G _ M E",
+          "answer": "SQUID GAME"
+        },
+        {
+          "hint": "Making someone doubt their own memory",
+          "puzzle": "G _ S L _ G H T _ N G",
+          "answer": "GASLIGHTING"
+        },
+        {
+          "hint": "Cluttering up city sidewalks",
+          "puzzle": "E L _ C T R _ C   S C _ _ T _ R",
+          "answer": "ELECTRIC SCOOTER"
+        },
+        {
+          "hint": "What every streaming series needs",
+          "puzzle": "P L _ T   T W _ S T",
+          "answer": "PLOT TWIST"
+        },
+        {
+          "hint": "Pop star who sings about coffee",
+          "puzzle": "S _ B R _ N A   C _ R P _ N T _ R",
+          "answer": "SABRINA CARPENTER"
+        },
+        {
+          "hint": "The thing feeding you videos",
+          "puzzle": "T H _   A L G _ R _ T H M",
+          "answer": "THE ALGORITHM"
+        },
+        {
+          "hint": "Weight-loss drug in every headline",
+          "puzzle": "O Z _ M P _ C",
+          "answer": "OZEMPIC"
+        },
+        {
+          "hint": "Anime-styled hit movie about a demon",
+          "puzzle": "D _ M _ N   S L _ Y _ R",
+          "answer": "DEMON SLAYER"
+        },
+        {
+          "hint": "Grocery run without a cashier",
+          "puzzle": "S _ L F   C H _ C K _ U T",
+          "answer": "SELF CHECKOUT"
+        },
+        {
+          "hint": "Where the group chat lives",
+          "puzzle": "D _ S C _ R D",
+          "answer": "DISCORD"
+        }
+      ]
+    },
+    {
+      "name": "Gnilleps",
+      "howto": "Spell the word BACKWARDS out loud. No writing it down first, no peeking.",
+      "cards": [
+        {
+          "word": "PODCAST",
+          "backwards": "T-S-A-C-D-O-P"
+        },
+        {
+          "word": "INFLUENCER",
+          "backwards": "R-E-C-N-E-U-L-F-N-I"
+        },
+        {
+          "word": "STREAMING",
+          "backwards": "G-N-I-M-A-E-R-T-S"
+        },
+        {
+          "word": "HASHTAG",
+          "backwards": "G-A-T-H-S-A-H"
+        },
+        {
+          "word": "EMOJI",
+          "backwards": "I-J-O-M-E"
+        },
+        {
+          "word": "WORDLE",
+          "backwards": "E-L-D-R-O-W"
+        },
+        {
+          "word": "SELFIE",
+          "backwards": "E-I-F-L-E-S"
+        },
+        {
+          "word": "ALGORITHM",
+          "backwards": "M-H-T-I-R-O-G-L-A"
+        },
+        {
+          "word": "UNBOXING",
+          "backwards": "G-N-I-X-O-B-N-U"
+        },
+        {
+          "word": "CHATBOT",
+          "backwards": "T-O-B-T-A-H-C"
+        },
+        {
+          "word": "FOLLOWERS",
+          "backwards": "S-R-E-W-O-L-L-O-F"
+        },
+        {
+          "word": "SUBSCRIBE",
+          "backwards": "E-B-I-R-C-S-B-U-S"
+        },
+        {
+          "word": "PLAYLIST",
+          "backwards": "T-S-I-L-Y-A-L-P"
+        },
+        {
+          "word": "AIRPODS",
+          "backwards": "S-D-O-P-R-I-A"
+        },
+        {
+          "word": "CRYPTO",
+          "backwards": "O-T-P-Y-R-C"
+        },
+        {
+          "word": "VLOGGER",
+          "backwards": "R-E-G-G-O-L-V"
+        },
+        {
+          "word": "SPOILER",
+          "backwards": "R-E-L-I-O-P-S"
+        },
+        {
+          "word": "BINGE",
+          "backwards": "E-G-N-I-B"
+        },
+        {
+          "word": "FILTER",
+          "backwards": "R-E-T-L-I-F"
+        },
+        {
+          "word": "UPLOAD",
+          "backwards": "D-A-O-L-P-U"
+        },
+        {
+          "word": "TRENDING",
+          "backwards": "G-N-I-D-N-E-R-T"
+        },
+        {
+          "word": "AVATAR",
+          "backwards": "R-A-T-A-V-A"
+        },
+        {
+          "word": "RIZZ",
+          "backwards": "Z-Z-I-R"
+        },
+        {
+          "word": "PIXELATED",
+          "backwards": "D-E-T-A-L-E-X-I-P"
+        },
+        {
+          "word": "BANDWIDTH",
+          "backwards": "H-T-D-I-W-D-N-A-B"
+        },
+        {
+          "word": "THUMBNAIL",
+          "backwards": "L-I-A-N-B-M-U-H-T"
+        },
+        {
+          "word": "GLITCH",
+          "backwards": "H-C-T-I-L-G"
+        },
+        {
+          "word": "SCOOTER",
+          "backwards": "R-E-T-O-O-C-S"
+        },
+        {
+          "word": "AIRDROP",
+          "backwards": "P-O-R-D-R-I-A"
+        },
+        {
+          "word": "MULTIVERSE",
+          "backwards": "E-S-R-E-V-I-T-L-U-M"
+        }
+      ]
+    },
+    {
+      "name": "Lexicon",
+      "howto": "Read the word and all three definitions out loud. Your team picks the right one.",
+      "cards": [
+        {
+          "word": "RIZZ",
+          "options": [
+            "A charred crust on grilled meat",
+            "Charm or skill at flirting",
+            "A glitch that freezes a video game"
+          ],
+          "answer": 1
+        },
+        {
+          "word": "DELULU",
+          "options": [
+            "Delusional, usually in an upbeat way",
+            "A slowed-down remix of a lullaby",
+            "A very small ukulele"
+          ],
+          "answer": 0
+        },
+        {
+          "word": "SITUATIONSHIP",
+          "options": [
+            "An open-plan office layout",
+            "A romantic thing nobody will define",
+            "A group project with no leader"
+          ],
+          "answer": 1
+        },
+        {
+          "word": "ENSHITTIFICATION",
+          "options": [
+            "Industrial composting",
+            "A grungy photo filter",
+            "The slow decline of an online platform"
+          ],
+          "answer": 2
+        },
+        {
+          "word": "CHEUGY",
+          "options": [
+            "Out of date or trying too hard",
+            "Expensive but worth it",
+            "Pleasantly chewy"
+          ],
+          "answer": 0
+        },
+        {
+          "word": "BUSSIN'",
+          "options": [
+            "Commuting by public transit",
+            "Really, really good — usually food",
+            "Breaking under pressure"
+          ],
+          "answer": 1
+        },
+        {
+          "word": "NPC",
+          "options": [
+            "A nonprofit corporation",
+            "Someone going through life on autopilot",
+            "A phone charging standard"
+          ],
+          "answer": 1
+        },
+        {
+          "word": "GATEKEEPING",
+          "options": [
+            "Airport security screening",
+            "Hoarding information so others can't join in",
+            "Closing out a bar tab"
+          ],
+          "answer": 1
+        },
+        {
+          "word": "SKIBIDI",
+          "options": [
+            "A nonsense word from a viral video series",
+            "A Japanese noodle dish",
+            "A folding electric scooter"
+          ],
+          "answer": 0
+        },
+        {
+          "word": "QUIET QUITTING",
+          "options": [
+            "Resigning by email over a weekend",
+            "Doing your job description and nothing extra",
+            "Muting yourself on a conference call"
+          ],
+          "answer": 1
+        },
+        {
+          "word": "NEPO BABY",
+          "options": [
+            "A brand-new employee",
+            "The child of famous parents in the same industry",
+            "An influencer under the age of two"
+          ],
+          "answer": 1
+        },
+        {
+          "word": "GLOW-UP",
+          "options": [
+            "A dramatic improvement in looks or style",
+            "A sunrise photo trend",
+            "Neon stage lighting"
+          ],
+          "answer": 0
+        },
+        {
+          "word": "RATIO'D",
+          "options": [
+            "When a reply gets more likes than the original post",
+            "Split evenly between two people",
+            "Compressed to a smaller file size"
+          ],
+          "answer": 0
+        },
+        {
+          "word": "RAGE BAIT",
+          "options": [
+            "A lure used in deep-sea fishing",
+            "Content designed to make you angry enough to engage",
+            "A horror game jump scare"
+          ],
+          "answer": 1
+        },
+        {
+          "word": "MID",
+          "options": [
+            "Middle-aged",
+            "Right around midnight",
+            "Thoroughly mediocre"
+          ],
+          "answer": 2
+        },
+        {
+          "word": "THE ICK",
+          "options": [
+            "A sudden, total turn-off toward someone you liked",
+            "A stain that won't come out",
+            "A 24-hour stomach bug"
+          ],
+          "answer": 0
+        },
+        {
+          "word": "GIRL DINNER",
+          "options": [
+            "A plate of random snacks eaten as a meal",
+            "A formal dinner party with a seating chart",
+            "A cooking competition show"
+          ],
+          "answer": 0
+        },
+        {
+          "word": "SIMP",
+          "options": [
+            "A one-pot recipe",
+            "Someone way too devoted to a crush",
+            "A computer simulation"
+          ],
+          "answer": 1
+        },
+        {
+          "word": "PROMPT ENGINEERING",
+          "options": [
+            "Writing instructions that get good answers out of an AI",
+            "Fixing a jammed printer",
+            "Cueing actors from offstage"
+          ],
+          "answer": 0
+        },
+        {
+          "word": "GHOSTING",
+          "options": [
+            "Cutting off all contact with zero explanation",
+            "Overdoing Halloween decorations",
+            "Removing someone from a photo"
+          ],
+          "answer": 0
+        },
+        {
+          "word": "VIBE CHECK",
+          "options": [
+            "A soundcheck before a concert",
+            "A quick read on the mood of a room",
+            "A polygraph test"
+          ],
+          "answer": 1
+        },
+        {
+          "word": "HALLUCINATION (AI)",
+          "options": [
+            "A screen flickering on an old monitor",
+            "Motion sickness from a VR headset",
+            "An AI stating something false with total confidence"
+          ],
+          "answer": 2
+        },
+        {
+          "word": "BEIGE FLAG",
+          "options": [
+            "A harmless, weirdly specific quirk in a partner",
+            "A serious warning sign to leave",
+            "A signal of surrender"
+          ],
+          "answer": 0
+        },
+        {
+          "word": "DOOMSCROLLING",
+          "options": [
+            "Fast-forwarding through a boring show",
+            "Endlessly scrolling through bad news",
+            "Deleting apps in a panic"
+          ],
+          "answer": 1
+        },
+        {
+          "word": "SHRINKFLATION",
+          "options": [
+            "A smaller product for the same price",
+            "Deflation in a small economy",
+            "Clothes that shrink in the dryer"
+          ],
+          "answer": 0
+        },
+        {
+          "word": "TOUCH GRASS",
+          "options": [
+            "Go outside and log off",
+            "Start a lawn care routine",
+            "Take up golf"
+          ],
+          "answer": 0
+        },
+        {
+          "word": "LORE",
+          "options": [
+            "The backstory behind a person, meme, or franchise",
+            "A legal loophole",
+            "A low-resolution image"
+          ],
+          "answer": 0
+        },
+        {
+          "word": "SIDE QUEST",
+          "options": [
+            "A detour or unplanned adventure",
+            "A backup career",
+            "A second helping"
+          ],
+          "answer": 0
+        },
+        {
+          "word": "GYATT",
+          "options": [
+            "An exclamation of surprise, usually at someone attractive",
+            "A German pastry",
+            "A type of pickup truck"
+          ],
+          "answer": 0
+        },
+        {
+          "word": "MAIN CHARACTER ENERGY",
+          "options": [
+            "Acting like you're the star of your own movie",
+            "Caffeine before a performance",
+            "Being cast in a lead role"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Spellbound",
+      "howto": "Spell the word out loud, forwards. One shot, no do-overs.",
+      "cards": [
+        {
+          "word": "CRYPTOCURRENCY"
+        },
+        {
+          "word": "ENTREPRENEURSHIP"
+        },
+        {
+          "word": "CHARCUTERIE"
+        },
+        {
+          "word": "ALGORITHMIC"
+        },
+        {
+          "word": "QUARANTINE"
+        },
+        {
+          "word": "AESTHETIC"
+        },
+        {
+          "word": "BOUGIE"
+        },
+        {
+          "word": "MILLENNIAL"
+        },
+        {
+          "word": "SOURDOUGH"
+        },
+        {
+          "word": "SUSTAINABILITY"
+        },
+        {
+          "word": "AUTONOMOUS"
+        },
+        {
+          "word": "SUBSCRIPTION"
+        },
+        {
+          "word": "CONNOISSEUR"
+        },
+        {
+          "word": "BUREAUCRACY"
+        },
+        {
+          "word": "MICROPLASTIC"
+        },
+        {
+          "word": "RENAISSANCE"
+        },
+        {
+          "word": "ESPRESSO"
+        },
+        {
+          "word": "GUACAMOLE"
+        },
+        {
+          "word": "PLAGIARISM"
+        },
+        {
+          "word": "NEURODIVERGENT"
+        },
+        {
+          "word": "PHENOMENON"
+        },
+        {
+          "word": "RHYTHM"
+        },
+        {
+          "word": "LABYRINTH"
+        },
+        {
+          "word": "SILHOUETTE"
+        },
+        {
+          "word": "PARAPHERNALIA"
+        },
+        {
+          "word": "CAMOUFLAGE"
+        },
+        {
+          "word": "MISCHIEVOUS"
+        },
+        {
+          "word": "ONOMATOPOEIA"
+        },
+        {
+          "word": "ACQUIESCE"
+        },
+        {
+          "word": "CONSCIENTIOUS"
+        }
+      ]
+    }
+  ]
+}

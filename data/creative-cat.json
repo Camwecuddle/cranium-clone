@@ -1,0 +1,295 @@
+{
+  "deck": "Creative Cat",
+  "color": "#E14B5A",
+  "tagline": "Draw it, sculpt it, no words allowed",
+  "activities": [
+    {
+      "name": "Cloodle",
+      "howto": "Draw it with your eyes OPEN. No letters, no numbers, no talking, no gestures.",
+      "cards": [
+        {
+          "clue": "Wireless earbuds"
+        },
+        {
+          "clue": "A ring light"
+        },
+        {
+          "clue": "Someone taking a selfie with a selfie stick"
+        },
+        {
+          "clue": "An electric scooter abandoned on a sidewalk"
+        },
+        {
+          "clue": "A food delivery bag on the back of a bike"
+        },
+        {
+          "clue": "A robot vacuum"
+        },
+        {
+          "clue": "A smartwatch closing its exercise rings"
+        },
+        {
+          "clue": "A drone delivering a package"
+        },
+        {
+          "clue": "A QR code menu on a restaurant table"
+        },
+        {
+          "clue": "A hopelessly tangled charging cable"
+        },
+        {
+          "clue": "A video call in a dress shirt and pajama pants"
+        },
+        {
+          "clue": "An air fryer"
+        },
+        {
+          "clue": "A gaming setup with RGB lights everywhere"
+        },
+        {
+          "clue": "A grid of faces on a group video call"
+        },
+        {
+          "clue": "A phone with a spiderwebbed cracked screen"
+        },
+        {
+          "clue": "Noise-cancelling headphones on a crowded plane"
+        },
+        {
+          "clue": "A self-checkout machine"
+        },
+        {
+          "clue": "Someone doomscrolling in bed at 3am"
+        },
+        {
+          "clue": "A charcuterie board"
+        },
+        {
+          "clue": "An EV charging station"
+        },
+        {
+          "clue": "A standing desk with a treadmill under it"
+        },
+        {
+          "clue": "A cat walking across a laptop mid-meeting"
+        },
+        {
+          "clue": "A subscription box on a doorstep"
+        },
+        {
+          "clue": "Someone in a VR headset about to hit the coffee table"
+        },
+        {
+          "clue": "A stadium full of phone flashlights at a concert"
+        },
+        {
+          "clue": "A dog in a stroller"
+        },
+        {
+          "clue": "A barista drawing latte art"
+        },
+        {
+          "clue": "A pickleball court"
+        },
+        {
+          "clue": "A smart doorbell catching a package thief"
+        },
+        {
+          "clue": "Someone livestreaming a haircut gone wrong"
+        }
+      ]
+    },
+    {
+      "name": "Sensosketch",
+      "howto": "Draw it with your eyes CLOSED. Keep it simple — you can't see what you're doing.",
+      "cards": [
+        {
+          "clue": "A Wi-Fi symbol"
+        },
+        {
+          "clue": "A smartphone"
+        },
+        {
+          "clue": "A slice of pizza"
+        },
+        {
+          "clue": "A heart"
+        },
+        {
+          "clue": "A shopping cart"
+        },
+        {
+          "clue": "A rocket ship"
+        },
+        {
+          "clue": "A coffee cup with a lid"
+        },
+        {
+          "clue": "A pair of earbuds"
+        },
+        {
+          "clue": "A thumbs up"
+        },
+        {
+          "clue": "A house with a satellite dish"
+        },
+        {
+          "clue": "A hashtag"
+        },
+        {
+          "clue": "A traffic cone"
+        },
+        {
+          "clue": "A dog wearing sunglasses"
+        },
+        {
+          "clue": "A hamburger"
+        },
+        {
+          "clue": "A skateboard"
+        },
+        {
+          "clue": "A battery charging symbol"
+        },
+        {
+          "clue": "A tent under the stars"
+        },
+        {
+          "clue": "A ghost"
+        },
+        {
+          "clue": "A treadmill"
+        },
+        {
+          "clue": "A pineapple"
+        },
+        {
+          "clue": "A paper airplane"
+        },
+        {
+          "clue": "A robot head"
+        },
+        {
+          "clue": "A cactus in a pot"
+        },
+        {
+          "clue": "A hot air balloon"
+        },
+        {
+          "clue": "An avocado cut in half"
+        },
+        {
+          "clue": "A shopping bag with handles"
+        },
+        {
+          "clue": "A soccer ball"
+        },
+        {
+          "clue": "A light bulb"
+        },
+        {
+          "clue": "A snowman wearing headphones"
+        },
+        {
+          "clue": "A taco"
+        }
+      ]
+    },
+    {
+      "name": "Sculptorades",
+      "howto": "Sculpt it out of clay. No letters, no numbers, no sound effects, no charades.",
+      "cards": [
+        {
+          "clue": "A game controller"
+        },
+        {
+          "clue": "A boba tea with a fat straw"
+        },
+        {
+          "clue": "A ring light on a tripod"
+        },
+        {
+          "clue": "A smart speaker"
+        },
+        {
+          "clue": "A face mask"
+        },
+        {
+          "clue": "A phone charging brick"
+        },
+        {
+          "clue": "A robot dog"
+        },
+        {
+          "clue": "Avocado toast"
+        },
+        {
+          "clue": "A drone"
+        },
+        {
+          "clue": "A skateboard"
+        },
+        {
+          "clue": "A cell tower"
+        },
+        {
+          "clue": "A robot vacuum stuck on a rug"
+        },
+        {
+          "clue": "A podcast microphone"
+        },
+        {
+          "clue": "A Croc with charms in it"
+        },
+        {
+          "clue": "A sourdough loaf"
+        },
+        {
+          "clue": "An electric car plugged in"
+        },
+        {
+          "clue": "A selfie stick"
+        },
+        {
+          "clue": "A rubber duck wearing headphones"
+        },
+        {
+          "clue": "A satellite"
+        },
+        {
+          "clue": "A taco truck"
+        },
+        {
+          "clue": "A water bottle covered in stickers"
+        },
+        {
+          "clue": "A protein shaker and a dumbbell"
+        },
+        {
+          "clue": "A VR headset"
+        },
+        {
+          "clue": "A shopping cart full of groceries"
+        },
+        {
+          "clue": "A hoverboard"
+        },
+        {
+          "clue": "A pickleball paddle and ball"
+        },
+        {
+          "clue": "A hospital IV drip"
+        },
+        {
+          "clue": "A three-tier wedding cake"
+        },
+        {
+          "clue": "A laptop with a cracked screen"
+        },
+        {
+          "clue": "A hamster in an exercise ball"
+        }
+      ]
+    }
+  ]
+}

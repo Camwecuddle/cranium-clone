@@ -1,0 +1,391 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>:root{color-scheme:light dark}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
+</head>
+<body>
+<title>Cranium 2026</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Instrument+Sans:wght@400;500;600&family=DM+Mono:wght@400;500&display=swap">
+<style>
+:root{
+  --ground:#F1EEF6; --surface:#FFFFFF; --surface-2:#E8E3F0;
+  --ink:#221B2E; --ink-muted:#6B6379; --hairline:#D6CFE1;
+  --on-deck:#FFFFFF;
+  --shadow:0 1px 2px rgba(34,27,46,.06), 0 14px 30px -14px rgba(34,27,46,.30);
+  --shadow-lift:0 2px 5px rgba(34,27,46,.09), 0 28px 50px -18px rgba(34,27,46,.36);
+  --worm:#A87505; --worm-wash:#FAEFD1;
+  --cat:#C93A4C;  --cat-wash:#FBE1E4;
+  --data:#2A5CBE; --data-wash:#DDE6FB;
+  --star:#2A8039; --star-wash:#DCEFE0;
+  --display:"Bricolage Grotesque","Trebuchet MS",sans-serif;
+  --body:"Instrument Sans",-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+  --mono:"DM Mono",ui-monospace,"SF Mono",Menlo,monospace;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --ground:#16121F; --surface:#221B2E; --surface-2:#2E2640;
+    --ink:#F0EBF7; --ink-muted:#A198B2; --hairline:#3C3350;
+    --on-deck:#16121F;
+    --shadow:0 1px 2px rgba(0,0,0,.45), 0 14px 30px -14px rgba(0,0,0,.65);
+    --shadow-lift:0 2px 5px rgba(0,0,0,.5), 0 28px 50px -18px rgba(0,0,0,.75);
+    --worm:#EFC352; --worm-wash:#3B2F11;
+    --cat:#F27484;  --cat-wash:#3E1C22;
+    --data:#83A8F5; --data-wash:#1C2946;
+    --star:#6FCA7E; --star-wash:#173220;
+  }
+}
+:root[data-theme="dark"]{
+  --ground:#16121F; --surface:#221B2E; --surface-2:#2E2640;
+  --ink:#F0EBF7; --ink-muted:#A198B2; --hairline:#3C3350;
+  --on-deck:#16121F;
+  --shadow:0 1px 2px rgba(0,0,0,.45), 0 14px 30px -14px rgba(0,0,0,.65);
+  --shadow-lift:0 2px 5px rgba(0,0,0,.5), 0 28px 50px -18px rgba(0,0,0,.75);
+  --worm:#EFC352; --worm-wash:#3B2F11;
+  --cat:#F27484;  --cat-wash:#3E1C22;
+  --data:#83A8F5; --data-wash:#1C2946;
+  --star:#6FCA7E; --star-wash:#173220;
+}
+
+*{box-sizing:border-box}
+body{
+  background:var(--ground); color:var(--ink);
+  font-family:var(--body); font-size:16px; line-height:1.5;
+  -webkit-font-smoothing:antialiased;
+}
+.wrap{max-width:940px; margin:0 auto; padding:28px 20px 64px; display:flex; flex-direction:column; gap:22px}
+
+/* ---- masthead ---- */
+.masthead{display:flex; align-items:baseline; justify-content:space-between; gap:16px; flex-wrap:wrap}
+.wordmark{font-family:var(--display); font-weight:800; font-size:clamp(28px,5vw,40px); letter-spacing:-.02em; margin:0; line-height:1}
+.wordmark span{
+  background:linear-gradient(90deg,var(--worm) 0 25%,var(--cat) 25% 50%,var(--data) 50% 75%,var(--star) 75% 100%);
+  -webkit-background-clip:text; background-clip:text; color:transparent;
+}
+.masthead p{margin:0; color:var(--ink-muted); font-size:14px; max-width:44ch}
+
+/* ---- deck + activity pickers ---- */
+.picker{display:flex; flex-direction:column; gap:10px}
+.picker-label{
+  font-size:11px; letter-spacing:.13em; text-transform:uppercase;
+  color:var(--ink-muted); font-weight:600;
+}
+.decks{display:grid; grid-template-columns:repeat(4,1fr); gap:8px}
+@media (max-width:560px){ .decks{grid-template-columns:repeat(2,1fr)} }
+.deck-btn{
+  font-family:var(--display); font-weight:600; font-size:15px;
+  border:1.5px solid var(--hairline); background:var(--surface); color:var(--ink);
+  border-radius:10px; padding:11px 10px; cursor:pointer; text-align:left;
+  display:flex; align-items:center; gap:9px; transition:border-color .15s, background .15s;
+}
+.deck-btn .pip{width:11px; height:11px; border-radius:50%; background:var(--deck); flex:none}
+.deck-btn:hover{border-color:var(--deck)}
+.deck-btn[aria-pressed="true"]{background:var(--deck); border-color:var(--deck); color:var(--on-deck)}
+.deck-btn[aria-pressed="true"] .pip{background:var(--on-deck)}
+
+.acts{display:flex; flex-wrap:wrap; gap:7px}
+.act-btn{
+  font-family:var(--body); font-weight:500; font-size:13.5px;
+  border:1.5px solid var(--hairline); background:transparent; color:var(--ink-muted);
+  border-radius:999px; padding:6px 14px; cursor:pointer; transition:all .15s;
+}
+.act-btn:hover{color:var(--ink); border-color:var(--deck)}
+.act-btn[aria-pressed="true"]{background:var(--deck-wash); border-color:var(--deck); color:var(--deck); font-weight:600}
+
+button:focus-visible, a:focus-visible{outline:2.5px solid var(--deck); outline-offset:2px}
+
+/* ---- the card ---- */
+.card{
+  background:var(--surface); border-radius:16px; box-shadow:var(--shadow-lift);
+  overflow:hidden; display:flex; flex-direction:column; min-height:296px;
+}
+.card.dealing{animation:deal .34s cubic-bezier(.2,.75,.3,1)}
+@keyframes deal{from{transform:translateY(14px) rotate(-.7deg); opacity:0} to{transform:none; opacity:1}}
+@media (prefers-reduced-motion:reduce){ .card.dealing{animation:none} }
+
+.card-band{
+  background:var(--deck); color:var(--on-deck);
+  padding:11px 22px; display:flex; align-items:center; justify-content:space-between; gap:14px;
+}
+.card-band .act{font-family:var(--display); font-weight:800; font-size:19px; letter-spacing:-.01em}
+.card-band .of{font-size:12px; font-variant-numeric:tabular-nums; opacity:.85; font-weight:500}
+.card-howto{
+  padding:12px 22px; background:var(--deck-wash); color:var(--ink);
+  font-size:13px; line-height:1.45; border-bottom:1px solid var(--hairline);
+}
+.card-body{padding:26px 22px; display:flex; flex-direction:column; gap:16px; flex:1; justify-content:center}
+
+.eyebrow{
+  font-size:11px; letter-spacing:.13em; text-transform:uppercase;
+  color:var(--deck); font-weight:600;
+}
+.clue{
+  font-family:var(--display); font-weight:600; letter-spacing:-.015em;
+  font-size:clamp(24px,4.2vw,36px); line-height:1.18; margin:0; text-wrap:balance;
+}
+.clue.small{font-size:clamp(20px,3vw,27px)}
+.puzzle{
+  font-family:var(--mono); font-weight:500; font-size:clamp(19px,3.4vw,29px);
+  line-height:1.5; word-break:break-word;
+}
+.sub{color:var(--ink-muted); font-size:15px; margin:0}
+
+.options{list-style:none; margin:0; padding:0; display:flex; flex-direction:column; gap:8px}
+.options li{
+  display:flex; gap:11px; align-items:flex-start;
+  border:1.5px solid var(--hairline); border-radius:9px; padding:10px 13px;
+  font-size:15.5px; line-height:1.35;
+}
+.options li .ltr{font-family:var(--mono); font-weight:500; color:var(--ink-muted); flex:none}
+.options li.right{border-color:var(--deck); background:var(--deck-wash)}
+.options li.right .ltr{color:var(--deck)}
+
+.answer{
+  border-top:1px dashed var(--hairline); padding:16px 22px 20px;
+  display:flex; flex-direction:column; gap:5px;
+}
+.answer .eyebrow{color:var(--ink-muted)}
+.answer .val{
+  font-family:var(--display); font-weight:800; font-size:clamp(20px,3.4vw,28px);
+  color:var(--deck); letter-spacing:-.01em; line-height:1.2;
+}
+.answer .val.mono{font-family:var(--mono); font-weight:500; font-size:clamp(17px,2.6vw,22px); letter-spacing:.04em}
+.answer .note{color:var(--ink-muted); font-size:14px}
+
+/* ---- controls ---- */
+.controls{display:flex; gap:9px; align-items:center; flex-wrap:wrap}
+.btn{
+  font-family:var(--body); font-size:14.5px; font-weight:600;
+  border-radius:10px; padding:11px 18px; cursor:pointer; border:1.5px solid transparent;
+  transition:filter .15s, background .15s;
+}
+.btn-primary{background:var(--deck); color:var(--on-deck)}
+.btn-primary:hover{filter:brightness(1.08)}
+.btn-ghost{background:var(--surface); border-color:var(--hairline); color:var(--ink)}
+.btn-ghost:hover{border-color:var(--deck)}
+.timer{
+  margin-left:auto; display:flex; align-items:center; gap:9px;
+  background:var(--surface); border:1.5px solid var(--hairline); border-radius:10px; padding:7px 9px 7px 14px;
+}
+.timer .t{font-family:var(--mono); font-variant-numeric:tabular-nums; font-size:19px; font-weight:500; min-width:52px}
+.timer.low .t{color:var(--cat)}
+.timer .btn{padding:6px 12px; font-size:13px}
+.hint{color:var(--ink-muted); font-size:12.5px; margin:0}
+.hint kbd{
+  font-family:var(--mono); font-size:11.5px; background:var(--surface-2);
+  border-radius:4px; padding:1.5px 5px; border:1px solid var(--hairline);
+}
+footer{color:var(--ink-muted); font-size:13px; border-top:1px solid var(--hairline); padding-top:16px; line-height:1.6}
+footer b{color:var(--ink); font-weight:600}
+</style>
+
+<div class="wrap">
+  <header class="masthead">
+    <h1 class="wordmark"><span>Cranium 2026</span></h1>
+    <p>Draw a real Cranium card, read off its category, then play one of these instead. Same rules, references from this century.</p>
+  </header>
+
+  <div class="picker">
+    <div class="picker-label">Deck</div>
+    <div class="decks" id="decks"></div>
+  </div>
+
+  <div class="picker">
+    <div class="picker-label">Card type</div>
+    <div class="acts" id="acts"></div>
+  </div>
+
+  <article class="card" id="card"></article>
+
+  <div class="controls">
+    <button class="btn btn-primary" id="next">Next card</button>
+    <button class="btn btn-ghost" id="reveal">Show answer</button>
+    <div class="timer" id="timer">
+      <span class="t" id="tval">1:00</span>
+      <button class="btn btn-ghost" id="tbtn">Start</button>
+    </div>
+  </div>
+  <p class="hint"><kbd>N</kbd> next card · <kbd>A</kbd> show answer · <kbd>T</kbd> timer</p>
+
+  <footer id="foot"></footer>
+</div>
+
+<script type="application/json" id="deckdata">[{"deck": "Word Worm", "color": "#F2C230", "tagline": "Spelling, definitions, and wordplay", "activities": [{"name": "Blankout", "howto": "Read the hint and the puzzle out loud, letter blanks and all. Your team has to fill in the missing letters and say the whole answer.", "cards": [{"hint": "App on everyone's phone", "puzzle": "T _ K T _ K", "answer": "TIKTOK"}, {"hint": "Blockbuster movie", "puzzle": "B _ R B _ E", "answer": "BARBIE"}, {"hint": "Something you tell someone who's too online", "puzzle": "T _ U C H   G R _ S S", "answer": "TOUCH GRASS"}, {"hint": "Streaming show", "puzzle": "S T R _ N G _ R   T H _ N G S", "answer": "STRANGER THINGS"}, {"hint": "Slang for acting like the star of your own life", "puzzle": "M _ I N   C H _ R _ C T _ R", "answer": "MAIN CHARACTER"}, {"hint": "Two words that took over the world", "puzzle": "A R T _ F _ C _ A L   I N T _ L L _ G _ N C E", "answer": "ARTIFICIAL INTELLIGENCE"}, {"hint": "Musician with a whisper voice", "puzzle": "B _ L L _ E   E _ L _ S H", "answer": "BILLIE EILISH"}, {"hint": "Doing your job and nothing more", "puzzle": "Q U _ E T   Q U _ T T _ N G", "answer": "QUIET QUITTING"}, {"hint": "Lockdown-era video game", "puzzle": "A M _ N G   U S", "answer": "AMONG US"}, {"hint": "Food trend", "puzzle": "S M _ S H   B _ R G _ R", "answer": "SMASH BURGER"}, {"hint": "What you do at 2am with bad news", "puzzle": "D _ O M S C R _ L L _ N G", "answer": "DOOMSCROLLING"}, {"hint": "Yearly music stat dump", "puzzle": "S P _ T _ F Y   W R _ P P _ D", "answer": "SPOTIFY WRAPPED"}, {"hint": "TV show set in a chaotic kitchen", "puzzle": "T H _   B _ A R", "answer": "THE BEAR"}, {"hint": "Famous parents, same career", "puzzle": "N _ P _   B _ B Y", "answer": "NEPO BABY"}, {"hint": "Wrist gadget", "puzzle": "S M _ R T   W _ T C H", "answer": "SMART WATCH"}, {"hint": "How half of us do our jobs now", "puzzle": "W _ R K   F R _ M   H _ M E", "answer": "WORK FROM HOME"}, {"hint": "Puerto Rican superstar", "puzzle": "B _ D   B _ N N Y", "answer": "BAD BUNNY"}, {"hint": "Best Picture winner about a laundromat", "puzzle": "E V _ R Y T H _ N G   E V _ R Y W H _ R E   A L L   A T   O N C E", "answer": "EVERYTHING EVERYWHERE ALL AT ONCE"}, {"hint": "Your second job", "puzzle": "S _ D E   H _ S T L E", "answer": "SIDE HUSTLE"}, {"hint": "App that pings you once a day", "puzzle": "B _ R _ A L", "answer": "BEREAL"}, {"hint": "Korean survival series", "puzzle": "S Q _ _ D   G _ M E", "answer": "SQUID GAME"}, {"hint": "Making someone doubt their own memory", "puzzle": "G _ S L _ G H T _ N G", "answer": "GASLIGHTING"}, {"hint": "Cluttering up city sidewalks", "puzzle": "E L _ C T R _ C   S C _ _ T _ R", "answer": "ELECTRIC SCOOTER"}, {"hint": "What every streaming series needs", "puzzle": "P L _ T   T W _ S T", "answer": "PLOT TWIST"}, {"hint": "Pop star who sings about coffee", "puzzle": "S _ B R _ N A   C _ R P _ N T _ R", "answer": "SABRINA CARPENTER"}, {"hint": "The thing feeding you videos", "puzzle": "T H _   A L G _ R _ T H M", "answer": "THE ALGORITHM"}, {"hint": "Weight-loss drug in every headline", "puzzle": "O Z _ M P _ C", "answer": "OZEMPIC"}, {"hint": "Anime-styled hit movie about a demon", "puzzle": "D _ M _ N   S L _ Y _ R", "answer": "DEMON SLAYER"}, {"hint": "Grocery run without a cashier", "puzzle": "S _ L F   C H _ C K _ U T", "answer": "SELF CHECKOUT"}, {"hint": "Where the group chat lives", "puzzle": "D _ S C _ R D", "answer": "DISCORD"}]}, {"name": "Gnilleps", "howto": "Spell the word BACKWARDS out loud. No writing it down first, no peeking.", "cards": [{"word": "PODCAST", "backwards": "T-S-A-C-D-O-P"}, {"word": "INFLUENCER", "backwards": "R-E-C-N-E-U-L-F-N-I"}, {"word": "STREAMING", "backwards": "G-N-I-M-A-E-R-T-S"}, {"word": "HASHTAG", "backwards": "G-A-T-H-S-A-H"}, {"word": "EMOJI", "backwards": "I-J-O-M-E"}, {"word": "WORDLE", "backwards": "E-L-D-R-O-W"}, {"word": "SELFIE", "backwards": "E-I-F-L-E-S"}, {"word": "ALGORITHM", "backwards": "M-H-T-I-R-O-G-L-A"}, {"word": "UNBOXING", "backwards": "G-N-I-X-O-B-N-U"}, {"word": "CHATBOT", "backwards": "T-O-B-T-A-H-C"}, {"word": "FOLLOWERS", "backwards": "S-R-E-W-O-L-L-O-F"}, {"word": "SUBSCRIBE", "backwards": "E-B-I-R-C-S-B-U-S"}, {"word": "PLAYLIST", "backwards": "T-S-I-L-Y-A-L-P"}, {"word": "AIRPODS", "backwards": "S-D-O-P-R-I-A"}, {"word": "CRYPTO", "backwards": "O-T-P-Y-R-C"}, {"word": "VLOGGER", "backwards": "R-E-G-G-O-L-V"}, {"word": "SPOILER", "backwards": "R-E-L-I-O-P-S"}, {"word": "BINGE", "backwards": "E-G-N-I-B"}, {"word": "FILTER", "backwards": "R-E-T-L-I-F"}, {"word": "UPLOAD", "backwards": "D-A-O-L-P-U"}, {"word": "TRENDING", "backwards": "G-N-I-D-N-E-R-T"}, {"word": "AVATAR", "backwards": "R-A-T-A-V-A"}, {"word": "RIZZ", "backwards": "Z-Z-I-R"}, {"word": "PIXELATED", "backwards": "D-E-T-A-L-E-X-I-P"}, {"word": "BANDWIDTH", "backwards": "H-T-D-I-W-D-N-A-B"}, {"word": "THUMBNAIL", "backwards": "L-I-A-N-B-M-U-H-T"}, {"word": "GLITCH", "backwards": "H-C-T-I-L-G"}, {"word": "SCOOTER", "backwards": "R-E-T-O-O-C-S"}, {"word": "AIRDROP", "backwards": "P-O-R-D-R-I-A"}, {"word": "MULTIVERSE", "backwards": "E-S-R-E-V-I-T-L-U-M"}]}, {"name": "Lexicon", "howto": "Read the word and all three definitions out loud. Your team picks the right one.", "cards": [{"word": "RIZZ", "options": ["A charred crust on grilled meat", "Charm or skill at flirting", "A glitch that freezes a video game"], "answer": 1}, {"word": "DELULU", "options": ["Delusional, usually in an upbeat way", "A slowed-down remix of a lullaby", "A very small ukulele"], "answer": 0}, {"word": "SITUATIONSHIP", "options": ["An open-plan office layout", "A romantic thing nobody will define", "A group project with no leader"], "answer": 1}, {"word": "ENSHITTIFICATION", "options": ["Industrial composting", "A grungy photo filter", "The slow decline of an online platform"], "answer": 2}, {"word": "CHEUGY", "options": ["Out of date or trying too hard", "Expensive but worth it", "Pleasantly chewy"], "answer": 0}, {"word": "BUSSIN'", "options": ["Commuting by public transit", "Really, really good — usually food", "Breaking under pressure"], "answer": 1}, {"word": "NPC", "options": ["A nonprofit corporation", "Someone going through life on autopilot", "A phone charging standard"], "answer": 1}, {"word": "GATEKEEPING", "options": ["Airport security screening", "Hoarding information so others can't join in", "Closing out a bar tab"], "answer": 1}, {"word": "SKIBIDI", "options": ["A nonsense word from a viral video series", "A Japanese noodle dish", "A folding electric scooter"], "answer": 0}, {"word": "QUIET QUITTING", "options": ["Resigning by email over a weekend", "Doing your job description and nothing extra", "Muting yourself on a conference call"], "answer": 1}, {"word": "NEPO BABY", "options": ["A brand-new employee", "The child of famous parents in the same industry", "An influencer under the age of two"], "answer": 1}, {"word": "GLOW-UP", "options": ["A dramatic improvement in looks or style", "A sunrise photo trend", "Neon stage lighting"], "answer": 0}, {"word": "RATIO'D", "options": ["When a reply gets more likes than the original post", "Split evenly between two people", "Compressed to a smaller file size"], "answer": 0}, {"word": "RAGE BAIT", "options": ["A lure used in deep-sea fishing", "Content designed to make you angry enough to engage", "A horror game jump scare"], "answer": 1}, {"word": "MID", "options": ["Middle-aged", "Right around midnight", "Thoroughly mediocre"], "answer": 2}, {"word": "THE ICK", "options": ["A sudden, total turn-off toward someone you liked", "A stain that won't come out", "A 24-hour stomach bug"], "answer": 0}, {"word": "GIRL DINNER", "options": ["A plate of random snacks eaten as a meal", "A formal dinner party with a seating chart", "A cooking competition show"], "answer": 0}, {"word": "SIMP", "options": ["A one-pot recipe", "Someone way too devoted to a crush", "A computer simulation"], "answer": 1}, {"word": "PROMPT ENGINEERING", "options": ["Writing instructions that get good answers out of an AI", "Fixing a jammed printer", "Cueing actors from offstage"], "answer": 0}, {"word": "GHOSTING", "options": ["Cutting off all contact with zero explanation", "Overdoing Halloween decorations", "Removing someone from a photo"], "answer": 0}, {"word": "VIBE CHECK", "options": ["A soundcheck before a concert", "A quick read on the mood of a room", "A polygraph test"], "answer": 1}, {"word": "HALLUCINATION (AI)", "options": ["A screen flickering on an old monitor", "Motion sickness from a VR headset", "An AI stating something false with total confidence"], "answer": 2}, {"word": "BEIGE FLAG", "options": ["A harmless, weirdly specific quirk in a partner", "A serious warning sign to leave", "A signal of surrender"], "answer": 0}, {"word": "DOOMSCROLLING", "options": ["Fast-forwarding through a boring show", "Endlessly scrolling through bad news", "Deleting apps in a panic"], "answer": 1}, {"word": "SHRINKFLATION", "options": ["A smaller product for the same price", "Deflation in a small economy", "Clothes that shrink in the dryer"], "answer": 0}, {"word": "TOUCH GRASS", "options": ["Go outside and log off", "Start a lawn care routine", "Take up golf"], "answer": 0}, {"word": "LORE", "options": ["The backstory behind a person, meme, or franchise", "A legal loophole", "A low-resolution image"], "answer": 0}, {"word": "SIDE QUEST", "options": ["A detour or unplanned adventure", "A backup career", "A second helping"], "answer": 0}, {"word": "GYATT", "options": ["An exclamation of surprise, usually at someone attractive", "A German pastry", "A type of pickup truck"], "answer": 0}, {"word": "MAIN CHARACTER ENERGY", "options": ["Acting like you're the star of your own movie", "Caffeine before a performance", "Being cast in a lead role"], "answer": 0}]}, {"name": "Spellbound", "howto": "Spell the word out loud, forwards. One shot, no do-overs.", "cards": [{"word": "CRYPTOCURRENCY"}, {"word": "ENTREPRENEURSHIP"}, {"word": "CHARCUTERIE"}, {"word": "ALGORITHMIC"}, {"word": "QUARANTINE"}, {"word": "AESTHETIC"}, {"word": "BOUGIE"}, {"word": "MILLENNIAL"}, {"word": "SOURDOUGH"}, {"word": "SUSTAINABILITY"}, {"word": "AUTONOMOUS"}, {"word": "SUBSCRIPTION"}, {"word": "CONNOISSEUR"}, {"word": "BUREAUCRACY"}, {"word": "MICROPLASTIC"}, {"word": "RENAISSANCE"}, {"word": "ESPRESSO"}, {"word": "GUACAMOLE"}, {"word": "PLAGIARISM"}, {"word": "NEURODIVERGENT"}, {"word": "PHENOMENON"}, {"word": "RHYTHM"}, {"word": "LABYRINTH"}, {"word": "SILHOUETTE"}, {"word": "PARAPHERNALIA"}, {"word": "CAMOUFLAGE"}, {"word": "MISCHIEVOUS"}, {"word": "ONOMATOPOEIA"}, {"word": "ACQUIESCE"}, {"word": "CONSCIENTIOUS"}]}]}, {"deck": "Creative Cat", "color": "#E14B5A", "tagline": "Draw it, sculpt it, no words allowed", "activities": [{"name": "Cloodle", "howto": "Draw it with your eyes OPEN. No letters, no numbers, no talking, no gestures.", "cards": [{"clue": "Wireless earbuds"}, {"clue": "A ring light"}, {"clue": "Someone taking a selfie with a selfie stick"}, {"clue": "An electric scooter abandoned on a sidewalk"}, {"clue": "A food delivery bag on the back of a bike"}, {"clue": "A robot vacuum"}, {"clue": "A smartwatch closing its exercise rings"}, {"clue": "A drone delivering a package"}, {"clue": "A QR code menu on a restaurant table"}, {"clue": "A hopelessly tangled charging cable"}, {"clue": "A video call in a dress shirt and pajama pants"}, {"clue": "An air fryer"}, {"clue": "A gaming setup with RGB lights everywhere"}, {"clue": "A grid of faces on a group video call"}, {"clue": "A phone with a spiderwebbed cracked screen"}, {"clue": "Noise-cancelling headphones on a crowded plane"}, {"clue": "A self-checkout machine"}, {"clue": "Someone doomscrolling in bed at 3am"}, {"clue": "A charcuterie board"}, {"clue": "An EV charging station"}, {"clue": "A standing desk with a treadmill under it"}, {"clue": "A cat walking across a laptop mid-meeting"}, {"clue": "A subscription box on a doorstep"}, {"clue": "Someone in a VR headset about to hit the coffee table"}, {"clue": "A stadium full of phone flashlights at a concert"}, {"clue": "A dog in a stroller"}, {"clue": "A barista drawing latte art"}, {"clue": "A pickleball court"}, {"clue": "A smart doorbell catching a package thief"}, {"clue": "Someone livestreaming a haircut gone wrong"}]}, {"name": "Sensosketch", "howto": "Draw it with your eyes CLOSED. Keep it simple — you can't see what you're doing.", "cards": [{"clue": "A Wi-Fi symbol"}, {"clue": "A smartphone"}, {"clue": "A slice of pizza"}, {"clue": "A heart"}, {"clue": "A shopping cart"}, {"clue": "A rocket ship"}, {"clue": "A coffee cup with a lid"}, {"clue": "A pair of earbuds"}, {"clue": "A thumbs up"}, {"clue": "A house with a satellite dish"}, {"clue": "A hashtag"}, {"clue": "A traffic cone"}, {"clue": "A dog wearing sunglasses"}, {"clue": "A hamburger"}, {"clue": "A skateboard"}, {"clue": "A battery charging symbol"}, {"clue": "A tent under the stars"}, {"clue": "A ghost"}, {"clue": "A treadmill"}, {"clue": "A pineapple"}, {"clue": "A paper airplane"}, {"clue": "A robot head"}, {"clue": "A cactus in a pot"}, {"clue": "A hot air balloon"}, {"clue": "An avocado cut in half"}, {"clue": "A shopping bag with handles"}, {"clue": "A soccer ball"}, {"clue": "A light bulb"}, {"clue": "A snowman wearing headphones"}, {"clue": "A taco"}]}, {"name": "Sculptorades", "howto": "Sculpt it out of clay. No letters, no numbers, no sound effects, no charades.", "cards": [{"clue": "A game controller"}, {"clue": "A boba tea with a fat straw"}, {"clue": "A ring light on a tripod"}, {"clue": "A smart speaker"}, {"clue": "A face mask"}, {"clue": "A phone charging brick"}, {"clue": "A robot dog"}, {"clue": "Avocado toast"}, {"clue": "A drone"}, {"clue": "A skateboard"}, {"clue": "A cell tower"}, {"clue": "A robot vacuum stuck on a rug"}, {"clue": "A podcast microphone"}, {"clue": "A Croc with charms in it"}, {"clue": "A sourdough loaf"}, {"clue": "An electric car plugged in"}, {"clue": "A selfie stick"}, {"clue": "A rubber duck wearing headphones"}, {"clue": "A satellite"}, {"clue": "A taco truck"}, {"clue": "A water bottle covered in stickers"}, {"clue": "A protein shaker and a dumbbell"}, {"clue": "A VR headset"}, {"clue": "A shopping cart full of groceries"}, {"clue": "A hoverboard"}, {"clue": "A pickleball paddle and ball"}, {"clue": "A hospital IV drip"}, {"clue": "A three-tier wedding cake"}, {"clue": "A laptop with a cracked screen"}, {"clue": "A hamster in an exercise ball"}]}]}, {"deck": "Data Head", "color": "#2E6FD9", "tagline": "Trivia, true-or-false, and multiple choice", "activities": [{"name": "Factoid", "howto": "Read the question. The whole team can confer on one answer.", "cards": [{"q": "What short-video app, owned by ByteDance, launched internationally in 2017?", "a": "TikTok"}, {"q": "What Korean survival drama became Netflix's most-watched series ever after it premiered in 2021?", "a": "Squid Game"}, {"q": "Which company makes ChatGPT?", "a": "OpenAI"}, {"q": "What 2023 film about the father of the atomic bomb won Best Picture?", "a": "Oppenheimer"}, {"q": "Facebook's parent company renamed itself in 2021. What is it called now?", "a": "Meta"}, {"q": "Whose Eras Tour became the first concert tour to gross over $1 billion?", "a": "Taylor Swift"}, {"q": "What blocky sandbox game is the best-selling video game of all time?", "a": "Minecraft"}, {"q": "What cryptocurrency, invented by the pseudonymous 'Satoshi Nakamoto,' first crossed $100,000 per coin?", "a": "Bitcoin"}, {"q": "What is the name of SpaceX's giant rocket — the largest ever launched?", "a": "Starship"}, {"q": "Which company released the Vision Pro headset in 2024?", "a": "Apple"}, {"q": "Which social network did Elon Musk buy in 2022 and rename X?", "a": "Twitter"}, {"q": "What 2023 movie about a fashion doll grossed over a billion dollars?", "a": "Barbie"}, {"q": "What does 'GOAT' stand for in sports slang?", "a": "Greatest Of All Time"}, {"q": "Which country hosted the 2024 Summer Olympics?", "a": "France (Paris)"}, {"q": "What is the name of the AI assistant made by Anthropic?", "a": "Claude"}, {"q": "Which food delivery app calls its couriers 'Dashers'?", "a": "DoorDash"}, {"q": "What console did Nintendo release in 2017 that plays both handheld and docked to a TV?", "a": "The Nintendo Switch"}, {"q": "Who became the first woman to serve as Vice President of the United States?", "a": "Kamala Harris"}, {"q": "How many characters can fit in a standard free post on X (formerly Twitter)?", "a": "280"}, {"q": "What 2016 mobile game had people wandering the streets catching creatures?", "a": "Pokemon GO"}, {"q": "What does Instagram call its short vertical videos?", "a": "Reels"}, {"q": "Which chipmaker became one of the world's most valuable companies on the back of the AI boom?", "a": "Nvidia"}, {"q": "What space telescope, launched in December 2021, is the successor to Hubble?", "a": "The James Webb Space Telescope"}, {"q": "What language-learning app has a green owl as its mascot?", "a": "Duolingo"}, {"q": "What paddle sport, played with a perforated plastic ball, became the fastest-growing sport in America?", "a": "Pickleball"}, {"q": "What streaming service produced 'Stranger Things'?", "a": "Netflix"}, {"q": "In what year did the World Health Organization declare COVID-19 a pandemic?", "a": "2020"}, {"q": "What app made 'swipe right' a part of everyday language?", "a": "Tinder"}, {"q": "What Disney+ series follows a bounty hunter and a small green alien child?", "a": "The Mandalorian"}, {"q": "What word describes the practice of doing your job from anywhere while traveling?", "a": "Being a digital nomad"}]}, {"name": "Polygraph", "howto": "Read the statement. The team decides: true or false?", "cards": [{"q": "Netflix started out as a DVD-by-mail rental company.", "a": true}, {"q": "'The cloud' is one enormous computer located in Nevada.", "a": false}, {"q": "Taylor Swift re-recorded her old albums and labeled them '(Taylor's Version)'.", "a": true}, {"q": "TikTok absorbed an app called Musical.ly to break into the US market.", "a": true}, {"q": "Bitcoin has an unlimited supply.", "a": false, "note": "It's capped at 21 million coins."}, {"q": "The first iPhone was released in 2007.", "a": true}, {"q": "Emoji were invented in the United States.", "a": false, "note": "They were invented in Japan in the late 1990s."}, {"q": "The New York Times bought Wordle.", "a": true}, {"q": "Instagram was owned by Facebook before Facebook renamed itself Meta.", "a": true}, {"q": "The word 'podcast' comes from the iPod.", "a": true}, {"q": "Zoom was founded during the COVID-19 pandemic.", "a": false, "note": "It was founded in 2011."}, {"q": "AI image generators work by searching the internet and pasting real photos together.", "a": false}, {"q": "In most US states, rideshare drivers are legally employees of the app company.", "a": false, "note": "They're generally independent contractors."}, {"q": "'Doomscrolling' has been added to major dictionaries.", "a": true}, {"q": "Spotify pays artists about one dollar per stream.", "a": false, "note": "It's a fraction of a cent."}, {"q": "The Mars rover Perseverance landed in 2021.", "a": true}, {"q": "QR codes were invented in the 2010s for restaurant menus.", "a": false, "note": "They were invented in Japan in 1994 for tracking car parts."}, {"q": "Airbnb started when its founders rented out air mattresses in their own apartment.", "a": true}, {"q": "Electric cars have more moving parts in the drivetrain than gas cars.", "a": false}, {"q": "Streaming a song requires downloading the whole file first.", "a": false}, {"q": "'Barbie' and 'Oppenheimer' were released in theaters on the same day.", "a": true}, {"q": "Google's parent company is named Alphabet.", "a": true}, {"q": "A 'deepfake' is a video file that's unusually large.", "a": false, "note": "It's synthetic media faking a real person."}, {"q": "Slack was originally built as an internal tool at a video game company.", "a": true}, {"q": "The James Webb Space Telescope orbits the Earth, just like Hubble.", "a": false, "note": "It orbits the Sun, about a million miles out."}, {"q": "Duolingo's mascot is an owl.", "a": true}, {"q": "'Rizz' is short for 'charisma.'", "a": true}, {"q": "Nvidia got its start making graphics cards for video games.", "a": true}, {"q": "There are more than 8 billion people alive on Earth.", "a": true}, {"q": "The Nintendo Switch can only be played docked to a television.", "a": false}]}, {"name": "Selectaquest", "howto": "Read the question and all the choices out loud. The team picks one.", "cards": [{"q": "Which of these launched FIRST?", "options": ["TikTok", "Instagram", "Snapchat", "Zoom"], "answer": 1}, {"q": "What does 'NFT' stand for?", "options": ["New Financial Token", "Networked File Transfer", "Non-Fungible Token", "Nearly Free Trade"], "answer": 2}, {"q": "Which streaming service is home to 'The Mandalorian'?", "options": ["Netflix", "Hulu", "Max", "Disney+"], "answer": 3}, {"q": "Roughly how many people live on Earth today?", "options": ["5 billion", "8 billion", "11 billion", "6 billion"], "answer": 1}, {"q": "Which of these is NOT a real social media app?", "options": ["BeReal", "Bluesky", "Blipster", "Threads"], "answer": 2}, {"q": "Which dictionary named 'rizz' its Word of the Year in 2023?", "options": ["Merriam-Webster", "Oxford", "Cambridge", "Collins"], "answer": 1}, {"q": "In AI, what is a 'hallucination'?", "options": ["The model overheating", "The model confidently stating something false", "A rendering glitch", "Motion sickness in VR"], "answer": 1}, {"q": "Which company owns Instagram, WhatsApp, and Facebook?", "options": ["Alphabet", "Tencent", "Meta", "X Corp"], "answer": 2}, {"q": "Which of these is a real K-pop group?", "options": ["REDSQUARE", "BLACKPINK", "GREENLIGHT", "BLUEMOON"], "answer": 1}, {"q": "What year did ChatGPT first launch to the public?", "options": ["2018", "2020", "2022", "2024"], "answer": 2}, {"q": "Which of these is a Taylor Swift album?", "options": ["The Tortured Poets Department", "The Wounded Painters Society", "The Lonely Novelists Guild", "The Broken Sculptors Union"], "answer": 0}, {"q": "Which app is best known for photos that disappear?", "options": ["Pinterest", "LinkedIn", "Reddit", "Snapchat"], "answer": 3}, {"q": "What do you call someone who works remotely while traveling the world?", "options": ["A telecommuter", "A digital nomad", "A freelancer", "A remote monk"], "answer": 1}, {"q": "Which of these is a real electric vehicle brand?", "options": ["Rivera", "Riviera", "Rivian", "Rivet"], "answer": 2}, {"q": "What are the 'streaming wars'?", "options": ["An esports league", "Competition between video subscription services", "A dispute over river water rights", "Live battles on TikTok"], "answer": 1}, {"q": "Which of these was a viral TikTok dance?", "options": ["The Renegade", "The Macarena", "The Cha Cha Slide", "The Cotton-Eyed Joe"], "answer": 0}, {"q": "Ozempic was originally prescribed to treat what?", "options": ["Migraines", "Insomnia", "Type 2 diabetes", "Seasonal allergies"], "answer": 2}, {"q": "TikTok's parent company ByteDance is headquartered in which country?", "options": ["South Korea", "Singapore", "Japan", "China"], "answer": 3}, {"q": "What does 'FOMO' stand for?", "options": ["Fear Of Missing Out", "For Members Only", "Front Of My Office", "Full On Meltdown"], "answer": 0}, {"q": "Which of these is a real Netflix series?", "options": ["Tuesday", "Wednesday", "Thursday", "Sunday"], "answer": 1}, {"q": "What is the name of Amazon's voice assistant?", "options": ["Siri", "Cortana", "Alexa", "Bixby"], "answer": 2}, {"q": "Which platform organizes its communities into 'subreddits'?", "options": ["Discord", "Tumblr", "Twitch", "Reddit"], "answer": 3}, {"q": "What is a 'situationship'?", "options": ["An open-plan office", "A romantic relationship nobody has defined", "A group chat", "A workplace dispute"], "answer": 1}, {"q": "Which of these is a real AI assistant?", "options": ["Clyde", "Claude", "Clive", "Clara"], "answer": 1}, {"q": "What does 'EV' stand for?", "options": ["Extra Value", "Engine Volume", "Electric Vehicle", "Exit Velocity"], "answer": 2}, {"q": "Roughly what does one stream pay an artist on a major music service?", "options": ["About a dollar", "About ten cents", "Less than a penny", "About five dollars"], "answer": 2}, {"q": "Which of these is NOT owned by Meta?", "options": ["Instagram", "WhatsApp", "YouTube", "Threads"], "answer": 2}, {"q": "Which of these movies came out most recently?", "options": ["Avatar", "Titanic", "Barbie", "Jurassic Park"], "answer": 2}, {"q": "What does 'POV' stand for in a video caption?", "options": ["Point Of View", "Plenty Of Vibes", "Post On Video", "Play Or Vote"], "answer": 0}, {"q": "Which company built the Falcon 9 rocket?", "options": ["Blue Origin", "SpaceX", "Boeing", "Rocket Lab"], "answer": 1}]}]}, {"deck": "Star Performer", "color": "#3FA34D", "tagline": "Act it, impersonate it, hum it", "activities": [{"name": "Cameo", "howto": "Charades. Act it out silently — no talking, no sound effects, no pointing at objects in the room.", "cards": [{"clue": "Holding your phone in the air hunting for a signal"}, {"clue": "Unboxing a package on camera"}, {"clue": "Realizing you were on mute the entire meeting"}, {"clue": "A yoga class going very badly"}, {"clue": "Assembling flat-pack furniture without the instructions"}, {"clue": "Waiting for a rideshare that keeps circling the block"}, {"clue": "A barista making an absurdly complicated latte"}, {"clue": "Getting the perfect overhead photo of your dinner"}, {"clue": "Being chased around the room by a robot vacuum"}, {"clue": "Getting stuck in a revolving door"}, {"clue": "Going through airport security with too much stuff"}, {"clue": "Opening a bag of chips quietly in a movie theater"}, {"clue": "Doing a live workout stream in a tiny apartment"}, {"clue": "Your phone dying at 1% while you're navigating"}, {"clue": "Speed-walking to catch a closing elevator"}, {"clue": "Parallel parking while people watch"}, {"clue": "Forgetting the moves halfway through a dance video"}, {"clue": "Getting your headphone cord caught on a doorknob"}, {"clue": "Your card getting declined on a first date"}, {"clue": "Deleting a text before the other person reads it"}, {"clue": "Trying to fold a fitted sheet"}, {"clue": "Reacting to your year-end music stats"}, {"clue": "Being the only one who didn't see the group chat"}, {"clue": "Sneezing while wearing a face mask"}, {"clue": "Looking busy the second your boss walks by"}, {"clue": "Taking a mirror selfie in a crowded gym"}, {"clue": "Trying to scan a QR code that won't focus"}, {"clue": "Wrestling a fitted car seat into the back of a car"}, {"clue": "Pretending to know a song's words at a concert"}, {"clue": "Getting a splash from a puddle by a passing car"}]}, {"name": "Copycat", "howto": "Impersonate it out loud. Talk and act like them — but never say their name or the words on the card.", "cards": [{"clue": "A tech CEO unveiling a product on stage"}, {"clue": "A true-crime podcast host"}, {"clue": "A GPS voice recalculating for the fourth time"}, {"clue": "A reality TV show judge delivering bad news"}, {"clue": "A fitness influencer filming a 5am morning routine"}, {"clue": "An AI chatbot politely refusing to answer"}, {"clue": "A flight attendant doing the safety demonstration"}, {"clue": "A sports announcer calling a last-second goal"}, {"clue": "A yoga instructor at the end of class"}, {"clue": "An unnervingly enthusiastic customer service rep"}, {"clue": "A movie trailer voiceover"}, {"clue": "A weather reporter standing in a hurricane"}, {"clue": "A drive-thru speaker you can barely understand"}, {"clue": "A wine snob at a tasting"}, {"clue": "A parent trying to use a new phone"}, {"clue": "An auctioneer"}, {"clue": "A nature documentary narrator"}, {"clue": "A mall Santa on his last shift"}, {"clue": "A DJ hyping a crowd that isn't into it"}, {"clue": "A stand-up comedian bombing"}, {"clue": "A lawyer's closing argument on a legal drama"}, {"clue": "A soccer player faking an injury"}, {"clue": "A barista calling out a name they can't pronounce"}, {"clue": "A cooking show host tasting their own dish"}, {"clue": "An airline gate agent announcing another delay"}, {"clue": "A gamer streaming a rage quit"}, {"clue": "A meditation app narrator"}, {"clue": "A car salesperson closing a deal"}, {"clue": "A dentist making small talk mid-cleaning"}, {"clue": "A tour guide who has given this tour 900 times"}]}, {"name": "Humdinger", "howto": "Hum the tune. No words, no lyrics, no tapping out the rhythm on the table.", "cards": [{"clue": "Espresso", "artist": "Sabrina Carpenter"}, {"clue": "Blinding Lights", "artist": "The Weeknd"}, {"clue": "Shake It Off", "artist": "Taylor Swift"}, {"clue": "Uptown Funk", "artist": "Mark Ronson & Bruno Mars"}, {"clue": "Old Town Road", "artist": "Lil Nas X"}, {"clue": "Bad Guy", "artist": "Billie Eilish"}, {"clue": "Let It Go", "artist": "from Frozen"}, {"clue": "Happy", "artist": "Pharrell Williams"}, {"clue": "Levitating", "artist": "Dua Lipa"}, {"clue": "Dynamite", "artist": "BTS"}, {"clue": "Someone Like You", "artist": "Adele"}, {"clue": "Shallow", "artist": "Lady Gaga & Bradley Cooper"}, {"clue": "Despacito", "artist": "Luis Fonsi"}, {"clue": "We Don't Talk About Bruno", "artist": "from Encanto"}, {"clue": "Flowers", "artist": "Miley Cyrus"}, {"clue": "As It Was", "artist": "Harry Styles"}, {"clue": "Anti-Hero", "artist": "Taylor Swift"}, {"clue": "Roar", "artist": "Katy Perry"}, {"clue": "Rolling in the Deep", "artist": "Adele"}, {"clue": "Can't Stop the Feeling!", "artist": "Justin Timberlake"}, {"clue": "Thunder", "artist": "Imagine Dragons"}, {"clue": "Sunflower", "artist": "Post Malone & Swae Lee"}, {"clue": "Baby Shark", "artist": "Pinkfong"}, {"clue": "Unstoppable", "artist": "Sia"}, {"clue": "Counting Stars", "artist": "OneRepublic"}, {"clue": "The Stranger Things theme", "artist": "TV theme"}, {"clue": "Bad Habits", "artist": "Ed Sheeran"}, {"clue": "Cheap Thrills", "artist": "Sia"}, {"clue": "Wake Me Up", "artist": "Avicii"}, {"clue": "Radioactive", "artist": "Imagine Dragons"}]}]}]</script>
+<script>
+(function(){
+  "use strict";
+  var DECKS = JSON.parse(document.getElementById("deckdata").textContent);
+  var SLUG = {"Word Worm":"worm","Creative Cat":"cat","Data Head":"data","Star Performer":"star"};
+  var NO_ANSWER = {"Cloodle":1,"Sensosketch":1,"Sculptorades":1,"Cameo":1,"Copycat":1};
+
+  var di = 0, ai = 0, card = null, revealed = false, bags = {};
+  var elDecks = document.getElementById("decks"), elActs = document.getElementById("acts"),
+      elCard = document.getElementById("card"), elReveal = document.getElementById("reveal");
+
+  function esc(s){ return String(s).replace(/[&<>"]/g, function(c){
+    return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]; }); }
+
+  function deck(){ return DECKS[di]; }
+  function act(){ return deck().activities[ai]; }
+  function bagKey(){ return di + "/" + ai; }
+
+  function draw(){
+    var a = act(), key = bagKey();
+    if(!bags[key] || !bags[key].length){
+      var order = a.cards.map(function(_,i){ return i; });
+      for(var i = order.length - 1; i > 0; i--){
+        var j = Math.floor(Math.random() * (i + 1)), t = order[i];
+        order[i] = order[j]; order[j] = t;
+      }
+      bags[key] = order;
+    }
+    card = a.cards[bags[key].pop()];
+    revealed = false;
+    render(true);
+  }
+
+  function bodyHTML(a, c){
+    switch(a.name){
+      case "Blankout":
+        return '<div class="eyebrow">' + esc(c.hint) + '</div>' +
+               '<div class="puzzle">' + esc(c.puzzle) + '</div>';
+      case "Gnilleps":
+        return '<div class="eyebrow">Spell it backwards, out loud</div>' +
+               '<p class="clue">' + esc(c.word) + '</p>';
+      case "Spellbound":
+        return '<div class="eyebrow">Spell it, forwards</div>' +
+               '<p class="clue">' + esc(c.word) + '</p>';
+      case "Lexicon":
+        return '<div class="eyebrow">What does it mean?</div>' +
+               '<p class="clue">' + esc(c.word) + '</p>' + optionsHTML(c);
+      case "Factoid":
+        return '<p class="clue small">' + esc(c.q) + '</p>';
+      case "Polygraph":
+        return '<div class="eyebrow">True or false?</div>' +
+               '<p class="clue small">' + esc(c.q) + '</p>';
+      case "Selectaquest":
+        return '<p class="clue small">' + esc(c.q) + '</p>' + optionsHTML(c);
+      case "Humdinger":
+        return '<div class="eyebrow">Hum it — no words</div>' +
+               '<p class="clue">' + esc(c.clue) + '</p>' +
+               '<p class="sub">' + esc(c.artist) + '</p>';
+      default:
+        return '<p class="clue">' + esc(c.clue) + '</p>';
+    }
+  }
+
+  function optionsHTML(c){
+    var letters = "ABCD";
+    return '<ul class="options">' + c.options.map(function(o, i){
+      var right = revealed && i === c.answer;
+      return '<li class="' + (right ? "right" : "") + '">' +
+             '<span class="ltr">' + letters[i] + '</span><span>' + esc(o) + '</span></li>';
+    }).join("") + '</ul>';
+  }
+
+  function answerHTML(a, c){
+    if(!revealed || NO_ANSWER[a.name]) return "";
+    var label = "Answer", val = "", mono = false, note = "";
+    switch(a.name){
+      case "Blankout":    val = c.answer; break;
+      case "Gnilleps":    val = c.backwards; mono = true; break;
+      case "Spellbound":  val = c.word.split("").join(" "); mono = true; break;
+      case "Lexicon":     val = c.options[c.answer]; break;
+      case "Selectaquest":val = "ABCD"[c.answer] + " — " + c.options[c.answer]; break;
+      case "Factoid":     val = c.a; break;
+      case "Polygraph":   val = c.a ? "TRUE" : "FALSE"; note = c.note || ""; break;
+      case "Humdinger":   return "";
+      default: return "";
+    }
+    return '<div class="answer"><div class="eyebrow">' + label + '</div>' +
+           '<div class="val' + (mono ? " mono" : "") + '">' + esc(val) + '</div>' +
+           (note ? '<div class="note">' + esc(note) + '</div>' : "") + '</div>';
+  }
+
+  function render(dealt){
+    var d = deck(), a = act(), key = bagKey();
+    document.documentElement.style.setProperty("--deck", "var(--" + SLUG[d.deck] + ")");
+    document.documentElement.style.setProperty("--deck-wash", "var(--" + SLUG[d.deck] + "-wash)");
+
+    elCard.className = "card" + (dealt ? " dealing" : "");
+    elCard.innerHTML =
+      '<div class="card-band"><span class="act">' + esc(a.name) + '</span>' +
+      '<span class="of">' + (bags[key] ? bags[key].length : 0) + ' left of ' + a.cards.length + '</span></div>' +
+      '<div class="card-howto">' + esc(a.howto) + '</div>' +
+      '<div class="card-body">' + bodyHTML(a, card) + '</div>' +
+      answerHTML(a, card);
+
+    elReveal.disabled = !!NO_ANSWER[a.name] || a.name === "Humdinger";
+    elReveal.style.opacity = elReveal.disabled ? ".4" : "1";
+    elReveal.textContent = revealed ? "Answer shown" : "Show answer";
+
+    Array.prototype.forEach.call(elDecks.children, function(b, i){
+      b.setAttribute("aria-pressed", i === di ? "true" : "false"); });
+    Array.prototype.forEach.call(elActs.children, function(b, i){
+      b.setAttribute("aria-pressed", i === ai ? "true" : "false"); });
+  }
+
+  function buildActs(){
+    elActs.innerHTML = "";
+    deck().activities.forEach(function(a, i){
+      var b = document.createElement("button");
+      b.className = "act-btn"; b.type = "button"; b.textContent = a.name;
+      b.onclick = function(){ ai = i; draw(); };
+      elActs.appendChild(b);
+    });
+  }
+
+  DECKS.forEach(function(d, i){
+    var b = document.createElement("button");
+    b.className = "deck-btn"; b.type = "button";
+    b.style.setProperty("--deck", "var(--" + SLUG[d.deck] + ")");
+    b.innerHTML = '<span class="pip"></span>' + esc(d.deck);
+    b.onclick = function(){ di = i; ai = 0; buildActs(); draw(); };
+    elDecks.appendChild(b);
+  });
+
+  document.getElementById("next").onclick = draw;
+  elReveal.onclick = function(){ if(!elReveal.disabled){ revealed = true; render(false); } };
+
+  /* 60-second timer, same as the sand timer in the box */
+  var left = 60, tick = null;
+  var tval = document.getElementById("tval"), tbtn = document.getElementById("tbtn"),
+      twrap = document.getElementById("timer");
+  function paint(){
+    tval.textContent = Math.floor(left / 60) + ":" + ("0" + (left % 60)).slice(-2);
+    twrap.classList.toggle("low", left <= 10);
+  }
+  function toggle(){
+    if(tick){ clearInterval(tick); tick = null; tbtn.textContent = "Start"; return; }
+    if(left <= 0) left = 60;
+    tbtn.textContent = "Stop";
+    tick = setInterval(function(){
+      left--; paint();
+      if(left <= 0){ clearInterval(tick); tick = null; tbtn.textContent = "Reset"; }
+    }, 1000);
+  }
+  tbtn.onclick = toggle;
+
+  document.addEventListener("keydown", function(e){
+    if(e.target.tagName === "BUTTON" && e.key === " ") return;
+    var k = e.key.toLowerCase();
+    if(k === "n"){ draw(); }
+    else if(k === "a"){ elReveal.click(); }
+    else if(k === "t"){ toggle(); }
+  });
+
+  var total = DECKS.reduce(function(n, d){
+    return n + d.activities.reduce(function(m, a){ return m + a.cards.length; }, 0); }, 0);
+  document.getElementById("foot").innerHTML =
+    '<b>' + total + ' cards</b> across ' + DECKS.length + ' decks. ' +
+    'Each card type shuffles its own pile — you will see every card once before any repeats.';
+
+  buildActs(); draw(); paint();
+})();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,325 @@
+{
+  "deck": "Star Performer",
+  "color": "#3FA34D",
+  "tagline": "Act it, impersonate it, hum it",
+  "activities": [
+    {
+      "name": "Cameo",
+      "howto": "Charades. Act it out silently — no talking, no sound effects, no pointing at objects in the room.",
+      "cards": [
+        {
+          "clue": "Holding your phone in the air hunting for a signal"
+        },
+        {
+          "clue": "Unboxing a package on camera"
+        },
+        {
+          "clue": "Realizing you were on mute the entire meeting"
+        },
+        {
+          "clue": "A yoga class going very badly"
+        },
+        {
+          "clue": "Assembling flat-pack furniture without the instructions"
+        },
+        {
+          "clue": "Waiting for a rideshare that keeps circling the block"
+        },
+        {
+          "clue": "A barista making an absurdly complicated latte"
+        },
+        {
+          "clue": "Getting the perfect overhead photo of your dinner"
+        },
+        {
+          "clue": "Being chased around the room by a robot vacuum"
+        },
+        {
+          "clue": "Getting stuck in a revolving door"
+        },
+        {
+          "clue": "Going through airport security with too much stuff"
+        },
+        {
+          "clue": "Opening a bag of chips quietly in a movie theater"
+        },
+        {
+          "clue": "Doing a live workout stream in a tiny apartment"
+        },
+        {
+          "clue": "Your phone dying at 1% while you're navigating"
+        },
+        {
+          "clue": "Speed-walking to catch a closing elevator"
+        },
+        {
+          "clue": "Parallel parking while people watch"
+        },
+        {
+          "clue": "Forgetting the moves halfway through a dance video"
+        },
+        {
+          "clue": "Getting your headphone cord caught on a doorknob"
+        },
+        {
+          "clue": "Your card getting declined on a first date"
+        },
+        {
+          "clue": "Deleting a text before the other person reads it"
+        },
+        {
+          "clue": "Trying to fold a fitted sheet"
+        },
+        {
+          "clue": "Reacting to your year-end music stats"
+        },
+        {
+          "clue": "Being the only one who didn't see the group chat"
+        },
+        {
+          "clue": "Sneezing while wearing a face mask"
+        },
+        {
+          "clue": "Looking busy the second your boss walks by"
+        },
+        {
+          "clue": "Taking a mirror selfie in a crowded gym"
+        },
+        {
+          "clue": "Trying to scan a QR code that won't focus"
+        },
+        {
+          "clue": "Wrestling a fitted car seat into the back of a car"
+        },
+        {
+          "clue": "Pretending to know a song's words at a concert"
+        },
+        {
+          "clue": "Getting a splash from a puddle by a passing car"
+        }
+      ]
+    },
+    {
+      "name": "Copycat",
+      "howto": "Impersonate it out loud. Talk and act like them — but never say their name or the words on the card.",
+      "cards": [
+        {
+          "clue": "A tech CEO unveiling a product on stage"
+        },
+        {
+          "clue": "A true-crime podcast host"
+        },
+        {
+          "clue": "A GPS voice recalculating for the fourth time"
+        },
+        {
+          "clue": "A reality TV show judge delivering bad news"
+        },
+        {
+          "clue": "A fitness influencer filming a 5am morning routine"
+        },
+        {
+          "clue": "An AI chatbot politely refusing to answer"
+        },
+        {
+          "clue": "A flight attendant doing the safety demonstration"
+        },
+        {
+          "clue": "A sports announcer calling a last-second goal"
+        },
+        {
+          "clue": "A yoga instructor at the end of class"
+        },
+        {
+          "clue": "An unnervingly enthusiastic customer service rep"
+        },
+        {
+          "clue": "A movie trailer voiceover"
+        },
+        {
+          "clue": "A weather reporter standing in a hurricane"
+        },
+        {
+          "clue": "A drive-thru speaker you can barely understand"
+        },
+        {
+          "clue": "A wine snob at a tasting"
+        },
+        {
+          "clue": "A parent trying to use a new phone"
+        },
+        {
+          "clue": "An auctioneer"
+        },
+        {
+          "clue": "A nature documentary narrator"
+        },
+        {
+          "clue": "A mall Santa on his last shift"
+        },
+        {
+          "clue": "A DJ hyping a crowd that isn't into it"
+        },
+        {
+          "clue": "A stand-up comedian bombing"
+        },
+        {
+          "clue": "A lawyer's closing argument on a legal drama"
+        },
+        {
+          "clue": "A soccer player faking an injury"
+        },
+        {
+          "clue": "A barista calling out a name they can't pronounce"
+        },
+        {
+          "clue": "A cooking show host tasting their own dish"
+        },
+        {
+          "clue": "An airline gate agent announcing another delay"
+        },
+        {
+          "clue": "A gamer streaming a rage quit"
+        },
+        {
+          "clue": "A meditation app narrator"
+        },
+        {
+          "clue": "A car salesperson closing a deal"
+        },
+        {
+          "clue": "A dentist making small talk mid-cleaning"
+        },
+        {
+          "clue": "A tour guide who has given this tour 900 times"
+        }
+      ]
+    },
+    {
+      "name": "Humdinger",
+      "howto": "Hum the tune. No words, no lyrics, no tapping out the rhythm on the table.",
+      "cards": [
+        {
+          "clue": "Espresso",
+          "artist": "Sabrina Carpenter"
+        },
+        {
+          "clue": "Blinding Lights",
+          "artist": "The Weeknd"
+        },
+        {
+          "clue": "Shake It Off",
+          "artist": "Taylor Swift"
+        },
+        {
+          "clue": "Uptown Funk",
+          "artist": "Mark Ronson & Bruno Mars"
+        },
+        {
+          "clue": "Old Town Road",
+          "artist": "Lil Nas X"
+        },
+        {
+          "clue": "Bad Guy",
+          "artist": "Billie Eilish"
+        },
+        {
+          "clue": "Let It Go",
+          "artist": "from Frozen"
+        },
+        {
+          "clue": "Happy",
+          "artist": "Pharrell Williams"
+        },
+        {
+          "clue": "Levitating",
+          "artist": "Dua Lipa"
+        },
+        {
+          "clue": "Dynamite",
+          "artist": "BTS"
+        },
+        {
+          "clue": "Someone Like You",
+          "artist": "Adele"
+        },
+        {
+          "clue": "Shallow",
+          "artist": "Lady Gaga & Bradley Cooper"
+        },
+        {
+          "clue": "Despacito",
+          "artist": "Luis Fonsi"
+        },
+        {
+          "clue": "We Don't Talk About Bruno",
+          "artist": "from Encanto"
+        },
+        {
+          "clue": "Flowers",
+          "artist": "Miley Cyrus"
+        },
+        {
+          "clue": "As It Was",
+          "artist": "Harry Styles"
+        },
+        {
+          "clue": "Anti-Hero",
+          "artist": "Taylor Swift"
+        },
+        {
+          "clue": "Roar",
+          "artist": "Katy Perry"
+        },
+        {
+          "clue": "Rolling in the Deep",
+          "artist": "Adele"
+        },
+        {
+          "clue": "Can't Stop the Feeling!",
+          "artist": "Justin Timberlake"
+        },
+        {
+          "clue": "Thunder",
+          "artist": "Imagine Dragons"
+        },
+        {
+          "clue": "Sunflower",
+          "artist": "Post Malone & Swae Lee"
+        },
+        {
+          "clue": "Baby Shark",
+          "artist": "Pinkfong"
+        },
+        {
+          "clue": "Unstoppable",
+          "artist": "Sia"
+        },
+        {
+          "clue": "Counting Stars",
+          "artist": "OneRepublic"
+        },
+        {
+          "clue": "The Stranger Things theme",
+          "artist": "TV theme"
+        },
+        {
+          "clue": "Bad Habits",
+          "artist": "Ed Sheeran"
+        },
+        {
+          "clue": "Cheap Thrills",
+          "artist": "Sia"
+        },
+        {
+          "clue": "Wake Me Up",
+          "artist": "Avicii"
+        },
+        {
+          "clue": "Radioactive",
+          "artist": "Imagine Dragons"
+        }
+      ]
+    }
+  ]
+}

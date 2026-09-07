@@ -1,0 +1,573 @@
+{
+  "deck": "Data Head",
+  "color": "#2E6FD9",
+  "tagline": "Trivia, true-or-false, and multiple choice",
+  "activities": [
+    {
+      "name": "Factoid",
+      "howto": "Read the question. The whole team can confer on one answer.",
+      "cards": [
+        {
+          "q": "What short-video app, owned by ByteDance, launched internationally in 2017?",
+          "a": "TikTok"
+        },
+        {
+          "q": "What Korean survival drama became Netflix's most-watched series ever after it premiered in 2021?",
+          "a": "Squid Game"
+        },
+        {
+          "q": "Which company makes ChatGPT?",
+          "a": "OpenAI"
+        },
+        {
+          "q": "What 2023 film about the father of the atomic bomb won Best Picture?",
+          "a": "Oppenheimer"
+        },
+        {
+          "q": "Facebook's parent company renamed itself in 2021. What is it called now?",
+          "a": "Meta"
+        },
+        {
+          "q": "Whose Eras Tour became the first concert tour to gross over $1 billion?",
+          "a": "Taylor Swift"
+        },
+        {
+          "q": "What blocky sandbox game is the best-selling video game of all time?",
+          "a": "Minecraft"
+        },
+        {
+          "q": "What cryptocurrency, invented by the pseudonymous 'Satoshi Nakamoto,' first crossed $100,000 per coin?",
+          "a": "Bitcoin"
+        },
+        {
+          "q": "What is the name of SpaceX's giant rocket — the largest ever launched?",
+          "a": "Starship"
+        },
+        {
+          "q": "Which company released the Vision Pro headset in 2024?",
+          "a": "Apple"
+        },
+        {
+          "q": "Which social network did Elon Musk buy in 2022 and rename X?",
+          "a": "Twitter"
+        },
+        {
+          "q": "What 2023 movie about a fashion doll grossed over a billion dollars?",
+          "a": "Barbie"
+        },
+        {
+          "q": "What does 'GOAT' stand for in sports slang?",
+          "a": "Greatest Of All Time"
+        },
+        {
+          "q": "Which country hosted the 2024 Summer Olympics?",
+          "a": "France (Paris)"
+        },
+        {
+          "q": "What is the name of the AI assistant made by Anthropic?",
+          "a": "Claude"
+        },
+        {
+          "q": "Which food delivery app calls its couriers 'Dashers'?",
+          "a": "DoorDash"
+        },
+        {
+          "q": "What console did Nintendo release in 2017 that plays both handheld and docked to a TV?",
+          "a": "The Nintendo Switch"
+        },
+        {
+          "q": "Who became the first woman to serve as Vice President of the United States?",
+          "a": "Kamala Harris"
+        },
+        {
+          "q": "How many characters can fit in a standard free post on X (formerly Twitter)?",
+          "a": "280"
+        },
+        {
+          "q": "What 2016 mobile game had people wandering the streets catching creatures?",
+          "a": "Pokemon GO"
+        },
+        {
+          "q": "What does Instagram call its short vertical videos?",
+          "a": "Reels"
+        },
+        {
+          "q": "Which chipmaker became one of the world's most valuable companies on the back of the AI boom?",
+          "a": "Nvidia"
+        },
+        {
+          "q": "What space telescope, launched in December 2021, is the successor to Hubble?",
+          "a": "The James Webb Space Telescope"
+        },
+        {
+          "q": "What language-learning app has a green owl as its mascot?",
+          "a": "Duolingo"
+        },
+        {
+          "q": "What paddle sport, played with a perforated plastic ball, became the fastest-growing sport in America?",
+          "a": "Pickleball"
+        },
+        {
+          "q": "What streaming service produced 'Stranger Things'?",
+          "a": "Netflix"
+        },
+        {
+          "q": "In what year did the World Health Organization declare COVID-19 a pandemic?",
+          "a": "2020"
+        },
+        {
+          "q": "What app made 'swipe right' a part of everyday language?",
+          "a": "Tinder"
+        },
+        {
+          "q": "What Disney+ series follows a bounty hunter and a small green alien child?",
+          "a": "The Mandalorian"
+        },
+        {
+          "q": "What word describes the practice of doing your job from anywhere while traveling?",
+          "a": "Being a digital nomad"
+        }
+      ]
+    },
+    {
+      "name": "Polygraph",
+      "howto": "Read the statement. The team decides: true or false?",
+      "cards": [
+        {
+          "q": "Netflix started out as a DVD-by-mail rental company.",
+          "a": true
+        },
+        {
+          "q": "'The cloud' is one enormous computer located in Nevada.",
+          "a": false
+        },
+        {
+          "q": "Taylor Swift re-recorded her old albums and labeled them '(Taylor's Version)'.",
+          "a": true
+        },
+        {
+          "q": "TikTok absorbed an app called Musical.ly to break into the US market.",
+          "a": true
+        },
+        {
+          "q": "Bitcoin has an unlimited supply.",
+          "a": false,
+          "note": "It's capped at 21 million coins."
+        },
+        {
+          "q": "The first iPhone was released in 2007.",
+          "a": true
+        },
+        {
+          "q": "Emoji were invented in the United States.",
+          "a": false,
+          "note": "They were invented in Japan in the late 1990s."
+        },
+        {
+          "q": "The New York Times bought Wordle.",
+          "a": true
+        },
+        {
+          "q": "Instagram was owned by Facebook before Facebook renamed itself Meta.",
+          "a": true
+        },
+        {
+          "q": "The word 'podcast' comes from the iPod.",
+          "a": true
+        },
+        {
+          "q": "Zoom was founded during the COVID-19 pandemic.",
+          "a": false,
+          "note": "It was founded in 2011."
+        },
+        {
+          "q": "AI image generators work by searching the internet and pasting real photos together.",
+          "a": false
+        },
+        {
+          "q": "In most US states, rideshare drivers are legally employees of the app company.",
+          "a": false,
+          "note": "They're generally independent contractors."
+        },
+        {
+          "q": "'Doomscrolling' has been added to major dictionaries.",
+          "a": true
+        },
+        {
+          "q": "Spotify pays artists about one dollar per stream.",
+          "a": false,
+          "note": "It's a fraction of a cent."
+        },
+        {
+          "q": "The Mars rover Perseverance landed in 2021.",
+          "a": true
+        },
+        {
+          "q": "QR codes were invented in the 2010s for restaurant menus.",
+          "a": false,
+          "note": "They were invented in Japan in 1994 for tracking car parts."
+        },
+        {
+          "q": "Airbnb started when its founders rented out air mattresses in their own apartment.",
+          "a": true
+        },
+        {
+          "q": "Electric cars have more moving parts in the drivetrain than gas cars.",
+          "a": false
+        },
+        {
+          "q": "Streaming a song requires downloading the whole file first.",
+          "a": false
+        },
+        {
+          "q": "'Barbie' and 'Oppenheimer' were released in theaters on the same day.",
+          "a": true
+        },
+        {
+          "q": "Google's parent company is named Alphabet.",
+          "a": true
+        },
+        {
+          "q": "A 'deepfake' is a video file that's unusually large.",
+          "a": false,
+          "note": "It's synthetic media faking a real person."
+        },
+        {
+          "q": "Slack was originally built as an internal tool at a video game company.",
+          "a": true
+        },
+        {
+          "q": "The James Webb Space Telescope orbits the Earth, just like Hubble.",
+          "a": false,
+          "note": "It orbits the Sun, about a million miles out."
+        },
+        {
+          "q": "Duolingo's mascot is an owl.",
+          "a": true
+        },
+        {
+          "q": "'Rizz' is short for 'charisma.'",
+          "a": true
+        },
+        {
+          "q": "Nvidia got its start making graphics cards for video games.",
+          "a": true
+        },
+        {
+          "q": "There are more than 8 billion people alive on Earth.",
+          "a": true
+        },
+        {
+          "q": "The Nintendo Switch can only be played docked to a television.",
+          "a": false
+        }
+      ]
+    },
+    {
+      "name": "Selectaquest",
+      "howto": "Read the question and all the choices out loud. The team picks one.",
+      "cards": [
+        {
+          "q": "Which of these launched FIRST?",
+          "options": [
+            "TikTok",
+            "Instagram",
+            "Snapchat",
+            "Zoom"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What does 'NFT' stand for?",
+          "options": [
+            "New Financial Token",
+            "Networked File Transfer",
+            "Non-Fungible Token",
+            "Nearly Free Trade"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which streaming service is home to 'The Mandalorian'?",
+          "options": [
+            "Netflix",
+            "Hulu",
+            "Max",
+            "Disney+"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Roughly how many people live on Earth today?",
+          "options": [
+            "5 billion",
+            "8 billion",
+            "11 billion",
+            "6 billion"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of these is NOT a real social media app?",
+          "options": [
+            "BeReal",
+            "Bluesky",
+            "Blipster",
+            "Threads"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which dictionary named 'rizz' its Word of the Year in 2023?",
+          "options": [
+            "Merriam-Webster",
+            "Oxford",
+            "Cambridge",
+            "Collins"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "In AI, what is a 'hallucination'?",
+          "options": [
+            "The model overheating",
+            "The model confidently stating something false",
+            "A rendering glitch",
+            "Motion sickness in VR"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which company owns Instagram, WhatsApp, and Facebook?",
+          "options": [
+            "Alphabet",
+            "Tencent",
+            "Meta",
+            "X Corp"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which of these is a real K-pop group?",
+          "options": [
+            "REDSQUARE",
+            "BLACKPINK",
+            "GREENLIGHT",
+            "BLUEMOON"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What year did ChatGPT first launch to the public?",
+          "options": [
+            "2018",
+            "2020",
+            "2022",
+            "2024"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which of these is a Taylor Swift album?",
+          "options": [
+            "The Tortured Poets Department",
+            "The Wounded Painters Society",
+            "The Lonely Novelists Guild",
+            "The Broken Sculptors Union"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which app is best known for photos that disappear?",
+          "options": [
+            "Pinterest",
+            "LinkedIn",
+            "Reddit",
+            "Snapchat"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "What do you call someone who works remotely while traveling the world?",
+          "options": [
+            "A telecommuter",
+            "A digital nomad",
+            "A freelancer",
+            "A remote monk"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of these is a real electric vehicle brand?",
+          "options": [
+            "Rivera",
+            "Riviera",
+            "Rivian",
+            "Rivet"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What are the 'streaming wars'?",
+          "options": [
+            "An esports league",
+            "Competition between video subscription services",
+            "A dispute over river water rights",
+            "Live battles on TikTok"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of these was a viral TikTok dance?",
+          "options": [
+            "The Renegade",
+            "The Macarena",
+            "The Cha Cha Slide",
+            "The Cotton-Eyed Joe"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Ozempic was originally prescribed to treat what?",
+          "options": [
+            "Migraines",
+            "Insomnia",
+            "Type 2 diabetes",
+            "Seasonal allergies"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "TikTok's parent company ByteDance is headquartered in which country?",
+          "options": [
+            "South Korea",
+            "Singapore",
+            "Japan",
+            "China"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "What does 'FOMO' stand for?",
+          "options": [
+            "Fear Of Missing Out",
+            "For Members Only",
+            "Front Of My Office",
+            "Full On Meltdown"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which of these is a real Netflix series?",
+          "options": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Sunday"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What is the name of Amazon's voice assistant?",
+          "options": [
+            "Siri",
+            "Cortana",
+            "Alexa",
+            "Bixby"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which platform organizes its communities into 'subreddits'?",
+          "options": [
+            "Discord",
+            "Tumblr",
+            "Twitch",
+            "Reddit"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "What is a 'situationship'?",
+          "options": [
+            "An open-plan office",
+            "A romantic relationship nobody has defined",
+            "A group chat",
+            "A workplace dispute"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of these is a real AI assistant?",
+          "options": [
+            "Clyde",
+            "Claude",
+            "Clive",
+            "Clara"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What does 'EV' stand for?",
+          "options": [
+            "Extra Value",
+            "Engine Volume",
+            "Electric Vehicle",
+            "Exit Velocity"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Roughly what does one stream pay an artist on a major music service?",
+          "options": [
+            "About a dollar",
+            "About ten cents",
+            "Less than a penny",
+            "About five dollars"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which of these is NOT owned by Meta?",
+          "options": [
+            "Instagram",
+            "WhatsApp",
+            "YouTube",
+            "Threads"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which of these movies came out most recently?",
+          "options": [
+            "Avatar",
+            "Titanic",
+            "Barbie",
+            "Jurassic Park"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What does 'POV' stand for in a video caption?",
+          "options": [
+            "Point Of View",
+            "Plenty Of Vibes",
+            "Post On Video",
+            "Play Or Vote"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which company built the Falcon 9 rocket?",
+          "options": [
+            "Blue Origin",
+            "SpaceX",
+            "Boeing",
+            "Rocket Lab"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}
