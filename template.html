@@ -438,9 +438,13 @@ footer b{color:var(--ink); font-weight:600}
   var total = DECKS.reduce(function(n, d){
     return n + d.activities.reduce(function(m, a){ return m + a.cards.length; }, 0); }, 0);
   document.getElementById("foot").innerHTML =
-    '<b>' + total + ' cards</b> across ' + DECKS.length + ' decks — every card type has 30 easy, ' +
-    '20 medium and 20 hard. Each type and difficulty shuffles its own pile, so you will see ' +
-    'every card in it once before any repeats.';
+    '<b>' + total + ' cards</b> across ' + DECKS.length + ' decks — every card type has ' +
+    TIERS.slice(1).map(function(t){
+      return act().cards.filter(function(c){ return c.difficulty === t[0]; }).length +
+             ' ' + t[1].toLowerCase();
+    }).join(", ").replace(/, ([^,]*)$/, " and $1") +
+    '. Each type and difficulty shuffles its own pile, so you will see every card in it ' +
+    'once before any repeats.';
 
   buildActs(); draw(); paint();
 })();

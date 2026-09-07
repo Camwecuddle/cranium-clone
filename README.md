@@ -8,7 +8,7 @@ prompts written for right now.
 (say, Word Worm → Blankout), then play one of *these* Blankouts instead. Every rule, the
 timer, and the board stay exactly the same. Only the prompts change.
 
-**910 cards** across the four decks, matching the game's real card types:
+**1,170 cards** across the four decks, matching the game's real card types:
 
 | Deck | Card types |
 | --- | --- |
@@ -17,7 +17,15 @@ timer, and the board stay exactly the same. Only the prompts change.
 | **Data Head** — trivia | Factoid, Polygraph, Selectaquest |
 | **Star Performer** — acting | Cameo, Copycat, Humdinger |
 
-Every card type has **70 cards in three difficulty tiers** — 30 easy, 20 medium, 20 hard.
+Every card type has **90 cards in three difficulty tiers** — 40 easy, 25 medium, 25 hard.
+
+## What era the references come from
+
+Most people playing are somewhere in their twenties, so the cards are aimed at what that
+group actually shares: roughly **2008 through today**. That means the current stuff (AI,
+Ozempic, *The Bear*, Sabrina Carpenter) sits alongside the things they grew up on — Vine,
+Club Penguin, Guitar Hero, the Wii, LimeWire, 2010s pop, the first iPhone. A table of
+25-year-olds should recognize a card from either end.
 
 Difficulty means something different for each card type, so each one scales on its own
 axis rather than just getting longer:

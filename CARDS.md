@@ -3,18 +3,18 @@
 Printable/scannable text of all four decks, grouped by card type and difficulty. Generated from `data/*.json` by `build.py` — edit the JSON, not this file.
 
 
-**910 cards total** — every card type has 30 easy, 20 medium, 20 hard.
+**1170 cards total** — every card type has 30 easy, 20 medium, 20 hard.
 
 
-## Word Worm — Spelling, definitions, and wordplay (280 cards)
+## Word Worm — Spelling, definitions, and wordplay (360 cards)
 
 
-### Blankout (70)
+### Blankout (90)
 
 *Read the hint and the puzzle out loud, letter blanks and all. Your team has to fill in the missing letters and say the whole answer.*
 
 
-**Easy** (30)
+**Easy** (40)
 
 1. **_ I _ _ O _** — _App on everyone's phone_ → TIKTOK
 2. **_ A _ _ I _** — _Blockbuster movie_ → BARBIE
@@ -46,8 +46,18 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 28. **_ E _ O _   _ L _ _ E _** — _Anime-styled hit movie about a demon_ → DEMON SLAYER
 29. **_ _ L _   _ H _ _ K _ U _** — _Grocery run without a cashier_ → SELF CHECKOUT
 30. **_ I _ _ _ R _** — _Where the group chat lives_ → DISCORD
+31. **_ A _ R _   _ O _ _ E _** — _Book series that defined a generation's childhood_ → HARRY POTTER
+32. **_ A _ _ _ A _   _ T _ L _** — _First video to hit a billion views on YouTube_ → GANGNAM STYLE
+33. **_ H _   _ U _ _ E _   _ A _ E _** — _Dystopian trilogy with a bow and arrow_ → THE HUNGER GAMES
+34. **_ L _ _ P _   _ _ R _** — _Mobile game its creator pulled at the height of its fame_ → FLAPPY BIRD
+35. **_ H _   _ F _ _ C _** — _Sitcom shot like a documentary in a paper company_ → THE OFFICE
+36. **_ R _ _ K _ N _   _ A _** — _Chemistry teacher turned drug kingpin_ → BREAKING BAD
+37. **_ _ M _   O F   _ H _ _ _ E _** — _Fantasy series with a much-argued-about final season_ → GAME OF THRONES
+38. **_ C _   _ U _ _ E _   _ H _ _ L _ _ G _** — _Charity trend that soaked everyone in 2014_ → ICE BUCKET CHALLENGE
+39. **_ U _ _ A _   _ _ R _** — _Game played with a plastic guitar_ → GUITAR HERO
+40. **_ _ U _   _ E _ _ _ I _** — _Virtual world where you were a penguin_ → CLUB PENGUIN
 
-**Medium** (20)
+**Medium** (25)
 
 1. **_ _ C _ _ _ _ I _ _** — _Streaming drama about a media dynasty_ → SUCCESSION
 2. **_ _ S _ _ _ T _ _ _ C _ _ _ O _** — _When a platform slowly gets worse_ → ENSHITTIFICATION
@@ -69,8 +79,13 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 18. **_ _ R _ _   _ R _ _ _ N _** — _Why your ride costs triple in the rain_ → SURGE PRICING
 19. **_ _ U _   _ _ I _ _** — _The documentary genre that took over streaming_ → TRUE CRIME
 20. **_ N _ _ _ A _   _ _ _ L _ _   _ _ F _ _ _ N _** — _What a company does when it first sells shares_ → INITIAL PUBLIC OFFERING
+21. **_ I _ _ _ O _ _ _ N _** — _Bait-and-switch with a 1987 music video_ → RICKROLLING
+22. **_ _ N _** — _Six-second video app that shut down in 2017_ → VINE
+23. **_ _ _ B _ _** — _Blogging site with a very specific 2014 atmosphere_ → TUMBLR
+24. **_ _ M _ _ _ R _** — _How a generation illegally got its music_ → LIMEWIRE
+25. **_ H _   _ _ _ L _ _   _ _ A _ _** — _2013 trend that started with one person dancing alone_ → THE HARLEM SHAKE
 
-**Hard** (20)
+**Hard** (25)
 
 1. **E _ _ A _ E _ E _ T   _ A _ T** — _Content built to game a recommendation system_ → ENGAGEMENT BAIT
 2. **_ _ _ _ A _** — _Japanese concept of a reason for being_ → IKIGAI
@@ -92,14 +107,19 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 18. **_ A _ _   _ A T T E _ _ _** — _Interface design meant to trick you into subscribing_ → DARK PATTERNS
 19. **_ O _ O _ _ O _ _ A** — _The fear of being without your phone_ → NOMOPHOBIA
 20. **_ E T _ _ E _ A _   A _ _ _ E _ T E _   _ E _ E _ A T _ O _** — _Attaching an AI to a live document search_ → RETRIEVAL AUGMENTED GENERATION
+21. **_ _ _ _ _ A _ _ _ _   _ _ _ _ R _ _ _ _** — _The stock photo meme with three people on a street_ → DISTRACTED BOYFRIEND
+22. **_ _ _ _ K _ _ _** — _2011 trend of lying face down in strange places_ → PLANKING
+23. **_ _ _ P _ _ _** — _Site where 2000s kids raised virtual pets_ → NEOPETS
+24. **_ _ _ _ _ O _ _ _ _** — _Flash animation hub from before YouTube took over_ → NEWGROUNDS
+25. **_ _ _ B _ _   _ _ _ N _ _ _** — _2010 viral video of a man overwhelmed by the sky_ → DOUBLE RAINBOW
 
 
-### Gnilleps (70)
+### Gnilleps (90)
 
 *Spell the word BACKWARDS out loud. No writing it down first, no peeking.*
 
 
-**Easy** (30)
+**Easy** (40)
 
 1. **PODCAST** → T-S-A-C-D-O-P
 2. **STREAMER** → R-E-M-A-E-R-T-S
@@ -131,8 +151,18 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 28. **ANALYTICS** → S-C-I-T-Y-L-A-N-A
 29. **WORKFLOW** → W-O-L-F-K-R-O-W
 30. **MONETIZE** → E-Z-I-T-E-N-O-M
+31. **RINGTONE** → E-N-O-T-G-N-I-R
+32. **MYSPACE** → E-C-A-P-S-Y-M
+33. **NETFLIX** → X-I-L-F-T-E-N
+34. **YOUTUBE** → E-B-U-T-U-O-Y
+35. **FACEBOOK** → K-O-O-B-E-C-A-F
+36. **EMOTICON** → N-O-C-I-T-O-M-E
+37. **MEGABYTE** → E-T-Y-B-A-G-E-M
+38. **JOYSTICK** → K-C-I-T-S-Y-O-J
+39. **CARTRIDGE** → E-G-D-I-R-T-R-A-C
+40. **HANDHELD** → D-L-E-H-D-N-A-H
 
-**Medium** (20)
+**Medium** (25)
 
 1. **INFLUENCER** → R-E-C-N-E-U-L-F-N-I
 2. **TELEHEALTH** → H-T-L-A-E-H-E-L-E-T
@@ -154,8 +184,13 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 18. **AUTOCORRECT** → T-C-E-R-R-O-C-O-T-U-A
 19. **SCREENSHOTS** → S-T-O-H-S-N-E-E-R-C-S
 20. **ENCRYPTION** → N-O-I-T-P-Y-R-C-N-E
+21. **SCREENSAVER** → R-E-V-A-S-N-E-E-R-C-S
+22. **PHOTOBOMBED** → D-E-B-M-O-B-O-T-O-H-P
+23. **MULTIPLAYER** → R-E-Y-A-L-P-I-T-L-U-M
+24. **LEADERBOARD** → D-R-A-O-B-R-E-D-A-E-L
+25. **HEADPHONES** → S-E-N-O-H-P-D-A-E-H
 
-**Hard** (20)
+**Hard** (25)
 
 1. **CRYPTOCURRENCY** → Y-C-N-E-R-R-U-C-O-T-P-Y-R-C
 2. **NOTIFICATIONS** → S-N-O-I-T-A-C-I-F-I-T-O-N
@@ -177,14 +212,19 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 18. **QUANTIFICATION** → N-O-I-T-A-C-I-F-I-T-N-A-U-Q
 19. **CONTROVERSIAL** → L-A-I-S-R-E-V-O-R-T-N-O-C
 20. **PHOTOREALISTIC** → C-I-T-S-I-L-A-E-R-O-T-O-H-P
+21. **CHATROULETTE** → E-T-T-E-L-U-O-R-T-A-H-C
+22. **SKATEBOARDING** → G-N-I-D-R-A-O-B-E-T-A-K-S
+23. **PROCRASTINATE** → E-T-A-N-I-T-S-A-R-C-O-R-P
+24. **UNPRECEDENTED** → D-E-T-N-E-D-E-C-E-R-P-N-U
+25. **CHAMPIONSHIPS** → S-P-I-H-S-N-O-I-P-M-A-H-C
 
 
-### Lexicon (70)
+### Lexicon (90)
 
 *Read the word and all three definitions out loud. Your team picks the right one.*
 
 
-**Easy** (30)
+**Easy** (40)
 
 1. **BRIGADING** — A) A coordinated pile-on against one person online; B) A fire safety drill; C) Signing up for military service → **A**
 2. **FINSTA** — A) A first-time investor; B) A private second account kept for close friends; C) A fake product listing → **B**
@@ -216,8 +256,18 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 28. **GOLDEN HOUR** — A) The hour after sunrise or before sunset, best for photos; B) The peak time of day for posting online; C) The opening hour of a sale → **A**
 29. **GREENFIELD** — A) An outdoor festival site; B) A project built from scratch with no existing constraints; C) A building with eco certification → **B**
 30. **EVERGREEN** — A) A subscription that renews automatically; B) A sustainably sourced product; C) Content that stays relevant long after it's published → **C**
+31. **RICKROLL** — A) Tricking someone into clicking a Rick Astley video; B) A rolling server restart; C) A bread roll served at diners → **A**
+32. **RAGEQUIT** — A) An aggressive sales tactic; B) Storming out of a game mid-match; C) A very fast checkout process → **B**
+33. **NOOB** — A) A knock-off product; B) A dial on an old radio; C) A beginner, usually said with contempt → **C**
+34. **GRINDING** — A) Repeating dull tasks to build up progress in a game; B) Cutting a video down to length; C) Negotiating hard on price → **A**
+35. **SPEEDRUN** — A) A short high-intensity workout; B) Finishing a game as fast as humanly possible; C) A fast-forward playback feature → **B**
+36. **LET'S PLAY** — A) A children's television segment; B) A shared calendar invitation; C) A video of someone narrating their way through a game → **C**
+37. **CATFISHING** — A) Pretending to be someone else online to start a relationship; B) Fishing without a permit; C) Luring a competitor into a bad deal → **A**
+38. **PHOTOBOMB** — A) Badly overexposing an image; B) Turning up uninvited in someone else's photo; C) Deleting a photo from a device remotely → **B**
+39. **TROLLING** — A) Slowly scrolling through a feed; B) Hunting for online bargains; C) Provoking people online purely for the reaction → **C**
+40. **LEET** — A) Writing words with numbers standing in for letters; B) A brief server outage; C) A brand of protein bar → **A**
 
-**Medium** (20)
+**Medium** (25)
 
 1. **HOMOPHILY** — A) The tendency to bond with people who are like you; B) A fear of large crowds; C) A preference for symmetry in design → **A**
 2. **SEALIONING** — A) Burying a thread in emoji; B) Harassment disguised as polite, relentless questioning; C) Photobombing someone's livestream → **B**
@@ -239,8 +289,13 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 18. **GRANFALLOON** — A) An oversized hot-air balloon; B) A lavish grand opening; C) A group whose shared identity is essentially meaningless → **C**
 19. **VALENCE** — A) Whether an experience is positively or negatively charged; B) The strength of a broadcast signal; C) A formal dress ball → **A**
 20. **ASYMMETRIC INFORMATION** — A) A one-way method of encryption; B) A deal where one side knows far more than the other; C) Data stored in uneven block sizes → **B**
+21. **SHIPPING** — A) Tracking a parcel in transit; B) Moving stock between stores; C) Wanting two characters to end up together → **C**
+22. **CANON** — A) What officially counts as part of a story's world; B) A large historical artillery piece; C) A rule of musical composition → **A**
+23. **RETCON** — A) A convention for retro gaming; B) Changing established backstory after the fact; C) Rebooting a games console → **B**
+24. **STAN** — A) A standing-room-only ticket; B) A default factory configuration; C) An obsessive fan, named after an Eminem song → **C**
+25. **NORMIE** — A) Someone outside a subculture who misses all the references; B) A statistical average; C) A standard-issue uniform → **A**
 
-**Hard** (20)
+**Hard** (25)
 
 1. **ULTRACREPIDARIAN** — A) Someone who confidently opines well beyond their expertise; B) An extreme endurance athlete; C) A very old bound manuscript → **A**
 2. **SONDER** — A) A soft echo in a large hall; B) The realization that every stranger has a life as vivid as your own; C) A journey taken alone → **B**
@@ -262,14 +317,19 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 18. **ERGODICITY** — A) A measure of energy efficiency; B) The science of workplace ergonomics; C) Whether the average over time matches the average across a group → **C**
 19. **SOLASTALGIA** — A) The distress of watching your home environment change around you; B) A melancholy that arrives at sunset; C) Grief over a failed solar installation → **A**
 20. **KOMPROMAT** — A) A negotiated compromise between two states; B) Damaging material collected in order to blackmail someone; C) A compact folding sleeping mat → **B**
+21. **POE'S LAW** — A) The rule that online arguments always escalate; B) The idea that early users set a platform's culture permanently; C) Without a clear signal, parody of an extreme view is indistinguishable from the real thing → **C**
+22. **GODWIN'S LAW** — A) The longer an online argument runs, the likelier a Nazi comparison becomes; B) The claim that content expands to fill available bandwidth; C) The observation that platforms decay as they monetize → **A**
+23. **ETERNAL SEPTEMBER** — A) A name for predictable seasonal traffic spikes; B) The point when a niche community is permanently swamped by newcomers; C) An unusually drawn-out product launch → **B**
+24. **SEMANTIC SATIATION** — A) The point where a market is completely served; B) Over-tagging a piece of content until search breaks; C) When a word repeated enough times stops feeling like a word → **C**
+25. **CYBERBALKANIZATION** — A) The splitting of the internet into isolated, like-minded enclaves; B) The physical division of undersea cable routes; C) A strategy of pricing differently by region → **A**
 
 
-### Spellbound (70)
+### Spellbound (90)
 
 *Spell the word out loud, forwards. One shot, no do-overs.*
 
 
-**Easy** (30)
+**Easy** (40)
 
 1. **CRYPTOCURRENCY**
 2. **ENTREPRENEURSHIP**
@@ -301,8 +361,18 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 28. **COLLEAGUE**
 29. **HIERARCHY**
 30. **EXAGGERATE**
+31. **NOSTALGIA**
+32. **VILLAIN**
+33. **WEIRD**
+34. **RECEIVE**
+35. **CALENDAR**
+36. **GRAMMAR**
+37. **TOMORROW**
+38. **BEGINNING**
+39. **ARGUMENT**
+40. **SURPRISE**
 
-**Medium** (20)
+**Medium** (25)
 
 1. **RENDEZVOUS**
 2. **CHAUFFEUR**
@@ -324,8 +394,13 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 18. **PLAYWRIGHT**
 19. **THRESHOLD**
 20. **VACUUM**
+21. **PHARAOH**
+22. **JEWELRY**
+23. **LICENSE**
+24. **RESTAURANT**
+25. **GAUGE**
 
-**Hard** (20)
+**Hard** (25)
 
 1. **WORCESTERSHIRE**
 2. **BOUILLABAISSE**
@@ -347,17 +422,22 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 18. **DAIQUIRI**
 19. **SUPERSEDE**
 20. **PARAPHERNALIA**
+21. **FUCHSIA**
+22. **LIQUEFY**
+23. **VACILLATE**
+24. **GNOCCHI**
+25. **SOLILOQUY**
 
 
-## Creative Cat — Draw it, sculpt it, no words allowed (210 cards)
+## Creative Cat — Draw it, sculpt it, no words allowed (270 cards)
 
 
-### Cloodle (70)
+### Cloodle (90)
 
 *Draw it with your eyes OPEN. No letters, no numbers, no talking, no gestures.*
 
 
-**Easy** (30)
+**Easy** (40)
 
 1. Wireless earbuds
 2. A ring light
@@ -389,8 +469,18 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 28. A podcast studio
 29. A smart doorbell
 30. A bad haircut
+31. An iPod
+32. A Wii remote
+33. A flip phone
+34. A Guitar Hero controller
+35. A DVD box set
+36. 3D movie glasses
+37. A Polaroid camera
+38. A fidget spinner
+39. A GoPro
+40. A beanbag chair
 
-**Medium** (20)
+**Medium** (25)
 
 1. A rideshare pickup
 2. A kitchen disaster
@@ -412,8 +502,13 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 18. Rooftop solar panels
 19. A crashing stock chart
 20. A long checkout line
+21. A LAN party
+22. A Blockbuster store
+23. A photo booth strip
+24. A mall food court
+25. A school computer lab
 
-**Hard** (20)
+**Hard** (25)
 
 1. Burnout
 2. The algorithm
@@ -435,14 +530,19 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 18. The attention economy
 19. Sustainability
 20. Doomscrolling
+21. Growing up
+22. A childhood memory
+23. The end of an era
+24. Selling out
+25. Peer pressure
 
 
-### Sensosketch (70)
+### Sensosketch (90)
 
 *Draw it with your eyes CLOSED. Keep it simple — you can't see what you're doing.*
 
 
-**Easy** (30)
+**Easy** (40)
 
 1. A Wi-Fi symbol
 2. A wristwatch
@@ -474,8 +574,18 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 28. A padlock
 29. A snowman wearing headphones
 30. A taco
+31. A flip phone
+32. A film camera
+33. A CD
+34. A boombox
+35. A basketball hoop
+36. A picnic bench
+37. A traffic light
+38. A wind chime
+39. A ferris wheel
+40. A microwave
 
-**Medium** (20)
+**Medium** (25)
 
 1. A bicycle
 2. An octopus
@@ -497,8 +607,13 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 18. A car
 19. A stack of pancakes
 20. An umbrella
+21. A hedgehog
+22. A tractor
+23. A grandfather clock
+24. A penguin
+25. A saxophone
 
-**Hard** (20)
+**Hard** (25)
 
 1. A dinosaur on a skateboard
 2. A person doing a handstand
@@ -520,14 +635,19 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 18. A motorcycle
 19. Someone eating spaghetti
 20. A spiral staircase
+21. A person riding a bike
+22. A hand holding a pen
+23. A cat stretching
+24. A drum kit
+25. Two people shaking hands
 
 
-### Sculptorades (70)
+### Sculptorades (90)
 
 *Sculpt it out of clay. No letters, no numbers, no sound effects, no charades.*
 
 
-**Easy** (30)
+**Easy** (40)
 
 1. A game controller
 2. A bike helmet
@@ -559,8 +679,18 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 28. A wedding cake
 29. A hair dryer
 30. A hamster ball
+31. A Rubik's cube
+32. A cassette tape
+33. A Game Boy
+34. A yo-yo
+35. A slinky
+36. A basketball
+37. A trophy
+38. A garden gnome
+39. A snow globe
+40. A pair of dice
 
-**Medium** (20)
+**Medium** (25)
 
 1. A ramen bowl
 2. A robot arm
@@ -582,8 +712,13 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 18. A camping tent
 19. A soft-serve cone
 20. A stethoscope
+21. A claw machine
+22. A jukebox
+23. A pinball machine
+24. A record player
+25. A popcorn machine
 
-**Hard** (20)
+**Hard** (25)
 
 1. Going viral
 2. A traffic jam
@@ -605,17 +740,22 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 18. An awkward silence
 19. Growth
 20. A software update
+21. Childhood
+22. Friendship
+23. A rivalry
+24. A comeback
+25. A long-distance relationship
 
 
-## Data Head — Trivia, true-or-false, and multiple choice (210 cards)
+## Data Head — Trivia, true-or-false, and multiple choice (270 cards)
 
 
-### Factoid (70)
+### Factoid (90)
 
 *Read the question. The whole team can confer on one answer.*
 
 
-**Easy** (30)
+**Easy** (40)
 
 1. Which company owns YouTube? → **Google (Alphabet)**
 2. What Korean survival drama became Netflix's most-watched series ever after it premiered in 2021? → **Squid Game**
@@ -647,8 +787,18 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 28. Which company makes the PlayStation? → **Sony**
 29. What Disney+ series follows a bounty hunter and a small green alien child? → **The Mandalorian**
 30. What word describes the practice of doing your job from anywhere while traveling? → **Being a digital nomad**
+31. What was the first YouTube video to reach a billion views? → **Gangnam Style**
+32. What social network came before Facebook and ranked your Top 8 friends? → **MySpace**
+33. What six-second video app shut down in 2017? → **Vine**
+34. Which video rental chain did Netflix put out of business? → **Blockbuster**
+35. What 2014 charity trend had people dumping ice water on their heads? → **The Ice Bucket Challenge**
+36. What Apple device played your music before the iPhone did? → **The iPod**
+37. What was the first Marvel Cinematic Universe film, released in 2008? → **Iron Man**
+38. What book and film series is set at a school called Hogwarts? → **Harry Potter**
+39. What console did Nintendo release in 2006 with motion controls? → **The Wii**
+40. Which app is known for disappearing photos and 'streaks'? → **Snapchat**
 
-**Medium** (20)
+**Medium** (25)
 
 1. What does the 'GPT' in ChatGPT stand for? → **Generative Pre-trained Transformer**
 2. Which lab built AlphaFold, the AI that predicts protein structures? → **DeepMind (Google DeepMind)**
@@ -670,8 +820,13 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 18. What protocol does the social network Bluesky run on? → **The AT Protocol**
 19. Which country was the first to make Bitcoin legal tender? → **El Salvador**
 20. What does 'IPO' stand for? → **Initial Public Offering**
+21. In what year did the first iPhone go on sale? → **2007**
+22. Which rapper released the album 'Take Care' in 2011? → **Drake**
+23. What was the highest-grossing film of the 2010s? → **Avengers: Endgame**
+24. Which video game franchise features a soldier called Master Chief? → **Halo**
+25. What file-sharing service was shut down in 2001 over music piracy? → **Napster**
 
-**Hard** (20)
+**Hard** (25)
 
 1. What is the title of the 2017 paper that introduced the transformer architecture? → **'Attention Is All You Need'**
 2. How many bitcoins will ever exist? → **21 million**
@@ -693,14 +848,19 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 18. Where does the James Webb Space Telescope sit? → **At the L2 point, about a million miles from Earth**
 19. What is 'quantum supremacy'? → **The point at which a quantum computer solves a problem no classical computer feasibly can**
 20. Which 2014 stock market debut raised more money than any IPO before it? → **Alibaba**
+21. What was the very first video uploaded to YouTube? → **'Me at the zoo', in 2005**
+22. In what year did Instagram launch Stories? → **2016**
+23. Which Google product — its attempt at a social network — shut down in 2019? → **Google+**
+24. Which phone was recalled in 2016 because its batteries caught fire? → **The Samsung Galaxy Note 7**
+25. In what year did Netflix start streaming video instead of only mailing DVDs? → **2007**
 
 
-### Polygraph (70)
+### Polygraph (90)
 
 *Read the statement. The team decides: true or false?*
 
 
-**Easy** (30)
+**Easy** (40)
 
 1. Netflix started out as a DVD-by-mail rental company. → **TRUE**
 2. The very first text message ever sent read 'Merry Christmas.' → **TRUE**
@@ -732,8 +892,18 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 28. Nvidia got its start making graphics cards for video games. → **TRUE**
 29. The @ symbol appeared on typewriters before computers existed. → **TRUE**
 30. Wikipedia's articles are written by paid staff writers. → **FALSE** (It's written and edited by unpaid volunteers.)
+31. Vine videos were capped at six seconds. → **TRUE**
+32. MySpace let you set a song that played automatically on your profile. → **TRUE**
+33. Blockbuster had the chance to buy Netflix and turned it down. → **TRUE**
+34. The Wii shipped with Wii Sports in most regions. → **TRUE**
+35. A Snapchat streak counts consecutive days two people have snapped each other. → **TRUE**
+36. The first Harry Potter film came out in the 1990s. → **FALSE** (It was released in 2001.)
+37. 'Gangnam Style' was the first YouTube video to pass a billion views. → **TRUE**
+38. The iPod was released before the iPhone. → **TRUE**
+39. Angry Birds started life as a console game. → **FALSE** (It launched on mobile in 2009.)
+40. Disney bought Club Penguin. → **TRUE**
 
-**Medium** (20)
+**Medium** (25)
 
 1. The 'S' in HTTPS stands for 'secure.' → **TRUE**
 2. 'Wi-Fi' is an abbreviation of 'Wireless Fidelity.' → **FALSE** (It's a brand name a marketing firm invented — it doesn't stand for anything.)
@@ -755,8 +925,13 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 18. Modern AI language models are programmed with explicit grammar rules. → **FALSE** (They learn statistical patterns from text instead.)
 19. The James Webb Space Telescope observes mainly in infrared. → **TRUE**
 20. Apple takes a cut of most purchases made inside App Store apps. → **TRUE**
+21. The Ice Bucket Challenge raised over $100 million for ALS research. → **TRUE**
+22. Flappy Bird was pulled from app stores by its own creator. → **TRUE**
+23. Minecraft was created by a Swedish developer. → **TRUE** (Markus 'Notch' Persson.)
+24. The Harlem Shake videos all used a track by a producer called Baauer. → **TRUE**
+25. Twitter's original character limit was 140. → **TRUE**
 
-**Hard** (20)
+**Hard** (25)
 
 1. There are more mobile phone subscriptions in the world than there are people. → **TRUE**
 2. The first computer programmer is generally considered to have been a woman. → **TRUE** (Ada Lovelace, in the 1840s.)
@@ -778,14 +953,19 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 18. The @ symbol was picked for email addresses partly because it was rarely used. → **TRUE**
 19. Moore's Law is a law of physics. → **FALSE** (It's an observed trend, and an industry target.)
 20. The first webcam was set up to watch a coffee pot. → **TRUE** (The Trojan Room coffee pot at Cambridge.)
+21. YouTube was originally built as a video dating site. → **TRUE**
+22. The 'Distracted Boyfriend' meme is a stock photo shot in Spain. → **TRUE** (Barcelona.)
+23. Facebook bought Instagram for around a billion dollars. → **TRUE**
+24. The blue-and-black versus white-and-gold dress argument happened in 2015. → **TRUE**
+25. Rick Astley wrote 'Never Gonna Give You Up' himself. → **FALSE** (It was written by the production trio Stock Aitken Waterman.)
 
 
-### Selectaquest (70)
+### Selectaquest (90)
 
 *Read the question and all the choices out loud. The team picks one.*
 
 
-**Easy** (30)
+**Easy** (40)
 
 1. Which of these launched FIRST? — A) TikTok; B) Instagram; C) Snapchat; D) Zoom → **B**
 2. What does 'HTTP' stand for? — A) HyperText Transfer Protocol; B) High Traffic Transfer Process; C) Hosted Text Transport Protocol; D) Hyperlink Transmission Path → **A**
@@ -817,8 +997,18 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 28. Which of these movies came out most recently? — A) Avatar; B) Titanic; C) Barbie; D) Jurassic Park → **C**
 29. What does 'POV' stand for in a video caption? — A) Point Of View; B) Plenty Of Vibes; C) Post On Video; D) Play Or Vote → **A**
 30. Which company built the Falcon 9 rocket? — A) Blue Origin; B) SpaceX; C) Boeing; D) Rocket Lab → **B**
+31. Which of these apps shut down in 2017? — A) Vine; B) Snapchat; C) Reddit; D) Spotify → **A**
+32. In which virtual world did you play as a penguin? — A) Webkinz; B) Club Penguin; C) Neopets; D) Habbo → **B**
+33. Which console had motion controls and a sensor bar? — A) Xbox 360; B) PlayStation 3; C) Nintendo Wii; D) PSP → **C**
+34. Who performed 'Gangnam Style'? — A) BIGBANG; B) Rain; C) G-Dragon; D) PSY → **D**
+35. What is the name of Harry Potter's school? — A) Hogwarts; B) Durmstrang; C) Beauxbatons; D) Ilvermorny → **A**
+36. Which of these was a Nintendo handheld? — A) Sega Genesis; B) Game Boy; C) Atari Jaguar; D) Neo Geo → **B**
+37. What was the first Marvel Cinematic Universe film? — A) The Incredible Hulk; B) Thor; C) Iron Man; D) Captain America → **C**
+38. Who is the main character of The Hunger Games? — A) Tris Prior; B) Bella Swan; C) Hermione Granger; D) Katniss Everdeen → **D**
+39. In which mobile game did you fling birds at pigs? — A) Angry Birds; B) Cut the Rope; C) Fruit Ninja; D) Temple Run → **A**
+40. Which app popularized 'streaks'? — A) Instagram; B) Snapchat; C) Twitter; D) Pinterest → **B**
 
-**Medium** (20)
+**Medium** (25)
 
 1. What does 'GPT' stand for? — A) General Purpose Technology; B) Generative Pre-trained Transformer; C) Graphical Processing Tool; D) Global Prediction Table → **B**
 2. Which company makes the chips most used to train AI models? — A) Intel; B) AMD; C) Nvidia; D) Qualcomm → **C**
@@ -840,8 +1030,13 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 18. Which source has added the most new electricity generation worldwide in recent years? — A) Coal; B) Nuclear; C) Solar; D) Natural gas → **C**
 19. What does 'end-to-end encryption' mean? — A) Only the sender and recipient can read it; B) It's encrypted only while stored on the server; C) It deletes after being read; D) It's compressed for transfer → **A**
 20. Which of these is NOT a cloud computing provider? — A) AWS; B) Azure; C) Google Cloud; D) Shopify → **D**
+21. In what year did the first iPhone go on sale? — A) 2005; B) 2007; C) 2009; D) 2011 → **B**
+22. Which of these launched first? — A) Minecraft; B) Fortnite; C) Among Us; D) Roblox → **D**
+23. Which film was the highest-grossing of the 2010s? — A) Avatar; B) Titanic; C) Avengers: Endgame; D) The Force Awakens → **C**
+24. Which company bought Instagram in 2012? — A) Google; B) Facebook; C) Twitter; D) Yahoo → **B**
+25. Which music service was shut down in 2001 over piracy? — A) LimeWire; B) Kazaa; C) Napster; D) BitTorrent → **C**
 
-**Hard** (20)
+**Hard** (25)
 
 1. The 2017 paper that introduced the transformer architecture is titled: — A) Deep Residual Learning; B) Attention Is All You Need; C) Generative Adversarial Networks; D) ImageNet Classification → **B**
 2. Which Nobel Prize did the AlphaFold team share in 2024? — A) Physics; B) Chemistry; C) Medicine; D) Peace → **B**
@@ -863,17 +1058,22 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 18. What is 'differential privacy'? — A) Adding statistical noise so no individual can be identified in a dataset; B) Different privacy laws in different regions; C) Encrypting only the sensitive fields; D) Charging users extra for privacy → **A**
 19. Which of these is a real claimed computing milestone? — A) Quantum supremacy; B) Quantum saturation; C) Quantum convergence; D) Quantum inversion → **A**
 20. Which company's chips does TSMC manufacture? — A) Only its own; B) Apple's and Nvidia's, among others; C) Only Intel's; D) None — it designs but doesn't manufacture → **B**
+21. What was the first video uploaded to YouTube? — A) Me at the zoo; B) Charlie Bit My Finger; C) Evolution of Dance; D) Numa Numa → **A**
+22. In what year did Instagram launch Stories? — A) 2013; B) 2016; C) 2018; D) 2020 → **B**
+23. Which Google product shut down in 2019? — A) Gmail; B) Google Docs; C) Google+; D) Google Maps → **C**
+24. Which phone was recalled in 2016 for catching fire? — A) iPhone 7; B) Google Pixel; C) LG G5; D) Samsung Galaxy Note 7 → **D**
+25. In what year did Netflix begin streaming video? — A) 2003; B) 2007; C) 2011; D) 2013 → **B**
 
 
-## Star Performer — Act it, impersonate it, hum it (210 cards)
+## Star Performer — Act it, impersonate it, hum it (270 cards)
 
 
-### Cameo (70)
+### Cameo (90)
 
 *Charades. Act it out silently — no talking, no sound effects, no pointing at objects in the room.*
 
 
-**Easy** (30)
+**Easy** (40)
 
 1. Looking for a signal
 2. A first day at a new job
@@ -905,8 +1105,18 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 28. Installing a car seat
 29. Faking the lyrics
 30. Splashed by a car
+31. Blowing into a game cartridge
+32. Rewinding a VHS tape
+33. Playing Guitar Hero
+34. Bowling on the Wii
+35. Burning a CD
+36. Taking a Polaroid
+37. Doing the floss dance
+38. A trust fall
+39. Musical chairs
+40. Blowing out birthday candles
 
-**Medium** (20)
+**Medium** (25)
 
 1. An Irish goodbye
 2. Sharing the wrong screen
@@ -928,8 +1138,13 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 18. Photobombing
 19. Last-minute gift wrapping
 20. A shirt on inside out
+21. School photo day
+22. A first driving lesson
+23. Sneaking in past curfew
+24. A middle school dance
+25. Cramming for an exam
 
-**Hard** (20)
+**Hard** (25)
 
 1. Deja vu
 2. Writer's block
@@ -951,14 +1166,19 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 18. Free will
 19. Bureaucracy
 20. The passage of time
+21. Growing up
+22. Homesickness
+23. Second-hand embarrassment
+24. A guilty conscience
+25. Muscle memory
 
 
-### Copycat (70)
+### Copycat (90)
 
 *Impersonate it out loud. Talk and act like them — but never say their name or the words on the card.*
 
 
-**Easy** (30)
+**Easy** (40)
 
 1. A tech CEO on stage
 2. A true-crime podcast host
@@ -990,8 +1210,18 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 28. A voice actor playing a villain
 29. A chatty dentist
 30. A bored tour guide
+31. A substitute teacher
+32. A principal on the intercom
+33. A camp counselor
+34. A bus driver
+35. A lifeguard
+36. A birthday party clown
+37. A coach at halftime
+38. A game show host
+39. A magician
+40. A radio caller winning a prize
 
-**Medium** (20)
+**Medium** (25)
 
 1. A guest plugging their book
 2. A landlord showing an apartment
@@ -1013,8 +1243,13 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 18. A ride safety announcement
 19. A personal trainer
 20. A documentary interview
+21. A morning school announcement
+22. A driving instructor
+23. A carnival barker
+24. A late-night talk show host
+25. A wrestler cutting a promo
 
-**Hard** (20)
+**Hard** (25)
 
 1. A GPS that gave up
 2. Your home Wi-Fi router
@@ -1036,14 +1271,19 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 18. A wobbly shopping cart
 19. Autocorrect
 20. A data center
+21. A dial-up modem connecting
+22. A microwave finishing
+23. A car alarm
+24. An escalator
+25. A mall at closing time
 
 
-### Humdinger (70)
+### Humdinger (90)
 
 *Hum the tune. No words, no lyrics, no tapping out the rhythm on the table.*
 
 
-**Easy** (30)
+**Easy** (40)
 
 1. **Espresso** — Sabrina Carpenter
 2. **Blinding Lights** — The Weeknd
@@ -1075,8 +1315,18 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 28. **Cheap Thrills** — Sia
 29. **Wake Me Up** — Avicii
 30. **Radioactive** — Imagine Dragons
+31. **Party in the U.S.A.** — Miley Cyrus
+32. **Call Me Maybe** — Carly Rae Jepsen
+33. **Baby** — Justin Bieber
+34. **I Gotta Feeling** — The Black Eyed Peas
+35. **Party Rock Anthem** — LMFAO
+36. **Firework** — Katy Perry
+37. **Tik Tok** — Kesha
+38. **What Makes You Beautiful** — One Direction
+39. **Thrift Shop** — Macklemore & Ryan Lewis
+40. **Stereo Hearts** — Gym Class Heroes
 
-**Medium** (20)
+**Medium** (25)
 
 1. **Somebody That I Used to Know** — Gotye
 2. **Take Me to Church** — Hozier
@@ -1098,8 +1348,13 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 18. **Rather Be** — Clean Bandit
 19. **Ophelia** — The Lumineers
 20. **Snooze** — SZA
+21. **Mr. Brightside** — The Killers
+22. **Sugar, We're Goin Down** — Fall Out Boy
+23. **Welcome to the Black Parade** — My Chemical Romance
+24. **Hey Ya!** — OutKast
+25. **Feel Good Inc.** — Gorillaz
 
-**Hard** (20)
+**Hard** (25)
 
 1. **The Squid Game theme** — TV theme
 2. **The Succession theme** — TV theme
@@ -1121,4 +1376,9 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 18. **The Pirates of the Caribbean theme** — from the films
 19. **Hedwig's Theme** — from Harry Potter
 20. **The Jurassic Park theme** — from the film
+21. **The Mii Channel theme** — Nintendo Wii
+22. **Sweden** — C418, from Minecraft
+23. **The Pokemon battle theme** — Red and Blue
+24. **The SpongeBob SquarePants theme** — TV theme
+25. **The Wii Sports theme** — video game
 

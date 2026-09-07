@@ -356,6 +356,106 @@
           "q": "Which 2014 stock market debut raised more money than any IPO before it?",
           "a": "Alibaba",
           "difficulty": "hard"
+        },
+        {
+          "q": "What was the first YouTube video to reach a billion views?",
+          "a": "Gangnam Style",
+          "difficulty": "easy"
+        },
+        {
+          "q": "What social network came before Facebook and ranked your Top 8 friends?",
+          "a": "MySpace",
+          "difficulty": "easy"
+        },
+        {
+          "q": "What six-second video app shut down in 2017?",
+          "a": "Vine",
+          "difficulty": "easy"
+        },
+        {
+          "q": "Which video rental chain did Netflix put out of business?",
+          "a": "Blockbuster",
+          "difficulty": "easy"
+        },
+        {
+          "q": "What 2014 charity trend had people dumping ice water on their heads?",
+          "a": "The Ice Bucket Challenge",
+          "difficulty": "easy"
+        },
+        {
+          "q": "What Apple device played your music before the iPhone did?",
+          "a": "The iPod",
+          "difficulty": "easy"
+        },
+        {
+          "q": "What was the first Marvel Cinematic Universe film, released in 2008?",
+          "a": "Iron Man",
+          "difficulty": "easy"
+        },
+        {
+          "q": "What book and film series is set at a school called Hogwarts?",
+          "a": "Harry Potter",
+          "difficulty": "easy"
+        },
+        {
+          "q": "What console did Nintendo release in 2006 with motion controls?",
+          "a": "The Wii",
+          "difficulty": "easy"
+        },
+        {
+          "q": "Which app is known for disappearing photos and 'streaks'?",
+          "a": "Snapchat",
+          "difficulty": "easy"
+        },
+        {
+          "q": "In what year did the first iPhone go on sale?",
+          "a": "2007",
+          "difficulty": "medium"
+        },
+        {
+          "q": "Which rapper released the album 'Take Care' in 2011?",
+          "a": "Drake",
+          "difficulty": "medium"
+        },
+        {
+          "q": "What was the highest-grossing film of the 2010s?",
+          "a": "Avengers: Endgame",
+          "difficulty": "medium"
+        },
+        {
+          "q": "Which video game franchise features a soldier called Master Chief?",
+          "a": "Halo",
+          "difficulty": "medium"
+        },
+        {
+          "q": "What file-sharing service was shut down in 2001 over music piracy?",
+          "a": "Napster",
+          "difficulty": "medium"
+        },
+        {
+          "q": "What was the very first video uploaded to YouTube?",
+          "a": "'Me at the zoo', in 2005",
+          "difficulty": "hard"
+        },
+        {
+          "q": "In what year did Instagram launch Stories?",
+          "a": "2016",
+          "difficulty": "hard"
+        },
+        {
+          "q": "Which Google product — its attempt at a social network — shut down in 2019?",
+          "a": "Google+",
+          "difficulty": "hard"
+        },
+        {
+          "q": "Which phone was recalled in 2016 because its batteries caught fire?",
+          "a": "The Samsung Galaxy Note 7",
+          "difficulty": "hard"
+        },
+        {
+          "q": "In what year did Netflix start streaming video instead of only mailing DVDs?",
+          "a": "2007",
+          "difficulty": "hard"
         }
       ]
     },
@@ -740,6 +840,111 @@
           "a": true,
           "difficulty": "hard",
           "note": "The Trojan Room coffee pot at Cambridge."
+        },
+        {
+          "q": "Vine videos were capped at six seconds.",
+          "a": true,
+          "difficulty": "easy"
+        },
+        {
+          "q": "MySpace let you set a song that played automatically on your profile.",
+          "a": true,
+          "difficulty": "easy"
+        },
+        {
+          "q": "Blockbuster had the chance to buy Netflix and turned it down.",
+          "a": true,
+          "difficulty": "easy"
+        },
+        {
+          "q": "The Wii shipped with Wii Sports in most regions.",
+          "a": true,
+          "difficulty": "easy"
+        },
+        {
+          "q": "A Snapchat streak counts consecutive days two people have snapped each other.",
+          "a": true,
+          "difficulty": "easy"
+        },
+        {
+          "q": "The first Harry Potter film came out in the 1990s.",
+          "a": false,
+          "difficulty": "easy",
+          "note": "It was released in 2001."
+        },
+        {
+          "q": "'Gangnam Style' was the first YouTube video to pass a billion views.",
+          "a": true,
+          "difficulty": "easy"
+        },
+        {
+          "q": "The iPod was released before the iPhone.",
+          "a": true,
+          "difficulty": "easy"
+        },
+        {
+          "q": "Angry Birds started life as a console game.",
+          "a": false,
+          "difficulty": "easy",
+          "note": "It launched on mobile in 2009."
+        },
+        {
+          "q": "Disney bought Club Penguin.",
+          "a": true,
+          "difficulty": "easy"
+        },
+        {
+          "q": "The Ice Bucket Challenge raised over $100 million for ALS research.",
+          "a": true,
+          "difficulty": "medium"
+        },
+        {
+          "q": "Flappy Bird was pulled from app stores by its own creator.",
+          "a": true,
+          "difficulty": "medium"
+        },
+        {
+          "q": "Minecraft was created by a Swedish developer.",
+          "a": true,
+          "difficulty": "medium",
+          "note": "Markus 'Notch' Persson."
+        },
+        {
+          "q": "The Harlem Shake videos all used a track by a producer called Baauer.",
+          "a": true,
+          "difficulty": "medium"
+        },
+        {
+          "q": "Twitter's original character limit was 140.",
+          "a": true,
+          "difficulty": "medium"
+        },
+        {
+          "q": "YouTube was originally built as a video dating site.",
+          "a": true,
+          "difficulty": "hard"
+        },
+        {
+          "q": "The 'Distracted Boyfriend' meme is a stock photo shot in Spain.",
+          "a": true,
+          "difficulty": "hard",
+          "note": "Barcelona."
+        },
+        {
+          "q": "Facebook bought Instagram for around a billion dollars.",
+          "a": true,
+          "difficulty": "hard"
+        },
+        {
+          "q": "The blue-and-black versus white-and-gold dress argument happened in 2015.",
+          "a": true,
+          "difficulty": "hard"
+        },
+        {
+          "q": "Rick Astley wrote 'Never Gonna Give You Up' himself.",
+          "a": false,
+          "difficulty": "hard",
+          "note": "It was written by the production trio Stock Aitken Waterman."
         }
       ]
     },
@@ -1513,6 +1718,226 @@
             "Apple's and Nvidia's, among others",
             "Only Intel's",
             "None — it designs but doesn't manufacture"
+          ],
+          "answer": 1,
+          "difficulty": "hard"
+        },
+        {
+          "q": "Which of these apps shut down in 2017?",
+          "options": [
+            "Vine",
+            "Snapchat",
+            "Reddit",
+            "Spotify"
+          ],
+          "answer": 0,
+          "difficulty": "easy"
+        },
+        {
+          "q": "In which virtual world did you play as a penguin?",
+          "options": [
+            "Webkinz",
+            "Club Penguin",
+            "Neopets",
+            "Habbo"
+          ],
+          "answer": 1,
+          "difficulty": "easy"
+        },
+        {
+          "q": "Which console had motion controls and a sensor bar?",
+          "options": [
+            "Xbox 360",
+            "PlayStation 3",
+            "Nintendo Wii",
+            "PSP"
+          ],
+          "answer": 2,
+          "difficulty": "easy"
+        },
+        {
+          "q": "Who performed 'Gangnam Style'?",
+          "options": [
+            "BIGBANG",
+            "Rain",
+            "G-Dragon",
+            "PSY"
+          ],
+          "answer": 3,
+          "difficulty": "easy"
+        },
+        {
+          "q": "What is the name of Harry Potter's school?",
+          "options": [
+            "Hogwarts",
+            "Durmstrang",
+            "Beauxbatons",
+            "Ilvermorny"
+          ],
+          "answer": 0,
+          "difficulty": "easy"
+        },
+        {
+          "q": "Which of these was a Nintendo handheld?",
+          "options": [
+            "Sega Genesis",
+            "Game Boy",
+            "Atari Jaguar",
+            "Neo Geo"
+          ],
+          "answer": 1,
+          "difficulty": "easy"
+        },
+        {
+          "q": "What was the first Marvel Cinematic Universe film?",
+          "options": [
+            "The Incredible Hulk",
+            "Thor",
+            "Iron Man",
+            "Captain America"
+          ],
+          "answer": 2,
+          "difficulty": "easy"
+        },
+        {
+          "q": "Who is the main character of The Hunger Games?",
+          "options": [
+            "Tris Prior",
+            "Bella Swan",
+            "Hermione Granger",
+            "Katniss Everdeen"
+          ],
+          "answer": 3,
+          "difficulty": "easy"
+        },
+        {
+          "q": "In which mobile game did you fling birds at pigs?",
+          "options": [
+            "Angry Birds",
+            "Cut the Rope",
+            "Fruit Ninja",
+            "Temple Run"
+          ],
+          "answer": 0,
+          "difficulty": "easy"
+        },
+        {
+          "q": "Which app popularized 'streaks'?",
+          "options": [
+            "Instagram",
+            "Snapchat",
+            "Twitter",
+            "Pinterest"
+          ],
+          "answer": 1,
+          "difficulty": "easy"
+        },
+        {
+          "q": "In what year did the first iPhone go on sale?",
+          "options": [
+            "2005",
+            "2007",
+            "2009",
+            "2011"
+          ],
+          "answer": 1,
+          "difficulty": "medium"
+        },
+        {
+          "q": "Which of these launched first?",
+          "options": [
+            "Minecraft",
+            "Fortnite",
+            "Among Us",
+            "Roblox"
+          ],
+          "answer": 3,
+          "difficulty": "medium"
+        },
+        {
+          "q": "Which film was the highest-grossing of the 2010s?",
+          "options": [
+            "Avatar",
+            "Titanic",
+            "Avengers: Endgame",
+            "The Force Awakens"
+          ],
+          "answer": 2,
+          "difficulty": "medium"
+        },
+        {
+          "q": "Which company bought Instagram in 2012?",
+          "options": [
+            "Google",
+            "Facebook",
+            "Twitter",
+            "Yahoo"
+          ],
+          "answer": 1,
+          "difficulty": "medium"
+        },
+        {
+          "q": "Which music service was shut down in 2001 over piracy?",
+          "options": [
+            "LimeWire",
+            "Kazaa",
+            "Napster",
+            "BitTorrent"
+          ],
+          "answer": 2,
+          "difficulty": "medium"
+        },
+        {
+          "q": "What was the first video uploaded to YouTube?",
+          "options": [
+            "Me at the zoo",
+            "Charlie Bit My Finger",
+            "Evolution of Dance",
+            "Numa Numa"
+          ],
+          "answer": 0,
+          "difficulty": "hard"
+        },
+        {
+          "q": "In what year did Instagram launch Stories?",
+          "options": [
+            "2013",
+            "2016",
+            "2018",
+            "2020"
+          ],
+          "answer": 1,
+          "difficulty": "hard"
+        },
+        {
+          "q": "Which Google product shut down in 2019?",
+          "options": [
+            "Gmail",
+            "Google Docs",
+            "Google+",
+            "Google Maps"
+          ],
+          "answer": 2,
+          "difficulty": "hard"
+        },
+        {
+          "q": "Which phone was recalled in 2016 for catching fire?",
+          "options": [
+            "iPhone 7",
+            "Google Pixel",
+            "LG G5",
+            "Samsung Galaxy Note 7"
+          ],
+          "answer": 3,
+          "difficulty": "hard"
+        },
+        {
+          "q": "In what year did Netflix begin streaming video?",
+          "options": [
+            "2003",
+            "2007",
+            "2011",
+            "2013"
           ],
           "answer": 1,
           "difficulty": "hard"

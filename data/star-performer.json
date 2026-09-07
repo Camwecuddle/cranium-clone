@@ -286,6 +286,86 @@
         {
           "clue": "The passage of time",
           "difficulty": "hard"
+        },
+        {
+          "clue": "Blowing into a game cartridge",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "Rewinding a VHS tape",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "Playing Guitar Hero",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "Bowling on the Wii",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "Burning a CD",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "Taking a Polaroid",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "Doing the floss dance",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A trust fall",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "Musical chairs",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "Blowing out birthday candles",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "School photo day",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "A first driving lesson",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Sneaking in past curfew",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "A middle school dance",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Cramming for an exam",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Growing up",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "Homesickness",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "Second-hand embarrassment",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "A guilty conscience",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "Muscle memory",
+          "difficulty": "hard"
         }
       ]
     },
@@ -571,6 +651,86 @@
         },
         {
           "clue": "A data center",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "A substitute teacher",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A principal on the intercom",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A camp counselor",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A bus driver",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A lifeguard",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A birthday party clown",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A coach at halftime",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A game show host",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A magician",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A radio caller winning a prize",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A morning school announcement",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "A driving instructor",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "A carnival barker",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "A late-night talk show host",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "A wrestler cutting a promo",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "A dial-up modem connecting",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "A microwave finishing",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "A car alarm",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "An escalator",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "A mall at closing time",
           "difficulty": "hard"
         }
       ]
@@ -927,6 +1087,106 @@
         {
           "clue": "The Jurassic Park theme",
           "artist": "from the film",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "Party in the U.S.A.",
+          "artist": "Miley Cyrus",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "Call Me Maybe",
+          "artist": "Carly Rae Jepsen",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "Baby",
+          "artist": "Justin Bieber",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "I Gotta Feeling",
+          "artist": "The Black Eyed Peas",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "Party Rock Anthem",
+          "artist": "LMFAO",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "Firework",
+          "artist": "Katy Perry",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "Tik Tok",
+          "artist": "Kesha",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "What Makes You Beautiful",
+          "artist": "One Direction",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "Thrift Shop",
+          "artist": "Macklemore & Ryan Lewis",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "Stereo Hearts",
+          "artist": "Gym Class Heroes",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "Mr. Brightside",
+          "artist": "The Killers",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Sugar, We're Goin Down",
+          "artist": "Fall Out Boy",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Welcome to the Black Parade",
+          "artist": "My Chemical Romance",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Hey Ya!",
+          "artist": "OutKast",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Feel Good Inc.",
+          "artist": "Gorillaz",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "The Mii Channel theme",
+          "artist": "Nintendo Wii",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "Sweden",
+          "artist": "C418, from Minecraft",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "The Pokemon battle theme",
+          "artist": "Red and Blue",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "The SpongeBob SquarePants theme",
+          "artist": "TV theme",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "The Wii Sports theme",
+          "artist": "video game",
           "difficulty": "hard"
         }
       ]

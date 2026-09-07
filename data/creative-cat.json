@@ -286,6 +286,86 @@
         {
           "clue": "Doomscrolling",
           "difficulty": "hard"
+        },
+        {
+          "clue": "An iPod",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A Wii remote",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A flip phone",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A Guitar Hero controller",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A DVD box set",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "3D movie glasses",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A Polaroid camera",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A fidget spinner",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A GoPro",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A beanbag chair",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A LAN party",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "A Blockbuster store",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "A photo booth strip",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "A mall food court",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "A school computer lab",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Growing up",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "A childhood memory",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "The end of an era",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "Selling out",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "Peer pressure",
+          "difficulty": "hard"
         }
       ]
     },
@@ -572,6 +652,86 @@
         {
           "clue": "A spiral staircase",
           "difficulty": "hard"
+        },
+        {
+          "clue": "A flip phone",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A film camera",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A CD",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A boombox",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A basketball hoop",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A picnic bench",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A traffic light",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A wind chime",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A ferris wheel",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A microwave",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A hedgehog",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "A tractor",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "A grandfather clock",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "A penguin",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "A saxophone",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "A person riding a bike",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "A hand holding a pen",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "A cat stretching",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "A drum kit",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "Two people shaking hands",
+          "difficulty": "hard"
         }
       ]
     },
@@ -857,6 +1017,86 @@
         },
         {
           "clue": "A software update",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "A Rubik's cube",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A cassette tape",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A Game Boy",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A yo-yo",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A slinky",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A basketball",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A trophy",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A garden gnome",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A snow globe",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A pair of dice",
+          "difficulty": "easy"
+        },
+        {
+          "clue": "A claw machine",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "A jukebox",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "A pinball machine",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "A record player",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "A popcorn machine",
+          "difficulty": "medium"
+        },
+        {
+          "clue": "Childhood",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "Friendship",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "A rivalry",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "A comeback",
+          "difficulty": "hard"
+        },
+        {
+          "clue": "A long-distance relationship",
           "difficulty": "hard"
         }
       ]

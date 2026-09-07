@@ -426,6 +426,126 @@
           "puzzle": "_ E T _ _ E _ A _   A _ _ _ E _ T E _   _ E _ E _ A T _ O _",
           "answer": "RETRIEVAL AUGMENTED GENERATION",
           "difficulty": "hard"
+        },
+        {
+          "hint": "Book series that defined a generation's childhood",
+          "puzzle": "_ A _ R _   _ O _ _ E _",
+          "answer": "HARRY POTTER",
+          "difficulty": "easy"
+        },
+        {
+          "hint": "First video to hit a billion views on YouTube",
+          "puzzle": "_ A _ _ _ A _   _ T _ L _",
+          "answer": "GANGNAM STYLE",
+          "difficulty": "easy"
+        },
+        {
+          "hint": "Dystopian trilogy with a bow and arrow",
+          "puzzle": "_ H _   _ U _ _ E _   _ A _ E _",
+          "answer": "THE HUNGER GAMES",
+          "difficulty": "easy"
+        },
+        {
+          "hint": "Mobile game its creator pulled at the height of its fame",
+          "puzzle": "_ L _ _ P _   _ _ R _",
+          "answer": "FLAPPY BIRD",
+          "difficulty": "easy"
+        },
+        {
+          "hint": "Sitcom shot like a documentary in a paper company",
+          "puzzle": "_ H _   _ F _ _ C _",
+          "answer": "THE OFFICE",
+          "difficulty": "easy"
+        },
+        {
+          "hint": "Chemistry teacher turned drug kingpin",
+          "puzzle": "_ R _ _ K _ N _   _ A _",
+          "answer": "BREAKING BAD",
+          "difficulty": "easy"
+        },
+        {
+          "hint": "Fantasy series with a much-argued-about final season",
+          "puzzle": "_ _ M _   O F   _ H _ _ _ E _",
+          "answer": "GAME OF THRONES",
+          "difficulty": "easy"
+        },
+        {
+          "hint": "Charity trend that soaked everyone in 2014",
+          "puzzle": "_ C _   _ U _ _ E _   _ H _ _ L _ _ G _",
+          "answer": "ICE BUCKET CHALLENGE",
+          "difficulty": "easy"
+        },
+        {
+          "hint": "Game played with a plastic guitar",
+          "puzzle": "_ U _ _ A _   _ _ R _",
+          "answer": "GUITAR HERO",
+          "difficulty": "easy"
+        },
+        {
+          "hint": "Virtual world where you were a penguin",
+          "puzzle": "_ _ U _   _ E _ _ _ I _",
+          "answer": "CLUB PENGUIN",
+          "difficulty": "easy"
+        },
+        {
+          "hint": "Bait-and-switch with a 1987 music video",
+          "puzzle": "_ I _ _ _ O _ _ _ N _",
+          "answer": "RICKROLLING",
+          "difficulty": "medium"
+        },
+        {
+          "hint": "Six-second video app that shut down in 2017",
+          "puzzle": "_ _ N _",
+          "answer": "VINE",
+          "difficulty": "medium"
+        },
+        {
+          "hint": "Blogging site with a very specific 2014 atmosphere",
+          "puzzle": "_ _ _ B _ _",
+          "answer": "TUMBLR",
+          "difficulty": "medium"
+        },
+        {
+          "hint": "How a generation illegally got its music",
+          "puzzle": "_ _ M _ _ _ R _",
+          "answer": "LIMEWIRE",
+          "difficulty": "medium"
+        },
+        {
+          "hint": "2013 trend that started with one person dancing alone",
+          "puzzle": "_ H _   _ _ _ L _ _   _ _ A _ _",
+          "answer": "THE HARLEM SHAKE",
+          "difficulty": "medium"
+        },
+        {
+          "hint": "The stock photo meme with three people on a street",
+          "puzzle": "_ _ _ _ _ A _ _ _ _   _ _ _ _ R _ _ _ _",
+          "answer": "DISTRACTED BOYFRIEND",
+          "difficulty": "hard"
+        },
+        {
+          "hint": "2011 trend of lying face down in strange places",
+          "puzzle": "_ _ _ _ K _ _ _",
+          "answer": "PLANKING",
+          "difficulty": "hard"
+        },
+        {
+          "hint": "Site where 2000s kids raised virtual pets",
+          "puzzle": "_ _ _ P _ _ _",
+          "answer": "NEOPETS",
+          "difficulty": "hard"
+        },
+        {
+          "hint": "Flash animation hub from before YouTube took over",
+          "puzzle": "_ _ _ _ _ O _ _ _ _",
+          "answer": "NEWGROUNDS",
+          "difficulty": "hard"
+        },
+        {
+          "hint": "2010 viral video of a man overwhelmed by the sky",
+          "puzzle": "_ _ _ B _ _   _ _ _ N _ _ _",
+          "answer": "DOUBLE RAINBOW",
+          "difficulty": "hard"
         }
       ]
     },
@@ -781,6 +901,106 @@
         {
           "word": "PHOTOREALISTIC",
           "backwards": "C-I-T-S-I-L-A-E-R-O-T-O-H-P",
+          "difficulty": "hard"
+        },
+        {
+          "word": "RINGTONE",
+          "backwards": "E-N-O-T-G-N-I-R",
+          "difficulty": "easy"
+        },
+        {
+          "word": "MYSPACE",
+          "backwards": "E-C-A-P-S-Y-M",
+          "difficulty": "easy"
+        },
+        {
+          "word": "NETFLIX",
+          "backwards": "X-I-L-F-T-E-N",
+          "difficulty": "easy"
+        },
+        {
+          "word": "YOUTUBE",
+          "backwards": "E-B-U-T-U-O-Y",
+          "difficulty": "easy"
+        },
+        {
+          "word": "FACEBOOK",
+          "backwards": "K-O-O-B-E-C-A-F",
+          "difficulty": "easy"
+        },
+        {
+          "word": "EMOTICON",
+          "backwards": "N-O-C-I-T-O-M-E",
+          "difficulty": "easy"
+        },
+        {
+          "word": "MEGABYTE",
+          "backwards": "E-T-Y-B-A-G-E-M",
+          "difficulty": "easy"
+        },
+        {
+          "word": "JOYSTICK",
+          "backwards": "K-C-I-T-S-Y-O-J",
+          "difficulty": "easy"
+        },
+        {
+          "word": "CARTRIDGE",
+          "backwards": "E-G-D-I-R-T-R-A-C",
+          "difficulty": "easy"
+        },
+        {
+          "word": "HANDHELD",
+          "backwards": "D-L-E-H-D-N-A-H",
+          "difficulty": "easy"
+        },
+        {
+          "word": "SCREENSAVER",
+          "backwards": "R-E-V-A-S-N-E-E-R-C-S",
+          "difficulty": "medium"
+        },
+        {
+          "word": "PHOTOBOMBED",
+          "backwards": "D-E-B-M-O-B-O-T-O-H-P",
+          "difficulty": "medium"
+        },
+        {
+          "word": "MULTIPLAYER",
+          "backwards": "R-E-Y-A-L-P-I-T-L-U-M",
+          "difficulty": "medium"
+        },
+        {
+          "word": "LEADERBOARD",
+          "backwards": "D-R-A-O-B-R-E-D-A-E-L",
+          "difficulty": "medium"
+        },
+        {
+          "word": "HEADPHONES",
+          "backwards": "S-E-N-O-H-P-D-A-E-H",
+          "difficulty": "medium"
+        },
+        {
+          "word": "CHATROULETTE",
+          "backwards": "E-T-T-E-L-U-O-R-T-A-H-C",
+          "difficulty": "hard"
+        },
+        {
+          "word": "SKATEBOARDING",
+          "backwards": "G-N-I-D-R-A-O-B-E-T-A-K-S",
+          "difficulty": "hard"
+        },
+        {
+          "word": "PROCRASTINATE",
+          "backwards": "E-T-A-N-I-T-S-A-R-C-O-R-P",
+          "difficulty": "hard"
+        },
+        {
+          "word": "UNPRECEDENTED",
+          "backwards": "D-E-T-N-E-D-E-C-E-R-P-N-U",
+          "difficulty": "hard"
+        },
+        {
+          "word": "CHAMPIONSHIPS",
+          "backwards": "S-P-I-H-S-N-O-I-P-M-A-H-C",
           "difficulty": "hard"
         }
       ]
@@ -1488,6 +1708,206 @@
           ],
           "answer": 1,
           "difficulty": "hard"
+        },
+        {
+          "word": "RICKROLL",
+          "options": [
+            "Tricking someone into clicking a Rick Astley video",
+            "A rolling server restart",
+            "A bread roll served at diners"
+          ],
+          "answer": 0,
+          "difficulty": "easy"
+        },
+        {
+          "word": "RAGEQUIT",
+          "options": [
+            "An aggressive sales tactic",
+            "Storming out of a game mid-match",
+            "A very fast checkout process"
+          ],
+          "answer": 1,
+          "difficulty": "easy"
+        },
+        {
+          "word": "NOOB",
+          "options": [
+            "A knock-off product",
+            "A dial on an old radio",
+            "A beginner, usually said with contempt"
+          ],
+          "answer": 2,
+          "difficulty": "easy"
+        },
+        {
+          "word": "GRINDING",
+          "options": [
+            "Repeating dull tasks to build up progress in a game",
+            "Cutting a video down to length",
+            "Negotiating hard on price"
+          ],
+          "answer": 0,
+          "difficulty": "easy"
+        },
+        {
+          "word": "SPEEDRUN",
+          "options": [
+            "A short high-intensity workout",
+            "Finishing a game as fast as humanly possible",
+            "A fast-forward playback feature"
+          ],
+          "answer": 1,
+          "difficulty": "easy"
+        },
+        {
+          "word": "LET'S PLAY",
+          "options": [
+            "A children's television segment",
+            "A shared calendar invitation",
+            "A video of someone narrating their way through a game"
+          ],
+          "answer": 2,
+          "difficulty": "easy"
+        },
+        {
+          "word": "CATFISHING",
+          "options": [
+            "Pretending to be someone else online to start a relationship",
+            "Fishing without a permit",
+            "Luring a competitor into a bad deal"
+          ],
+          "answer": 0,
+          "difficulty": "easy"
+        },
+        {
+          "word": "PHOTOBOMB",
+          "options": [
+            "Badly overexposing an image",
+            "Turning up uninvited in someone else's photo",
+            "Deleting a photo from a device remotely"
+          ],
+          "answer": 1,
+          "difficulty": "easy"
+        },
+        {
+          "word": "TROLLING",
+          "options": [
+            "Slowly scrolling through a feed",
+            "Hunting for online bargains",
+            "Provoking people online purely for the reaction"
+          ],
+          "answer": 2,
+          "difficulty": "easy"
+        },
+        {
+          "word": "LEET",
+          "options": [
+            "Writing words with numbers standing in for letters",
+            "A brief server outage",
+            "A brand of protein bar"
+          ],
+          "answer": 0,
+          "difficulty": "easy"
+        },
+        {
+          "word": "SHIPPING",
+          "options": [
+            "Tracking a parcel in transit",
+            "Moving stock between stores",
+            "Wanting two characters to end up together"
+          ],
+          "answer": 2,
+          "difficulty": "medium"
+        },
+        {
+          "word": "CANON",
+          "options": [
+            "What officially counts as part of a story's world",
+            "A large historical artillery piece",
+            "A rule of musical composition"
+          ],
+          "answer": 0,
+          "difficulty": "medium"
+        },
+        {
+          "word": "RETCON",
+          "options": [
+            "A convention for retro gaming",
+            "Changing established backstory after the fact",
+            "Rebooting a games console"
+          ],
+          "answer": 1,
+          "difficulty": "medium"
+        },
+        {
+          "word": "STAN",
+          "options": [
+            "A standing-room-only ticket",
+            "A default factory configuration",
+            "An obsessive fan, named after an Eminem song"
+          ],
+          "answer": 2,
+          "difficulty": "medium"
+        },
+        {
+          "word": "NORMIE",
+          "options": [
+            "Someone outside a subculture who misses all the references",
+            "A statistical average",
+            "A standard-issue uniform"
+          ],
+          "answer": 0,
+          "difficulty": "medium"
+        },
+        {
+          "word": "POE'S LAW",
+          "options": [
+            "The rule that online arguments always escalate",
+            "The idea that early users set a platform's culture permanently",
+            "Without a clear signal, parody of an extreme view is indistinguishable from the real thing"
+          ],
+          "answer": 2,
+          "difficulty": "hard"
+        },
+        {
+          "word": "GODWIN'S LAW",
+          "options": [
+            "The longer an online argument runs, the likelier a Nazi comparison becomes",
+            "The claim that content expands to fill available bandwidth",
+            "The observation that platforms decay as they monetize"
+          ],
+          "answer": 0,
+          "difficulty": "hard"
+        },
+        {
+          "word": "ETERNAL SEPTEMBER",
+          "options": [
+            "A name for predictable seasonal traffic spikes",
+            "The point when a niche community is permanently swamped by newcomers",
+            "An unusually drawn-out product launch"
+          ],
+          "answer": 1,
+          "difficulty": "hard"
+        },
+        {
+          "word": "SEMANTIC SATIATION",
+          "options": [
+            "The point where a market is completely served",
+            "Over-tagging a piece of content until search breaks",
+            "When a word repeated enough times stops feeling like a word"
+          ],
+          "answer": 2,
+          "difficulty": "hard"
+        },
+        {
+          "word": "CYBERBALKANIZATION",
+          "options": [
+            "The splitting of the internet into isolated, like-minded enclaves",
+            "The physical division of undersea cable routes",
+            "A strategy of pricing differently by region"
+          ],
+          "answer": 0,
+          "difficulty": "hard"
         }
       ]
     },
@@ -1773,6 +2193,86 @@
         },
         {
           "word": "PARAPHERNALIA",
+          "difficulty": "hard"
+        },
+        {
+          "word": "NOSTALGIA",
+          "difficulty": "easy"
+        },
+        {
+          "word": "VILLAIN",
+          "difficulty": "easy"
+        },
+        {
+          "word": "WEIRD",
+          "difficulty": "easy"
+        },
+        {
+          "word": "RECEIVE",
+          "difficulty": "easy"
+        },
+        {
+          "word": "CALENDAR",
+          "difficulty": "easy"
+        },
+        {
+          "word": "GRAMMAR",
+          "difficulty": "easy"
+        },
+        {
+          "word": "TOMORROW",
+          "difficulty": "easy"
+        },
+        {
+          "word": "BEGINNING",
+          "difficulty": "easy"
+        },
+        {
+          "word": "ARGUMENT",
+          "difficulty": "easy"
+        },
+        {
+          "word": "SURPRISE",
+          "difficulty": "easy"
+        },
+        {
+          "word": "PHARAOH",
+          "difficulty": "medium"
+        },
+        {
+          "word": "JEWELRY",
+          "difficulty": "medium"
+        },
+        {
+          "word": "LICENSE",
+          "difficulty": "medium"
+        },
+        {
+          "word": "RESTAURANT",
+          "difficulty": "medium"
+        },
+        {
+          "word": "GAUGE",
+          "difficulty": "medium"
+        },
+        {
+          "word": "FUCHSIA",
+          "difficulty": "hard"
+        },
+        {
+          "word": "LIQUEFY",
+          "difficulty": "hard"
+        },
+        {
+          "word": "VACILLATE",
+          "difficulty": "hard"
+        },
+        {
+          "word": "GNOCCHI",
+          "difficulty": "hard"
+        },
+        {
+          "word": "SOLILOQUY",
           "difficulty": "hard"
         }
       ]
