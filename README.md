@@ -8,11 +8,11 @@ prompts written for right now.
 (say, Word Worm → Blankout), then play one of *these* Blankouts instead. Every rule, the
 timer, and the board stay exactly the same. Only the prompts change.
 
-**1,326 cards** across the four decks, matching the game's real card types:
+**1,428 cards** across the four decks, matching the game's real card types:
 
 | Deck | Card types |
 | --- | --- |
-| **Word Worm** — spelling and wordplay | Blankout, Gnilleps, Lexicon, Spellbound |
+| **Word Worm** — spelling and wordplay | Blankout, Zelpuz, Gnilleps, Lexicon, Spellbound |
 | **Creative Cat** — draw and sculpt | Cloodle, Sensosketch, Sculptorades |
 | **Data Head** — trivia | Factoid, Polygraph, Selectaquest |
 | **Star Performer** — acting | Cameo, Copycat, Humdinger |
@@ -48,6 +48,7 @@ axis rather than just getting longer:
 | Card type | Easy | Hard |
 | --- | --- | --- |
 | Blankout | About a third of the letters showing, on something famous | Almost no letters showing, on a term you have to actually know |
+| Zelpuz | One short word to unscramble | A whole idiom, every word scrambled |
 | Gnilleps | 7–9 letters | 12–16 letters, with ugly consonant runs |
 | Lexicon | Terms you've seen but couldn't define exactly | Obscure terms where all three definitions sound plausible |
 | Spellbound | Commonly misspelled words | Silent letters and foreign spellings — `MILLEFEUILLE`, `PARALLELEPIPED`, `SYZYGY` |
@@ -87,6 +88,7 @@ jump to easy, medium, and hard (<kbd>0</kbd> for any tier).
 
 **Word Worm**
 - *Blankout* — a word or phrase with letters missing; the team fills them in.
+- *Zelpuz* — unscramble an anagram, working from a vague hint.
 - *Gnilleps* — spell the word backwards, out loud.
 - *Lexicon* — pick the right definition out of three.
 - *Spellbound* — spell the word, forwards.

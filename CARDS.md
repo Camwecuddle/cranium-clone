@@ -3,10 +3,10 @@
 Printable/scannable text of all four decks, grouped by card type and difficulty. Generated from `data/*.json` by `build.py` — edit the JSON, not this file.
 
 
-**1326 cards total** — every card type has 30 easy, 20 medium, 20 hard.
+**1428 cards total** — every card type has 30 easy, 20 medium, 20 hard.
 
 
-## Word Worm — Spelling, definitions, and wordplay (408 cards)
+## Word Worm — Spelling, definitions, and wordplay (510 cards)
 
 
 ### Blankout (102)
@@ -124,6 +124,123 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 26. **_ _ _ _ R _ _ _ _** — _Scandal that brought down a president_ → WATERGATE
 27. **_ H _   _ _ _ K _ _ _** — _Sony device that first made music portable_ → THE WALKMAN
 28. **_ _ A _   U P   _ _ _ _ R _ _ _** — _The screeching sound of getting online in 1997_ → DIAL UP INTERNET
+
+
+### Zelpuz (102)
+
+*Unscramble the letters. The hint tells you roughly what you're looking for.*
+
+
+**Easy** (46)
+
+1. **S O C T A D P** — _Something to listen to on a commute_ → PODCAST
+2. **O N S U F L W E R** — _It follows the sun_ → SUNFLOWER
+3. **I E U G N N P** — _Dresses formally, never flies_ → PENGUIN
+4. **V O A C O L N** — _It blows its top_ → VOLCANO
+5. **A U R G T I** — _Six strings_ → GUITAR
+6. **N C I T E H K** — _Where the fridge lives_ → KITCHEN
+7. **S R M N T E O** — _Under the bed_ → MONSTER
+8. **B W A R O N I** — _After the rain_ → RAINBOW
+9. **I M U K P P N** — _Carved in October_ → PUMPKIN
+10. **I D A N O M D** — _A girl's best friend_ → DIAMOND
+11. **Y R B L R I A** — _Quiet, please_ → LIBRARY
+12. **E S T U E R A R** — _X marks the spot_ → TREASURE
+13. **B I E C C Y L** — _Two wheels_ → BICYCLE
+14. **D N I O U A R S** — _Extinct, mostly_ → DINOSAUR
+15. **A L T H E N E P** — _Never forgets_ → ELEPHANT
+16. **H I T P A O S L** — _Where you go in an emergency_ → HOSPITAL
+17. **Y T I R B D H A** — _Once a year, with candles_ → BIRTHDAY
+18. **C C E O O A L T H** — _Dark, milk or white_ → CHOCOLATE
+19. **W A N S D I H C** — _Named after an earl_ → SANDWICH
+20. **L E L R M U B A** — _Handy in a downpour_ → UMBRELLA
+21. **I O R P R T A** — _Gates and departures_ → AIRPORT
+22. **E R M I F C A P** — _Marshmallows and stories_ → CAMPFIRE
+23. **L L B T O F O A** — _Autumn Sundays_ → FOOTBALL
+24. **A L S O N F K W E** — _No two alike_ → SNOWFLAKE
+25. **I V O A N T A C** — _Out of office_ → VACATION
+26. **I L E W S H T** — _A referee's tool_ → WHISTLE
+27. **L U G N E J** — _Dense and green_ → JUNGLE
+28. **E G A N T M** — _It has two poles_ → MAGNET
+29. **E C T R A H O S R** — _Follows a conductor_ → ORCHESTRA
+30. **Y P I D R M A** — _Pointed, in Egypt_ → PYRAMID
+31. **O R A N T O D** — _It touches down_ → TORNADO
+32. **T F X L N E I** — _Red logo, endless scrolling_ → NETFLIX
+33. **M O I E J** — _A tiny yellow face_ → EMOJI
+34. **F S L E E I** — _Arm's length_ → SELFIE
+35. **A A H T G S H** — _It goes before a trend_ → HASHTAG
+36. **M T R E A I F N C** — _Blocks and creepers_ → MINECRAFT
+37. **W M A N A K L** — _Sony's pocket music_ → WALKMAN
+38. **A S T S T E C E** — _Rewound with a pencil_ → CASSETTE
+39. **B X K E O J U** — _Feed it a coin, pick a song_ → JUKEBOX
+40. **L A D P O O R I** — _Shake it and wait_ → POLAROID
+41. **L E T E A M G R** — _A message sent by wire_ → TELEGRAM
+42. **U S N R I B A M E** — _It runs deep_ → SUBMARINE
+43. **N N G I G H L T I** — _Before the thunder_ → LIGHTNING
+44. **C A K P A N E** — _Stacked, with syrup_ → PANCAKE
+45. **M C A K H O M** — _Strung between two trees_ → HAMMOCK
+46. **E B A D O W R R** — _Narnia was behind one_ → WARDROBE
+
+**Medium** (28)
+
+1. **O C A V D O A   S O A T T** — _Brunch, and a punchline about rent_ → AVOCADO TOAST
+2. **E R O R L L   A C E S R O T** — _Clacks up, screams down_ → ROLLER COASTER
+3. **S A O R L   S C P I E L E** — _The moon steps in front_ → SOLAR ECLIPSE
+4. **E F I R   S E P E A C** — _Metal stairs on the outside_ → FIRE ESCAPE
+5. **R N G A D   N O A I P** — _Eighty-eight keys_ → GRAND PIANO
+6. **R U A E S E T R   P A M** — _Follow it to the X_ → TREASURE MAP
+7. **S L T I U O H H G E** — _Warns ships off the rocks_ → LIGHTHOUSE
+8. **T H A A U P C E R** — _Pull the cord_ → PARACHUTE
+9. **I L H E R D A E C N** — _Hangs over the dining table_ → CHANDELIER
+10. **U B N I R T O E A M** — _Shake it, jingle jingle_ → TAMBOURINE
+11. **O C L D I A O S E E P K** — _Twist it, watch the colours turn_ → KALEIDOSCOPE
+12. **W O W R A H E L R E B** — _One wheel, two handles_ → WHEELBARROW
+13. **Y S R R S A K C P E** — _It scrapes the sky_ → SKYSCRAPER
+14. **S O S D R C R O W** — _Down and across_ → CROSSWORD
+15. **E D N S H O H A P E** — _Over the ears_ → HEADPHONES
+16. **S I A P P H C S E** — _It leaves the atmosphere_ → SPACESHIP
+17. **F B Y E L T R T U   E N T** — _Swung at something fluttering_ → BUTTERFLY NET
+18. **V Y L N I   R D R O E C** — _Twelve inches, thirty-three revolutions_ → VINYL RECORD
+19. **D I R V E   N I   V O I M E** — _Watch it from the car_ → DRIVE IN MOVIE
+20. **N O P H E   O T O H B** — _Superman changed in one_ → PHONE BOOTH
+21. **I S A O L C   I D M E A** — _Where the arguments happen now_ → SOCIAL MEDIA
+22. **I O V E D   G M A E** — _Press start_ → VIDEO GAME
+23. **E M I T   N C E A I M H** — _Doc Brown built one_ → TIME MACHINE
+24. **O T H   R I A   O L B A O L N** — _Rises with hot air_ → HOT AIR BALLOON
+25. **U T H D N M S O E R T R** — _Rumbles and flashes_ → THUNDERSTORM
+26. **A A C R L T I P R L E** — _Very hungry, in a book_ → CATERPILLAR
+27. **E P E R P T N M P I** — _A candy cane's flavour_ → PEPPERMINT
+28. **E M L W E O A N T R** — _Spit the seeds_ → WATERMELON
+
+**Hard** (28)
+
+1. **E T H   G R A E T   E R I A R B R   F E R E** — _Visible from space, off Australia_ → THE GREAT BARRIER REEF
+2. **A   C E E P I   F O   C A E K** — _Idiom: it was easy_ → A PIECE OF CAKE
+3. **T E H   A Y L E R   D I R B** — _Idiom: they get the worm_ → THE EARLY BIRD
+4. **R N H R T O N E   H S G I T L** — _Green curtains in the Arctic sky_ → NORTHERN LIGHTS
+5. **A E S G S E M   N I   A   T O L B T E** — _Thrown into the sea in hope_ → MESSAGE IN A BOTTLE
+6. **H T E   I P T   F O   H E T   I G C E E R B** — _Idiom: most of it is still hidden_ → THE TIP OF THE ICEBERG
+7. **A R T B F E A K S   N I   D E B** — _The nicest way to wake up_ → BREAKFAST IN BED
+8. **O E N C   N I   A   B E L U   O N M O** — _Idiom: hardly ever_ → ONCE IN A BLUE MOON
+9. **N I A I R N G   C S A T   D A N   O S G D** — _Idiom: it's really coming down_ → RAINING CATS AND DOGS
+10. **T E H   O L E H W   N E N I   D Y R A S** — _Idiom: everything, the lot_ → THE WHOLE NINE YARDS
+11. **R N U E D   T E H   T A W E E R H** — _Idiom: feeling a bit rough_ → UNDER THE WEATHER
+12. **I N R B G U N   T E H   N H M G I T I D   I L O** — _Idiom: working far too late_ → BURNING THE MIDNIGHT OIL
+13. **A   G S E S I L N B   N I   G I S D S E I U** — _Idiom: it turned out for the best_ → A BLESSING IN DISGUISE
+14. **L L S I P   E T H   N A E S B** — _Idiom: give away the secret_ → SPILL THE BEANS
+15. **R K A B E   E H T   C E I** — _Idiom: get things started_ → BREAK THE ICE
+16. **C T S S O   N A   M A R   A D N   A   E L G** — _Idiom: outrageously expensive_ → COSTS AN ARM AND A LEG
+17. **T E H   A L B L   S I   N I   U R O Y   U R T O C** — _Idiom: your move now_ → THE BALL IS IN YOUR COURT
+18. **T E L   H E T   C T A   T O U   F O   H E T   A B G** — _Idiom: the secret got out_ → LET THE CAT OUT OF THE BAG
+19. **H T I   E T H   L N A I   N O   T E H   E A D H** — _Idiom: exactly right_ → HIT THE NAIL ON THE HEAD
+20. **E H T   T S E B   F O   T B H O   O R D L S W** — _Idiom: you get everything_ → THE BEST OF BOTH WORLDS
+21. **P A S E K   F O   H T E   D L I E V** — _Idiom: and here they are_ → SPEAK OF THE DEVIL
+22. **T U C   O T   E T H   S C H A E** — _Idiom: get to the point_ → CUT TO THE CHASE
+23. **E T H   S L T A   W T R A S** — _Idiom: the final indignity_ → THE LAST STRAW
+24. **I B T E   E T H   L U E T B L** — _Idiom: get the unpleasant thing over with_ → BITE THE BULLET
+25. **O T H G R U H   E T H   I P V G N A E R E** — _Idiom: how gossip travels_ → THROUGH THE GRAPEVINE
+26. **A   M D I E   A   Z N O E D** — _Idiom: nothing special, there are loads_ → A DIME A DOZEN
+27. **T N I A B G E   R U N D A O   H E T   U B S H** — _Idiom: stop avoiding the question_ → BEATING AROUND THE BUSH
+28. **T E H   S L B A T E   V E A H   D N E R T U** — _Idiom: the advantage has flipped_ → THE TABLES HAVE TURNED
 
 
 ### Gnilleps (102)

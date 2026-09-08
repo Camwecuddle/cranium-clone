@@ -35,6 +35,8 @@ def line(name, i, c):
     """One card as a numbered Markdown line, formatted for its card type."""
     if name == "Blankout":
         return f"{i}. **{c['puzzle']}** — _{c['hint']}_ → {c['answer']}"
+    if name == "Zelpuz":
+        return f"{i}. **{c['scramble']}** — _{c['hint']}_ → {c['answer']}"
     if name == "Gnilleps":
         return f"{i}. **{c['word']}** → {c['backwards']}"
     if name == "Spellbound":

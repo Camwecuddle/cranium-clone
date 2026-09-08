@@ -963,6 +963,947 @@
       ]
     },
     {
+      "name": "Zelpuz",
+      "howto": "Unscramble the letters. The hint tells you roughly what you're looking for.",
+      "cards": [
+        {
+          "hint": "Something to listen to on a commute",
+          "scramble": "S O C T A D P",
+          "answer": "PODCAST",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "It follows the sun",
+          "scramble": "O N S U F L W E R",
+          "answer": "SUNFLOWER",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Dresses formally, never flies",
+          "scramble": "I E U G N N P",
+          "answer": "PENGUIN",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "It blows its top",
+          "scramble": "V O A C O L N",
+          "answer": "VOLCANO",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Six strings",
+          "scramble": "A U R G T I",
+          "answer": "GUITAR",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Where the fridge lives",
+          "scramble": "N C I T E H K",
+          "answer": "KITCHEN",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Under the bed",
+          "scramble": "S R M N T E O",
+          "answer": "MONSTER",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "After the rain",
+          "scramble": "B W A R O N I",
+          "answer": "RAINBOW",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Carved in October",
+          "scramble": "I M U K P P N",
+          "answer": "PUMPKIN",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "A girl's best friend",
+          "scramble": "I D A N O M D",
+          "answer": "DIAMOND",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Quiet, please",
+          "scramble": "Y R B L R I A",
+          "answer": "LIBRARY",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "X marks the spot",
+          "scramble": "E S T U E R A R",
+          "answer": "TREASURE",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Two wheels",
+          "scramble": "B I E C C Y L",
+          "answer": "BICYCLE",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Extinct, mostly",
+          "scramble": "D N I O U A R S",
+          "answer": "DINOSAUR",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Never forgets",
+          "scramble": "A L T H E N E P",
+          "answer": "ELEPHANT",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Where you go in an emergency",
+          "scramble": "H I T P A O S L",
+          "answer": "HOSPITAL",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Once a year, with candles",
+          "scramble": "Y T I R B D H A",
+          "answer": "BIRTHDAY",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Dark, milk or white",
+          "scramble": "C C E O O A L T H",
+          "answer": "CHOCOLATE",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Named after an earl",
+          "scramble": "W A N S D I H C",
+          "answer": "SANDWICH",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Handy in a downpour",
+          "scramble": "L E L R M U B A",
+          "answer": "UMBRELLA",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Gates and departures",
+          "scramble": "I O R P R T A",
+          "answer": "AIRPORT",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Marshmallows and stories",
+          "scramble": "E R M I F C A P",
+          "answer": "CAMPFIRE",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Autumn Sundays",
+          "scramble": "L L B T O F O A",
+          "answer": "FOOTBALL",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "No two alike",
+          "scramble": "A L S O N F K W E",
+          "answer": "SNOWFLAKE",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Out of office",
+          "scramble": "I V O A N T A C",
+          "answer": "VACATION",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "A referee's tool",
+          "scramble": "I L E W S H T",
+          "answer": "WHISTLE",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Dense and green",
+          "scramble": "L U G N E J",
+          "answer": "JUNGLE",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "It has two poles",
+          "scramble": "E G A N T M",
+          "answer": "MAGNET",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Follows a conductor",
+          "scramble": "E C T R A H O S R",
+          "answer": "ORCHESTRA",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Pointed, in Egypt",
+          "scramble": "Y P I D R M A",
+          "answer": "PYRAMID",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "It touches down",
+          "scramble": "O R A N T O D",
+          "answer": "TORNADO",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Red logo, endless scrolling",
+          "scramble": "T F X L N E I",
+          "answer": "NETFLIX",
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
+        },
+        {
+          "hint": "A tiny yellow face",
+          "scramble": "M O I E J",
+          "answer": "EMOJI",
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
+        },
+        {
+          "hint": "Arm's length",
+          "scramble": "F S L E E I",
+          "answer": "SELFIE",
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
+        },
+        {
+          "hint": "It goes before a trend",
+          "scramble": "A A H T G S H",
+          "answer": "HASHTAG",
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
+        },
+        {
+          "hint": "Blocks and creepers",
+          "scramble": "M T R E A I F N C",
+          "answer": "MINECRAFT",
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
+        },
+        {
+          "hint": "Sony's pocket music",
+          "scramble": "W M A N A K L",
+          "answer": "WALKMAN",
+          "difficulty": "easy",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "hint": "Rewound with a pencil",
+          "scramble": "A S T S T E C E",
+          "answer": "CASSETTE",
+          "difficulty": "easy",
+          "gens": [
+            "boomer",
+            "genx",
+            "millennial"
+          ]
+        },
+        {
+          "hint": "Feed it a coin, pick a song",
+          "scramble": "B X K E O J U",
+          "answer": "JUKEBOX",
+          "difficulty": "easy",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "hint": "Shake it and wait",
+          "scramble": "L A D P O O R I",
+          "answer": "POLAROID",
+          "difficulty": "easy",
+          "gens": [
+            "boomer",
+            "genx",
+            "millennial"
+          ]
+        },
+        {
+          "hint": "A message sent by wire",
+          "scramble": "L E T E A M G R",
+          "answer": "TELEGRAM",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "It runs deep",
+          "scramble": "U S N R I B A M E",
+          "answer": "SUBMARINE",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Before the thunder",
+          "scramble": "N N G I G H L T I",
+          "answer": "LIGHTNING",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Stacked, with syrup",
+          "scramble": "C A K P A N E",
+          "answer": "PANCAKE",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Strung between two trees",
+          "scramble": "M C A K H O M",
+          "answer": "HAMMOCK",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Narnia was behind one",
+          "scramble": "E B A D O W R R",
+          "answer": "WARDROBE",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Brunch, and a punchline about rent",
+          "scramble": "O C A V D O A   S O A T T",
+          "answer": "AVOCADO TOAST",
+          "difficulty": "medium",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
+        },
+        {
+          "hint": "Clacks up, screams down",
+          "scramble": "E R O R L L   A C E S R O T",
+          "answer": "ROLLER COASTER",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "The moon steps in front",
+          "scramble": "S A O R L   S C P I E L E",
+          "answer": "SOLAR ECLIPSE",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Metal stairs on the outside",
+          "scramble": "E F I R   S E P E A C",
+          "answer": "FIRE ESCAPE",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Eighty-eight keys",
+          "scramble": "R N G A D   N O A I P",
+          "answer": "GRAND PIANO",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Follow it to the X",
+          "scramble": "R U A E S E T R   P A M",
+          "answer": "TREASURE MAP",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Warns ships off the rocks",
+          "scramble": "S L T I U O H H G E",
+          "answer": "LIGHTHOUSE",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Pull the cord",
+          "scramble": "T H A A U P C E R",
+          "answer": "PARACHUTE",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Hangs over the dining table",
+          "scramble": "I L H E R D A E C N",
+          "answer": "CHANDELIER",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Shake it, jingle jingle",
+          "scramble": "U B N I R T O E A M",
+          "answer": "TAMBOURINE",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Twist it, watch the colours turn",
+          "scramble": "O C L D I A O S E E P K",
+          "answer": "KALEIDOSCOPE",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "One wheel, two handles",
+          "scramble": "W O W R A H E L R E B",
+          "answer": "WHEELBARROW",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "It scrapes the sky",
+          "scramble": "Y S R R S A K C P E",
+          "answer": "SKYSCRAPER",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Down and across",
+          "scramble": "S O S D R C R O W",
+          "answer": "CROSSWORD",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Over the ears",
+          "scramble": "E D N S H O H A P E",
+          "answer": "HEADPHONES",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "It leaves the atmosphere",
+          "scramble": "S I A P P H C S E",
+          "answer": "SPACESHIP",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Swung at something fluttering",
+          "scramble": "F B Y E L T R T U   E N T",
+          "answer": "BUTTERFLY NET",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Twelve inches, thirty-three revolutions",
+          "scramble": "V Y L N I   R D R O E C",
+          "answer": "VINYL RECORD",
+          "difficulty": "medium",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "hint": "Watch it from the car",
+          "scramble": "D I R V E   N I   V O I M E",
+          "answer": "DRIVE IN MOVIE",
+          "difficulty": "medium",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "hint": "Superman changed in one",
+          "scramble": "N O P H E   O T O H B",
+          "answer": "PHONE BOOTH",
+          "difficulty": "medium",
+          "gens": [
+            "boomer",
+            "genx",
+            "millennial"
+          ]
+        },
+        {
+          "hint": "Where the arguments happen now",
+          "scramble": "I S A O L C   I D M E A",
+          "answer": "SOCIAL MEDIA",
+          "difficulty": "medium",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
+        },
+        {
+          "hint": "Press start",
+          "scramble": "I O V E D   G M A E",
+          "answer": "VIDEO GAME",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Doc Brown built one",
+          "scramble": "E M I T   N C E A I M H",
+          "answer": "TIME MACHINE",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Rises with hot air",
+          "scramble": "O T H   R I A   O L B A O L N",
+          "answer": "HOT AIR BALLOON",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Rumbles and flashes",
+          "scramble": "U T H D N M S O E R T R",
+          "answer": "THUNDERSTORM",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Very hungry, in a book",
+          "scramble": "A A C R L T I P R L E",
+          "answer": "CATERPILLAR",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "A candy cane's flavour",
+          "scramble": "E P E R P T N M P I",
+          "answer": "PEPPERMINT",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Spit the seeds",
+          "scramble": "E M L W E O A N T R",
+          "answer": "WATERMELON",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Visible from space, off Australia",
+          "scramble": "E T H   G R A E T   E R I A R B R   F E R E",
+          "answer": "THE GREAT BARRIER REEF",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Idiom: it was easy",
+          "scramble": "A   C E E P I   F O   C A E K",
+          "answer": "A PIECE OF CAKE",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Idiom: they get the worm",
+          "scramble": "T E H   A Y L E R   D I R B",
+          "answer": "THE EARLY BIRD",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Green curtains in the Arctic sky",
+          "scramble": "R N H R T O N E   H S G I T L",
+          "answer": "NORTHERN LIGHTS",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Thrown into the sea in hope",
+          "scramble": "A E S G S E M   N I   A   T O L B T E",
+          "answer": "MESSAGE IN A BOTTLE",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Idiom: most of it is still hidden",
+          "scramble": "H T E   I P T   F O   H E T   I G C E E R B",
+          "answer": "THE TIP OF THE ICEBERG",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "The nicest way to wake up",
+          "scramble": "A R T B F E A K S   N I   D E B",
+          "answer": "BREAKFAST IN BED",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Idiom: hardly ever",
+          "scramble": "O E N C   N I   A   B E L U   O N M O",
+          "answer": "ONCE IN A BLUE MOON",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Idiom: it's really coming down",
+          "scramble": "N I A I R N G   C S A T   D A N   O S G D",
+          "answer": "RAINING CATS AND DOGS",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Idiom: everything, the lot",
+          "scramble": "T E H   O L E H W   N E N I   D Y R A S",
+          "answer": "THE WHOLE NINE YARDS",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Idiom: feeling a bit rough",
+          "scramble": "R N U E D   T E H   T A W E E R H",
+          "answer": "UNDER THE WEATHER",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Idiom: working far too late",
+          "scramble": "I N R B G U N   T E H   N H M G I T I D   I L O",
+          "answer": "BURNING THE MIDNIGHT OIL",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Idiom: it turned out for the best",
+          "scramble": "A   G S E S I L N B   N I   G I S D S E I U",
+          "answer": "A BLESSING IN DISGUISE",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Idiom: give away the secret",
+          "scramble": "L L S I P   E T H   N A E S B",
+          "answer": "SPILL THE BEANS",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Idiom: get things started",
+          "scramble": "R K A B E   E H T   C E I",
+          "answer": "BREAK THE ICE",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Idiom: outrageously expensive",
+          "scramble": "C T S S O   N A   M A R   A D N   A   E L G",
+          "answer": "COSTS AN ARM AND A LEG",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Idiom: your move now",
+          "scramble": "T E H   A L B L   S I   N I   U R O Y   U R T O C",
+          "answer": "THE BALL IS IN YOUR COURT",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Idiom: the secret got out",
+          "scramble": "T E L   H E T   C T A   T O U   F O   H E T   A B G",
+          "answer": "LET THE CAT OUT OF THE BAG",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Idiom: exactly right",
+          "scramble": "H T I   E T H   L N A I   N O   T E H   E A D H",
+          "answer": "HIT THE NAIL ON THE HEAD",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Idiom: you get everything",
+          "scramble": "E H T   T S E B   F O   T B H O   O R D L S W",
+          "answer": "THE BEST OF BOTH WORLDS",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Idiom: and here they are",
+          "scramble": "P A S E K   F O   H T E   D L I E V",
+          "answer": "SPEAK OF THE DEVIL",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Idiom: get to the point",
+          "scramble": "T U C   O T   E T H   S C H A E",
+          "answer": "CUT TO THE CHASE",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Idiom: the final indignity",
+          "scramble": "E T H   S L T A   W T R A S",
+          "answer": "THE LAST STRAW",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Idiom: get the unpleasant thing over with",
+          "scramble": "I B T E   E T H   L U E T B L",
+          "answer": "BITE THE BULLET",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Idiom: how gossip travels",
+          "scramble": "O T H G R U H   E T H   I P V G N A E R E",
+          "answer": "THROUGH THE GRAPEVINE",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Idiom: nothing special, there are loads",
+          "scramble": "A   M D I E   A   Z N O E D",
+          "answer": "A DIME A DOZEN",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Idiom: stop avoiding the question",
+          "scramble": "T N I A B G E   R U N D A O   H E T   U B S H",
+          "answer": "BEATING AROUND THE BUSH",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "hint": "Idiom: the advantage has flipped",
+          "scramble": "T E H   S L B A T E   V E A H   D N E R T U",
+          "answer": "THE TABLES HAVE TURNED",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        }
+      ]
+    },
+    {
       "name": "Gnilleps",
       "howto": "Spell the word BACKWARDS out loud. No writing it down first, no peeking.",
       "cards": [

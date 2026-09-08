@@ -177,6 +177,8 @@ button:focus-visible, a:focus-visible{outline:2.5px solid var(--deck); outline-o
   font-family:var(--mono); font-weight:500; font-size:clamp(19px,3.4vw,29px);
   line-height:1.5; word-break:break-word;
 }
+/* scrambled letters run together, so set the words visibly apart */
+.puzzle.words{display:flex; flex-wrap:wrap; gap:.15em 1.4em; word-break:normal}
 .sub{color:var(--ink-muted); font-size:15px; margin:0}
 
 .options{list-style:none; margin:0; padding:0; display:flex; flex-direction:column; gap:8px}
@@ -348,6 +350,10 @@ footer b{color:var(--ink); font-weight:600}
       case "Blankout":
         return '<div class="eyebrow">' + esc(c.hint) + '</div>' +
                '<div class="puzzle">' + esc(c.puzzle) + '</div>';
+      case "Zelpuz":
+        return '<div class="eyebrow">' + esc(c.hint) + '</div>' +
+               '<div class="puzzle words">' + esc(c.scramble).split("   ").map(function(w){
+                 return "<span>" + w + "</span>"; }).join("") + '</div>';
       case "Gnilleps":
         return '<div class="eyebrow">Spell it backwards, out loud</div>' +
                '<p class="clue">' + esc(c.word) + '</p>';
@@ -387,6 +393,7 @@ footer b{color:var(--ink); font-weight:600}
     var label = "Answer", val = "", mono = false, note = "";
     switch(a.name){
       case "Blankout":    val = c.answer; break;
+      case "Zelpuz":      val = c.answer; break;
       case "Gnilleps":    val = c.backwards; mono = true; break;
       case "Spellbound":  val = c.word.split("").join(" "); mono = true; break;
       case "Lexicon":     val = c.options[c.answer]; break;
