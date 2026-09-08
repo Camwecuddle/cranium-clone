@@ -50,7 +50,7 @@ axis rather than just getting longer:
 | Blankout | About a third of the letters showing, on something famous | Almost no letters showing, on a term you have to actually know |
 | Zelpuz | One short word to unscramble | A whole idiom, every word scrambled |
 | Gnilleps | 7–9 letters | 12–16 letters, with ugly consonant runs |
-| Lexicon | Terms you've seen but couldn't define exactly | Obscure terms where all three definitions sound plausible |
+| Lexicon | Terms you've seen but couldn't define exactly | Obscure terms where all four definitions sound plausible |
 | Spellbound | Commonly misspelled words | Silent letters and foreign spellings — `MILLEFEUILLE`, `PARALLELEPIPED`, `SYZYGY` |
 | Cloodle / Sensosketch / Sculptorades | A concrete object | An abstract concept — *burnout*, *the attention economy* |
 | Cameo | Things anyone can name in a word — a tornado, a penguin, Spider-Man | Trickier to mime and to name — a metronome, a mirage, Nikola Tesla |
@@ -90,7 +90,7 @@ jump to easy, medium, and hard (<kbd>0</kbd> for any tier).
 - *Blankout* — a word or phrase with letters missing; the team fills them in.
 - *Zelpuz* — unscramble an anagram, working from a vague hint.
 - *Gnilleps* — spell the word backwards, out loud.
-- *Lexicon* — pick the right definition out of three.
+- *Lexicon* — pick the right definition out of four.
 - *Spellbound* — spell the word, forwards.
 
 **Creative Cat**

@@ -2731,14 +2731,15 @@
     },
     {
       "name": "Lexicon",
-      "howto": "Read the word and all three definitions out loud. Your team picks the right one.",
+      "howto": "Read the word and all four definitions out loud. Your team picks the right one.",
       "cards": [
         {
           "word": "BRIGADING",
           "options": [
             "A coordinated pile-on against one person online",
             "A fire safety drill",
-            "Signing up for military service"
+            "Signing up for military service",
+            "A reorganisation of army units"
           ],
           "answer": 0,
           "difficulty": "easy",
@@ -2752,7 +2753,8 @@
           "options": [
             "A first-time investor",
             "A private second account kept for close friends",
-            "A fake product listing"
+            "A fake product listing",
+            "A minimalist Finnish design style"
           ],
           "answer": 1,
           "difficulty": "easy",
@@ -2766,7 +2768,8 @@
           "options": [
             "A spilled-drink emoji",
             "A rough first draft",
-            "Low-effort AI-generated content flooding a platform"
+            "Low-effort AI-generated content flooding a platform",
+            "A cheap and fatty cut of meat"
           ],
           "answer": 2,
           "difficulty": "easy",
@@ -2777,11 +2780,12 @@
         {
           "word": "SUBTWEET",
           "options": [
-            "A post about someone without ever naming them",
             "A reply hidden beneath another",
-            "A post scheduled to go out later"
+            "A post scheduled to go out later",
+            "A follow-up posted beneath your own post",
+            "A post about someone without ever naming them"
           ],
-          "answer": 0,
+          "answer": 3,
           "difficulty": "easy",
           "gens": [
             "millennial",
@@ -2791,11 +2795,12 @@
         {
           "word": "LURKER",
           "options": [
-            "A process running in the background",
             "Someone who reads everything and never posts",
-            "An automated spam account"
+            "A process running in the background",
+            "An automated spam account",
+            "A predatory deep-sea fish"
           ],
-          "answer": 1,
+          "answer": 0,
           "difficulty": "easy",
           "gens": [
             "millennial",
@@ -2806,10 +2811,11 @@
           "word": "UNICORN",
           "options": [
             "A bug nobody can reproduce",
+            "A startup valued at over a billion dollars",
             "A one-off marketing stunt",
-            "A startup valued at over a billion dollars"
+            "An employee who can do every job on a team"
           ],
-          "answer": 2,
+          "answer": 1,
           "difficulty": "easy",
           "gens": [
             "all"
@@ -2818,11 +2824,12 @@
         {
           "word": "BOOTSTRAPPED",
           "options": [
-            "Funded out of its own revenue instead of investors",
             "Built from a failed company's leftovers",
-            "Assembled out of borrowed code"
+            "Assembled out of borrowed code",
+            "Funded out of its own revenue instead of investors",
+            "Fitted with a restraining clamp"
           ],
-          "answer": 0,
+          "answer": 2,
           "difficulty": "easy",
           "gens": [
             "all"
@@ -2832,10 +2839,11 @@
           "word": "VAPORWARE",
           "options": [
             "Free software paid for by ads",
-            "A product announced with fanfare that never ships",
-            "Software that runs entirely in the cloud"
+            "Software that runs entirely in the cloud",
+            "Cookware designed for steaming",
+            "A product announced with fanfare that never ships"
           ],
-          "answer": 1,
+          "answer": 3,
           "difficulty": "easy",
           "gens": [
             "all"
@@ -2844,11 +2852,12 @@
         {
           "word": "SNEAKERNET",
           "options": [
+            "Moving data by physically carrying drives around",
             "A ring of counterfeit sellers",
             "A tool for browsing anonymously",
-            "Moving data by physically carrying drives around"
+            "A resale marketplace for rare trainers"
           ],
-          "answer": 2,
+          "answer": 0,
           "difficulty": "easy",
           "gens": [
             "all"
@@ -2857,11 +2866,12 @@
         {
           "word": "YAK SHAVING",
           "options": [
-            "The chain of side tasks you hit before the real one",
             "Trimming a bloated budget",
-            "Deleting unused code"
+            "The chain of side tasks you hit before the real one",
+            "Deleting unused code",
+            "A grooming practice on Himalayan farms"
           ],
-          "answer": 0,
+          "answer": 1,
           "difficulty": "easy",
           "gens": [
             "all"
@@ -2871,10 +2881,11 @@
           "word": "RUBBER DUCKING",
           "options": [
             "Testing a product on yourself first",
+            "Dodging a difficult conversation",
             "Explaining a problem out loud until you spot the answer",
-            "Dodging a difficult conversation"
+            "Dodging a question you can't answer"
           ],
-          "answer": 1,
+          "answer": 2,
           "difficulty": "easy",
           "gens": [
             "all"
@@ -2885,9 +2896,10 @@
           "options": [
             "A camera slowly zooming in",
             "A deadline moving earlier",
+            "The slow drift of a telescope off its target",
             "A project quietly growing past what was agreed"
           ],
-          "answer": 2,
+          "answer": 3,
           "difficulty": "easy",
           "gens": [
             "all"
@@ -2898,7 +2910,8 @@
           "options": [
             "Shortcuts taken now that cost you more later",
             "Money owed to a software vendor",
-            "The cost of replacing old hardware"
+            "The cost of replacing old hardware",
+            "A loan taken out to buy equipment"
           ],
           "answer": 0,
           "difficulty": "easy",
@@ -2911,7 +2924,8 @@
           "options": [
             "The idea that old sites never truly vanish",
             "The claim that most online activity is now bots",
-            "A prediction that we'll run out of addresses"
+            "A prediction that we'll run out of addresses",
+            "The belief that the web will run out of storage"
           ],
           "answer": 1,
           "difficulty": "easy",
@@ -2925,7 +2939,8 @@
           "options": [
             "Locking a document against edits",
             "Forging a certificate",
-            "Publishing someone's private information without consent"
+            "Publishing someone's private information without consent",
+            "Attaching supporting documents to a filing"
           ],
           "answer": 2,
           "difficulty": "easy",
@@ -2937,11 +2952,12 @@
         {
           "word": "SWATTING",
           "options": [
-            "A fake emergency call that sends armed police to a home",
             "Beating back a wave of spam",
-            "Squashing a software bug"
+            "Squashing a software bug",
+            "Clearing a room of insects",
+            "A fake emergency call that sends armed police to a home"
           ],
-          "answer": 0,
+          "answer": 3,
           "difficulty": "easy",
           "gens": [
             "millennial",
@@ -2951,11 +2967,12 @@
         {
           "word": "CRYPTO WINTER",
           "options": [
-            "A total network shutdown",
             "A long, grinding slump in cryptocurrency prices",
-            "A wallet kept offline for safety"
+            "A total network shutdown",
+            "A wallet kept offline for safety",
+            "The season when mining rigs run coolest"
           ],
-          "answer": 1,
+          "answer": 0,
           "difficulty": "easy",
           "gens": [
             "millennial",
@@ -2966,10 +2983,11 @@
           "word": "RUG PULL",
           "options": [
             "An abrupt site redesign",
+            "When a project's creators vanish with everyone's money",
             "Cancelling a subscription mid-term",
-            "When a project's creators vanish with everyone's money"
+            "A takedown move in competitive wrestling"
           ],
-          "answer": 2,
+          "answer": 1,
           "difficulty": "easy",
           "gens": [
             "millennial",
@@ -2979,11 +2997,12 @@
         {
           "word": "DIAMOND HANDS",
           "options": [
-            "Holding an investment through brutal losses",
             "An index of luxury goods",
-            "A manicure trend"
+            "A manicure trend",
+            "Holding an investment through brutal losses",
+            "A jeweller's grading certificate"
           ],
-          "answer": 0,
+          "answer": 2,
           "difficulty": "easy",
           "gens": [
             "millennial",
@@ -2994,10 +3013,11 @@
           "word": "SKIMPFLATION",
           "options": [
             "Shipping getting slower",
-            "Same price, quietly worse ingredients or service",
-            "Type sizes shrinking on packaging"
+            "Type sizes shrinking on packaging",
+            "A deliberate reduction in packaging waste",
+            "Same price, quietly worse ingredients or service"
           ],
-          "answer": 1,
+          "answer": 3,
           "difficulty": "easy",
           "gens": [
             "millennial",
@@ -3007,11 +3027,12 @@
         {
           "word": "DRIP PRICING",
           "options": [
+            "Advertising a low price, then adding fees at checkout",
             "Charging by the minute",
             "Nudging prices up a little each year",
-            "Advertising a low price, then adding fees at checkout"
+            "Charging by the drop for irrigation water"
           ],
-          "answer": 2,
+          "answer": 0,
           "difficulty": "easy",
           "gens": [
             "millennial",
@@ -3021,11 +3042,12 @@
         {
           "word": "GHOST KITCHEN",
           "options": [
-            "A delivery-only restaurant with no dining room",
             "A commercial kitchen sitting unused",
-            "A kitchen staffed only overnight"
+            "A delivery-only restaurant with no dining room",
+            "A kitchen staffed only overnight",
+            "A show kitchen in a home nobody cooks in"
           ],
-          "answer": 0,
+          "answer": 1,
           "difficulty": "easy",
           "gens": [
             "millennial",
@@ -3036,10 +3058,11 @@
           "word": "DARK STORE",
           "options": [
             "A storefront on the dark web",
+            "A shop with no signage out front",
             "A retail space used only to fill online orders",
-            "A shop with no signage out front"
+            "A shop that only opens after sunset"
           ],
-          "answer": 1,
+          "answer": 2,
           "difficulty": "easy",
           "gens": [
             "millennial",
@@ -3051,9 +3074,10 @@
           "options": [
             "The worst-performing product line",
             "The manager who takes the blame",
+            "The executive who carries the blame for a bad quarter",
             "An item sold below cost to pull customers in"
           ],
-          "answer": 2,
+          "answer": 3,
           "difficulty": "easy",
           "gens": [
             "all"
@@ -3064,7 +3088,8 @@
           "options": [
             "A firm earning just enough to cover its debt payments",
             "A company bought and immediately shut down",
-            "A dead brand revived by new owners"
+            "A dead brand revived by new owners",
+            "A business that keeps rebranding itself"
           ],
           "answer": 0,
           "difficulty": "easy",
@@ -3077,7 +3102,8 @@
           "options": [
             "A tool for moving files in bulk",
             "Low-effort software bundled in to pad out a catalog",
-            "Landscaping design software"
+            "Landscaping design software",
+            "A range of heavy-duty gardening tools"
           ],
           "answer": 1,
           "difficulty": "easy",
@@ -3091,7 +3117,8 @@
           "options": [
             "A wireless file transfer between phones",
             "An emergency server backup",
-            "Free crypto tokens sent to wallets to drum up interest"
+            "Free crypto tokens sent to wallets to drum up interest",
+            "A sudden loss of cabin pressure"
           ],
           "answer": 2,
           "difficulty": "easy",
@@ -3103,11 +3130,12 @@
         {
           "word": "GOLDEN HOUR",
           "options": [
-            "The hour after sunrise or before sunset, best for photos",
             "The peak time of day for posting online",
-            "The opening hour of a sale"
+            "The opening hour of a sale",
+            "The first hour of trading on an exchange",
+            "The hour after sunrise or before sunset, best for photos"
           ],
-          "answer": 0,
+          "answer": 3,
           "difficulty": "easy",
           "gens": [
             "all"
@@ -3116,11 +3144,12 @@
         {
           "word": "GREENFIELD",
           "options": [
-            "An outdoor festival site",
             "A project built from scratch with no existing constraints",
-            "A building with eco certification"
+            "An outdoor festival site",
+            "A building with eco certification",
+            "Farmland deliberately left fallow for a season"
           ],
-          "answer": 1,
+          "answer": 0,
           "difficulty": "easy",
           "gens": [
             "all"
@@ -3130,10 +3159,11 @@
           "word": "EVERGREEN",
           "options": [
             "A subscription that renews automatically",
+            "Content that stays relevant long after it's published",
             "A sustainably sourced product",
-            "Content that stays relevant long after it's published"
+            "A tree that keeps its leaves all year round"
           ],
-          "answer": 2,
+          "answer": 1,
           "difficulty": "easy",
           "gens": [
             "all"
@@ -3142,11 +3172,12 @@
         {
           "word": "HOMOPHILY",
           "options": [
-            "The tendency to bond with people who are like you",
             "A fear of large crowds",
-            "A preference for symmetry in design"
+            "A preference for symmetry in design",
+            "The tendency to bond with people who are like you",
+            "A deep attachment to home comforts"
           ],
-          "answer": 0,
+          "answer": 2,
           "difficulty": "medium",
           "gens": [
             "all"
@@ -3156,10 +3187,11 @@
           "word": "SEALIONING",
           "options": [
             "Burying a thread in emoji",
-            "Harassment disguised as polite, relentless questioning",
-            "Photobombing someone's livestream"
+            "Photobombing someone's livestream",
+            "The seasonal migration of seals to a breeding ground",
+            "Harassment disguised as polite, relentless questioning"
           ],
-          "answer": 1,
+          "answer": 3,
           "difficulty": "medium",
           "gens": [
             "millennial",
@@ -3169,11 +3201,12 @@
         {
           "word": "CONCERN TROLLING",
           "options": [
+            "Posing as a supporter in order to undermine a cause",
             "Reporting posts for entertainment",
             "Warning strangers about a scam",
-            "Posing as a supporter in order to undermine a cause"
+            "Fishing for sympathy about your own problems"
           ],
-          "answer": 2,
+          "answer": 0,
           "difficulty": "medium",
           "gens": [
             "all"
@@ -3182,11 +3215,12 @@
         {
           "word": "WHATABOUTISM",
           "options": [
-            "Deflecting criticism by pointing at someone else's wrongdoing",
             "Asking clarifying questions in bad faith",
-            "Speculating endlessly about the future"
+            "Deflecting criticism by pointing at someone else's wrongdoing",
+            "Speculating endlessly about the future",
+            "A habit of asking far too many questions"
           ],
-          "answer": 0,
+          "answer": 1,
           "difficulty": "medium",
           "gens": [
             "all"
@@ -3196,10 +3230,11 @@
           "word": "NUTPICKING",
           "options": [
             "Screening a jury pool",
+            "Selecting only the strongest data points",
             "Presenting a group's most extreme members as typical of it",
-            "Selecting only the strongest data points"
+            "Harvesting a crop by hand rather than by machine"
           ],
-          "answer": 1,
+          "answer": 2,
           "difficulty": "medium",
           "gens": [
             "millennial",
@@ -3211,9 +3246,10 @@
           "options": [
             "A medieval board game",
             "A two-stage negotiating tactic",
+            "A pair of neighbouring English villages",
             "Retreating to an easy claim when your bold one is challenged"
           ],
-          "answer": 2,
+          "answer": 3,
           "difficulty": "medium",
           "gens": [
             "all"
@@ -3224,7 +3260,8 @@
           "options": [
             "Arguing the strongest possible version of your opponent's case",
             "Propping up a weak argument with data",
-            "Hardening a system against attack"
+            "Hardening a system against attack",
+            "Reinforcing a structure with steel beams"
           ],
           "answer": 0,
           "difficulty": "medium",
@@ -3237,7 +3274,8 @@
           "options": [
             "A grant awarded to a startup",
             "What an object's design tells you that you can do with it",
-            "A price a customer can manage"
+            "A price a customer can manage",
+            "A subsidy that brings a product within reach"
           ],
           "answer": 1,
           "difficulty": "medium",
@@ -3250,7 +3288,8 @@
           "options": [
             "Just barely within the law",
             "Having to do with lighting",
-            "Occupying a threshold, between one state and the next"
+            "Occupying a threshold, between one state and the next",
+            "Extremely small, or barely worth counting"
           ],
           "answer": 2,
           "difficulty": "medium",
@@ -3261,11 +3300,12 @@
         {
           "word": "FUNGIBLE",
           "options": [
-            "Interchangeable — one unit is as good as any other",
             "Able to be broken down into parts",
-            "Prone to spreading quickly"
+            "Prone to spreading quickly",
+            "Liable to grow mould in storage",
+            "Interchangeable — one unit is as good as any other"
           ],
-          "answer": 0,
+          "answer": 3,
           "difficulty": "medium",
           "gens": [
             "all"
@@ -3274,11 +3314,12 @@
         {
           "word": "ANTIFRAGILE",
           "options": [
-            "A fragile system with good backups",
             "Something that gets stronger from stress and disorder",
-            "Packaging built to resist damage"
+            "A fragile system with good backups",
+            "Packaging built to resist damage",
+            "A shipping label warning against rough handling"
           ],
-          "answer": 1,
+          "answer": 0,
           "difficulty": "medium",
           "gens": [
             "all"
@@ -3288,10 +3329,11 @@
           "word": "LINDY EFFECT",
           "options": [
             "The delay between a cause and its effect",
+            "The longer something has survived, the longer it's likely to last",
             "The tendency of crowds to fall into sync",
-            "The longer something has survived, the longer it's likely to last"
+            "The tendency of a trend to peak and then crash"
           ],
-          "answer": 2,
+          "answer": 1,
           "difficulty": "medium",
           "gens": [
             "all"
@@ -3300,11 +3342,12 @@
         {
           "word": "SURVIVORSHIP BIAS",
           "options": [
-            "Drawing conclusions only from the things that made it through",
             "A preference for hiring older workers",
-            "Overestimating your own resilience"
+            "Overestimating your own resilience",
+            "Drawing conclusions only from the things that made it through",
+            "A preference for hiring long-tenured staff"
           ],
-          "answer": 0,
+          "answer": 2,
           "difficulty": "medium",
           "gens": [
             "all"
@@ -3314,10 +3357,11 @@
           "word": "VELLEITY",
           "options": [
             "A minor legal technicality",
-            "A wish too faint to ever act on",
-            "A sudden burst of speed"
+            "A sudden burst of speed",
+            "A thin, translucent fabric",
+            "A wish too faint to ever act on"
           ],
-          "answer": 1,
+          "answer": 3,
           "difficulty": "medium",
           "gens": [
             "all"
@@ -3326,11 +3370,12 @@
         {
           "word": "SALIENCE",
           "options": [
+            "How much something stands out and seizes attention",
             "The saltiness of a solution",
             "A formal style of greeting",
-            "How much something stands out and seizes attention"
+            "A brief lull in a conversation"
           ],
-          "answer": 2,
+          "answer": 0,
           "difficulty": "medium",
           "gens": [
             "all"
@@ -3339,11 +3384,12 @@
         {
           "word": "HEURISTIC",
           "options": [
-            "A mental shortcut that's usually good enough",
             "A step-by-step formal proof",
-            "A diagnostic scan"
+            "A mental shortcut that's usually good enough",
+            "A diagnostic scan",
+            "A teaching method built on repetition"
           ],
-          "answer": 0,
+          "answer": 1,
           "difficulty": "medium",
           "gens": [
             "all"
@@ -3353,10 +3399,11 @@
           "word": "EPISTEMIC",
           "options": [
             "Recurring at regular intervals",
+            "Relating to the spread of disease",
             "Having to do with knowledge and how we come to know it",
-            "Relating to the spread of disease"
+            "Occurring at the surface of the skin"
           ],
-          "answer": 1,
+          "answer": 2,
           "difficulty": "medium",
           "gens": [
             "all"
@@ -3367,9 +3414,10 @@
           "options": [
             "An oversized hot-air balloon",
             "A lavish grand opening",
+            "A ceremonial parade float",
             "A group whose shared identity is essentially meaningless"
           ],
-          "answer": 2,
+          "answer": 3,
           "difficulty": "medium",
           "gens": [
             "all"
@@ -3380,7 +3428,8 @@
           "options": [
             "Whether an experience is positively or negatively charged",
             "The strength of a broadcast signal",
-            "A formal dress ball"
+            "A formal dress ball",
+            "The servants' quarters in a large house"
           ],
           "answer": 0,
           "difficulty": "medium",
@@ -3393,7 +3442,8 @@
           "options": [
             "A one-way method of encryption",
             "A deal where one side knows far more than the other",
-            "Data stored in uneven block sizes"
+            "Data stored in uneven block sizes",
+            "Data corrupted somewhere in transfer"
           ],
           "answer": 1,
           "difficulty": "medium",
@@ -3404,11 +3454,12 @@
         {
           "word": "ULTRACREPIDARIAN",
           "options": [
-            "Someone who confidently opines well beyond their expertise",
             "An extreme endurance athlete",
-            "A very old bound manuscript"
+            "A very old bound manuscript",
+            "Someone who confidently opines well beyond their expertise",
+            "A follower of an extreme dietary regime"
           ],
-          "answer": 0,
+          "answer": 2,
           "difficulty": "hard",
           "gens": [
             "all"
@@ -3418,10 +3469,11 @@
           "word": "SONDER",
           "options": [
             "A soft echo in a large hall",
-            "The realization that every stranger has a life as vivid as your own",
-            "A journey taken alone"
+            "A journey taken alone",
+            "A quiet sense of separateness from a group",
+            "The realization that every stranger has a life as vivid as your own"
           ],
-          "answer": 1,
+          "answer": 3,
           "difficulty": "hard",
           "gens": [
             "all"
@@ -3430,11 +3482,12 @@
         {
           "word": "APOPHENIA",
           "options": [
+            "Seeing meaningful patterns in random data",
             "A fear of open heights",
             "A sudden loss of appetite",
-            "Seeing meaningful patterns in random data"
+            "A persistent fear of being watched"
           ],
-          "answer": 2,
+          "answer": 0,
           "difficulty": "hard",
           "gens": [
             "all"
@@ -3443,11 +3496,12 @@
         {
           "word": "ZEMBLANITY",
           "options": [
-            "Making unlucky discoveries by design — the opposite of serendipity",
             "A spell of heavy snow",
-            "A Balkan folk dance"
+            "Making unlucky discoveries by design — the opposite of serendipity",
+            "A Balkan folk dance",
+            "The dullness of a place you know too well"
           ],
-          "answer": 0,
+          "answer": 1,
           "difficulty": "hard",
           "gens": [
             "all"
@@ -3457,10 +3511,11 @@
           "word": "ANEMOIA",
           "options": [
             "An iron deficiency",
+            "Sickness brought on by high wind",
             "Nostalgia for a time you never actually lived through",
-            "Sickness brought on by high wind"
+            "A rare disorder affecting the formation of memories"
           ],
-          "answer": 1,
+          "answer": 2,
           "difficulty": "hard",
           "gens": [
             "all"
@@ -3471,9 +3526,10 @@
           "options": [
             "An inability to sit still",
             "A Greek honey pastry",
+            "A sudden and total loss of appetite",
             "Acting against your own better judgment"
           ],
-          "answer": 2,
+          "answer": 3,
           "difficulty": "hard",
           "gens": [
             "all"
@@ -3484,7 +3540,8 @@
           "options": [
             "An idea that makes itself true by being believed widely enough",
             "An extreme form of superstition",
-            "Fiction written at great speed"
+            "Fiction written at great speed",
+            "An obsessive preoccupation with the future"
           ],
           "answer": 0,
           "difficulty": "hard",
@@ -3497,7 +3554,8 @@
           "options": [
             "An ancient silver coin",
             "A trap where everyone competing rationally leaves everyone worse off",
-            "A Norwegian metal band"
+            "A Norwegian metal band",
+            "A mythical creature set to guard a hoard"
           ],
           "answer": 1,
           "difficulty": "hard",
@@ -3510,7 +3568,8 @@
           "options": [
             "A German environmental statute",
             "A style of world map projection",
-            "The slice of reality a given creature can actually perceive"
+            "The slice of reality a given creature can actually perceive",
+            "A worldview inherited from one's parents"
           ],
           "answer": 2,
           "difficulty": "hard",
@@ -3521,11 +3580,12 @@
         {
           "word": "STOCHASTIC PARROT",
           "options": [
-            "A critique of language models as pattern-repeaters without understanding",
             "A random number generator",
-            "A bird species with erratic migration"
+            "A bird species with erratic migration",
+            "A statistical method for sampling bird populations",
+            "A critique of language models as pattern-repeaters without understanding"
           ],
-          "answer": 0,
+          "answer": 3,
           "difficulty": "hard",
           "gens": [
             "genz"
@@ -3534,11 +3594,12 @@
         {
           "word": "GOODHART'S LAW",
           "options": [
-            "Systems inevitably trend toward disorder",
             "When a measure becomes a target, it stops being a good measure",
-            "Work expands to fill the time available"
+            "Systems inevitably trend toward disorder",
+            "Work expands to fill the time available",
+            "The claim that good systems attract bad actors"
           ],
-          "answer": 1,
+          "answer": 0,
           "difficulty": "hard",
           "gens": [
             "all"
@@ -3548,10 +3609,11 @@
           "word": "CHESTERTON'S FENCE",
           "options": [
             "A rule about property boundary disputes",
+            "Don't tear something down until you know why it was put up",
             "A defensive military formation",
-            "Don't tear something down until you know why it was put up"
+            "The principle that good fences make good neighbours"
           ],
-          "answer": 2,
+          "answer": 1,
           "difficulty": "hard",
           "gens": [
             "all"
@@ -3560,11 +3622,12 @@
         {
           "word": "GELL-MANN AMNESIA",
           "options": [
-            "Trusting a source on topics you don't know, right after catching it wrong on one you do",
             "Forgetting a colleague's name mid-introduction",
-            "Memory loss caused by radiation exposure"
+            "Memory loss caused by radiation exposure",
+            "Trusting a source on topics you don't know, right after catching it wrong on one you do",
+            "Forgetting where you learned a fact you still believe"
           ],
-          "answer": 0,
+          "answer": 2,
           "difficulty": "hard",
           "gens": [
             "all"
@@ -3574,10 +3637,11 @@
           "word": "PREFERENCE FALSIFICATION",
           "options": [
             "Rigging the results of a poll",
-            "Hiding what you actually think because of social pressure",
-            "Editing a survey after the fact"
+            "Editing a survey after the fact",
+            "Deliberately misreporting your own experimental data",
+            "Hiding what you actually think because of social pressure"
           ],
-          "answer": 1,
+          "answer": 3,
           "difficulty": "hard",
           "gens": [
             "all"
@@ -3586,11 +3650,12 @@
         {
           "word": "ANTIMEMETIC",
           "options": [
+            "Resistant to being remembered or passed on",
             "Opposed to internet culture generally",
             "A class of anti-inflammatory drug",
-            "Resistant to being remembered or passed on"
+            "Hostile to imitation and parody"
           ],
-          "answer": 2,
+          "answer": 0,
           "difficulty": "hard",
           "gens": [
             "all"
@@ -3599,11 +3664,12 @@
         {
           "word": "LEGIBILITY",
           "options": [
-            "A state's drive to simplify society so it can be measured and governed",
             "Handwriting clear enough to read",
-            "Font sizing for accessibility"
+            "A state's drive to simplify society so it can be measured and governed",
+            "Font sizing for accessibility",
+            "How far a law can be understood by the public it governs"
           ],
-          "answer": 0,
+          "answer": 1,
           "difficulty": "hard",
           "gens": [
             "genz"
@@ -3613,10 +3679,11 @@
           "word": "HEDONIC TREADMILL",
           "options": [
             "A high-intensity cardio machine",
+            "The escalating cycle of an addiction",
             "The tendency to return to a baseline of happiness after good or bad events",
-            "The escalating cycle of an addiction"
+            "The rising cost of keeping up a luxury lifestyle"
           ],
-          "answer": 1,
+          "answer": 2,
           "difficulty": "hard",
           "gens": [
             "all"
@@ -3627,9 +3694,10 @@
           "options": [
             "A measure of energy efficiency",
             "The science of workplace ergonomics",
+            "The rate at which a system loses usable energy",
             "Whether the average over time matches the average across a group"
           ],
-          "answer": 2,
+          "answer": 3,
           "difficulty": "hard",
           "gens": [
             "all"
@@ -3640,7 +3708,8 @@
           "options": [
             "The distress of watching your home environment change around you",
             "A melancholy that arrives at sunset",
-            "Grief over a failed solar installation"
+            "Grief over a failed solar installation",
+            "A longing for a place you have never been"
           ],
           "answer": 0,
           "difficulty": "hard",
@@ -3653,7 +3722,8 @@
           "options": [
             "A negotiated compromise between two states",
             "Damaging material collected in order to blackmail someone",
-            "A compact folding sleeping mat"
+            "A compact folding sleeping mat",
+            "A negotiated settlement between rival states"
           ],
           "answer": 1,
           "difficulty": "hard",
@@ -3664,11 +3734,12 @@
         {
           "word": "RICKROLL",
           "options": [
-            "Tricking someone into clicking a Rick Astley video",
             "A rolling server restart",
-            "A bread roll served at diners"
+            "A bread roll served at diners",
+            "Tricking someone into clicking a Rick Astley video",
+            "A bread roll named after the baker who invented it"
           ],
-          "answer": 0,
+          "answer": 2,
           "difficulty": "easy",
           "gens": [
             "millennial",
@@ -3679,10 +3750,11 @@
           "word": "RAGEQUIT",
           "options": [
             "An aggressive sales tactic",
-            "Storming out of a game mid-match",
-            "A very fast checkout process"
+            "A very fast checkout process",
+            "Resigning from a job on the spot",
+            "Storming out of a game mid-match"
           ],
-          "answer": 1,
+          "answer": 3,
           "difficulty": "easy",
           "gens": [
             "millennial",
@@ -3692,11 +3764,12 @@
         {
           "word": "NOOB",
           "options": [
+            "A beginner, usually said with contempt",
             "A knock-off product",
             "A dial on an old radio",
-            "A beginner, usually said with contempt"
+            "A soft foam toy"
           ],
-          "answer": 2,
+          "answer": 0,
           "difficulty": "easy",
           "gens": [
             "millennial",
@@ -3706,11 +3779,12 @@
         {
           "word": "GRINDING",
           "options": [
-            "Repeating dull tasks to build up progress in a game",
             "Cutting a video down to length",
-            "Negotiating hard on price"
+            "Repeating dull tasks to build up progress in a game",
+            "Negotiating hard on price",
+            "Cutting footage down to a highlight reel"
           ],
-          "answer": 0,
+          "answer": 1,
           "difficulty": "easy",
           "gens": [
             "millennial",
@@ -3721,10 +3795,11 @@
           "word": "SPEEDRUN",
           "options": [
             "A short high-intensity workout",
+            "A fast-forward playback feature",
             "Finishing a game as fast as humanly possible",
-            "A fast-forward playback feature"
+            "A sprint interval in athletics training"
           ],
-          "answer": 1,
+          "answer": 2,
           "difficulty": "easy",
           "gens": [
             "millennial",
@@ -3736,9 +3811,10 @@
           "options": [
             "A children's television segment",
             "A shared calendar invitation",
+            "A warm-up exercise used in theatre",
             "A video of someone narrating their way through a game"
           ],
-          "answer": 2,
+          "answer": 3,
           "difficulty": "easy",
           "gens": [
             "millennial",
@@ -3750,7 +3826,8 @@
           "options": [
             "Pretending to be someone else online to start a relationship",
             "Fishing without a permit",
-            "Luring a competitor into a bad deal"
+            "Luring a competitor into a bad deal",
+            "Catching fish by hand, without a rod"
           ],
           "answer": 0,
           "difficulty": "easy",
@@ -3764,7 +3841,8 @@
           "options": [
             "Badly overexposing an image",
             "Turning up uninvited in someone else's photo",
-            "Deleting a photo from a device remotely"
+            "Deleting a photo from a device remotely",
+            "A flash misfire that ruins a shot"
           ],
           "answer": 1,
           "difficulty": "easy",
@@ -3778,7 +3856,8 @@
           "options": [
             "Slowly scrolling through a feed",
             "Hunting for online bargains",
-            "Provoking people online purely for the reaction"
+            "Provoking people online purely for the reaction",
+            "Fishing by dragging a baited line behind a boat"
           ],
           "answer": 2,
           "difficulty": "easy",
@@ -3790,11 +3869,12 @@
         {
           "word": "LEET",
           "options": [
-            "Writing words with numbers standing in for letters",
             "A brief server outage",
-            "A brand of protein bar"
+            "A brand of protein bar",
+            "A technique used in leather-working",
+            "Writing words with numbers standing in for letters"
           ],
-          "answer": 0,
+          "answer": 3,
           "difficulty": "easy",
           "gens": [
             "millennial",
@@ -3804,11 +3884,12 @@
         {
           "word": "SHIPPING",
           "options": [
+            "Wanting two characters to end up together",
             "Tracking a parcel in transit",
             "Moving stock between stores",
-            "Wanting two characters to end up together"
+            "Sending a package overseas"
           ],
-          "answer": 2,
+          "answer": 0,
           "difficulty": "medium",
           "gens": [
             "millennial",
@@ -3818,11 +3899,12 @@
         {
           "word": "CANON",
           "options": [
-            "What officially counts as part of a story's world",
             "A large historical artillery piece",
-            "A rule of musical composition"
+            "What officially counts as part of a story's world",
+            "A rule of musical composition",
+            "A rank held by a cathedral official"
           ],
-          "answer": 0,
+          "answer": 1,
           "difficulty": "medium",
           "gens": [
             "millennial",
@@ -3833,10 +3915,11 @@
           "word": "RETCON",
           "options": [
             "A convention for retro gaming",
+            "Rebooting a games console",
             "Changing established backstory after the fact",
-            "Rebooting a games console"
+            "A convention held again the following year"
           ],
-          "answer": 1,
+          "answer": 2,
           "difficulty": "medium",
           "gens": [
             "millennial",
@@ -3848,9 +3931,10 @@
           "options": [
             "A standing-room-only ticket",
             "A default factory configuration",
+            "A standing wave in acoustics",
             "An obsessive fan, named after an Eminem song"
           ],
-          "answer": 2,
+          "answer": 3,
           "difficulty": "medium",
           "gens": [
             "millennial",
@@ -3862,7 +3946,8 @@
           "options": [
             "Someone outside a subculture who misses all the references",
             "A statistical average",
-            "A standard-issue uniform"
+            "A standard-issue uniform",
+            "A bell-shaped statistical distribution"
           ],
           "answer": 0,
           "difficulty": "medium",
@@ -3875,10 +3960,11 @@
           "word": "POE'S LAW",
           "options": [
             "The rule that online arguments always escalate",
+            "Without a clear signal, parody of an extreme view is indistinguishable from the real thing",
             "The idea that early users set a platform's culture permanently",
-            "Without a clear signal, parody of an extreme view is indistinguishable from the real thing"
+            "The rule that the loudest voice wins an argument"
           ],
-          "answer": 2,
+          "answer": 1,
           "difficulty": "hard",
           "gens": [
             "millennial",
@@ -3888,11 +3974,12 @@
         {
           "word": "GODWIN'S LAW",
           "options": [
-            "The longer an online argument runs, the likelier a Nazi comparison becomes",
             "The claim that content expands to fill available bandwidth",
-            "The observation that platforms decay as they monetize"
+            "The observation that platforms decay as they monetize",
+            "The longer an online argument runs, the likelier a Nazi comparison becomes",
+            "The principle that every rule is eventually broken"
           ],
-          "answer": 0,
+          "answer": 2,
           "difficulty": "hard",
           "gens": [
             "millennial",
@@ -3903,10 +3990,11 @@
           "word": "ETERNAL SEPTEMBER",
           "options": [
             "A name for predictable seasonal traffic spikes",
-            "The point when a niche community is permanently swamped by newcomers",
-            "An unusually drawn-out product launch"
+            "An unusually drawn-out product launch",
+            "A calendar quirk in early computing systems",
+            "The point when a niche community is permanently swamped by newcomers"
           ],
-          "answer": 1,
+          "answer": 3,
           "difficulty": "hard",
           "gens": [
             "millennial",
@@ -3916,11 +4004,12 @@
         {
           "word": "SEMANTIC SATIATION",
           "options": [
+            "When a word repeated enough times stops feeling like a word",
             "The point where a market is completely served",
             "Over-tagging a piece of content until search breaks",
-            "When a word repeated enough times stops feeling like a word"
+            "The point at which a language stops taking new words"
           ],
-          "answer": 2,
+          "answer": 0,
           "difficulty": "hard",
           "gens": [
             "all"
@@ -3929,11 +4018,12 @@
         {
           "word": "CYBERBALKANIZATION",
           "options": [
-            "The splitting of the internet into isolated, like-minded enclaves",
             "The physical division of undersea cable routes",
-            "A strategy of pricing differently by region"
+            "The splitting of the internet into isolated, like-minded enclaves",
+            "A strategy of pricing differently by region",
+            "A coordinated attack on a nation's infrastructure"
           ],
-          "answer": 0,
+          "answer": 1,
           "difficulty": "hard",
           "gens": [
             "millennial",
@@ -3944,10 +4034,11 @@
           "word": "GROOVY",
           "options": [
             "A dance with repeating steps",
+            "A deep scratch across a record",
             "Excellent or fashionable, in 1960s slang",
-            "A deep scratch across a record"
+            "Cut with deep parallel grooves"
           ],
-          "answer": 1,
+          "answer": 2,
           "difficulty": "easy",
           "gens": [
             "boomer",
@@ -3959,9 +4050,10 @@
           "options": [
             "A political extremist",
             "The root symbol in mathematics",
+            "Relating to the root of a plant",
             "Excellent, in 1980s skater and surfer slang"
           ],
-          "answer": 2,
+          "answer": 3,
           "difficulty": "easy",
           "gens": [
             "genx",
@@ -3973,7 +4065,8 @@
           "options": [
             "Unfair or fake, everywhere in 1980s slang",
             "A reported ghost sighting",
-            "An error in the bookkeeping"
+            "An error in the bookkeeping",
+            "A soft, marshy patch of ground"
           ],
           "answer": 0,
           "difficulty": "easy",
@@ -3986,7 +4079,8 @@
           "options": [
             "A style of Alpine yodelling",
             "A young urban professional, the 1980s archetype",
-            "A small, very energetic dog breed"
+            "A small, very energetic dog breed",
+            "A puppy that has not yet been weaned"
           ],
           "answer": 1,
           "difficulty": "easy",
@@ -4000,7 +4094,8 @@
           "options": [
             "A radio programming block",
             "A record label's sampler album",
-            "A cassette compiled by hand, usually for someone you liked"
+            "A cassette compiled by hand, usually for someone you liked",
+            "Adhesive tape used for splicing film"
           ],
           "answer": 2,
           "difficulty": "easy",
@@ -4012,11 +4107,12 @@
         {
           "word": "AS IF",
           "options": [
-            "A dismissive 'no way', straight out of 1990s teen slang",
             "A conditional statement in programming",
-            "A hypothetical used in accounting"
+            "A hypothetical used in accounting",
+            "A keyword used in older programming languages",
+            "A dismissive 'no way', straight out of 1990s teen slang"
           ],
-          "answer": 0,
+          "answer": 3,
           "difficulty": "easy",
           "gens": [
             "genx",
@@ -4026,11 +4122,12 @@
         {
           "word": "JUMPING THE SHARK",
           "options": [
-            "A manoeuvre in competitive surfing",
             "The moment a show passes its peak and starts sliding",
-            "A risky all-or-nothing financial bet"
+            "A manoeuvre in competitive surfing",
+            "A risky all-or-nothing financial bet",
+            "Taking a reckless gamble that comes off"
           ],
-          "answer": 1,
+          "answer": 0,
           "difficulty": "medium",
           "gens": [
             "boomer",
@@ -4042,10 +4139,11 @@
           "word": "LATCHKEY KID",
           "options": [
             "An apprentice to a locksmith",
+            "A child who let themselves into an empty house after school",
             "A kid who has lost their house keys",
-            "A child who let themselves into an empty house after school"
+            "A child who keeps locking themselves out"
           ],
-          "answer": 2,
+          "answer": 1,
           "difficulty": "medium",
           "gens": [
             "genx"
@@ -4054,11 +4152,12 @@
         {
           "word": "DINK",
           "options": [
-            "Dual Income, No Kids — a 1980s household label",
             "A soft drop shot in tennis",
-            "A small dent knocked into metal"
+            "A small dent knocked into metal",
+            "Dual Income, No Kids — a 1980s household label",
+            "A household with two incomes and two homes"
           ],
-          "answer": 0,
+          "answer": 2,
           "difficulty": "medium",
           "gens": [
             "boomer",
@@ -4069,10 +4168,11 @@
           "word": "SAMIZDAT",
           "options": [
             "A regional style of folk embroidery",
-            "Banned writing copied and passed hand to hand",
-            "A Soviet state news agency"
+            "A Soviet state news agency",
+            "A traditional Russian tea ceremony",
+            "Banned writing copied and passed hand to hand"
           ],
-          "answer": 1,
+          "answer": 3,
           "difficulty": "hard",
           "gens": [
             "boomer"
@@ -4081,11 +4181,12 @@
         {
           "word": "ZEITGEIST",
           "options": [
+            "The defining mood and ideas of a particular period",
             "A tradition of telling ghost stories",
             "An early mechanical time-keeping device",
-            "The defining mood and ideas of a particular period"
+            "A sudden outbreak of collective panic"
           ],
-          "answer": 2,
+          "answer": 0,
           "difficulty": "hard",
           "gens": [
             "all"
@@ -4094,11 +4195,12 @@
         {
           "word": "MOONSHOT",
           "options": [
-            "A hugely ambitious project with a real chance of failing",
             "A long-range basketball attempt",
-            "A photograph taken by moonlight"
+            "A hugely ambitious project with a real chance of failing",
+            "A photograph taken by moonlight",
+            "A rocket launch scheduled for the hours of darkness"
           ],
-          "answer": 0,
+          "answer": 1,
           "difficulty": "hard",
           "gens": [
             "all"

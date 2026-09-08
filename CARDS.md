@@ -362,119 +362,119 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 
 ### Lexicon (102)
 
-*Read the word and all three definitions out loud. Your team picks the right one.*
+*Read the word and all four definitions out loud. Your team picks the right one.*
 
 
 **Easy** (46)
 
-1. **BRIGADING** — A) A coordinated pile-on against one person online; B) A fire safety drill; C) Signing up for military service → **A**
-2. **FINSTA** — A) A first-time investor; B) A private second account kept for close friends; C) A fake product listing → **B**
-3. **SLOP** — A) A spilled-drink emoji; B) A rough first draft; C) Low-effort AI-generated content flooding a platform → **C**
-4. **SUBTWEET** — A) A post about someone without ever naming them; B) A reply hidden beneath another; C) A post scheduled to go out later → **A**
-5. **LURKER** — A) A process running in the background; B) Someone who reads everything and never posts; C) An automated spam account → **B**
-6. **UNICORN** — A) A bug nobody can reproduce; B) A one-off marketing stunt; C) A startup valued at over a billion dollars → **C**
-7. **BOOTSTRAPPED** — A) Funded out of its own revenue instead of investors; B) Built from a failed company's leftovers; C) Assembled out of borrowed code → **A**
-8. **VAPORWARE** — A) Free software paid for by ads; B) A product announced with fanfare that never ships; C) Software that runs entirely in the cloud → **B**
-9. **SNEAKERNET** — A) A ring of counterfeit sellers; B) A tool for browsing anonymously; C) Moving data by physically carrying drives around → **C**
-10. **YAK SHAVING** — A) The chain of side tasks you hit before the real one; B) Trimming a bloated budget; C) Deleting unused code → **A**
-11. **RUBBER DUCKING** — A) Testing a product on yourself first; B) Explaining a problem out loud until you spot the answer; C) Dodging a difficult conversation → **B**
-12. **SCOPE CREEP** — A) A camera slowly zooming in; B) A deadline moving earlier; C) A project quietly growing past what was agreed → **C**
-13. **TECHNICAL DEBT** — A) Shortcuts taken now that cost you more later; B) Money owed to a software vendor; C) The cost of replacing old hardware → **A**
-14. **DEAD INTERNET THEORY** — A) The idea that old sites never truly vanish; B) The claim that most online activity is now bots; C) A prediction that we'll run out of addresses → **B**
-15. **DOXXING** — A) Locking a document against edits; B) Forging a certificate; C) Publishing someone's private information without consent → **C**
-16. **SWATTING** — A) A fake emergency call that sends armed police to a home; B) Beating back a wave of spam; C) Squashing a software bug → **A**
-17. **CRYPTO WINTER** — A) A total network shutdown; B) A long, grinding slump in cryptocurrency prices; C) A wallet kept offline for safety → **B**
-18. **RUG PULL** — A) An abrupt site redesign; B) Cancelling a subscription mid-term; C) When a project's creators vanish with everyone's money → **C**
-19. **DIAMOND HANDS** — A) Holding an investment through brutal losses; B) An index of luxury goods; C) A manicure trend → **A**
-20. **SKIMPFLATION** — A) Shipping getting slower; B) Same price, quietly worse ingredients or service; C) Type sizes shrinking on packaging → **B**
-21. **DRIP PRICING** — A) Charging by the minute; B) Nudging prices up a little each year; C) Advertising a low price, then adding fees at checkout → **C**
-22. **GHOST KITCHEN** — A) A delivery-only restaurant with no dining room; B) A commercial kitchen sitting unused; C) A kitchen staffed only overnight → **A**
-23. **DARK STORE** — A) A storefront on the dark web; B) A retail space used only to fill online orders; C) A shop with no signage out front → **B**
-24. **LOSS LEADER** — A) The worst-performing product line; B) The manager who takes the blame; C) An item sold below cost to pull customers in → **C**
-25. **ZOMBIE COMPANY** — A) A firm earning just enough to cover its debt payments; B) A company bought and immediately shut down; C) A dead brand revived by new owners → **A**
-26. **SHOVELWARE** — A) A tool for moving files in bulk; B) Low-effort software bundled in to pad out a catalog; C) Landscaping design software → **B**
-27. **AIRDROP** — A) A wireless file transfer between phones; B) An emergency server backup; C) Free crypto tokens sent to wallets to drum up interest → **C**
-28. **GOLDEN HOUR** — A) The hour after sunrise or before sunset, best for photos; B) The peak time of day for posting online; C) The opening hour of a sale → **A**
-29. **GREENFIELD** — A) An outdoor festival site; B) A project built from scratch with no existing constraints; C) A building with eco certification → **B**
-30. **EVERGREEN** — A) A subscription that renews automatically; B) A sustainably sourced product; C) Content that stays relevant long after it's published → **C**
-31. **RICKROLL** — A) Tricking someone into clicking a Rick Astley video; B) A rolling server restart; C) A bread roll served at diners → **A**
-32. **RAGEQUIT** — A) An aggressive sales tactic; B) Storming out of a game mid-match; C) A very fast checkout process → **B**
-33. **NOOB** — A) A knock-off product; B) A dial on an old radio; C) A beginner, usually said with contempt → **C**
-34. **GRINDING** — A) Repeating dull tasks to build up progress in a game; B) Cutting a video down to length; C) Negotiating hard on price → **A**
-35. **SPEEDRUN** — A) A short high-intensity workout; B) Finishing a game as fast as humanly possible; C) A fast-forward playback feature → **B**
-36. **LET'S PLAY** — A) A children's television segment; B) A shared calendar invitation; C) A video of someone narrating their way through a game → **C**
-37. **CATFISHING** — A) Pretending to be someone else online to start a relationship; B) Fishing without a permit; C) Luring a competitor into a bad deal → **A**
-38. **PHOTOBOMB** — A) Badly overexposing an image; B) Turning up uninvited in someone else's photo; C) Deleting a photo from a device remotely → **B**
-39. **TROLLING** — A) Slowly scrolling through a feed; B) Hunting for online bargains; C) Provoking people online purely for the reaction → **C**
-40. **LEET** — A) Writing words with numbers standing in for letters; B) A brief server outage; C) A brand of protein bar → **A**
-41. **GROOVY** — A) A dance with repeating steps; B) Excellent or fashionable, in 1960s slang; C) A deep scratch across a record → **B**
-42. **RADICAL** — A) A political extremist; B) The root symbol in mathematics; C) Excellent, in 1980s skater and surfer slang → **C**
-43. **BOGUS** — A) Unfair or fake, everywhere in 1980s slang; B) A reported ghost sighting; C) An error in the bookkeeping → **A**
-44. **YUPPIE** — A) A style of Alpine yodelling; B) A young urban professional, the 1980s archetype; C) A small, very energetic dog breed → **B**
-45. **MIXTAPE** — A) A radio programming block; B) A record label's sampler album; C) A cassette compiled by hand, usually for someone you liked → **C**
-46. **AS IF** — A) A dismissive 'no way', straight out of 1990s teen slang; B) A conditional statement in programming; C) A hypothetical used in accounting → **A**
+1. **BRIGADING** — A) A coordinated pile-on against one person online; B) A fire safety drill; C) Signing up for military service; D) A reorganisation of army units → **A**
+2. **FINSTA** — A) A first-time investor; B) A private second account kept for close friends; C) A fake product listing; D) A minimalist Finnish design style → **B**
+3. **SLOP** — A) A spilled-drink emoji; B) A rough first draft; C) Low-effort AI-generated content flooding a platform; D) A cheap and fatty cut of meat → **C**
+4. **SUBTWEET** — A) A reply hidden beneath another; B) A post scheduled to go out later; C) A follow-up posted beneath your own post; D) A post about someone without ever naming them → **D**
+5. **LURKER** — A) Someone who reads everything and never posts; B) A process running in the background; C) An automated spam account; D) A predatory deep-sea fish → **A**
+6. **UNICORN** — A) A bug nobody can reproduce; B) A startup valued at over a billion dollars; C) A one-off marketing stunt; D) An employee who can do every job on a team → **B**
+7. **BOOTSTRAPPED** — A) Built from a failed company's leftovers; B) Assembled out of borrowed code; C) Funded out of its own revenue instead of investors; D) Fitted with a restraining clamp → **C**
+8. **VAPORWARE** — A) Free software paid for by ads; B) Software that runs entirely in the cloud; C) Cookware designed for steaming; D) A product announced with fanfare that never ships → **D**
+9. **SNEAKERNET** — A) Moving data by physically carrying drives around; B) A ring of counterfeit sellers; C) A tool for browsing anonymously; D) A resale marketplace for rare trainers → **A**
+10. **YAK SHAVING** — A) Trimming a bloated budget; B) The chain of side tasks you hit before the real one; C) Deleting unused code; D) A grooming practice on Himalayan farms → **B**
+11. **RUBBER DUCKING** — A) Testing a product on yourself first; B) Dodging a difficult conversation; C) Explaining a problem out loud until you spot the answer; D) Dodging a question you can't answer → **C**
+12. **SCOPE CREEP** — A) A camera slowly zooming in; B) A deadline moving earlier; C) The slow drift of a telescope off its target; D) A project quietly growing past what was agreed → **D**
+13. **TECHNICAL DEBT** — A) Shortcuts taken now that cost you more later; B) Money owed to a software vendor; C) The cost of replacing old hardware; D) A loan taken out to buy equipment → **A**
+14. **DEAD INTERNET THEORY** — A) The idea that old sites never truly vanish; B) The claim that most online activity is now bots; C) A prediction that we'll run out of addresses; D) The belief that the web will run out of storage → **B**
+15. **DOXXING** — A) Locking a document against edits; B) Forging a certificate; C) Publishing someone's private information without consent; D) Attaching supporting documents to a filing → **C**
+16. **SWATTING** — A) Beating back a wave of spam; B) Squashing a software bug; C) Clearing a room of insects; D) A fake emergency call that sends armed police to a home → **D**
+17. **CRYPTO WINTER** — A) A long, grinding slump in cryptocurrency prices; B) A total network shutdown; C) A wallet kept offline for safety; D) The season when mining rigs run coolest → **A**
+18. **RUG PULL** — A) An abrupt site redesign; B) When a project's creators vanish with everyone's money; C) Cancelling a subscription mid-term; D) A takedown move in competitive wrestling → **B**
+19. **DIAMOND HANDS** — A) An index of luxury goods; B) A manicure trend; C) Holding an investment through brutal losses; D) A jeweller's grading certificate → **C**
+20. **SKIMPFLATION** — A) Shipping getting slower; B) Type sizes shrinking on packaging; C) A deliberate reduction in packaging waste; D) Same price, quietly worse ingredients or service → **D**
+21. **DRIP PRICING** — A) Advertising a low price, then adding fees at checkout; B) Charging by the minute; C) Nudging prices up a little each year; D) Charging by the drop for irrigation water → **A**
+22. **GHOST KITCHEN** — A) A commercial kitchen sitting unused; B) A delivery-only restaurant with no dining room; C) A kitchen staffed only overnight; D) A show kitchen in a home nobody cooks in → **B**
+23. **DARK STORE** — A) A storefront on the dark web; B) A shop with no signage out front; C) A retail space used only to fill online orders; D) A shop that only opens after sunset → **C**
+24. **LOSS LEADER** — A) The worst-performing product line; B) The manager who takes the blame; C) The executive who carries the blame for a bad quarter; D) An item sold below cost to pull customers in → **D**
+25. **ZOMBIE COMPANY** — A) A firm earning just enough to cover its debt payments; B) A company bought and immediately shut down; C) A dead brand revived by new owners; D) A business that keeps rebranding itself → **A**
+26. **SHOVELWARE** — A) A tool for moving files in bulk; B) Low-effort software bundled in to pad out a catalog; C) Landscaping design software; D) A range of heavy-duty gardening tools → **B**
+27. **AIRDROP** — A) A wireless file transfer between phones; B) An emergency server backup; C) Free crypto tokens sent to wallets to drum up interest; D) A sudden loss of cabin pressure → **C**
+28. **GOLDEN HOUR** — A) The peak time of day for posting online; B) The opening hour of a sale; C) The first hour of trading on an exchange; D) The hour after sunrise or before sunset, best for photos → **D**
+29. **GREENFIELD** — A) A project built from scratch with no existing constraints; B) An outdoor festival site; C) A building with eco certification; D) Farmland deliberately left fallow for a season → **A**
+30. **EVERGREEN** — A) A subscription that renews automatically; B) Content that stays relevant long after it's published; C) A sustainably sourced product; D) A tree that keeps its leaves all year round → **B**
+31. **RICKROLL** — A) A rolling server restart; B) A bread roll served at diners; C) Tricking someone into clicking a Rick Astley video; D) A bread roll named after the baker who invented it → **C**
+32. **RAGEQUIT** — A) An aggressive sales tactic; B) A very fast checkout process; C) Resigning from a job on the spot; D) Storming out of a game mid-match → **D**
+33. **NOOB** — A) A beginner, usually said with contempt; B) A knock-off product; C) A dial on an old radio; D) A soft foam toy → **A**
+34. **GRINDING** — A) Cutting a video down to length; B) Repeating dull tasks to build up progress in a game; C) Negotiating hard on price; D) Cutting footage down to a highlight reel → **B**
+35. **SPEEDRUN** — A) A short high-intensity workout; B) A fast-forward playback feature; C) Finishing a game as fast as humanly possible; D) A sprint interval in athletics training → **C**
+36. **LET'S PLAY** — A) A children's television segment; B) A shared calendar invitation; C) A warm-up exercise used in theatre; D) A video of someone narrating their way through a game → **D**
+37. **CATFISHING** — A) Pretending to be someone else online to start a relationship; B) Fishing without a permit; C) Luring a competitor into a bad deal; D) Catching fish by hand, without a rod → **A**
+38. **PHOTOBOMB** — A) Badly overexposing an image; B) Turning up uninvited in someone else's photo; C) Deleting a photo from a device remotely; D) A flash misfire that ruins a shot → **B**
+39. **TROLLING** — A) Slowly scrolling through a feed; B) Hunting for online bargains; C) Provoking people online purely for the reaction; D) Fishing by dragging a baited line behind a boat → **C**
+40. **LEET** — A) A brief server outage; B) A brand of protein bar; C) A technique used in leather-working; D) Writing words with numbers standing in for letters → **D**
+41. **GROOVY** — A) A dance with repeating steps; B) A deep scratch across a record; C) Excellent or fashionable, in 1960s slang; D) Cut with deep parallel grooves → **C**
+42. **RADICAL** — A) A political extremist; B) The root symbol in mathematics; C) Relating to the root of a plant; D) Excellent, in 1980s skater and surfer slang → **D**
+43. **BOGUS** — A) Unfair or fake, everywhere in 1980s slang; B) A reported ghost sighting; C) An error in the bookkeeping; D) A soft, marshy patch of ground → **A**
+44. **YUPPIE** — A) A style of Alpine yodelling; B) A young urban professional, the 1980s archetype; C) A small, very energetic dog breed; D) A puppy that has not yet been weaned → **B**
+45. **MIXTAPE** — A) A radio programming block; B) A record label's sampler album; C) A cassette compiled by hand, usually for someone you liked; D) Adhesive tape used for splicing film → **C**
+46. **AS IF** — A) A conditional statement in programming; B) A hypothetical used in accounting; C) A keyword used in older programming languages; D) A dismissive 'no way', straight out of 1990s teen slang → **D**
 
 **Medium** (28)
 
-1. **HOMOPHILY** — A) The tendency to bond with people who are like you; B) A fear of large crowds; C) A preference for symmetry in design → **A**
-2. **SEALIONING** — A) Burying a thread in emoji; B) Harassment disguised as polite, relentless questioning; C) Photobombing someone's livestream → **B**
-3. **CONCERN TROLLING** — A) Reporting posts for entertainment; B) Warning strangers about a scam; C) Posing as a supporter in order to undermine a cause → **C**
-4. **WHATABOUTISM** — A) Deflecting criticism by pointing at someone else's wrongdoing; B) Asking clarifying questions in bad faith; C) Speculating endlessly about the future → **A**
-5. **NUTPICKING** — A) Screening a jury pool; B) Presenting a group's most extreme members as typical of it; C) Selecting only the strongest data points → **B**
-6. **MOTTE AND BAILEY** — A) A medieval board game; B) A two-stage negotiating tactic; C) Retreating to an easy claim when your bold one is challenged → **C**
-7. **STEELMANNING** — A) Arguing the strongest possible version of your opponent's case; B) Propping up a weak argument with data; C) Hardening a system against attack → **A**
-8. **AFFORDANCE** — A) A grant awarded to a startup; B) What an object's design tells you that you can do with it; C) A price a customer can manage → **B**
-9. **LIMINAL** — A) Just barely within the law; B) Having to do with lighting; C) Occupying a threshold, between one state and the next → **C**
-10. **FUNGIBLE** — A) Interchangeable — one unit is as good as any other; B) Able to be broken down into parts; C) Prone to spreading quickly → **A**
-11. **ANTIFRAGILE** — A) A fragile system with good backups; B) Something that gets stronger from stress and disorder; C) Packaging built to resist damage → **B**
-12. **LINDY EFFECT** — A) The delay between a cause and its effect; B) The tendency of crowds to fall into sync; C) The longer something has survived, the longer it's likely to last → **C**
-13. **SURVIVORSHIP BIAS** — A) Drawing conclusions only from the things that made it through; B) A preference for hiring older workers; C) Overestimating your own resilience → **A**
-14. **VELLEITY** — A) A minor legal technicality; B) A wish too faint to ever act on; C) A sudden burst of speed → **B**
-15. **SALIENCE** — A) The saltiness of a solution; B) A formal style of greeting; C) How much something stands out and seizes attention → **C**
-16. **HEURISTIC** — A) A mental shortcut that's usually good enough; B) A step-by-step formal proof; C) A diagnostic scan → **A**
-17. **EPISTEMIC** — A) Recurring at regular intervals; B) Having to do with knowledge and how we come to know it; C) Relating to the spread of disease → **B**
-18. **GRANFALLOON** — A) An oversized hot-air balloon; B) A lavish grand opening; C) A group whose shared identity is essentially meaningless → **C**
-19. **VALENCE** — A) Whether an experience is positively or negatively charged; B) The strength of a broadcast signal; C) A formal dress ball → **A**
-20. **ASYMMETRIC INFORMATION** — A) A one-way method of encryption; B) A deal where one side knows far more than the other; C) Data stored in uneven block sizes → **B**
-21. **SHIPPING** — A) Tracking a parcel in transit; B) Moving stock between stores; C) Wanting two characters to end up together → **C**
-22. **CANON** — A) What officially counts as part of a story's world; B) A large historical artillery piece; C) A rule of musical composition → **A**
-23. **RETCON** — A) A convention for retro gaming; B) Changing established backstory after the fact; C) Rebooting a games console → **B**
-24. **STAN** — A) A standing-room-only ticket; B) A default factory configuration; C) An obsessive fan, named after an Eminem song → **C**
-25. **NORMIE** — A) Someone outside a subculture who misses all the references; B) A statistical average; C) A standard-issue uniform → **A**
-26. **JUMPING THE SHARK** — A) A manoeuvre in competitive surfing; B) The moment a show passes its peak and starts sliding; C) A risky all-or-nothing financial bet → **B**
-27. **LATCHKEY KID** — A) An apprentice to a locksmith; B) A kid who has lost their house keys; C) A child who let themselves into an empty house after school → **C**
-28. **DINK** — A) Dual Income, No Kids — a 1980s household label; B) A soft drop shot in tennis; C) A small dent knocked into metal → **A**
+1. **HOMOPHILY** — A) A fear of large crowds; B) A preference for symmetry in design; C) The tendency to bond with people who are like you; D) A deep attachment to home comforts → **C**
+2. **SEALIONING** — A) Burying a thread in emoji; B) Photobombing someone's livestream; C) The seasonal migration of seals to a breeding ground; D) Harassment disguised as polite, relentless questioning → **D**
+3. **CONCERN TROLLING** — A) Posing as a supporter in order to undermine a cause; B) Reporting posts for entertainment; C) Warning strangers about a scam; D) Fishing for sympathy about your own problems → **A**
+4. **WHATABOUTISM** — A) Asking clarifying questions in bad faith; B) Deflecting criticism by pointing at someone else's wrongdoing; C) Speculating endlessly about the future; D) A habit of asking far too many questions → **B**
+5. **NUTPICKING** — A) Screening a jury pool; B) Selecting only the strongest data points; C) Presenting a group's most extreme members as typical of it; D) Harvesting a crop by hand rather than by machine → **C**
+6. **MOTTE AND BAILEY** — A) A medieval board game; B) A two-stage negotiating tactic; C) A pair of neighbouring English villages; D) Retreating to an easy claim when your bold one is challenged → **D**
+7. **STEELMANNING** — A) Arguing the strongest possible version of your opponent's case; B) Propping up a weak argument with data; C) Hardening a system against attack; D) Reinforcing a structure with steel beams → **A**
+8. **AFFORDANCE** — A) A grant awarded to a startup; B) What an object's design tells you that you can do with it; C) A price a customer can manage; D) A subsidy that brings a product within reach → **B**
+9. **LIMINAL** — A) Just barely within the law; B) Having to do with lighting; C) Occupying a threshold, between one state and the next; D) Extremely small, or barely worth counting → **C**
+10. **FUNGIBLE** — A) Able to be broken down into parts; B) Prone to spreading quickly; C) Liable to grow mould in storage; D) Interchangeable — one unit is as good as any other → **D**
+11. **ANTIFRAGILE** — A) Something that gets stronger from stress and disorder; B) A fragile system with good backups; C) Packaging built to resist damage; D) A shipping label warning against rough handling → **A**
+12. **LINDY EFFECT** — A) The delay between a cause and its effect; B) The longer something has survived, the longer it's likely to last; C) The tendency of crowds to fall into sync; D) The tendency of a trend to peak and then crash → **B**
+13. **SURVIVORSHIP BIAS** — A) A preference for hiring older workers; B) Overestimating your own resilience; C) Drawing conclusions only from the things that made it through; D) A preference for hiring long-tenured staff → **C**
+14. **VELLEITY** — A) A minor legal technicality; B) A sudden burst of speed; C) A thin, translucent fabric; D) A wish too faint to ever act on → **D**
+15. **SALIENCE** — A) How much something stands out and seizes attention; B) The saltiness of a solution; C) A formal style of greeting; D) A brief lull in a conversation → **A**
+16. **HEURISTIC** — A) A step-by-step formal proof; B) A mental shortcut that's usually good enough; C) A diagnostic scan; D) A teaching method built on repetition → **B**
+17. **EPISTEMIC** — A) Recurring at regular intervals; B) Relating to the spread of disease; C) Having to do with knowledge and how we come to know it; D) Occurring at the surface of the skin → **C**
+18. **GRANFALLOON** — A) An oversized hot-air balloon; B) A lavish grand opening; C) A ceremonial parade float; D) A group whose shared identity is essentially meaningless → **D**
+19. **VALENCE** — A) Whether an experience is positively or negatively charged; B) The strength of a broadcast signal; C) A formal dress ball; D) The servants' quarters in a large house → **A**
+20. **ASYMMETRIC INFORMATION** — A) A one-way method of encryption; B) A deal where one side knows far more than the other; C) Data stored in uneven block sizes; D) Data corrupted somewhere in transfer → **B**
+21. **SHIPPING** — A) Wanting two characters to end up together; B) Tracking a parcel in transit; C) Moving stock between stores; D) Sending a package overseas → **A**
+22. **CANON** — A) A large historical artillery piece; B) What officially counts as part of a story's world; C) A rule of musical composition; D) A rank held by a cathedral official → **B**
+23. **RETCON** — A) A convention for retro gaming; B) Rebooting a games console; C) Changing established backstory after the fact; D) A convention held again the following year → **C**
+24. **STAN** — A) A standing-room-only ticket; B) A default factory configuration; C) A standing wave in acoustics; D) An obsessive fan, named after an Eminem song → **D**
+25. **NORMIE** — A) Someone outside a subculture who misses all the references; B) A statistical average; C) A standard-issue uniform; D) A bell-shaped statistical distribution → **A**
+26. **JUMPING THE SHARK** — A) The moment a show passes its peak and starts sliding; B) A manoeuvre in competitive surfing; C) A risky all-or-nothing financial bet; D) Taking a reckless gamble that comes off → **A**
+27. **LATCHKEY KID** — A) An apprentice to a locksmith; B) A child who let themselves into an empty house after school; C) A kid who has lost their house keys; D) A child who keeps locking themselves out → **B**
+28. **DINK** — A) A soft drop shot in tennis; B) A small dent knocked into metal; C) Dual Income, No Kids — a 1980s household label; D) A household with two incomes and two homes → **C**
 
 **Hard** (28)
 
-1. **ULTRACREPIDARIAN** — A) Someone who confidently opines well beyond their expertise; B) An extreme endurance athlete; C) A very old bound manuscript → **A**
-2. **SONDER** — A) A soft echo in a large hall; B) The realization that every stranger has a life as vivid as your own; C) A journey taken alone → **B**
-3. **APOPHENIA** — A) A fear of open heights; B) A sudden loss of appetite; C) Seeing meaningful patterns in random data → **C**
-4. **ZEMBLANITY** — A) Making unlucky discoveries by design — the opposite of serendipity; B) A spell of heavy snow; C) A Balkan folk dance → **A**
-5. **ANEMOIA** — A) An iron deficiency; B) Nostalgia for a time you never actually lived through; C) Sickness brought on by high wind → **B**
-6. **AKRASIA** — A) An inability to sit still; B) A Greek honey pastry; C) Acting against your own better judgment → **C**
-7. **HYPERSTITION** — A) An idea that makes itself true by being believed widely enough; B) An extreme form of superstition; C) Fiction written at great speed → **A**
-8. **MOLOCH** — A) An ancient silver coin; B) A trap where everyone competing rationally leaves everyone worse off; C) A Norwegian metal band → **B**
-9. **UMWELT** — A) A German environmental statute; B) A style of world map projection; C) The slice of reality a given creature can actually perceive → **C**
-10. **STOCHASTIC PARROT** — A) A critique of language models as pattern-repeaters without understanding; B) A random number generator; C) A bird species with erratic migration → **A**
-11. **GOODHART'S LAW** — A) Systems inevitably trend toward disorder; B) When a measure becomes a target, it stops being a good measure; C) Work expands to fill the time available → **B**
-12. **CHESTERTON'S FENCE** — A) A rule about property boundary disputes; B) A defensive military formation; C) Don't tear something down until you know why it was put up → **C**
-13. **GELL-MANN AMNESIA** — A) Trusting a source on topics you don't know, right after catching it wrong on one you do; B) Forgetting a colleague's name mid-introduction; C) Memory loss caused by radiation exposure → **A**
-14. **PREFERENCE FALSIFICATION** — A) Rigging the results of a poll; B) Hiding what you actually think because of social pressure; C) Editing a survey after the fact → **B**
-15. **ANTIMEMETIC** — A) Opposed to internet culture generally; B) A class of anti-inflammatory drug; C) Resistant to being remembered or passed on → **C**
-16. **LEGIBILITY** — A) A state's drive to simplify society so it can be measured and governed; B) Handwriting clear enough to read; C) Font sizing for accessibility → **A**
-17. **HEDONIC TREADMILL** — A) A high-intensity cardio machine; B) The tendency to return to a baseline of happiness after good or bad events; C) The escalating cycle of an addiction → **B**
-18. **ERGODICITY** — A) A measure of energy efficiency; B) The science of workplace ergonomics; C) Whether the average over time matches the average across a group → **C**
-19. **SOLASTALGIA** — A) The distress of watching your home environment change around you; B) A melancholy that arrives at sunset; C) Grief over a failed solar installation → **A**
-20. **KOMPROMAT** — A) A negotiated compromise between two states; B) Damaging material collected in order to blackmail someone; C) A compact folding sleeping mat → **B**
-21. **POE'S LAW** — A) The rule that online arguments always escalate; B) The idea that early users set a platform's culture permanently; C) Without a clear signal, parody of an extreme view is indistinguishable from the real thing → **C**
-22. **GODWIN'S LAW** — A) The longer an online argument runs, the likelier a Nazi comparison becomes; B) The claim that content expands to fill available bandwidth; C) The observation that platforms decay as they monetize → **A**
-23. **ETERNAL SEPTEMBER** — A) A name for predictable seasonal traffic spikes; B) The point when a niche community is permanently swamped by newcomers; C) An unusually drawn-out product launch → **B**
-24. **SEMANTIC SATIATION** — A) The point where a market is completely served; B) Over-tagging a piece of content until search breaks; C) When a word repeated enough times stops feeling like a word → **C**
-25. **CYBERBALKANIZATION** — A) The splitting of the internet into isolated, like-minded enclaves; B) The physical division of undersea cable routes; C) A strategy of pricing differently by region → **A**
-26. **SAMIZDAT** — A) A regional style of folk embroidery; B) Banned writing copied and passed hand to hand; C) A Soviet state news agency → **B**
-27. **ZEITGEIST** — A) A tradition of telling ghost stories; B) An early mechanical time-keeping device; C) The defining mood and ideas of a particular period → **C**
-28. **MOONSHOT** — A) A hugely ambitious project with a real chance of failing; B) A long-range basketball attempt; C) A photograph taken by moonlight → **A**
+1. **ULTRACREPIDARIAN** — A) An extreme endurance athlete; B) A very old bound manuscript; C) Someone who confidently opines well beyond their expertise; D) A follower of an extreme dietary regime → **C**
+2. **SONDER** — A) A soft echo in a large hall; B) A journey taken alone; C) A quiet sense of separateness from a group; D) The realization that every stranger has a life as vivid as your own → **D**
+3. **APOPHENIA** — A) Seeing meaningful patterns in random data; B) A fear of open heights; C) A sudden loss of appetite; D) A persistent fear of being watched → **A**
+4. **ZEMBLANITY** — A) A spell of heavy snow; B) Making unlucky discoveries by design — the opposite of serendipity; C) A Balkan folk dance; D) The dullness of a place you know too well → **B**
+5. **ANEMOIA** — A) An iron deficiency; B) Sickness brought on by high wind; C) Nostalgia for a time you never actually lived through; D) A rare disorder affecting the formation of memories → **C**
+6. **AKRASIA** — A) An inability to sit still; B) A Greek honey pastry; C) A sudden and total loss of appetite; D) Acting against your own better judgment → **D**
+7. **HYPERSTITION** — A) An idea that makes itself true by being believed widely enough; B) An extreme form of superstition; C) Fiction written at great speed; D) An obsessive preoccupation with the future → **A**
+8. **MOLOCH** — A) An ancient silver coin; B) A trap where everyone competing rationally leaves everyone worse off; C) A Norwegian metal band; D) A mythical creature set to guard a hoard → **B**
+9. **UMWELT** — A) A German environmental statute; B) A style of world map projection; C) The slice of reality a given creature can actually perceive; D) A worldview inherited from one's parents → **C**
+10. **STOCHASTIC PARROT** — A) A random number generator; B) A bird species with erratic migration; C) A statistical method for sampling bird populations; D) A critique of language models as pattern-repeaters without understanding → **D**
+11. **GOODHART'S LAW** — A) When a measure becomes a target, it stops being a good measure; B) Systems inevitably trend toward disorder; C) Work expands to fill the time available; D) The claim that good systems attract bad actors → **A**
+12. **CHESTERTON'S FENCE** — A) A rule about property boundary disputes; B) Don't tear something down until you know why it was put up; C) A defensive military formation; D) The principle that good fences make good neighbours → **B**
+13. **GELL-MANN AMNESIA** — A) Forgetting a colleague's name mid-introduction; B) Memory loss caused by radiation exposure; C) Trusting a source on topics you don't know, right after catching it wrong on one you do; D) Forgetting where you learned a fact you still believe → **C**
+14. **PREFERENCE FALSIFICATION** — A) Rigging the results of a poll; B) Editing a survey after the fact; C) Deliberately misreporting your own experimental data; D) Hiding what you actually think because of social pressure → **D**
+15. **ANTIMEMETIC** — A) Resistant to being remembered or passed on; B) Opposed to internet culture generally; C) A class of anti-inflammatory drug; D) Hostile to imitation and parody → **A**
+16. **LEGIBILITY** — A) Handwriting clear enough to read; B) A state's drive to simplify society so it can be measured and governed; C) Font sizing for accessibility; D) How far a law can be understood by the public it governs → **B**
+17. **HEDONIC TREADMILL** — A) A high-intensity cardio machine; B) The escalating cycle of an addiction; C) The tendency to return to a baseline of happiness after good or bad events; D) The rising cost of keeping up a luxury lifestyle → **C**
+18. **ERGODICITY** — A) A measure of energy efficiency; B) The science of workplace ergonomics; C) The rate at which a system loses usable energy; D) Whether the average over time matches the average across a group → **D**
+19. **SOLASTALGIA** — A) The distress of watching your home environment change around you; B) A melancholy that arrives at sunset; C) Grief over a failed solar installation; D) A longing for a place you have never been → **A**
+20. **KOMPROMAT** — A) A negotiated compromise between two states; B) Damaging material collected in order to blackmail someone; C) A compact folding sleeping mat; D) A negotiated settlement between rival states → **B**
+21. **POE'S LAW** — A) The rule that online arguments always escalate; B) Without a clear signal, parody of an extreme view is indistinguishable from the real thing; C) The idea that early users set a platform's culture permanently; D) The rule that the loudest voice wins an argument → **B**
+22. **GODWIN'S LAW** — A) The claim that content expands to fill available bandwidth; B) The observation that platforms decay as they monetize; C) The longer an online argument runs, the likelier a Nazi comparison becomes; D) The principle that every rule is eventually broken → **C**
+23. **ETERNAL SEPTEMBER** — A) A name for predictable seasonal traffic spikes; B) An unusually drawn-out product launch; C) A calendar quirk in early computing systems; D) The point when a niche community is permanently swamped by newcomers → **D**
+24. **SEMANTIC SATIATION** — A) When a word repeated enough times stops feeling like a word; B) The point where a market is completely served; C) Over-tagging a piece of content until search breaks; D) The point at which a language stops taking new words → **A**
+25. **CYBERBALKANIZATION** — A) The physical division of undersea cable routes; B) The splitting of the internet into isolated, like-minded enclaves; C) A strategy of pricing differently by region; D) A coordinated attack on a nation's infrastructure → **B**
+26. **SAMIZDAT** — A) A regional style of folk embroidery; B) A Soviet state news agency; C) A traditional Russian tea ceremony; D) Banned writing copied and passed hand to hand → **D**
+27. **ZEITGEIST** — A) The defining mood and ideas of a particular period; B) A tradition of telling ghost stories; C) An early mechanical time-keeping device; D) A sudden outbreak of collective panic → **A**
+28. **MOONSHOT** — A) A long-range basketball attempt; B) A hugely ambitious project with a real chance of failing; C) A photograph taken by moonlight; D) A rocket launch scheduled for the hours of darkness → **B**
 
 
 ### Spellbound (102)
