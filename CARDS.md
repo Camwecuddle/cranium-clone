@@ -1307,119 +1307,119 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 
 ### Copycat (102)
 
-*Impersonate it out loud. Talk and act like them — but never say their name or the words on the card.*
+*Act and talk like them. You can speak — but never say their name, and no names of any kind.*
 
 
 **Easy** (46)
 
-1. A tech CEO on stage
-2. A true-crime podcast host
-3. A GPS recalculating
-4. A reality show judge
-5. A fitness influencer
-6. An AI chatbot
-7. A boxing ring announcer
-8. A librarian shushing you
-9. An infomercial host
-10. A customer service rep
-11. A chess commentator
-12. A weather reporter in a storm
-13. A drive-thru speaker
-14. A safari guide
-15. A parent using a new phone
-16. An airport announcement
-17. A nature documentary narrator
-18. A hype man
-19. A DJ hyping the crowd
-20. A comedian bombing
-21. A lawyer's closing argument
-22. A soccer player faking an injury
-23. A barista calling your name
-24. A cooking show host
-25. A gate agent announcing a delay
-26. A gamer rage quitting
-27. A meditation app narrator
-28. A voice actor playing a villain
-29. A chatty dentist
-30. A bored tour guide
-31. A substitute teacher
-32. A principal on the intercom
-33. A camp counselor
-34. A bus driver
-35. A lifeguard
-36. A birthday party clown
-37. A coach at halftime
-38. A game show host
-39. A magician
-40. A radio caller winning a prize
-41. A radio DJ
-42. A diner waitress
-43. A TV weatherman
-44. A preacher
-45. A drill sergeant
-46. A telephone operator
+1. Elvis Presley
+2. Marilyn Monroe
+3. Julia Child
+4. Bob Ross
+5. Mister Rogers
+6. Ed McMahon
+7. Shirley Temple
+8. Princess Diana
+9. Muhammad Ali
+10. John Wayne
+11. Charlie Chaplin
+12. James Bond
+13. Dolly Parton
+14. Cher
+15. Arnold Schwarzenegger
+16. Mick Jagger
+17. Michael Jackson
+18. Bob Marley
+19. Freddie Mercury
+20. David Attenborough
+21. Oprah Winfrey
+22. Steve Irwin
+23. Mr. Bean
+24. Austin Powers
+25. Forrest Gump
+26. Yoda
+27. Darth Vader
+28. Homer Simpson
+29. SpongeBob SquarePants
+30. Scooby-Doo
+31. Winnie the Pooh
+32. Elmo
+33. Gollum
+34. Batman
+35. Superman
+36. Santa Claus
+37. Queen Elizabeth II
+38. Simon Cowell
+39. Gordon Ramsay
+40. Snoop Dogg
+41. Dwayne 'The Rock' Johnson
+42. Taylor Swift
+43. Beyonce
+44. Adele
+45. Keanu Reeves
+46. Morgan Freeman
 
 **Medium** (28)
 
-1. A guest plugging their book
-2. A landlord showing an apartment
-3. A pilot on the intercom
-4. A life coach
-5. A traffic reporter
-6. A museum audio guide
-7. A hostage negotiator
-8. A late-night car commercial
-9. A wedding officiant
-10. A breaking news anchor
-11. A golf commentator
-12. A telemarketer
-13. A sommelier
-14. A referee explaining a call
-15. A politician dodging a question
-16. A cooking competition judge
-17. A self-checkout machine
-18. A ride safety announcement
-19. A personal trainer
-20. A documentary interview
-21. A morning school announcement
-22. A driving instructor
-23. A carnival barker
-24. A late-night talk show host
-25. A wrestler cutting a promo
-26. A newsreel narrator
-27. A game show announcer
-28. A door-to-door salesman
+1. Walter Cronkite
+2. Johnny Carson
+3. Bob Dylan
+4. Barbra Streisand
+5. Audrey Hepburn
+6. Frank Sinatra
+7. Jack Nicholson
+8. Clint Eastwood
+9. Robin Williams
+10. Whoopi Goldberg
+11. Margaret Thatcher
+12. Ronald Reagan
+13. Julia Roberts
+14. Jim Carrey
+15. Bill Nye
+16. Martha Stewart
+17. Judge Judy
+18. Tina Turner
+19. Prince
+20. Madonna
+21. Serena Williams
+22. David Beckham
+23. Elton John
+24. Jerry Seinfeld
+25. Kermit the Frog
+26. Miss Piggy
+27. Sherlock Holmes
+28. Willy Wonka
 
 **Hard** (28)
 
-1. A GPS that gave up
-2. Your home Wi-Fi router
-3. An AI refusing a request
-4. A vending machine
-5. A phone at 2%
-6. A chirping smoke alarm
-7. An email left on read
-8. The last slice of pizza
-9. A forgotten password
-10. A small-town traffic light
-11. The algorithm
-12. A muted group chat
-13. An office printer
-14. An unused gym membership
-15. The comments section
-16. An expiring free trial
-17. A nagging software update
-18. A wobbly shopping cart
-19. Autocorrect
-20. A data center
-21. A dial-up modem connecting
-22. A microwave finishing
-23. A car alarm
-24. An escalator
-25. A mall at closing time
-26. A rotary telephone
-27. A record skipping
-28. A VCR eating a tape
+1. Alfred Hitchcock
+2. Salvador Dali
+3. Andy Warhol
+4. Ernest Hemingway
+5. Katharine Hepburn
+6. Orson Welles
+7. Vincent Price
+8. Albert Einstein
+9. Carl Sagan
+10. Maya Angelou
+11. Columbo
+12. Rod Serling
+13. Fred Astaire
+14. Marlon Brando
+15. Groucho Marx
+16. Bruce Lee
+17. Bjork
+18. Werner Herzog
+19. Christopher Walken
+20. Ruth Bader Ginsburg
+21. Anna Wintour
+22. Karl Lagerfeld
+23. Luciano Pavarotti
+24. Hunter S. Thompson
+25. Iggy Pop
+26. Tilda Swinton
+27. Grace Jones
+28. Napoleon Bonaparte
 
 
 ### Humdinger (102)

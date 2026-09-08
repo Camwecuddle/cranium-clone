@@ -52,7 +52,8 @@ axis rather than just getting longer:
 | Lexicon | Terms you've seen but couldn't define exactly | Obscure terms where all three definitions sound plausible |
 | Spellbound | Commonly misspelled words | Silent letters and foreign spellings — `MILLEFEUILLE`, `PARALLELEPIPED`, `SYZYGY` |
 | Cloodle / Sensosketch / Sculptorades | A concrete object | An abstract concept — *burnout*, *the attention economy* |
-| Cameo / Copycat | A simple physical bit | Abstractions — *déjà vu*, *compound interest*, *the last slice of pizza* |
+| Cameo | A simple physical bit | Abstractions — *déjà vu*, *compound interest*, *the passage of time* |
+| Copycat | Household names with a signature voice — Elvis, Bob Ross, Gordon Ramsay | Figures you have to actually picture — Werner Herzog, Grace Jones, Rod Serling |
 | Factoid / Selectaquest | General knowledge | Dates, figures, and specifics |
 | Polygraph | Obviously true or obviously false | Counterintuitive facts and believable falsehoods |
 | Humdinger | Hooks everybody knows | Film scores, game themes, and the Netflix *ta-dum* |
@@ -101,8 +102,10 @@ jump to easy, medium, and hard (<kbd>0</kbd> for any tier).
 - *Selectaquest* — multiple choice.
 
 **Star Performer**
-- *Cameo* — charades, silent.
-- *Copycat* — impersonate them out loud, without saying the name.
+- *Cameo* — charades, silent. These are scenes and situations.
+- *Copycat* — impersonate a named famous person out loud, without saying their name.
+  Like the original deck, these are real people and characters, not job titles: Ed McMahon,
+  Princess Diana, Shirley Temple, Yoda, Björk.
 - *Humdinger* — hum the tune, no words.
 
 ## Editing the decks

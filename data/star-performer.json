@@ -743,640 +743,10 @@
     },
     {
       "name": "Copycat",
-      "howto": "Impersonate it out loud. Talk and act like them — but never say their name or the words on the card.",
+      "howto": "Act and talk like them. You can speak — but never say their name, and no names of any kind.",
       "cards": [
         {
-          "clue": "A tech CEO on stage",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A true-crime podcast host",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A GPS recalculating",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A reality show judge",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A fitness influencer",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "An AI chatbot",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A boxing ring announcer",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A librarian shushing you",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "An infomercial host",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A customer service rep",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A chess commentator",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A weather reporter in a storm",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A drive-thru speaker",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A safari guide",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A parent using a new phone",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "An airport announcement",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A nature documentary narrator",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A hype man",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A DJ hyping the crowd",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A comedian bombing",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A lawyer's closing argument",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A soccer player faking an injury",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A barista calling your name",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A cooking show host",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A gate agent announcing a delay",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A gamer rage quitting",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A meditation app narrator",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A voice actor playing a villain",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A chatty dentist",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A bored tour guide",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A guest plugging their book",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A landlord showing an apartment",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A pilot on the intercom",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A life coach",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A traffic reporter",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A museum audio guide",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A hostage negotiator",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A late-night car commercial",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A wedding officiant",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A breaking news anchor",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A golf commentator",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A telemarketer",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A sommelier",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A referee explaining a call",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A politician dodging a question",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A cooking competition judge",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A self-checkout machine",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A ride safety announcement",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A personal trainer",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A documentary interview",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A GPS that gave up",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "Your home Wi-Fi router",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "An AI refusing a request",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A vending machine",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A phone at 2%",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A chirping smoke alarm",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "An email left on read",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "The last slice of pizza",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A forgotten password",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A small-town traffic light",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "The algorithm",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A muted group chat",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "An office printer",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "An unused gym membership",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "The comments section",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "An expiring free trial",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A nagging software update",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A wobbly shopping cart",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "Autocorrect",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A data center",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A substitute teacher",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A principal on the intercom",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A camp counselor",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A bus driver",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A lifeguard",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A birthday party clown",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A coach at halftime",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A game show host",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A magician",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A radio caller winning a prize",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A morning school announcement",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A driving instructor",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A carnival barker",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A late-night talk show host",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A wrestler cutting a promo",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A dial-up modem connecting",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A microwave finishing",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A car alarm",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "An escalator",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A mall at closing time",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A radio DJ",
+          "clue": "Elvis Presley",
           "difficulty": "easy",
           "gens": [
             "boomer",
@@ -1384,7 +754,7 @@
           ]
         },
         {
-          "clue": "A diner waitress",
+          "clue": "Marilyn Monroe",
           "difficulty": "easy",
           "gens": [
             "boomer",
@@ -1392,7 +762,44 @@
           ]
         },
         {
-          "clue": "A TV weatherman",
+          "clue": "Julia Child",
+          "difficulty": "easy",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "clue": "Bob Ross",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Mister Rogers",
+          "difficulty": "easy",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "clue": "Ed McMahon",
+          "difficulty": "easy",
+          "gens": [
+            "boomer"
+          ]
+        },
+        {
+          "clue": "Shirley Temple",
+          "difficulty": "easy",
+          "gens": [
+            "boomer"
+          ]
+        },
+        {
+          "clue": "Princess Diana",
           "difficulty": "easy",
           "gens": [
             "boomer",
@@ -1401,21 +808,42 @@
           ]
         },
         {
-          "clue": "A preacher",
+          "clue": "Muhammad Ali",
           "difficulty": "easy",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "A drill sergeant",
+          "clue": "John Wayne",
+          "difficulty": "easy",
+          "gens": [
+            "boomer"
+          ]
+        },
+        {
+          "clue": "Charlie Chaplin",
           "difficulty": "easy",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "A telephone operator",
+          "clue": "James Bond",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Dolly Parton",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Cher",
           "difficulty": "easy",
           "gens": [
             "boomer",
@@ -1423,14 +851,312 @@
           ]
         },
         {
-          "clue": "A newsreel narrator",
+          "clue": "Arnold Schwarzenegger",
+          "difficulty": "easy",
+          "gens": [
+            "boomer",
+            "genx",
+            "millennial"
+          ]
+        },
+        {
+          "clue": "Mick Jagger",
+          "difficulty": "easy",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "clue": "Michael Jackson",
+          "difficulty": "easy",
+          "gens": [
+            "boomer",
+            "genx",
+            "millennial"
+          ]
+        },
+        {
+          "clue": "Bob Marley",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Freddie Mercury",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "David Attenborough",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Oprah Winfrey",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Steve Irwin",
+          "difficulty": "easy",
+          "gens": [
+            "genx",
+            "millennial"
+          ]
+        },
+        {
+          "clue": "Mr. Bean",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Austin Powers",
+          "difficulty": "easy",
+          "gens": [
+            "genx",
+            "millennial"
+          ]
+        },
+        {
+          "clue": "Forrest Gump",
+          "difficulty": "easy",
+          "gens": [
+            "genx",
+            "millennial"
+          ]
+        },
+        {
+          "clue": "Yoda",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Darth Vader",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Homer Simpson",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "SpongeBob SquarePants",
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
+        },
+        {
+          "clue": "Scooby-Doo",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Winnie the Pooh",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Elmo",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Gollum",
+          "difficulty": "easy",
+          "gens": [
+            "genx",
+            "millennial",
+            "genz"
+          ]
+        },
+        {
+          "clue": "Batman",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Superman",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Santa Claus",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Queen Elizabeth II",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Simon Cowell",
+          "difficulty": "easy",
+          "gens": [
+            "genx",
+            "millennial",
+            "genz"
+          ]
+        },
+        {
+          "clue": "Gordon Ramsay",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Snoop Dogg",
+          "difficulty": "easy",
+          "gens": [
+            "genx",
+            "millennial",
+            "genz"
+          ]
+        },
+        {
+          "clue": "Dwayne 'The Rock' Johnson",
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
+        },
+        {
+          "clue": "Taylor Swift",
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
+        },
+        {
+          "clue": "Beyonce",
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
+        },
+        {
+          "clue": "Adele",
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
+        },
+        {
+          "clue": "Keanu Reeves",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Morgan Freeman",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Walter Cronkite",
           "difficulty": "medium",
           "gens": [
             "boomer"
           ]
         },
         {
-          "clue": "A game show announcer",
+          "clue": "Johnny Carson",
+          "difficulty": "medium",
+          "gens": [
+            "boomer"
+          ]
+        },
+        {
+          "clue": "Bob Dylan",
+          "difficulty": "medium",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "clue": "Barbra Streisand",
+          "difficulty": "medium",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "clue": "Audrey Hepburn",
+          "difficulty": "medium",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "clue": "Frank Sinatra",
+          "difficulty": "medium",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "clue": "Jack Nicholson",
+          "difficulty": "medium",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "clue": "Clint Eastwood",
+          "difficulty": "medium",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "clue": "Robin Williams",
           "difficulty": "medium",
           "gens": [
             "boomer",
@@ -1439,7 +1165,7 @@
           ]
         },
         {
-          "clue": "A door-to-door salesman",
+          "clue": "Whoopi Goldberg",
           "difficulty": "medium",
           "gens": [
             "boomer",
@@ -1447,28 +1173,354 @@
           ]
         },
         {
-          "clue": "A rotary telephone",
-          "difficulty": "hard",
+          "clue": "Margaret Thatcher",
+          "difficulty": "medium",
           "gens": [
             "boomer",
             "genx"
           ]
         },
         {
-          "clue": "A record skipping",
-          "difficulty": "hard",
+          "clue": "Ronald Reagan",
+          "difficulty": "medium",
           "gens": [
-            "boomer",
-            "genx"
+            "boomer"
           ]
         },
         {
-          "clue": "A VCR eating a tape",
-          "difficulty": "hard",
+          "clue": "Julia Roberts",
+          "difficulty": "medium",
+          "gens": [
+            "genx",
+            "millennial"
+          ]
+        },
+        {
+          "clue": "Jim Carrey",
+          "difficulty": "medium",
+          "gens": [
+            "genx",
+            "millennial"
+          ]
+        },
+        {
+          "clue": "Bill Nye",
+          "difficulty": "medium",
+          "gens": [
+            "genx",
+            "millennial"
+          ]
+        },
+        {
+          "clue": "Martha Stewart",
+          "difficulty": "medium",
           "gens": [
             "boomer",
             "genx",
             "millennial"
+          ]
+        },
+        {
+          "clue": "Judge Judy",
+          "difficulty": "medium",
+          "gens": [
+            "genx",
+            "millennial"
+          ]
+        },
+        {
+          "clue": "Tina Turner",
+          "difficulty": "medium",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "clue": "Prince",
+          "difficulty": "medium",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "clue": "Madonna",
+          "difficulty": "medium",
+          "gens": [
+            "boomer",
+            "genx",
+            "millennial"
+          ]
+        },
+        {
+          "clue": "Serena Williams",
+          "difficulty": "medium",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
+        },
+        {
+          "clue": "David Beckham",
+          "difficulty": "medium",
+          "gens": [
+            "genx",
+            "millennial"
+          ]
+        },
+        {
+          "clue": "Elton John",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Jerry Seinfeld",
+          "difficulty": "medium",
+          "gens": [
+            "genx",
+            "millennial"
+          ]
+        },
+        {
+          "clue": "Kermit the Frog",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Miss Piggy",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Sherlock Holmes",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Willy Wonka",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Alfred Hitchcock",
+          "difficulty": "hard",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "clue": "Salvador Dali",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Andy Warhol",
+          "difficulty": "hard",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "clue": "Ernest Hemingway",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Katharine Hepburn",
+          "difficulty": "hard",
+          "gens": [
+            "boomer"
+          ]
+        },
+        {
+          "clue": "Orson Welles",
+          "difficulty": "hard",
+          "gens": [
+            "boomer"
+          ]
+        },
+        {
+          "clue": "Vincent Price",
+          "difficulty": "hard",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "clue": "Albert Einstein",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Carl Sagan",
+          "difficulty": "hard",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "clue": "Maya Angelou",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Columbo",
+          "difficulty": "hard",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "clue": "Rod Serling",
+          "difficulty": "hard",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "clue": "Fred Astaire",
+          "difficulty": "hard",
+          "gens": [
+            "boomer"
+          ]
+        },
+        {
+          "clue": "Marlon Brando",
+          "difficulty": "hard",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "clue": "Groucho Marx",
+          "difficulty": "hard",
+          "gens": [
+            "boomer"
+          ]
+        },
+        {
+          "clue": "Bruce Lee",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Bjork",
+          "difficulty": "hard",
+          "gens": [
+            "genx",
+            "millennial"
+          ]
+        },
+        {
+          "clue": "Werner Herzog",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Christopher Walken",
+          "difficulty": "hard",
+          "gens": [
+            "genx",
+            "millennial"
+          ]
+        },
+        {
+          "clue": "Ruth Bader Ginsburg",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Anna Wintour",
+          "difficulty": "hard",
+          "gens": [
+            "genx",
+            "millennial"
+          ]
+        },
+        {
+          "clue": "Karl Lagerfeld",
+          "difficulty": "hard",
+          "gens": [
+            "genx",
+            "millennial"
+          ]
+        },
+        {
+          "clue": "Luciano Pavarotti",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Hunter S. Thompson",
+          "difficulty": "hard",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "clue": "Iggy Pop",
+          "difficulty": "hard",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "clue": "Tilda Swinton",
+          "difficulty": "hard",
+          "gens": [
+            "genx",
+            "millennial"
+          ]
+        },
+        {
+          "clue": "Grace Jones",
+          "difficulty": "hard",
+          "gens": [
+            "boomer",
+            "genx"
+          ]
+        },
+        {
+          "clue": "Napoleon Bonaparte",
+          "difficulty": "hard",
+          "gens": [
+            "all"
           ]
         }
       ]
