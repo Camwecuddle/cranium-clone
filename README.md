@@ -52,7 +52,7 @@ axis rather than just getting longer:
 | Lexicon | Terms you've seen but couldn't define exactly | Obscure terms where all three definitions sound plausible |
 | Spellbound | Commonly misspelled words | Silent letters and foreign spellings — `MILLEFEUILLE`, `PARALLELEPIPED`, `SYZYGY` |
 | Cloodle / Sensosketch / Sculptorades | A concrete object | An abstract concept — *burnout*, *the attention economy* |
-| Cameo | A simple physical bit | Abstractions — *déjà vu*, *compound interest*, *the passage of time* |
+| Cameo | Things anyone can name in a word — a tornado, a penguin, Spider-Man | Trickier to mime and to name — a metronome, a mirage, Nikola Tesla |
 | Copycat | Household names with a signature voice — Elvis, Bob Ross, Gordon Ramsay | Figures you have to actually picture — Werner Herzog, Grace Jones, Rod Serling |
 | Factoid / Selectaquest | General knowledge | Dates, figures, and specifics |
 | Polygraph | Obviously true or obviously false | Counterintuitive facts and believable falsehoods |
@@ -102,10 +102,14 @@ jump to easy, medium, and hard (<kbd>0</kbd> for any tier).
 - *Selectaquest* — multiple choice.
 
 **Star Performer**
-- *Cameo* — charades, silent. These are scenes and situations.
+- *Cameo* — charades, silent. Concrete things with a one-word answer, the way the
+  original deck does it: a tornado, a sneeze, a scarecrow, Cleopatra, a solar eclipse.
 - *Copycat* — impersonate a named famous person out loud, without saying their name.
   Like the original deck, these are real people and characters, not job titles: Ed McMahon,
   Princess Diana, Shirley Temple, Yoda, Björk.
+
+Between the two, the acting deck names **148 people and characters**, and no one appears in
+both — Cameo's figures are mimed silently, Copycat's are impersonated out loud.
 - *Humdinger* — hum the tune, no words.
 
 ## Editing the decks

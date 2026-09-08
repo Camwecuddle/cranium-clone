@@ -5,501 +5,213 @@
   "activities": [
     {
       "name": "Cameo",
-      "howto": "Charades. Act it out silently — no talking, no sound effects, no pointing at objects in the room.",
+      "howto": "Charades. Act it out silently — no talking, no sound effects, no pointing at anything in the room.",
       "cards": [
         {
-          "clue": "Looking for a signal",
+          "clue": "A tornado",
           "difficulty": "easy",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "A first day at a new job",
+          "clue": "A sneeze",
           "difficulty": "easy",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "Talking on mute",
+          "clue": "An earthquake",
           "difficulty": "easy",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "Waking up late for work",
+          "clue": "A chicken",
           "difficulty": "easy",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "Assembling furniture",
+          "clue": "A monkey",
           "difficulty": "easy",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "Waiting for a ride",
+          "clue": "An elephant",
           "difficulty": "easy",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "Making a latte",
+          "clue": "A snake",
           "difficulty": "easy",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "A blind date",
+          "clue": "A butterfly",
           "difficulty": "easy",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "A robot vacuum attack",
+          "clue": "A frog",
           "difficulty": "easy",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "Stuck in a revolving door",
+          "clue": "A penguin",
           "difficulty": "easy",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "Losing signal mid-call",
+          "clue": "A crab",
           "difficulty": "easy",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "Sneaking snacks into a movie",
+          "clue": "A robot",
           "difficulty": "easy",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "A package that's too big",
+          "clue": "A zombie",
           "difficulty": "easy",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "A dying phone battery",
+          "clue": "A ballerina",
           "difficulty": "easy",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "Catching a closing elevator",
+          "clue": "A boxer",
           "difficulty": "easy",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "Ordering at a loud bar",
+          "clue": "A chef",
           "difficulty": "easy",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "Forgetting a dance",
+          "clue": "A firefighter",
           "difficulty": "easy",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "Tangled headphones",
+          "clue": "A surfer",
           "difficulty": "easy",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "A declined card",
+          "clue": "A golfer",
           "difficulty": "easy",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "Unsending a text",
+          "clue": "A juggler",
           "difficulty": "easy",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "Waiting on hold",
+          "clue": "A cowboy",
           "difficulty": "easy",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "Spotify Wrapped",
-          "difficulty": "easy",
-          "gens": [
-            "millennial",
-            "genz"
-          ]
-        },
-        {
-          "clue": "Missing the group chat",
+          "clue": "A pirate",
           "difficulty": "easy",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "Sneezing in a mask",
+          "clue": "A vampire",
           "difficulty": "easy",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "Wrapping an awkward gift",
+          "clue": "A scarecrow",
           "difficulty": "easy",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "A gym mirror selfie",
+          "clue": "Spider-Man",
           "difficulty": "easy",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "Scanning a QR code",
+          "clue": "The Hulk",
           "difficulty": "easy",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "Installing a car seat",
+          "clue": "Wonder Woman",
           "difficulty": "easy",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "Faking the lyrics",
+          "clue": "Mickey Mouse",
           "difficulty": "easy",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "Splashed by a car",
+          "clue": "Bugs Bunny",
           "difficulty": "easy",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "An Irish goodbye",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "Sharing the wrong screen",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A haircut you hate",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A self-timer group photo",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "The middle seat",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "Returning without a receipt",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "An awkward elevator ride",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A childproof cap",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "Pitching a tent",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "The designated driver",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A delayed flight",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "Tech support for a parent",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "Forgetting your wallet",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A lawn sprinkler",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "Soup on a train",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "Picked last",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "Digging for your keys",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "Photobombing",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "Last-minute gift wrapping",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A shirt on inside out",
-          "difficulty": "medium",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "Deja vu",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "Writer's block",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "Jet lag",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "Nostalgia",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "Regret",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A conspiracy theory spreading",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "Compound interest",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "Peer pressure",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "Gravity",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "Evolution",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "Democracy",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "Inflation",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "Procrastination",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "Karma",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "Gentrification",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "A midlife crisis",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "Supply and demand",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "Free will",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "Bureaucracy",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "The passage of time",
-          "difficulty": "hard",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "Blowing into a game cartridge",
+          "clue": "Shrek",
           "difficulty": "easy",
           "gens": [
             "millennial",
@@ -507,7 +219,36 @@
           ]
         },
         {
-          "clue": "Rewinding a VHS tape",
+          "clue": "Harry Potter",
+          "difficulty": "easy",
+          "gens": [
+            "millennial",
+            "genz"
+          ]
+        },
+        {
+          "clue": "Frankenstein's monster",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "King Kong",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Godzilla",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Rocky Balboa",
           "difficulty": "easy",
           "gens": [
             "boomer",
@@ -516,7 +257,33 @@
           ]
         },
         {
-          "clue": "Playing Guitar Hero",
+          "clue": "The Karate Kid",
+          "difficulty": "easy",
+          "gens": [
+            "genx",
+            "millennial"
+          ]
+        },
+        {
+          "clue": "Michael Phelps",
+          "difficulty": "easy",
+          "gens": [
+            "genx",
+            "millennial",
+            "genz"
+          ]
+        },
+        {
+          "clue": "Usain Bolt",
+          "difficulty": "easy",
+          "gens": [
+            "genx",
+            "millennial",
+            "genz"
+          ]
+        },
+        {
+          "clue": "Cristiano Ronaldo",
           "difficulty": "easy",
           "gens": [
             "millennial",
@@ -524,24 +291,156 @@
           ]
         },
         {
-          "clue": "Bowling on the Wii",
+          "clue": "Tiger Woods",
           "difficulty": "easy",
           "gens": [
-            "millennial",
-            "genz"
+            "genx",
+            "millennial"
           ]
         },
         {
-          "clue": "Burning a CD",
+          "clue": "Abraham Lincoln",
           "difficulty": "easy",
           "gens": [
-            "millennial",
-            "genz"
+            "all"
           ]
         },
         {
-          "clue": "Taking a Polaroid",
+          "clue": "Cleopatra",
           "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Isaac Newton",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "The Statue of Liberty",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Uncle Sam",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "A mermaid",
+          "difficulty": "easy",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "A volcano",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "A hurricane",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "A jellyfish",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "A flamingo",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "A kangaroo",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "A woodpecker",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "A lighthouse",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "A tightrope walker",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "A magician",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "A mime",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "An orchestra conductor",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "A weightlifter",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "A sumo wrestler",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "A snake charmer",
+          "difficulty": "medium",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Indiana Jones",
+          "difficulty": "medium",
           "gens": [
             "boomer",
             "genx",
@@ -549,191 +448,290 @@
           ]
         },
         {
-          "clue": "Doing the floss dance",
-          "difficulty": "easy",
+          "clue": "Frodo Baggins",
+          "difficulty": "medium",
           "gens": [
+            "genx",
             "millennial",
             "genz"
           ]
         },
         {
-          "clue": "A trust fall",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "Musical chairs",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "Blowing out birthday candles",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "School photo day",
+          "clue": "Captain Hook",
           "difficulty": "medium",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "A first driving lesson",
+          "clue": "The Tin Man",
           "difficulty": "medium",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "Sneaking in past curfew",
+          "clue": "Peter Pan",
           "difficulty": "medium",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "A middle school dance",
+          "clue": "Robin Hood",
           "difficulty": "medium",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "Cramming for an exam",
+          "clue": "Julius Caesar",
           "difficulty": "medium",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "Growing up",
-          "difficulty": "hard",
+          "clue": "Joan of Arc",
+          "difficulty": "medium",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "Homesickness",
-          "difficulty": "hard",
+          "clue": "Amelia Earhart",
+          "difficulty": "medium",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "Second-hand embarrassment",
-          "difficulty": "hard",
+          "clue": "Marie Curie",
+          "difficulty": "medium",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "A guilty conscience",
-          "difficulty": "hard",
+          "clue": "Vincent van Gogh",
+          "difficulty": "medium",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "Muscle memory",
-          "difficulty": "hard",
+          "clue": "Rosa Parks",
+          "difficulty": "medium",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "Answering a rotary phone",
-          "difficulty": "easy",
+          "clue": "Neil Armstrong",
+          "difficulty": "medium",
           "gens": [
-            "boomer",
-            "genx"
+            "all"
           ]
         },
         {
-          "clue": "Winding a cassette with a pencil",
-          "difficulty": "easy",
+          "clue": "Michael Jordan",
+          "difficulty": "medium",
           "gens": [
-            "boomer",
             "genx",
             "millennial"
           ]
         },
         {
-          "clue": "Hitchhiking",
-          "difficulty": "easy",
-          "gens": [
-            "boomer",
-            "genx"
-          ]
-        },
-        {
-          "clue": "Changing a tire",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "Ironing a shirt",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "Slow dancing",
-          "difficulty": "easy",
-          "gens": [
-            "all"
-          ]
-        },
-        {
-          "clue": "Developing film in a darkroom",
-          "difficulty": "medium",
-          "gens": [
-            "boomer",
-            "genx"
-          ]
-        },
-        {
-          "clue": "Reading a paper map",
-          "difficulty": "medium",
-          "gens": [
-            "boomer",
-            "genx",
-            "millennial"
-          ]
-        },
-        {
-          "clue": "Sending a fax",
-          "difficulty": "medium",
-          "gens": [
-            "boomer",
-            "genx"
-          ]
-        },
-        {
-          "clue": "Growing apart",
+          "clue": "A lava lamp",
           "difficulty": "hard",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "Coming of age",
+          "clue": "A revolving door",
           "difficulty": "hard",
           "gens": [
             "all"
           ]
         },
         {
-          "clue": "A family tradition",
+          "clue": "A metronome",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "A pendulum",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "A sundial",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "A boomerang",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "A submarine",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "A trampoline",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "A Rube Goldberg machine",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "A solar eclipse",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "A mirage",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Quicksand",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "An avalanche",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "A tsunami",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Frida Kahlo",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Mozart",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Beethoven",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "William Shakespeare",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Galileo",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Leonardo da Vinci",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Harry Houdini",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Charles Darwin",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Nikola Tesla",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Florence Nightingale",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Mahatma Gandhi",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Jane Goodall",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Christopher Columbus",
+          "difficulty": "hard",
+          "gens": [
+            "all"
+          ]
+        },
+        {
+          "clue": "Don Quixote",
           "difficulty": "hard",
           "gens": [
             "all"

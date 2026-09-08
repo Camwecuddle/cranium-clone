@@ -1190,119 +1190,119 @@ Printable/scannable text of all four decks, grouped by card type and difficulty.
 
 ### Cameo (102)
 
-*Charades. Act it out silently — no talking, no sound effects, no pointing at objects in the room.*
+*Charades. Act it out silently — no talking, no sound effects, no pointing at anything in the room.*
 
 
 **Easy** (46)
 
-1. Looking for a signal
-2. A first day at a new job
-3. Talking on mute
-4. Waking up late for work
-5. Assembling furniture
-6. Waiting for a ride
-7. Making a latte
-8. A blind date
-9. A robot vacuum attack
-10. Stuck in a revolving door
-11. Losing signal mid-call
-12. Sneaking snacks into a movie
-13. A package that's too big
-14. A dying phone battery
-15. Catching a closing elevator
-16. Ordering at a loud bar
-17. Forgetting a dance
-18. Tangled headphones
-19. A declined card
-20. Unsending a text
-21. Waiting on hold
-22. Spotify Wrapped
-23. Missing the group chat
-24. Sneezing in a mask
-25. Wrapping an awkward gift
-26. A gym mirror selfie
-27. Scanning a QR code
-28. Installing a car seat
-29. Faking the lyrics
-30. Splashed by a car
-31. Blowing into a game cartridge
-32. Rewinding a VHS tape
-33. Playing Guitar Hero
-34. Bowling on the Wii
-35. Burning a CD
-36. Taking a Polaroid
-37. Doing the floss dance
-38. A trust fall
-39. Musical chairs
-40. Blowing out birthday candles
-41. Answering a rotary phone
-42. Winding a cassette with a pencil
-43. Hitchhiking
-44. Changing a tire
-45. Ironing a shirt
-46. Slow dancing
+1. A tornado
+2. A sneeze
+3. An earthquake
+4. A chicken
+5. A monkey
+6. An elephant
+7. A snake
+8. A butterfly
+9. A frog
+10. A penguin
+11. A crab
+12. A robot
+13. A zombie
+14. A ballerina
+15. A boxer
+16. A chef
+17. A firefighter
+18. A surfer
+19. A golfer
+20. A juggler
+21. A cowboy
+22. A pirate
+23. A vampire
+24. A scarecrow
+25. Spider-Man
+26. The Hulk
+27. Wonder Woman
+28. Mickey Mouse
+29. Bugs Bunny
+30. Shrek
+31. Harry Potter
+32. Frankenstein's monster
+33. King Kong
+34. Godzilla
+35. Rocky Balboa
+36. The Karate Kid
+37. Michael Phelps
+38. Usain Bolt
+39. Cristiano Ronaldo
+40. Tiger Woods
+41. Abraham Lincoln
+42. Cleopatra
+43. Isaac Newton
+44. The Statue of Liberty
+45. Uncle Sam
+46. A mermaid
 
 **Medium** (28)
 
-1. An Irish goodbye
-2. Sharing the wrong screen
-3. A haircut you hate
-4. A self-timer group photo
-5. The middle seat
-6. Returning without a receipt
-7. An awkward elevator ride
-8. A childproof cap
-9. Pitching a tent
-10. The designated driver
-11. A delayed flight
-12. Tech support for a parent
-13. Forgetting your wallet
-14. A lawn sprinkler
-15. Soup on a train
-16. Picked last
-17. Digging for your keys
-18. Photobombing
-19. Last-minute gift wrapping
-20. A shirt on inside out
-21. School photo day
-22. A first driving lesson
-23. Sneaking in past curfew
-24. A middle school dance
-25. Cramming for an exam
-26. Developing film in a darkroom
-27. Reading a paper map
-28. Sending a fax
+1. A volcano
+2. A hurricane
+3. A jellyfish
+4. A flamingo
+5. A kangaroo
+6. A woodpecker
+7. A lighthouse
+8. A tightrope walker
+9. A magician
+10. A mime
+11. An orchestra conductor
+12. A weightlifter
+13. A sumo wrestler
+14. A snake charmer
+15. Indiana Jones
+16. Frodo Baggins
+17. Captain Hook
+18. The Tin Man
+19. Peter Pan
+20. Robin Hood
+21. Julius Caesar
+22. Joan of Arc
+23. Amelia Earhart
+24. Marie Curie
+25. Vincent van Gogh
+26. Rosa Parks
+27. Neil Armstrong
+28. Michael Jordan
 
 **Hard** (28)
 
-1. Deja vu
-2. Writer's block
-3. Jet lag
-4. Nostalgia
-5. Regret
-6. A conspiracy theory spreading
-7. Compound interest
-8. Peer pressure
-9. Gravity
-10. Evolution
-11. Democracy
-12. Inflation
-13. Procrastination
-14. Karma
-15. Gentrification
-16. A midlife crisis
-17. Supply and demand
-18. Free will
-19. Bureaucracy
-20. The passage of time
-21. Growing up
-22. Homesickness
-23. Second-hand embarrassment
-24. A guilty conscience
-25. Muscle memory
-26. Growing apart
-27. Coming of age
-28. A family tradition
+1. A lava lamp
+2. A revolving door
+3. A metronome
+4. A pendulum
+5. A sundial
+6. A boomerang
+7. A submarine
+8. A trampoline
+9. A Rube Goldberg machine
+10. A solar eclipse
+11. A mirage
+12. Quicksand
+13. An avalanche
+14. A tsunami
+15. Frida Kahlo
+16. Mozart
+17. Beethoven
+18. William Shakespeare
+19. Galileo
+20. Leonardo da Vinci
+21. Harry Houdini
+22. Charles Darwin
+23. Nikola Tesla
+24. Florence Nightingale
+25. Mahatma Gandhi
+26. Jane Goodall
+27. Christopher Columbus
+28. Don Quixote
 
 
 ### Copycat (102)
